@@ -1,0 +1,21 @@
+---
+layout: post
+title: How-to-overcome-Sample-Browser-Access-Denied-error
+description: how to overcome sample browser access denied error for non-admin user?
+platform: js
+control: Control Name undefined
+documentation: ug
+---
+
+### How to overcome Sample Browser Access Denied error for Non-Admin User?
+
+When an Administrator installs Essential Studio setup in a machine, a non-admin user cannot run the Sample Browser from the Dashboard, as this action tries to access the Admin folder where the samples are installed. The following message box is displayed.
+
+
+
+![](How-to-overcome-Sample-Browser-Access-Denied-error_images/How-to-overcome-Sample-Browser-Access-Denied-error_img1.png)
+{:.image }
+
+
+To overcome this error, the Administrator should give access privileges to the folder path, for the non-admin user.
+
