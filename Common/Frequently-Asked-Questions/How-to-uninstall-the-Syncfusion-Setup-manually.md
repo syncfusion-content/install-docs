@@ -3,11 +3,11 @@ layout: post
 title: How-to-uninstall-the-Syncfusion-Setup-manually
 description: how to uninstall the syncfusion setup manually?
 platform: js
-control: Control Name undefined
+control: Essential Studio
 documentation: ug
 ---
 
-### How to uninstall the Syncfusion Setup manually?
+## How to uninstall the Syncfusion Setup manually?
 
 Sometimes, installation may crash due to the machine getting switched off during installation or for other reasons. In such cases, the Uninstall utility is not available. The following are the steps to uninstall the setup manually:
 

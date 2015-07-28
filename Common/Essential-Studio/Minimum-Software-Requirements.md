@@ -3,11 +3,11 @@ layout: post
 title: Minimum-Software-Requirements
 description: minimum software requirements 
 platform: js
-control: Control Name undefined
+control: Essential Studio
 documentation: ug
 ---
 
-### Minimum Software Requirements 
+## Minimum Software Requirements 
 
 The following are the system requirements for Essential Studio.
 

@@ -3,11 +3,11 @@ layout: post
 title: How-to-redistribute-an-application-on-the-client-m
 description: how to redistribute an application on the client machine?
 platform: js
-control: Control Name undefined
+control: Essential Studio
 documentation: ug
 ---
 
-### How to redistribute an application on the client machine?
+## How to redistribute an application on the client machine?
 
 Syncfusion provides support to redistribute an application that uses Syncfusion assemblies. For information on deploying an application on a client machine that uses Syncfusion controls, see [Application Deployment](http://www.syncfusion.com/support/kb/2110/).
 

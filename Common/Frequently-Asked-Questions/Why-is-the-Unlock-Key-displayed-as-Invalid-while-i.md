@@ -3,11 +3,11 @@ layout: post
 title: Why-is-the-Unlock-Key-displayed-as-Invalid-while-i
 description: why is the unlock key displayed as invalid while installing the setup?
 platform: js
-control: Control Name undefined
+control: Essential Studio
 documentation: ug
 ---
 
-### Why is the Unlock Key displayed as Invalid while installing the setup?
+## Why is the Unlock Key displayed as Invalid while installing the setup?
 
 Unlock Key can be validated as invalid for two reasons. They are:
 
