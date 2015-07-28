@@ -3,11 +3,11 @@ layout: post
 title: Terminology
 description: terminology
 platform: js
-control: Control Name undefined
+control: Essential Studio
 documentation: ug
 ---
 
-### Terminology
+## Terminology
 
 The Terminology section covers documentation conventions used in this manual. 
 
