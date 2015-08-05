@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-#### Command Line Installation
+## Command Line Installation
 
 Follow the given steps to install through Command Line in Silent mode.
 
@@ -18,19 +18,10 @@ Follow the given steps to install through Command Line in Silent mode.
 5. Cancel the wizard.
 6. Open Command Prompt in the Administrator mode and pass the following arguments:
 
-“Setup file path\SyncfusionBigDataClusterManager_(version).exe” /log “{Log file path}” /Install silent /InstallPath:{Location to install}
+   “Setup file path\SyncfusionBigDataClusterManager_(version).exe” /log “{Log file path}” /Install silent /InstallPath:{Location to install}
 
-Example: “D:\Temp\SyncfusionBigDataClusterManager_2.1.0.70.exe” /log “C:\Temp\BigDataClusterManager.log” /Install silent /InstallPath:C:\Syncfusion\x.x.x.x
+   Example: “D:\Temp\SyncfusionBigDataClusterManager_2.1.0.70.exe” /log “C:\Temp\BigDataClusterManager.log” /Install silent /InstallPath:C:\Syncfusion\x.x.x.x
 
 7. Setup is installed.
 
-
-
-> ![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Command-Line-Installation_images/Command-Line-Installation_img1.png)
-{:.image }
-_Note: x.x.x.x needs to be replaced with the Big Data version installed on your machine._
-
-
-
-
-
+   > Note: x.x.x.x needs to be replaced with the Big Data version installed on your machine.

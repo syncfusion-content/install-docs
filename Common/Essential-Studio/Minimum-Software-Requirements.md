@@ -7,17 +7,17 @@ control: Essential Studio
 documentation: ug
 ---
 
-## Minimum Software Requirements 
+# Minimum Software Requirements 
 
 The following are the system requirements for Essential Studio.
 
-_Table_ _2__: Minimum Software Requirements_
+_Table_ _2_: _Minimum Software Requirements_
 
 <table>
 <tr>
-<td>
-Operating System</td><td>
-All Windows and client server</td></tr>
+<th>
+Operating System</th><th>
+All Windows and client server</th></tr>
 <tr>
 <td>
 .NET Framework versions</td><td>
