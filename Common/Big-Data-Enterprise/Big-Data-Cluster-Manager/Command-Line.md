@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-### Command Line 
+# Command Line 
 
 Syncfusion Big Data ClusterManager supports installing the setup through Command Line Install and Uninstall. The following sections illustrate these options. 
 

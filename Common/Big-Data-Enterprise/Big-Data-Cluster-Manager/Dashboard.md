@@ -7,17 +7,17 @@ control: Essential Studio
 documentation: ug
 ---
 
-### Dashboard
+# Dashboard
 
 This section provides details on the structure and composition of the Syncfusion Big Data Cluster Manager dashboard. It also elaborates on navigating the dashboard to access various utilities and product samples.
 
 
 
 ![](Dashboard_images/Dashboard_img1.png)
-{:.image }
 
 
-Big Data Cluster Manager:
+
+### Big Data Cluster Manager:
 
 Click any of the following to know more about the selected product.
 

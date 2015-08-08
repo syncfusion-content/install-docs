@@ -11,14 +11,14 @@ documentation: ug
 
 The Terminology section covers documentation conventions used in this manual. 
 
-_Table_ _1__: Terminology_
+_Table_ _1_: _Terminology_
 
 <table>
 <tr>
-<td>
-Convention</td><td>
-Example</td><td>
-Description</td></tr>
+<th>
+Convention</th><th>
+Example</th><th>
+Description</th></tr>
 <tr>
 <td>
 Essential Studio </td><td>
@@ -32,7 +32,7 @@ UI elements such as names of tabs, menus, buttons, dialog boxes and windows are 
 <tr>
 <td>
 Italic</td><td>
-The {{ _IsEnable_ | markdownify }} property</td><td>
+The {{ '_IsEnable_' | markdownify }} property</td><td>
 The property, method and event name and text that must be typed exactly as shown are italicized. </td></tr>
 <tr>
 <td>
@@ -47,9 +47,8 @@ Represents version number. Replace this with the version installed in the machin
 <tr>
 <td>
 Note</td><td>
-{ ![http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_1.png](Terminology_images/Terminology_img1.png) | markdownify }
-{:.image }
-{{ _Note:_ | markdownify }}</td><td>
+{{ '![http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_1.png](Terminology_images/Terminology_img1.png)' | markdownify }}
+{{ '_Note:_' | markdownify }}</td><td>
 Represents important information.</td></tr>
 <tr>
 <td>
@@ -59,15 +58,15 @@ Represents an example.</td></tr>
 <tr>
 <td>
 Tip</td><td>
-{ ![http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_2.png](Terminology_images/Terminology_img2.png) | markdownify }
-{:.image }
+{{ ' ![http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_2.png](Terminology_images/Terminology_img2.png)' | markdownify }}
+
 </td><td>
 Represents useful hints that help you in using the controls/features.</td></tr>
 <tr>
 <td>
 Additional Information</td><td>
-{ ![http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_3.png](Terminology_images/Terminology_img3.png) | markdownify }
-{:.image }
+{{ '![http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_3.png](Terminology_images/Terminology_img3.png)' | markdownify }}
+
 </td><td>
 Represents additional information on the topic.</td></tr>
 </table>
