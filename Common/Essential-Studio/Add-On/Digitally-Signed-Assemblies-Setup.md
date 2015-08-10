@@ -2,7 +2,7 @@
 layout: post
 title: Digitally-Signed-Assemblies-Setup
 description: digitally signed assemblies setup
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---
@@ -14,44 +14,37 @@ Syncfusion provides Digitally Signed Assemblies Setup. It signs the Syncfusion 
 The following steps illustrate how to install Digitally Signed Assemblies Setup.
 
 1. Double-click the Syncfusion Digitally Signed Setup file. The Self-ExtractorWizard opens and extracts the package automatically. 
+   
+   ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img1.png)
 
-
-
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img1.png)
-{:.image }
 
 
 2. Once the unzip operation is complete, Syncfusion Essential Studio Digitally Signed Assemblies Setup screen opens.
+   
+   ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img2.png)
 
-
-
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img2.png)
-{:.image }
 
 
 
 
 3. Click Next. The User Information screen opens.
+   
+   ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img3.png)
 
-
-
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img3.png)
-{:.image }
 
 
 
 
 4. Enter your User Name, Organization and Unlock Key in the corresponding text boxes provided.
+
 5. Click Next.
-> 
-![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img4.png)
-{:.image }
-_Note: The Unlock Key is validated and the Welcome screen opens._
+   
+   _Note: The Unlock Key is validated and the Welcome screen opens._
 
 
 
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img5.png)
-{:.image }
+   ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img5.png)
+
 
 
 
@@ -60,29 +53,29 @@ _Note: The Unlock Key is validated and the Welcome screen opens._
 
 
 
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img6.png)
-{:.image }
+   ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img6.png)
+
 
 
 
 
 7. On accepting the terms, click the I accept the terms in the License Agreement option.
+
 8. Click Next. The Select the Installation Folder screen opens.
 
 
 
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img7.png)
-{:.image }
+   ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img7.png)
 
 
-> ![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img8.png)
-{:.image }
-_Note: You can also browse to choose a location by clicking Browse._
+
+
+   _Note: You can also browse to choose a location by clicking Browse._
 
 9. Click Next. The Setup Type screen opens.
 
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img9.png)
-{:.image }
+   ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img9.png)
+
 
 
 
@@ -91,8 +84,8 @@ _Note: You can also browse to choose a location by clicking Browse._
 
 
 
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img10.png)
-{:.image }
+    ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img10.png)
+
 
 
 
@@ -101,18 +94,14 @@ _Note: You can also browse to choose a location by clicking Browse._
 
 
 
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img11.png)
-{:.image }
+    ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img11.png)
 
-
-> ![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img12.png)
-{:.image }
-_Note: The Completed screen is displayed once the selected package is installed._
+    _Note: The Completed screen is displayed once the selected package is installed._
 
 
 
-![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img13.png)
-{:.image }
+    ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img13.png)
+
 
 
 

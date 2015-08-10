@@ -2,7 +2,7 @@
 layout: post
 title: Build-Manager
 description: build manager
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

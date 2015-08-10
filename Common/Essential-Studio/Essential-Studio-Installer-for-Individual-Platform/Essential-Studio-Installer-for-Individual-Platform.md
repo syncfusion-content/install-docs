@@ -2,7 +2,7 @@
 layout: post
 title: Essential-Studio-Installer-for-Individual-Platform
 description: essential studio installer for individual platforms
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

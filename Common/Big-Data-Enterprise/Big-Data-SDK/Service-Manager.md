@@ -2,7 +2,7 @@
 layout: post
 title: Service-Manager
 description: service manager
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

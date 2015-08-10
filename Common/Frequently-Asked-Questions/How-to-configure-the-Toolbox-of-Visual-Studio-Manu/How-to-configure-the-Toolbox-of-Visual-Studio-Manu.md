@@ -2,7 +2,7 @@
 layout: post
 title: How-to-configure-the-Toolbox-of-Visual-Studio-Manu
 description: how to configure the toolbox of visual studio manually?
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

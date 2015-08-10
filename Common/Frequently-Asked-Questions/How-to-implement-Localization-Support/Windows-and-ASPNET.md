@@ -2,7 +2,7 @@
 layout: post
 title: Windows-and-ASPNET
 description: windows and asp.net
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---
@@ -16,8 +16,8 @@ _Table_ _5__: Extended Support for Windows and ASP.NET_
 <table>
 <tr>
 <td>
-Product</td><td>
-Sample location</td></tr>
+{{ '**Product**' | markdownify }}</td><td>
+{{ '**Sample location**' | markdownify }}</td></tr>
 <tr>
 <td>
 Tools[ASP.NET]</td><td>

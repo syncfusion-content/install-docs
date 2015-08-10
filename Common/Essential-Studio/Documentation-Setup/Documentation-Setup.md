@@ -2,7 +2,7 @@
 layout: post
 title: Documentation-Setup
 description: documentation setup  
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

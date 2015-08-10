@@ -2,7 +2,7 @@
 layout: post
 title: QTP-Add-on
 description: qtp add-on
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

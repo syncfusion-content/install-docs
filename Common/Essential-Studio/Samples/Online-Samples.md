@@ -2,7 +2,7 @@
 layout: post
 title: Online-Samples
 description: online samples
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

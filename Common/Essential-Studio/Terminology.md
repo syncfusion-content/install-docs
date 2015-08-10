@@ -2,7 +2,7 @@
 layout: post
 title: Terminology
 description: terminology
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

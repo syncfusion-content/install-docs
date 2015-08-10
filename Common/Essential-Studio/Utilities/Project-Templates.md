@@ -2,7 +2,7 @@
 layout: post
 title: Project-Templates
 description: project templates
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

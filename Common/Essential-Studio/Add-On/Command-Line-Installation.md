@@ -2,7 +2,7 @@
 layout: post
 title: Command-Line-Installation
 description: command line installation
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---
@@ -17,27 +17,14 @@ Follow the given steps to install through Command Line in Silent mode.
 4. Copy the syncfusionessentialwebkit _(version).exe file in local drive. Example: D:\temp
 5. Cancel the wizard.
 6. Open Command Prompt in administrator mode and pass the following arguments:
-
-“Setup file path\syncfusionessentialwebkit _(version).exe” /Install silent [/log “{Log file path}”] [/InstallPath:{Location to install}]
-
-> ![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Command-Line-Installation_images/Command-Line-Installation_img1.png)
-{:.image }
-_Note: [..] – Arguments inside the square brackets are optional._
-
-
-
-
-
-Example: “D:\Temp\syncfusionessentialwebkit _13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
+   “Setup file path\syncfusionessentialwebkit _(version).exe” /Install silent [/log “{Log file path}”] [/InstallPath:{Location to install}]
+   _Note: [..] – Arguments inside the square brackets are optional._
+   Example: “D:\Temp\syncfusionessentialwebkit _13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
 7. Setup is installed.
-> 
-![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Command-Line-Installation_images/Command-Line-Installation_img2.png)
-{:.image }
-_Note:_ 
-
-> 1. _x.x.x.x needs to be replaced with the WebKit version installed on your machine._
-> 2. _Above steps applicable from the version 13.2.0.x._
-> 
+  
+  _Note:_ 
+   1. _x.x.x.x needs to be replaced with the WebKit version installed on your machine._
+   2. _Above steps applicable from the version 13.2.0.x._
 
 

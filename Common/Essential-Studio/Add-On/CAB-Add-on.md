@@ -2,7 +2,7 @@
 layout: post
 title: CAB-Add-on
 description: cab add-on
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

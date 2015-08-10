@@ -2,7 +2,7 @@
 layout: post
 title: Change-Admin-Password
 description: change admin password
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

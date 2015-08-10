@@ -2,7 +2,7 @@
 layout: post
 title: Toolbox-Configuration-Utility
 description: toolbox configuration utility
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

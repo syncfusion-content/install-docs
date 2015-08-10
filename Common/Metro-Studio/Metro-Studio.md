@@ -2,7 +2,7 @@
 layout: post
 title: Metro-Studio
 description: metro studio
-platform: js
+platform: common
 control: Control Name undefined
 documentation: ug
 ---

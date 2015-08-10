@@ -2,7 +2,7 @@
 layout: post
 title: WebKit
 description: webkit
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

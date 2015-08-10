@@ -2,7 +2,7 @@
 layout: post
 title: Big-Data-Cluster-Manager
 description: big data cluster manager
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

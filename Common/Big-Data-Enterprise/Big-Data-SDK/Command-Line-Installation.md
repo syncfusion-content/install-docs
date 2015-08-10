@@ -2,7 +2,7 @@
 layout: post
 title: Command-Line-Installation
 description: command line installation
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

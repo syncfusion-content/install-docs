@@ -2,7 +2,7 @@
 layout: post
 title: Upgrading-the-Projects-Manually
 description: upgrading the projects manually
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

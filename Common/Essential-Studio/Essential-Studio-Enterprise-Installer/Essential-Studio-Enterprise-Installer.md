@@ -2,7 +2,7 @@
 layout: post
 title: Essential-Studio-Enterprise-Installer
 description: essential studio enterprise installer
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

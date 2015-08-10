@@ -2,7 +2,7 @@
 layout: post
 title: Samples
 description: samples
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

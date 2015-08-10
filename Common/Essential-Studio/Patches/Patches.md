@@ -2,7 +2,7 @@
 layout: post
 title: Patches
 description: patches
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

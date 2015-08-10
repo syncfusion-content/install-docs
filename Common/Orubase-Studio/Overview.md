@@ -2,7 +2,7 @@
 layout: post
 title: Overview
 description: overview
-platform: js
+platform: common
 control: Control Name undefined
 documentation: ug
 ---

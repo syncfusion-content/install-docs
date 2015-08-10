@@ -2,7 +2,7 @@
 layout: post
 title: Assembly-Version-Format
 description: assembly version format
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

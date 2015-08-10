@@ -2,7 +2,7 @@
 layout: post
 title: Big-Data-Studio
 description: big data studio
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

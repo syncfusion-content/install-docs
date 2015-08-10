@@ -2,7 +2,7 @@
 layout: post
 title: Offline-Samples
 description: offline samples
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

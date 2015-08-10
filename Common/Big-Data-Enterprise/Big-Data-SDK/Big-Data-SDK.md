@@ -2,7 +2,7 @@
 layout: post
 title: Big-Data-SDK
 description: big data sdk
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

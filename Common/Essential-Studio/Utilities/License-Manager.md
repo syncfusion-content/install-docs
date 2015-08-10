@@ -2,7 +2,7 @@
 layout: post
 title: License-Manager
 description: license manager
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

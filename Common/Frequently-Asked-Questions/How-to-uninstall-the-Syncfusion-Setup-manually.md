@@ -2,7 +2,7 @@
 layout: post
 title: How-to-uninstall-the-Syncfusion-Setup-manually
 description: how to uninstall the syncfusion setup manually?
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Command-Line-Uninstallation
 description: command line uninstallation
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

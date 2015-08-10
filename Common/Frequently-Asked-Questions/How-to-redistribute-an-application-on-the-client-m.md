@@ -2,7 +2,7 @@
 layout: post
 title: How-to-redistribute-an-application-on-the-client-m
 description: how to redistribute an application on the client machine?
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

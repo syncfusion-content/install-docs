@@ -2,7 +2,7 @@
 layout: post
 title: Minimum-Software-Requirements
 description: minimum software requirements 
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: C-MapReduce-Samples
 description: c# mapreduce samples
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

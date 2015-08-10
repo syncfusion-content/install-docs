@@ -2,7 +2,7 @@
 layout: post
 title: Project-Migration
 description: project migration
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

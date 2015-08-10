@@ -2,7 +2,7 @@
 layout: post
 title: Dashboard
 description: dashboard
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

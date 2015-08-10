@@ -2,7 +2,7 @@
 layout: post
 title: Silverlight
 description: silverlight
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

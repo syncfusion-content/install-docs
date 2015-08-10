@@ -2,7 +2,7 @@
 layout: post
 title: Orubase-Studio
 description: orubase studio
-platform: js
+platform: common
 control: Control Name undefined
 documentation: ug
 ---

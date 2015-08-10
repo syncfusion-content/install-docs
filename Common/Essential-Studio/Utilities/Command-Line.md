@@ -2,7 +2,7 @@
 layout: post
 title: Command-Line
 description: command line
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

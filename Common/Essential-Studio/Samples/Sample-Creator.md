@@ -2,7 +2,7 @@
 layout: post
 title: Sample-Creator
 description: sample creator
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

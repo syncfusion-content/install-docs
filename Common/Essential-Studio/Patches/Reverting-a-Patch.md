@@ -2,7 +2,7 @@
 layout: post
 title: Reverting-a-Patch
 description: reverting a patch
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

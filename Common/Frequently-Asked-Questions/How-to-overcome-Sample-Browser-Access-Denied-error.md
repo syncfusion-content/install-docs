@@ -2,7 +2,7 @@
 layout: post
 title: How-to-overcome-Sample-Browser-Access-Denied-error
 description: how to overcome sample browser access denied error for non-admin user?
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

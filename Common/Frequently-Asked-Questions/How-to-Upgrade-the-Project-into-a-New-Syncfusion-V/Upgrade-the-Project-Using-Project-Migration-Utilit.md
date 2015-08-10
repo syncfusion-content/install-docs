@@ -2,7 +2,7 @@
 layout: post
 title: Upgrade-the-Project-Using-Project-Migration-Utilit
 description: upgrade the project using project migration utility
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

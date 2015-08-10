@@ -2,7 +2,7 @@
 layout: post
 title: Why-is-the-Unlock-Key-displayed-as-Invalid-while-i
 description: why is the unlock key displayed as invalid while installing the setup?
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

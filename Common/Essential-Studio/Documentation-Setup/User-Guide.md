@@ -2,7 +2,7 @@
 layout: post
 title: User-Guide
 description: user guide
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---
@@ -20,16 +20,16 @@ This local documentation can be accessed from the Dashboard > Utilities > Docu
 
 
 ![](User-Guide_images/User-Guide_img1.png)
-{:.image }
 
 
-> ![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](User-Guide_images/User-Guide_img2.png)
-{:.image }
+
+
+
 _Note: When you have not installed local documentation, then a prompt opens to download the setup._
 
 Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products, better. This can be accessed from the Utilities > Documentation > Online Documentation.
 
 ![](User-Guide_images/User-Guide_img3.png)
-{:.image }
+
 
 

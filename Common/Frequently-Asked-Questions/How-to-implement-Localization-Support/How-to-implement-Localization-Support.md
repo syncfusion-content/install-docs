@@ -2,7 +2,7 @@
 layout: post
 title: How-to-implement-Localization-Support
 description: how to implement localization support?
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

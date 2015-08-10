@@ -2,7 +2,7 @@
 layout: post
 title: Class-Reference
 description: class reference
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

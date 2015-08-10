@@ -2,7 +2,7 @@
 layout: post
 title: Command-Line-Uninstallation
 description: command line uninstallation
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---
@@ -18,19 +18,13 @@ Syncfusion WebKit Installer supports uninstalling the setup through Command Line
 5. Copy the syncfusionessentialwebkit _(version).exe file in local drive. Example: D:\temp
 6. Cancel the wizard.
 7. Open the Command Prompt in administrator mode and pass the following arguments: 
-
-“Setup file path\ syncfusionessentialwebkit _(version).exe” /uninstall silent 
-
-Example: “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
+   “Setup file path\ syncfusionessentialwebkit _(version).exe” /uninstall silent 
+   Example: “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
 
 8. Setup is uninstalled.
-> 
-![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Command-Line-Uninstallation_images/Command-Line-Uninstallation_img1.png)
-{:.image }
-_Note:_ 
-
-> 1. _x.x.x.x need to be replaced with the Webkit version installed in your machine._
-> 2. _Above steps applicable from the version 13.2.0.x._
+  _Note:_ 
+   1. _x.x.x.x need to be replaced with the Webkit version installed in your machine._
+   2. _Above steps applicable from the version 13.2.0.x._
 
 
 

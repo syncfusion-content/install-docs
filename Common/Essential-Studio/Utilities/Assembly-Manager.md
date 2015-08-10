@@ -2,7 +2,7 @@
 layout: post
 title: Assembly-Manager
 description: assembly manager
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Utilities
 description: utilities
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

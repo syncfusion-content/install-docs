@@ -2,7 +2,7 @@
 layout: post
 title: Step-by-Step-Installation
 description: step-by-step installation
-platform: js
+platform: common
 control: Control Name undefined
 documentation: ug
 ---
@@ -12,118 +12,114 @@ documentation: ug
 The following procedure illustrates how to install the Orubase Studio setup.
 
 1. Double-click the Syncfusion Orubase Setup file. The Self-ExtractorWizard opens and extracts the package automatically. 
+   
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
-{:.image }
 
 
+2. When the unzip operation is complete, the Syncfusion Orubase Studio Setup dialog box opens.
 
 
-1. When the unzip operation is complete, the Syncfusion Orubase Studio Setup dialog box opens.
 
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img2.png)
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img2.png)
-{:.image }
 
 
 
+3. Click Next. The User Information screen opens.
 
-2. Click Next. The User Information screen opens.
 
 
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
-{:.image }
 
 
 
 
-3. Enter User Name, Organization and Unlock Key in the corresponding text boxes provided.
-4. Click Next.
+4. Enter User Name, Organization and Unlock Key in the corresponding text boxes provided.
 
+5. Click Next.
 
+   _Note: The Unlock Key is validated and the License Agreement screen opens._
 
-> ![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
-{:.image }
-_Note: The Unlock Key is validated and the License Agreement screen opens._
 
 
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
-{:.image }
 
 
 
 
-5. On accepting the terms, click I accept the terms in the License Agreement option.
-6. Click Next. The Select the Installation Folder screen opens.
+6. On accepting the terms, click I accept the terms in the License Agreement option.
 
+7. Click Next. The Select the Installation Folder screen opens.
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
-{:.image }
 
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
 
 
 
-7. Click Next. The Select the Samples Folder screen opens.
 
 
+8. Click Next. The Select the Samples Folder screen opens.
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.png)
-{:.image }
 
 
-> ![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Step-by-Step-Installation_images/Step-by-Step-Installation_img8.png)
-{:.image }
-_Note: You can also browse to choose a location by clicking Browse._
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.png)
 
 
 
-8. Click Next to get the Ready to Install dialog box.
 
 
+   _Note: You can also browse to choose a location by clicking Browse._
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img9.png)
-{:.image }
 
 
+9. Click Next to get the Ready to Install dialog box.
 
 
-9. Click Install to continue with the installation.
 
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img9.png)
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img10.png)
-{:.image }
 
 
-> ![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Step-by-Step-Installation_images/Step-by-Step-Installation_img11.png)
-{:.image }
-_Note: The completed screen is displayed once the selected package is installed._
 
+10. Click Install to continue with the installation.
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img12.png)
-{:.image }
 
+    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img10.png)
 
 
 
-10. Click Finish to exit the Setup Wizard. Open the Orubase Dashboard by selecting Run Dashboard.
 
 
+    _Note: The completed screen is displayed once the selected package is installed._
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img13.png)
-{:.image }
+
+
+    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img12.png)
+
+
+
+
+
+11. Click Finish to exit the Setup Wizard. Open the Orubase Dashboard by selecting Run Dashboard.
+
+
+
+    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img13.png)
+
 
 
 Run Dashboard Samples:
 
-![C:/Users/pongeetha/Desktop/Untitled.png](Step-by-Step-Installation_images/Step-by-Step-Installation_img14.png)
-{:.image }
+    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img14.png)
+
 
 

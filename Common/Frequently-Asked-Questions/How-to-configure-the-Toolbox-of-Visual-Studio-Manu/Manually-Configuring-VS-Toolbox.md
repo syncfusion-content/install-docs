@@ -2,7 +2,7 @@
 layout: post
 title: Manually-Configuring-VS-Toolbox
 description: manually configuring vs toolbox
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---
@@ -14,44 +14,35 @@ The following are the steps to configure VS Toolbox manually for Syncfusion tool
 1. Close all Visual Studio running instances.
 2. Remove the *.tbd files except the toolbox.tbd from the following location:
 
-Windows XP: 
+   ### Windows XP: 
 
-C:\Documents and Settings\(user name)\Local Settings\Application Data\Microsoft\VisualStudio\10.0
+   C:\Documents and Settings\(user name)\Local Settings\Application Data\Microsoft\VisualStudio\10.0
 
-Vista/Windows 7:
+   ### Vista/Windows 7:
 
-C:\Users\(user name)\AppData\Local\Microsoft\VisualStudio\10.0
+   C:\Users\(user name)\AppData\Local\Microsoft\VisualStudio\10.0
 
 
-
-> ![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img1.jpeg)
-{:.image }
-_Note: It takes some time to configure the toolbox and create tbd files when you load the toolbox in VS2010 initially._
+   _Note: It takes some time to configure the toolbox and create tbd files when you load the toolbox in VS2010 initially._
 
 
 
-1. Re-open the Visual Studio environment. The VSToolbox is configured.
+3. Re-open the Visual Studio environment. The VSToolbox is configured.
 
-Adding Syncfusion controls in the Customized Toolbox:
+
+### Adding Syncfusion controls in the Customized Toolbox:
 
 The following are the steps to add the Syncfusion controls in the user-customized toolbox:
 
 1. Open Visual Studio and create a new tab named Syncfusion in the toolbox.
-
-
-
-![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img2.png)
-{:.image }
-
-
+   
+   ![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img2.png)
 
 
 2. Right-click and select Choose Items.
+   
+   ![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img3.png)
 
-
-
-![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img3.png)
-{:.image }
 
 
 
@@ -60,8 +51,8 @@ The following are the steps to add the Syncfusion controls in the user-customize
 
 
 
-![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img4.png)
-{:.image }
+   ![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img4.png)
+
 
 
 4. Select all the Syncfusion assemblies and then click OK. Assemblies are copied to the newly created Syncfusion Toolbox tab. 

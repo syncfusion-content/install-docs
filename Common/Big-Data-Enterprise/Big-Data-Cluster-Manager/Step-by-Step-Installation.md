@@ -2,7 +2,7 @@
 layout: post
 title: Step-by-Step-Installation
 description: step-by-step installation
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

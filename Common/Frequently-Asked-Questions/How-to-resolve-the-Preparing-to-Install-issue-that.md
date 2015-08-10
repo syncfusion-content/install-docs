@@ -2,7 +2,7 @@
 layout: post
 title: How-to-resolve-the-Preparing-to-Install-issue-that
 description: how to resolve the "preparing to install" issue that occurs during essential studio setup installation?
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---

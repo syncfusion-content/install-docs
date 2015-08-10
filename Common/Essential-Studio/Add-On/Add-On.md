@@ -2,7 +2,7 @@
 layout: post
 title: Add-On
 description: add-on
-platform: js
+platform: common
 control: Essential Studio
 documentation: ug
 ---
