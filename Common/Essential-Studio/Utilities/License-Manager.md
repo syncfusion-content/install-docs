@@ -21,8 +21,8 @@ Follow the steps provided to launch the LicenseManager from the Dashboard.
 
 
 
-![](License-Manager_images/License-Manager_img1.png)
-{:.image }
+   ![](License-Manager_images/License-Manager_img1.png)
+
 
 
 Adding a Product Key
@@ -33,8 +33,8 @@ The following are the steps to add a product key.
 
 
 
-![](License-Manager_images/License-Manager_img2.png)
-{:.image }
+   ![](License-Manager_images/License-Manager_img2.png)
+
 
 
 
@@ -43,8 +43,8 @@ The following are the steps to add a product key.
 
 
 
-![](License-Manager_images/License-Manager_img3.jpeg)
-{:.image }
+   ![](License-Manager_images/License-Manager_img3.jpeg)
+
 
 
 
@@ -54,8 +54,8 @@ The following are the steps to add a product key.
 
 
 
-![](License-Manager_images/License-Manager_img4.png)
-{:.image }
+   ![](License-Manager_images/License-Manager_img4.png)
+
 
 
 
@@ -75,9 +75,8 @@ The following are the steps to remove a license key:
 2. Select the key to be removed. The selected key is highlighted. 
 
 
+   ![](License-Manager_images/License-Manager_img5.png)
 
-![](License-Manager_images/License-Manager_img5.png)
-{:.image }
 
 
 
@@ -85,10 +84,7 @@ The following are the steps to remove a license key:
 3. Click Remove Key. The selected key is removed.
 
 
-
-> ![](License-Manager_images/License-Manager_img6.jpeg)
-{:.image }
-_Note: The removal is reflected in the log, when the product key has already been added._
+  _Note: The removal is reflected in the log, when the product key has already been added._
 
 Copying a Product Key
 

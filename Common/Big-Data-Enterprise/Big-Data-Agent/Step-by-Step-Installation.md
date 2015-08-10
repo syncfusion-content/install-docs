@@ -16,43 +16,34 @@ The following are the steps to install the Big Data Agent Setup.
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
    
    _Note: The WinZip Self-Extractor extracts the syncfusionbigdataagent_(version).exe dialog, displaying the unzip operation of the package._ 
-
-
-
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
+   
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
 
 
 1. Click Next.
-
-
-
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
-
-
-
-
-
-1. To install it in the displayed default location, click Install.
-
-
-
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
+   
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
 
 
 
 
 
-![http://help.syncfusion.com/ug/common/ImagesExt/image9_1.png](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
-
-_Note: The Completed screen is displayed once the Big Data Agent Platform setup is installed._
+2. To install it in the displayed default location, click Install.
 
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.png)
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
+
+
+   _Note: The Completed screen is displayed once the Big Data Agent Platform setup is installed._
+
+
+
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.png)
 
 
 
 
 
-2. Click Finish. Big Data Agent Platform is installed in your system.
+3. Click Finish. Big Data Agent Platform is installed in your system.
