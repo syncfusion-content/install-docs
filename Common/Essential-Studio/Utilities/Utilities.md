@@ -24,27 +24,25 @@ The dashboard structure can be split as follows. 
 
 The Menu includes the Menu Bar that accommodates five menus.
 
-1. File - Allows you to exit the dashboard. Alternatively, this can be done by clicking ![](Dashboard_images/Dashboard_img2.png)
-
-   at the top right corner of the dashboard.
+1. File - Allows you to exit the dashboard. Alternatively, this can be done by clicking ![](Dashboard_images/Dashboard_img2.png) at the top right corner of the dashboard.
 
    ![](Dashboard_images/Dashboard_img3.png)
 
 2. Studio - Allows you to access the products under each platform. Also provides access to view local and online product samples. It allows you to access the online documentation, release notes and ReadMe documents for the respective products. This can alternatively be accessed using the Product Platforms section in the dashboard.
 
-  ![](Dashboard_images/Dashboard_img4.png)
+    ![](Dashboard_images/Dashboard_img4.png)
 
 3. Tools - Allow you to access the add-ons and utilities available for various platforms and products. Also allows you to manage assemblies and license. The Toolbox configuration allows you to choose from various Visual Studio versions to be installed, depending on your system’s configuration. This can alternatively be accessed from the Utilities & Documentation section.
 
-   ![](Dashboard_images/Dashboard_img5.png)
+    ![](Dashboard_images/Dashboard_img5.png)
 
 4. Help - Allows you to access the information about the currently installed version by clicking About. You can also access the Direct-TracSupport Page online.
 
-   ![](Dashboard_images/Dashboard_img6.png)
+    ![](Dashboard_images/Dashboard_img6.png)
 
 5. Updates – Shows the latest version of Syncfusion Essential Studio available. 
 
-   ![](Dashboard_images/Dashboard_img7.png)
+    ![](Dashboard_images/Dashboard_img7.png)
 
 ### Product Platforms 
 
@@ -73,7 +71,7 @@ Syncfusion provides lots of online and local samples for better understanding of
    * ReadMe - To view the “ReadMe” content.
    * What’s New - To view the “What’s New” content.
 
-   > Note: You can explore source only when you have source license and have installed the Source Add-on Setup.
+    > Note: You can explore source only when you have source license and have installed the Source Add-on Setup.
 
 ### Checking Prerequisites
 
@@ -103,11 +101,11 @@ This section allows you to access the following. 
 
 1. Add-ons - This lists the add-on utilities that help you to utilize the additional product services from Syncfusion. 
 2. [Utilities](http://help.syncfusion.com/ug/common/documents/6dashboardutilities.htm)- This accordion set displays the common utilities.
-   * Toolbox Configuration- This installer allows you to configure Syncfusion controls for various .NET frameworks in combination with compatible Visual Studio versions.
-   * Assembly Manager- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
-   * Build Manager - This utility allows you to build and debug assemblies using the source installed in Essential Studio’s installed location.
-   * Documentation- This provides access to view the online documentation and installed documentation.
-   * License Manager- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.
+   * [Toolbox Configuration](http://help.syncfusion.com/ug/common/index.html#!Documents/toolboxconfiguration.htm)- This installer allows you to configure Syncfusion controls for various .NET frameworks in combination with compatible Visual Studio versions.
+   * [Assembly Manager](http://help.syncfusion.com/ug/common/index.html#!Documents/assemblymanager.htm)- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
+   * [Build Manager](http://help.syncfusion.com/ug/common/index.html#!Documents/buildmanager.htm) - This utility allows you to build and debug assemblies using the source installed in Essential Studio’s installed location.
+   * [Documentation](http://help.syncfusion.com/ug/common/index.html#!Documents/documentationsetup.htm)- This provides access to view the online documentation and installed documentation.
+   * [License Manager](http://help.syncfusion.com/ug/common/index.html#!Documents/licensemanager.htm)- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.
    * LicenseAgreement – This allows you to navigate to the Software License Agreement. 
 
 ### Other Information
@@ -141,7 +139,7 @@ Use the following steps to run the Assembly Manager.
 
    > Note: You can also open the Assembly Manager from the following location:
 
-   > (Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\Assembly Manager\AssemblyManagerWindows.exe
+   (Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\Assembly Manager\AssemblyManagerWindows.exe
 
    ![](Assembly-Manager_images/Assembly-Manager_img3.png)
 
@@ -151,19 +149,19 @@ Use the following steps to run the Assembly Manager.
 
    * Debug and Release Assemblies - This mode triggers the AssemblyManager to install custom versions, built from the source code, using Build Manager. These assemblies can be used only when the source code for at least one of the Essential Studio products, has been installed. This triggers the AssemblyManager to install custom versions built from source code, installed on your machine. Applies only to versions of the product that come with the source code.
 
-   > Note: The Build Manager application must be run to build, debug or release versions of the assemblies before the Assembly Manager can install the custom built assemblies._
+    > Note: The Build Manager application must be run to build, debug or release versions of the assemblies before the Assembly Manager can install the custom built assemblies.
 
 6. Select the required option for the Action sections.
 
-   ### Action
+   Action
 
    The AssemblyManager can install or uninstall assemblies. To perform this action, select the Install version x.x.x.x or Remove version x.x.x.x radio button. To remove all, select the Remove All Versions radio button.
    
-   > Note: Remove All Versions must be used with caution in scenarios when one has applications depending on certain versions of the Syncfusion assemblies installed in the GAC. They may cease to function._
+    > Note: Remove All Versions must be used with caution in scenarios when one has applications depending on certain versions of the Syncfusion assemblies installed in the GAC. They may cease to function.
 
 7. Select the required option for Framework sections. 
 
-   ### Framework
+   Framework
 
    The Framework group box comprises of checkboxes for the .NET framework versions based on the Visual Studio SDK installed in the machine. The following checkboxes are available:
 
@@ -174,7 +172,7 @@ Use the following steps to run the Assembly Manager.
    * 2.0 - Selecting 2.0 ensures installation of 2.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2005 SDK is installed, the 2.0 assemblies have to be deployed.
    * All – Selecting All ensures installation of all frameworks, or the frameworks installed in the machine, and assemblies into the GAC and assemblies folder.
 
-   > Note: By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed._
+   > Note: By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed.
 
 8. Click Perform Action. It starts processing.
 
@@ -188,14 +186,17 @@ Use the following steps to run the Assembly Manager.
 
    ![](Assembly-Manager_images/Assembly-Manager_img9.png)
 
->   ![Description: http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_3.png](Assembly-Manager_images/Assembly-Manager_img10.png)
-> Important Note: In earlier versions, the Assembly Manager also served as Build Manager to build custom versions of the Syncfusion assemblies. Now, this function has been moved to a separate BuildManager utility. Installation of assemblies to the Visual Studio.NET toolbox is now handled by a separate utility called the ToolboxInstaller. The new Assembly Manager just handles installation of assemblies to the GAC and the assemblies’ folder; the Assemblies folder is applicable only when Visual Studio.NET is installed.
+>   ![](Assembly-Manager_images/Assembly-Manager_img10.png)
+    Important Note: In earlier versions, the Assembly Manager also served as Build Manager to build custom versions of the Syncfusion assemblies. Now, this function has been moved to a separate BuildManager utility. Installation of assemblies to the Visual Studio.NET toolbox is now handled by a separate utility called the ToolboxInstaller. The new Assembly Manager just handles installation of assemblies to the GAC and the assemblies’ folder; the Assemblies folder is applicable only when Visual Studio.NET is installed.
 
 In previous versions, the Assembly Manager allowed switching to any version of the Syncfusion assemblies, installed on the system. This causes compatibility issues and also restricts the overall structure of the utility. To switch to another version from the current version, you must run the Assembly Manager of the respective version.It is preferable to have the Assembly Manager do a Remove All operation before it installs the latest assemblies. 
 
 The console version of the Assembly Manager runs at the end of the installation process, to add the default, pre-built version of the Syncfusion assemblies to the Global Assembly Cache (GAC) and the Visual Studio .NET Public Assemblies folders. The need to run the Assembly Manager arises, only when changes have been made to the GAC, or when custom versions have been built for controls for debugging purposes.
 
 > Note: The version number in the tags have to be changed to the version you are linking it to.
+
+
+
 
 ### Syncfusion Assemblies
 
@@ -208,24 +209,133 @@ The Assemblies folder
 
 In the Assemblies folder, the assemblies are available in the following installation path:
 
- [System Drive]:\Program Files\Syncfusion\Essential Studio\x.x.x.x\Assemblies
+ System Drive:\Program Files\Syncfusion\Essential Studio\x.x.x.x\Assemblies
 
-> Note:
->
-> •The sub-folder 3.5 is used with .NET 3.5 and the sub-folder 2.0 is used with .NET 2.0. In most cases, [System Drive]:\ is C:\.
-
-> •In 2.0 and 3.5 GAC, the assemblies are available in the installation path [System Drive]:\WINDOWS\assembly.
-
-> •In 4.0, 4.5, and 4.5.1 GAC, the assemblies are available in the installation path [System Drive]:\WINDOWS\ Microsoft.NET\assembly\GAC_MSIL.
+ > Note: * The sub-folder 3.5 is used with .NET 3.5 and the sub-folder 2.0 is used with .NET 2.0. In most cases, [System Drive]:\ is C:\.
+ * In 2.0 and 3.5 GAC, the assemblies are available in the installation path System Drive:\WINDOWS\assembly. 
+ * In 4.0, 4.5, and 4.5.1 GAC, the assemblies are available in the installation path System Drive:\WINDOWS\ Microsoft.NET\assembly\GAC_MSIL.
 
 
 Essential Studio ships the pre-built 2.0, 3.5, 4.0, 4.5, and 4.5.1 .NET Framework versions of the Syncfusion assemblies. These assemblies are located in the PreCompiledAssemblies folder.        
 
-[System Drive]:\Program Files\Syncfusion\Essential Studio\x.x.x.x\PreCompiledAssemblies\x.x.x.x\2.0 
+System Drive:\Program Files\Syncfusion\Essential Studio\x.x.x.x\PreCompiledAssemblies\x.x.x.x\2.0 
 
 When you work with multiple target environments, you can see that each appropriate version is installed in the GAC, for true side-by-side use.
 
 Working with Syncfusion assemblies that have been built and tested with specific .NET Framework versions, greatly increases the overall reliability. It also allows Syncfusion controls to take advantage of features that may be available in specific environments. For instance .NET 2.0 variants of the control offer features specific to the .NET 2.0 environment.
+
+###  Assembly Version Format
+
+The assembly version format has been changed to provide support for framework version 4.5.1 of Essential Studio 11.4.0.26. Refer the following table for the new assembly version’s format.
+
+Table 4: Assembly Version Format
+
+<table>
+<tr>
+<td>
+Platforms/Frameworks</td><td>
+2.0</td><td>
+3.5</td><td>
+4.0</td><td>
+4.5</td><td>
+4.5.1</td></tr>
+<tr>
+<td>
+Windows Forms</td><td>
+12.2200.0.36</td><td>
+12.2350.0.36</td><td>
+12.2400.0.36</td><td>
+12.2450.0.36</td><td>
+12.2451.0.36</td></tr>
+<tr>
+<td>
+ASP.NET</td><td>
+NA</td><td>
+12.4350.0.x</td><td>
+12.4400.0.x</td><td>
+12.4450.0.x</td><td>
+12.4451.0.x</td></tr>
+<tr>
+<td>
+ASP.NET (Classic)</td><td>
+NA</td><td>
+NA</td><td>
+12.4400.0.x</td><td>
+12.4450.0.x</td><td>
+12.4451.0.x</td></tr>
+<tr>
+<td>
+ASP.NET MVC</td><td>
+NA</td><td>
+NA</td><td>
+MVC 3 - 12.4300.0.xMVC 4 - 12.4400.0.x</td><td>
+MVC 5 - 12.4500.0.x</td><td>
+NA</td></tr>
+<tr>
+<td>
+ASP.NET MVC (Classic)</td><td>
+NA</td><td>
+NA</td><td>
+MVC 3 - 12.4300.0.xMVC 4 - 12.4400.0.x</td><td>
+MVC 5 - 12.4500.0.x</td><td>
+NA</td></tr>
+<tr>
+<td>
+Mobile MVC (Removed from v12.1.0.43)</td><td>
+NA</td><td>
+NA</td><td>
+MVC 3 - 11.4300.0.xMVC 4 - 11.4400.0.x</td><td>
+MVC 5 - 11.4500.0.x</td><td>
+NA</td></tr>
+<tr>
+<td>
+WPF</td><td>
+NA</td><td>
+12.4350.0.x</td><td>
+12.4400.0.X</td><td>
+12.4450.0.X</td><td>
+12.4451.0.X</td></tr>
+<tr>
+<td>
+Silverlight</td><td>
+NA</td><td>
+NA</td><td>
+SL4 - 12.4400.0.xSL5 - 12.4500.0.x</td><td>
+NA</td><td>
+NA</td></tr>
+<tr>
+<td>
+Windows Phone</td><td>
+NA</td><td>
+NA</td><td>
+   NA</td><td>
+WP8 – 12.4800.0.x</td><td>
+12.4810.0.x</td></tr>
+<tr>
+<td>
+WinRT</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+Windows 8.0 – 12.x800.0.x</td><td>
+Windows 8.1 – 12.4810.0.x</td></tr>
+<tr>
+<td>
+Universal</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+12.4451.0.x</td></tr>
+<tr>
+<td>
+Xamarin</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+12.4451.0.x</td></tr>
+</table>
 
 
 ## Build Manager
@@ -244,7 +354,7 @@ The following steps help you launch the Build Manager. 
 
 3. The Syncfusion Build Manager x.x.x.x window opens.
 
-   > Note: Build Manager is available in the Dashboard only when Source code is installed. You can also launch the Build Manager from the following location: C:\Program Files\Syncfusion\Essential Studio\x.x.x.x\Utilities\Build Manager\buildmanagerwindows.exe_
+   > Note: Build Manager is available in the Dashboard only when Source code is installed. You can also launch the Build Manager from the following location: C:\Program Files\Syncfusion\Essential Studio\x.x.x.x\Utilities\Build Manager\buildmanagerwindows.exe
 
    ![](Build-Manager_images/Build-Manager_img2.png)
 
@@ -288,7 +398,7 @@ This window contains seven sections. 
 
    After selecting the required options in the above-mentioned frames, click Perform Build inside the output frame.
 
-   > Note: The Build operation is performed and the status is updated in the text area, inside the output frame. On completion of the Build operation, an information message is displayed stating that the Build operation has been completed. It also asks you to review the Build output and log files for additional information.
+    > Note: The Build operation is performed and the status is updated in the text area, inside the output frame. On completion of the Build operation, an information message is displayed stating that the Build operation has been completed. It also asks you to review the Build output and log files for additional information.
    
    
 ## License Manager
@@ -341,7 +451,7 @@ The following are the steps to remove a license key:
 
 3. Click Remove Key. The selected key is removed.
 
-   > Note: The removal is reflected in the log, when the product key has already been added._
+    > Note: The removal is reflected in the log, when the product key has already been added.
 
 ### Copying a Product Key
 
@@ -382,11 +492,9 @@ The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual St
 
    You can configure the Syncfusion controls from a lower framework assembly version to a higher one, by Command-Line mode. For information on configuring the toolbox through Command-Line mode, see [Toolbox command line configuration](http://www.syncfusion.com/support/kb/2336).
    
-   > Note:
-   > * You must reset the toolbox, when the installed controls are not reflected properly in the Toolbox.
-   > * This tool configures only the controls that are located under Installed Location\Assemblies\
+   > Note: * You must reset the toolbox, when the installed controls are not reflected properly in the Toolbox. * This tool configures only the controls that are located under Installed Location\Assemblies\
 
-   _(Framework version)._
+   (Framework version).
    
 
    
@@ -394,7 +502,7 @@ The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual St
 
 Multi-Target Manager helps to manage multiple .NET frameworks in your Visual Studio 2008 project that is, switching between multiple frameworks.
 
-> Note: This is not essential for VS 2010 because Common Language Runtime (CLR) differs for both 3.5 and 4.0 frameworks. VS 2010 selects the required .NET framework assembly for the corresponding projects. 3.5 and 4.0 are the only frameworks configured; the MultiTarget Manager utility allows you to work on framework 2.0 with VS 2010.
+ > Note: This is not essential for VS 2010 because Common Language Runtime (CLR) differs for both 3.5 and 4.0 frameworks. VS 2010 selects the required .NET framework assembly for the corresponding projects. 3.5 and 4.0 are the only frameworks configured; the MultiTarget Manager utility allows you to work on framework 2.0 with VS 2010.
 
 ### When to Use Multi-Target Manager?
 
@@ -412,9 +520,8 @@ HKLM\Software\Microsoft\.NetFramework\v2.0.50727\AssemblyFoldersEx\Syncfusion Es
 
    ![](Multi-Target-Manager_images/Multi-Target-Manager_img2.png)
 
-   > Note: You can also open the Multi-Target Manager from the following location:
-   >
-   > (Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\MultiTargetManager\ MultiTargetManager.exe
+    > Note: You can also open the Multi-Target Manager from the following location:
+   (Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\MultiTargetManager\ MultiTargetManager.exe
 
 4. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
 
@@ -430,7 +537,7 @@ HKLM\Software\Microsoft\.NetFramework\v2.0.50727\AssemblyFoldersEx\Syncfusion Es
 
 8. Refresh the application before building.
 
-   > Note: The target value and the registry value change according to the selected framework version.
+    > Note: The target value and the registry value change according to the selected framework version.
    
 
 ## Project Migration
@@ -447,7 +554,7 @@ The following steps illustrate how to migrate a project.
 
 2. Select the project to be upgraded in the Select Project Folder field.
 
-   > Note: You can also select multiple projects_ by _using the Select Folder List option.
+    > Note: You can also select multiple projects_ by _using the Select Folder List option.
 
 3. Select a folder to store a backup in the Select backup folder field. 
 

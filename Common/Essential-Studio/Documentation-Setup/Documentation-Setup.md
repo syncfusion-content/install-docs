@@ -22,14 +22,19 @@ Installed Documentation – Offline User Guide setup files have been removed f
 
 This local documentation can be accessed from the Dashboard > Utilities > Documentation > Local Documentation.
 
+
+
 ![](User-Guide_images/User-Guide_img1.png)
+
+
+
+
 
 > Note: When you have not installed local documentation, then a prompt opens to download the setup.
 
 Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products, better. This can be accessed from the Utilities > Documentation > Online Documentation.
 
 ![](User-Guide_images/User-Guide_img3.png)
-
 
 ## Class Reference
 
@@ -44,6 +49,13 @@ This local documentation can be accessed from the Dashboard > Utilities > Docu
 
 ![](Class-Reference_images/Class-Reference_img1.png)
 
+
+
 Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products better. This can be accessed from the Utilities > Documentation > Online Documentation.
 
+
+
 ![](Class-Reference_images/Class-Reference_img2.png)
+
+
+

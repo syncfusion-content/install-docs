@@ -7,30 +7,30 @@ control: Essential Studio
 documentation: ug
 ---
 
-## How to configure the Toolbox of Visual Studio Manually?
+# How to configure the Toolbox of Visual Studio Manually?
 
 The following are the steps to load the Syncfusion controls in toolbox of Visual Studio by configuring the toolbox.
 
-### Toolbox Configuration Utility
+## Toolbox Configuration Utility
 
-To configure the toolbox using Toolbox Configuration Utility, refer to Toolbox Configuration.
+To configure the toolbox using Toolbox Configuration Utility, refer to [Toolbox Configuration](http://help.syncfusion.com/ug/common/index.html#!Documents/toolboxconfiguration.htm).
 
-### Manually Configuring VS Toolbox
+## Manually Configuring VS Toolbox
 
 The following are the steps to configure VS Toolbox manually for Syncfusion tools:
 
 1. Close all Visual Studio running instances.
 2. Remove the *.tbd files except the toolbox.tbd from the following location:
 
-   #### Windows XP: 
+   Windows XP: 
 
    C:\Documents and Settings\(user name)\Local Settings\Application Data\Microsoft\VisualStudio\10.0
 
-   #### Vista/Windows 7:
+   Vista/Windows 7:
 
    C:\Users\(user name)\AppData\Local\Microsoft\VisualStudio\10.0
 
-   > Note: It takes some time to configure the toolbox and create tbd files when you load the toolbox in VS2010 initially._
+    > Note: It takes some time to configure the toolbox and create tbd files when you load the toolbox in VS2010 initially.
 
 3. Re-open the Visual Studio environment. The VSToolbox is configured.
 

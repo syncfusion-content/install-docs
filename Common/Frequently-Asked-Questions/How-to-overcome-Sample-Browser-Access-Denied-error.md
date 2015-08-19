@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-## How to overcome Sample Browser Access Denied error for Non-Admin User?
+# How to overcome Sample Browser Access Denied error for Non-Admin User?
 
 When an Administrator installs Essential Studio setup in a machine, a non-admin user cannot run the Sample Browser from the Dashboard, as this action tries to access the Admin folder where the samples are installed. The following message box is displayed.
 

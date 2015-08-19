@@ -31,7 +31,7 @@ The following are the steps to install the Big Data Agent Setup.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
 
-11. To install it in the displayed default location, click Install.
+3. To install it in the displayed default location, click Install.
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
 	
@@ -39,7 +39,7 @@ The following are the steps to install the Big Data Agent Setup.
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.png)
 
-12. Click Finish. Big Data Agent Platform is installed in your system.
+4. Click Finish. Big Data Agent Platform is installed in your system.
 
 
 ## Command Line 
@@ -58,7 +58,7 @@ Follow the given steps to install through Command Line in Silent mode.
 
 2. Setup is installed.
 
-   Note: x.x.x.x needs to be replaced with the Big Data version installed on your machine.
+   > Note: x.x.x.x needs to be replaced with the Big Data version installed on your machine.
    
    
 ### Command Line Uninstallation

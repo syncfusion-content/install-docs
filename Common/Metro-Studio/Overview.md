@@ -7,7 +7,7 @@ control: Control Name undefined
 documentation: ug
 ---
 
-### Overview
+# Overview
 
 Create attractive icons and path values with Syncfusion Metro Studio.
 

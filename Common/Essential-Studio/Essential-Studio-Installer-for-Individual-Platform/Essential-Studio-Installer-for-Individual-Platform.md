@@ -52,7 +52,7 @@ The following procedure illustrates how to install Essential Studio. 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
 
-   > Note: The WinZip Self-Extractor extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
+    > Note: The WinZip Self-Extractor extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
@@ -61,7 +61,7 @@ The following procedure illustrates how to install Essential Studio. 
 
 3. Click Next.
 
-   > Note: The Unlock Key is validated and the License Agreement dialog opens.
+    > Note: The Unlock Key is validated and the License Agreement dialog opens.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
 
@@ -71,21 +71,20 @@ The following procedure illustrates how to install Essential Studio. 
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
    
-
-   > Note: You can also browse and choose a location by clicking Browse. When you have already installed any other platform setup, it does not allow you to change the install path again.
+    > Note: You can also browse and choose a location by clicking Browse. When you have already installed any other platform setup, it does not allow you to change the install path again.
 
 6. To install it in the displayed default location, click Install.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img8.png)
 
 
-   > Note: The Completed screen is displayed once the selected package is installed.
+    > Note: The Completed screen is displayed once the selected package is installed.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img10.png)
 
 7. Select the Run Dashboard check box to launch the Dashboard after installing.
 
-8. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio Dashboard is launched automatically.
+8. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Dashboard](http://help.syncfusion.com/ug/common/index.html#!Documents/dashboard.htm) is launched automatically.
 
 ## Command Line 
 
@@ -102,11 +101,11 @@ Follow the steps below to install through Command Line in Silent mode.
 5. Cancel the Wizard.
 6. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version:
 
-   #### _Essential Studio version 13.1 and earlier:_
+   Essential Studio version 13.1 and earlier:
 
    “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}] 
 
-   > Note: [..] – Arguments inside the square brackets are optional._
+   > Note: [..] – Arguments inside the square brackets are optional.
 
 
 
@@ -114,14 +113,14 @@ Follow the steps below to install through Command Line in Silent mode.
 
 
 
-   #### _Essential Studio version 13.2 and later:_
+   Essential Studio version 13.2 and later:
 
 
 
    “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
 
 
-   > Note: [..] – Arguments inside the square brackets are optional.
+    > Note: [..] – Arguments inside the square brackets are optional.
 
 
 
@@ -149,13 +148,13 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 6. Cancel the Wizard.
 7. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version: 
 
-   #### _Essential Studio version 13.1 and earlier:_
+   Essential Studio version 13.1 and earlier:
 
    “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall true 
 
    Example: “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe" /uninstall true
     
-   #### _Essential Studio version 13.2 and later:_
+   Essential Studio version 13.2 and later:
 
    “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall silent 
 
@@ -163,4 +162,4 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 8. Setup is uninstalled.
 
-   > Note: x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with asp.net, asp.netmvc, asp.netmvc-classic, silverlight, windowsforms, windowsphone, winrt, wpf, javascript, or lightswitch.
+    > Note: x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with asp.net, asp.netmvc, asp.netmvc-classic, silverlight, windowsforms, windowsphone, winrt, wpf, javascript, or lightswitch.

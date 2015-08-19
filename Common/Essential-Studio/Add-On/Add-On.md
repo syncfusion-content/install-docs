@@ -122,9 +122,9 @@ The following steps illustrate how to install Digitally Signed Assemblies Setup
 
 Syncfusion supports Quick Test Professional software with the help of Essential Test Studio, termed as QTP add-on, specially designed to meet the requirements of professionals who need to test your controls. Essential Test Studio contains Custom Libraries that helps Quick Test Professional record and replay the scripts of the application containing the Syncfusion controls. These custom libraries are built with the help of Quick Test Professional .NET Add-in extensibility. For more details, refer to Mercury Quick Test Professional Help.  
 
-### Essential Test Studio supports the following Windows-based controls. 
+ Essential Test Studio supports the following Windows-based controls. 
 
-#### Essential Grid
+### Essential Grid
 
 * Grid control
 * Grid Grouping control
@@ -132,7 +132,7 @@ Syncfusion supports Quick Test Professional software with the help of Essential 
 * Grid List control
 * TabBar Splitter control
 
-#### Essential Tools
+### Essential Tools
 
 * Docking Package
 * Menus Package
@@ -143,7 +143,7 @@ Syncfusion supports Quick Test Professional software with the help of Essential 
 * Navigation Package
 * Notification Package
 
-> Note: You need to install Syncfusion Essential Studio of the same version and Mercury QuickTestProfessional, before installing this add-on.
+ > Note: You need to install Syncfusion Essential Studio of the same version and Mercury QuickTestProfessional, before installing this add-on.
 
 ## CAB Add-on
 
@@ -201,7 +201,7 @@ The following are the steps to install the WebKit Setup.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
-   _Figure 100_: _Welcome dialog_
+   
 
    > Note: No key is required for Syncfusion WebKit Installer.
 
@@ -250,10 +250,8 @@ Follow the given steps to install through Command Line in Silent mode.
    Example: “D:\Temp\syncfusionessentialwebkit _13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
 7. Setup is installed.
-   > Note: 
-   >
-   > 1. x.x.x.x needs to be replaced with the WebKit version installed on your machine.
-   > 2. Above steps applicable from the version 13.2.0.x.
+    
+	> Note: * x.x.x.x needs to be replaced with the WebKit version installed on your machine.* Above steps applicable from the version 13.2.0.x.
    
 #### Command Line Uninstallation
 
@@ -272,7 +270,5 @@ Syncfusion WebKit Installer supports uninstalling the setup through Command Line
     Example: “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
 
 8. Setup is uninstalled.
-   > Note: 
-   >
-   > 1. x.x.x.x need to be replaced with the Webkit version installed in your machine.
-   > 2. Above steps applicable from the version 13.2.0.x.
+    
+	> Note: * x.x.x.x need to be replaced with the Webkit version installed in your machine.* Above steps applicable from the version 13.2.0.x.

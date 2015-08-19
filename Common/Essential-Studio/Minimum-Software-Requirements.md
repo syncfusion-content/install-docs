@@ -11,7 +11,7 @@ documentation: ug
 
 The following are the system requirements for Essential Studio.
 
-_Table_ _2_: _Minimum Software Requirements_
+Table 2: Minimum Software Requirements
 
 <table>
 <tr>

@@ -7,25 +7,25 @@ control: Essential Studio
 documentation: ug
 ---
 
-## How to Upgrade the Project into a New Syncfusion Version? 
+# How to Upgrade the Project into a New Syncfusion Version? 
 
 
-### Upgrade the Project Using Project Migration Utility
+## Upgrade the Project Using Project Migration Utility
 
-To upgrade the project using the Project Migration Utility, refer to Project Migration.
+To upgrade the project using the Project Migration Utility, refer to [Project Migration](http://help.syncfusion.com/ug/common/index.html#!Documents/projectmigration.htm).
 
-### Upgrading the Projects Manually
+## Upgrading the Projects Manually
 
 You can upgrade the project in two methods, based on the procedure used in your project, to reference the Syncfusion assemblies. They are:
 
-#### CopyLocal=True
+### CopyLocal=True
 
 1. Set the SpecificVersion to False.
 2. Remove the bin and obj folders in your local project directory.
 3. Replace the latest assemblies with the upgraded assemblies in the local folder of your project.
 4. Recompile the project.
 
-#### CopyLocal=False
+### CopyLocal=False
 
 1. Ensure that the old Syncfusion assemblies are removed from GAC.
    * For 2.0 and 3.5 assemblies: (C:\windows\assembly)
@@ -34,17 +34,17 @@ You can upgrade the project in two methods, based on the procedure used in your 
 3. Set the SpecificVersion to False.
 4. Recompile your project; the latest assemblies from GAC refer to your project automatically. 
    
-   ![http://help.syncfusion.com/support/Build/KB/Upgrade%20Version/CopyLocal.png](Upgrading-the-Projects-Manually_images/Upgrading-the-Projects-Manually_img1.png)
+   ![](Upgrading-the-Projects-Manually_images/Upgrading-the-Projects-Manually_img1.png)
 
-#### Switching the Framework Version While Upgrading the Project
+### Switching the Framework Version While Upgrading the Project
 
 When you want to switch the framework version while upgrading the project, use the Multi-Target Manager from the Syncfusion Dashboard.
 
 After switching the framework version using Multi-Target Manager, remove the bin and obj folders from your local project directory, and then recompile your project.
 
-For more details about Multi-Target Manager, refer to Multi-Target Manager.
+For more details about Multi-Target Manager, refer to [Multi-Target Manager](http://help.syncfusion.com/ug/common/index.html#!Documents/multitargetmanager.htm).
 
-#### Migrating the Resource Files
+### Migrating the Resource Files
 
 Follow the given steps to move the resource files (.resx) of your project to the newer version:
 

@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-## How to uninstall the Syncfusion Setup manually?
+# How to uninstall the Syncfusion Setup manually?
 
 Sometimes, installation may crash due to the machine getting switched off during installation or for other reasons. In such cases, the Uninstall utility is not available. The following are the steps to uninstall the setup manually:
 
@@ -18,13 +18,13 @@ Sometimes, installation may crash due to the machine getting switched off during
 
 3. Manually remove or delete the installed Syncfusion files from the following location.
 
-   #### Source (Windows XP, Windows Vista, Windows 7): 
+   Source (Windows XP, Windows Vista, Windows 7): 
 
    (Installed location)\ Syncfusion\Essential Studio\ (version)
 
    Example: C:\Program Files\Syncfusion\Essential Studio\9.4.0.62
 
-   #### Samples (Windows XP): 
+   Samples (Windows XP): 
 
    C:\Syncfusion\(version)
 

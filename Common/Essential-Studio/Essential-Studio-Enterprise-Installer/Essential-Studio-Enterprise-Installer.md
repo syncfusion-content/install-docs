@@ -12,7 +12,7 @@ documentation: ug
 
 ## Overview
 
-The Essential Studio Enterprise Installer includes all of the following platforms. There is also a separate installer for individual platforms. For more information refer to the Platform installer section.
+The Essential Studio Enterprise Installer includes all of the following platforms. There is also a separate installer for individual platforms. For more information refer to the [Platform installer](http://help.syncfusion.com/ug/common/index.html#!Documents/essentialstudioinstallerforindividualplatforms.htm) section.
 
 * ASP.NET 
 * ASP.NET (Classic)
@@ -29,7 +29,7 @@ The Essential Studio Enterprise Installer includes all of the following platform
 * WPF
 
 
-> Note: WinRT can only be installed from Windows 8.
+ > Note: WinRT can only be installed from Windows 8.
 
 You are provided with the separate installers for FileFormat, Android and Xamarin platforms. 
 
@@ -98,7 +98,7 @@ The following procedure illustrates how to install Essential Studio setup. 
 
 10. Select the Run Dashboard check box to launch the Dashboard after installing.
 
-11. Click Finish. Essential Studio is installed in your system and Syncfusion Essential Studio Dashboard is launched automatically. For more information, refer to Brief Tour of Dashboard.
+11. Click Finish. Essential Studio is installed in your system and Syncfusion Essential Studio Dashboard is launched automatically. For more information, refer to [Brief Tour of Dashboard](http://help.syncfusion.com/ug/common/index.html#!Documents/dashboard.htm).
 
     > Note: The Completed screen is displayed once the selected platform is installed.
 
@@ -119,7 +119,7 @@ Follow the given steps to install through Command Line in Silent mode.
 5. Cancel the wizard.
 6. Open Command Prompt in administrator mode and pass the following arguments for corresponding version:
    
-   _Essential Studio version 13.1 and earlier:_
+   Essential Studio version 13.1 and earlier:
 
 
 
@@ -131,7 +131,7 @@ Follow the given steps to install through Command Line in Silent mode.
 
 
 
-    _Essential Studio version 13.2 and later:_
+    Essential Studio version 13.2 and later:
 
 
 
@@ -165,7 +165,7 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 
 
-   _Essential Studio version 13.1 and earlier:_
+   Essential Studio version 13.1 and earlier:
 
 
 
@@ -175,7 +175,7 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 
 
-   _Essential Studio version 13.2 and later:_
+   Essential Studio version 13.2 and later:
 
 
 

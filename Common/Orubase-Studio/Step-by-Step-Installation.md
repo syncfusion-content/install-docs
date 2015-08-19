@@ -7,7 +7,7 @@ control: Control Name undefined
 documentation: ug
 ---
 
-### Step-by-Step Installation
+# Step-by-Step Installation
 
 The following procedure illustrates how to install the Orubase Studio setup.
 
@@ -43,7 +43,7 @@ The following procedure illustrates how to install the Orubase Studio setup.
 
 5. Click Next.
 
-   _Note: The Unlock Key is validated and the License Agreement screen opens._
+   > Note: The Unlock Key is validated and the License Agreement screen opens.
 
 
 
@@ -75,7 +75,7 @@ The following procedure illustrates how to install the Orubase Studio setup.
 
 
 
-   _Note: You can also browse to choose a location by clicking Browse._
+   > Note: You can also browse to choose a location by clicking Browse.
 
 
 
@@ -99,7 +99,7 @@ The following procedure illustrates how to install the Orubase Studio setup.
 
 
 
-    _Note: The completed screen is displayed once the selected package is installed._
+    > Note: The completed screen is displayed once the selected package is installed.
 
 
 
@@ -117,7 +117,7 @@ The following procedure illustrates how to install the Orubase Studio setup.
 
 
 
-Run Dashboard Samples:
+    ### Run Dashboard Samples:
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img14.png)
 

@@ -7,11 +7,11 @@ control: Essential Studio
 documentation: ug
 ---
 
-## Terminology
+# Terminology
 
 The Terminology section covers documentation conventions used in this manual. 
 
-_Table_ _1_: _Terminology_
+Table 1: Terminology
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ UI elements such as names of tabs, menus, buttons, dialog boxes and windows are 
 <tr>
 <td>
 Italic</td><td>
-The {{ '_IsEnable_' | markdownify }} property</td><td>
+The {{ 'IsEnable' | markdownify }} property</td><td>
 The property, method and event name and text that must be typed exactly as shown are italicized. </td></tr>
 <tr>
 <td>
@@ -47,8 +47,8 @@ Represents version number. Replace this with the version installed in the machin
 <tr>
 <td>
 Note</td><td>
-{{ '![http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_1.png](Terminology_images/Terminology_img1.png)' | markdownify }}
-{{ '_Note:_' | markdownify }}</td><td>
+
+{{ 'Note:' | markdownify }}</td><td>
 Represents important information.</td></tr>
 <tr>
 <td>

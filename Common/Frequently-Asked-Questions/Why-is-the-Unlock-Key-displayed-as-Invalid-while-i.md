@@ -7,18 +7,18 @@ control: Essential Studio
 documentation: ug
 ---
 
-## Why is the Unlock Key displayed as Invalid while installing the setup?
+# Why is the Unlock Key displayed as Invalid while installing the setup?
 
 Unlock Key can be validated as invalid for two reasons. They are:
 
 * When you install a particular version’s setup with another version’s unlock key. Ensure that you enter the unlock key for that respective version.
 * Some part of the unlock key code could have been altered or removed while copying the unlock key. Ensure that you copy the entire key without any spacing. 
 
-  #### Earlier version of 11.1.*.*
+   Earlier version of 11.1.*.*
 
   ![](Why-is-the-Unlock-Key-displayed-as-Invalid-while-i_images/Why-is-the-Unlock-Key-displayed-as-Invalid-while-i_img1.png)
 
-  #### Newer version of 10.4.*.*
+   Newer version of 10.4.*.*
 
   ![](Why-is-the-Unlock-Key-displayed-as-Invalid-while-i_images/Why-is-the-Unlock-Key-displayed-as-Invalid-while-i_img2.png)
 

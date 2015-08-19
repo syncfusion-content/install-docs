@@ -69,6 +69,7 @@ Follow the given steps to install through Command Line in Silent mode.
     Example: “D:\Temp\SyncfusionBigData_2.1.0.70.exe” /log “C:\Temp\BigData.log” /Install silent /InstallPath:C:\Syncfusion\x.x.x.x
 
 7. Setup is installed.
+   
    > Note: x.x.x.x needs to be replaced with the Big Data version installed on your machine.
    
 

@@ -7,22 +7,22 @@ control: Essential Studio
 documentation: ug
 ---
 
-## How to implement Localization Support?
+# How to implement Localization Support?
 
 Syncfusion Essential Studio products enable you to customize the application, specific to the language and culture of a particular country or region. 
 
 
-### WPF
+## WPF
 
 You can use this satellite assembly to utilize the localization support for your culture. The following steps help you extract the resource strings to a .csv file using the LocBaml.exe file, as a major part of enabling localization.
 
 The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localization support for the Syncfusion controls. This assembly is available in the following installation location:
 
-#### (Installed_location)\Syncfusion\Essential Studio\<Version Number>\Assemblies\3.5
+(Installed_location)\Syncfusion\Essential Studio\<Version Number>\Assemblies\3.5
 
 1.  Download the LocBaml.exe file from the following location:
     
-	[http://files.syncfusion.com/support/Tools.WPF/UG/LocBaml.zip](http://files.syncfusion.com/support/Tools.WPF/UG/LocBaml.zip)
+	[](http://files.syncfusion.com/support/Tools.WPF/UG/LocBaml.zip)
 
 2.  Copy the exe file and the Syncfusion.Tools.WPF.Resources.dll to the following location:
 
@@ -40,7 +40,7 @@ The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localizatio
 
     The following illustrates customization from English to French.
 
-    ![Description: C:/Users/nirmalc/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/YPXTAGB0/1 (2).jpg](WPF_images/WPF_img2.jpeg)
+    ![](WPF_images/WPF_img2.jpeg)
 
 6.  Generate the localized satellite assembly using the modified .csv file and install in the application. 
 7.  Open Command Prompt, and navigate to the en-US directory. 
@@ -80,17 +80,15 @@ At the end of this process, the application should contain the following to achi
 
 The following image illustrates Calendar control in the French language.
 
-![Description: http://help.syncfusion.com/ug_84/User%20Interface/WPF/Tools/ImagesExt/image37_759.jpg](WPF_images/WPF_img4.jpeg)
+![](WPF_images/WPF_img4.jpeg)
 
-> Note:
->
-> * Localized strings are not displayed in your application until the created satellite assembly is signed. Send in your newly created assemblies for signing. Your assemblies are signed and sent immediately.
-> * It is not required to install satellite assemblies in the GAC or Assemblies folder.
-> * Your en-US directory should contain the default satellite assembly, available in the Precompiled Assemblies or Assemblies folder.
-> * Application culture change should be included before the InitializeComponent() method call in the application. It is better to include culture change in the App.xaml file.
+ > Note: * Localized strings are not displayed in your application until the created satellite assembly is signed. Send in your newly created assemblies for signing. Your assemblies are signed and sent immediately.
+ * It is not required to install satellite assemblies in the GAC or Assemblies folder.
+ * Your en-US directory should contain the default satellite assembly, available in the Precompiled Assemblies or Assemblies folder.
+ * Application culture change should be included before the InitializeComponent() method call in the application. It is better to include culture change in the App.xaml file.
 
 
-### Silverlight
+## Silverlight
 
 In Silverlight, the easiest way to accomplish localization is to use a Resource (.resx) file. For each culture you want to target, you need a separate set of resources that match that specific culture. 
 
@@ -100,7 +98,7 @@ The following are the primary steps for localizing the Syncfusion Ribbon Control
 * Add supported cultures.
 * Assign a Current UI Culture to the application.
 
-#### Add Resources
+### Add Resources
 
 To localize Syncfusion Silverlight controls, you need to create resource files for each culture. 
 
@@ -113,12 +111,12 @@ The following steps illustrate this:
 
 When your conversion is only for the invariant culture, the .resx file does not have to contain a culture suffix.
 
-#### Example:
+### Example:
 
 * Syncfusion.Ribbon.Silverlight.fr-FR.resx – French resource for Syncfusion.Ribbon.Silverlight assembly.
 * Syncfusion.Ribbon.Silverlight.resx – Invariant Culture resource for Syncfusion.Ribbon.Silverlight assembly.
 
-#### Add Supported Cultures
+### Add Supported Cultures
 
 It is very important to add supported cultures in the sample application project before you run the application.
 
@@ -126,15 +124,15 @@ Follow the steps provided to localize strings for your culture:
 
 1. In the Solution Explorer, right-click your sample application project and choose Unload Project. The project is unavailable.
 2. Right-click the project again, and select the Edit_SampleProjectName.csproj option.
-3. In the _._csproj file, find the _&lt;SupportedCultures&gt;_ _&lt;/SupportedCultures&gt;_ tags. By default, the tags are empty. So, add the cultures that you want to be supported, separated by a semicolon.
+3. In the .csproj file, find the &lt;SupportedCultures&gt; &lt;/SupportedCultures&gt; tags. By default, the tags are empty. So, add the cultures that you want to be supported, separated by a semicolon.
 
    Example: <SupportedCultures>fr-FR </SupportedCultures>
 
-4. Save the project and reload it by right-clicking the SampleProjectName.csproj__and choosing Reload SampleProjectName.csproj_._
+4. Save the project and reload it by right-clicking the SampleProjectName.csproj and choosing Reload SampleProjectName.csproj.
 
-#### Assign Current UI Culture to the Application
+### Assign Current UI Culture to the Application
 
-By default, the Current Culture is en_-_US. You can change the CurrentUICulture. Here, CurentUICulture should be set beforethe IntializeComponent in your StartUp page, here, MainPage.xaml.cs, or you can do it in App.xaml.cs in the Application_Startup event.
+By default, the Current Culture is en-US. You can change the CurrentUICulture. Here, CurentUICulture should be set beforethe IntializeComponent in your StartUp page, here, MainPage.xaml.cs, or you can do it in App.xaml.cs in the Application Startup event.
 
 {% highlight c# %}
 
@@ -172,20 +170,20 @@ this.RootVisual = new MainPage();
 
 The following screenshots illustrate the Ribbon Control with various culture options:
 
-![Description: http://help.syncfusion.com/ug_84/User%20Interface/Silverlight/Tools/ImagesExt/image129_560.jpg](Silverlight_images/Silverlight_img1.jpeg)
+![](Silverlight_images/Silverlight_img1.jpeg)
 
-![Description: http://help.syncfusion.com/ug_84/User%20Interface/Silverlight/Tools/ImagesExt/image129_561.jpg](Silverlight_images/Silverlight_img2.jpeg)
+![](Silverlight_images/Silverlight_img2.jpeg)
 
-![Description: http://help.syncfusion.com/ug_84/User%20Interface/Silverlight/Tools/ImagesExt/image129_562.jpg](Silverlight_images/Silverlight_img3.jpeg)
+![](Silverlight_images/Silverlight_img3.jpeg)
 
-![Description: http://help.syncfusion.com/ug_84/User%20Interface/Silverlight/Tools/ImagesExt/image129_563.jpg](Silverlight_images/Silverlight_img4.jpeg)
+![](Silverlight_images/Silverlight_img4.jpeg)
 
 
-### Windows and ASP.NET
+## Windows and ASP.NET
 
 The Windows and ASP.NET products have extended support for Localization.Samples and description is available in the following locations.
 
-_Table_ _5_: _Extended Support for Windows and ASP.NET_
+Table 5 :  Extended Support for Windows and ASP.NET
 
 <table>
 <tr>

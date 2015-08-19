@@ -7,7 +7,7 @@ control: Control Name undefined
 documentation: ug
 ---
 
-### Step-by-Step Installation
+# Step-by-Step Installation
 
 The following are the steps to install the Metro Studio Setup.
 
@@ -49,7 +49,7 @@ The following are the steps to install the Metro Studio Setup.
    
  
 
-   _Note: The Unlock Key is validated and the welcome screen opens._
+   > Note: The Unlock Key is validated and the welcome screen opens.
 
 
 
@@ -98,7 +98,7 @@ The following are the steps to install the Metro Studio Setup.
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img10.png)
 
 
-    _Note: The completed screen is displayed once the selected package is installed._
+    > Note: The completed screen is displayed once the selected package is installed.
 
 
 
@@ -110,7 +110,7 @@ The following are the steps to install the Metro Studio Setup.
 
 12. Click Finish to exit the Setup Wizard. This initiates the installation of the Syncfusion Metro Studio Installer on your computer.
    
-    _Note: The Syncfusion Metro Studio Installer is installed on your computer, and you are informed with a dialog box, when the installation is complete._
+    > Note: The Syncfusion Metro Studio Installer is installed on your computer, and you are informed with a dialog box, when the installation is complete.
 
 
 
