@@ -30,7 +30,7 @@ This local documentation can be accessed from the Dashboard > Utilities > Docu
 
 
 
-> Note: When you have not installed local documentation, then a prompt opens to download the setup.
+N> When you have not installed local documentation, then a prompt opens to download the setup.
 
 Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products, better. This can be accessed from the Utilities > Documentation > Online Documentation.
 

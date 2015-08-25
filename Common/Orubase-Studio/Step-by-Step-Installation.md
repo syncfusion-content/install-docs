@@ -43,7 +43,7 @@ The following procedure illustrates how to install the Orubase Studio setup.
 
 5. Click Next.
 
-   > Note: The Unlock Key is validated and the License Agreement screen opens.
+   N> The Unlock Key is validated and the License Agreement screen opens.
 
 
 
@@ -75,7 +75,7 @@ The following procedure illustrates how to install the Orubase Studio setup.
 
 
 
-   > Note: You can also browse to choose a location by clicking Browse.
+   N> You can also browse to choose a location by clicking Browse.
 
 
 
@@ -99,7 +99,7 @@ The following procedure illustrates how to install the Orubase Studio setup.
 
 
 
-    > Note: The completed screen is displayed once the selected package is installed.
+    N> The completed screen is displayed once the selected package is installed.
 
 
 

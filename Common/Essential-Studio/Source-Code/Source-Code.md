@@ -54,7 +54,7 @@ The following steps show how you can install the Essential Studio Source Code A
 
 6. Click Next.
 
-   > Note: The Unlock Key is validated and the Welcome screen opens.
+   N> The Unlock Key is validated and the Welcome screen opens.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
 
@@ -94,7 +94,7 @@ The following steps show how you can install the Essential Studio Source Code A
 
 
 
-    > Note: The Completed screen is displayed once the selected package is installed.
+    N> The Completed screen is displayed once the selected package is installed.
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img12.png)
 
@@ -104,7 +104,7 @@ The following steps show how you can install the Essential Studio Source Code A
 
 13. Click Finish to exit the Setup Wizard. This initiates the installation of the Syncfusion Essential Studio Source Installer on your computer.
 
-    > Note: The Syncfusion Essential Studio Source Installer is installed on your computer, and you are informed once the installation is complete.
+    N> The Syncfusion Essential Studio Source Installer is installed on your computer, and you are informed once the installation is complete.
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img14.png)
 

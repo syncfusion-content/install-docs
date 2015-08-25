@@ -52,7 +52,7 @@ The following procedure illustrates how to install Essential Studio. 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
 
-    > Note: The WinZip Self-Extractor extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
+    N> The WinZip Self-Extractor extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
@@ -61,7 +61,7 @@ The following procedure illustrates how to install Essential Studio. 
 
 3. Click Next.
 
-    > Note: The Unlock Key is validated and the License Agreement dialog opens.
+    N> The Unlock Key is validated and the License Agreement dialog opens.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
 
@@ -71,14 +71,14 @@ The following procedure illustrates how to install Essential Studio. 
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
    
-    > Note: You can also browse and choose a location by clicking Browse. When you have already installed any other platform setup, it does not allow you to change the install path again.
+    N> You can also browse and choose a location by clicking Browse. When you have already installed any other platform setup, it does not allow you to change the install path again.
 
 6. To install it in the displayed default location, click Install.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img8.png)
 
 
-    > Note: The Completed screen is displayed once the selected package is installed.
+    N> The Completed screen is displayed once the selected package is installed.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img10.png)
 
@@ -105,7 +105,7 @@ Follow the steps below to install through Command Line in Silent mode.
 
    “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}] 
 
-   > Note: [..] – Arguments inside the square brackets are optional.
+   N> [..] – Arguments inside the square brackets are optional.
 
 
 
@@ -120,20 +120,20 @@ Follow the steps below to install through Command Line in Silent mode.
    “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
 
 
-    > Note: [..] – Arguments inside the square brackets are optional.
+    N> [..] – Arguments inside the square brackets are optional.
 
 
 
    Example: “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true
 
 
-   > Note: We have provided Advanced Options in silent installation from 13.2.0.x.
+   N> We have provided Advanced Options in silent installation from 13.2.0.x.
 
 
 
 7. Setup is installed.
 
-   > Note: x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with asp.net, asp.netmvc, asp.netmvc-classic, silverlight, windowsforms, windowsphone, winrt, wpf, javascript, or lightswitch.
+   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with asp.net, asp.netmvc, asp.netmvc-classic, silverlight, windowsforms, windowsphone, winrt, wpf, javascript, or lightswitch.
    
 
 ### Command Line Uninstallation
@@ -162,4 +162,4 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 8. Setup is uninstalled.
 
-    > Note: x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with asp.net, asp.netmvc, asp.netmvc-classic, silverlight, windowsforms, windowsphone, winrt, wpf, javascript, or lightswitch.
+    N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with asp.net, asp.netmvc, asp.netmvc-classic, silverlight, windowsforms, windowsphone, winrt, wpf, javascript, or lightswitch.

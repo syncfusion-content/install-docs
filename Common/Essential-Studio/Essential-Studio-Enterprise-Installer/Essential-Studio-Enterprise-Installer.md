@@ -29,7 +29,7 @@ The Essential Studio Enterprise Installer includes all of the following platform
 * WPF
 
 
- > Note: WinRT can only be installed from Windows 8.
+ N> WinRT can only be installed from Windows 8.
 
 You are provided with the separate installers for FileFormat, Android and Xamarin platforms. 
 
@@ -45,7 +45,7 @@ The following procedure illustrates how to install Essential Studio setup. 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
 
-    > Note: The WinZip Self-Extractor extracts the syncfusionessentialstudio(version).exe dialog, displaying the unzip operation of the package.
+    N> The WinZip Self-Extractor extracts the syncfusionessentialstudio(version).exe dialog, displaying the unzip operation of the package.
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
@@ -53,7 +53,7 @@ The following procedure illustrates how to install Essential Studio setup. 
 
 3.  Click Next.
 
-    > Note: The Unlock Key is validated and the License Agreement Screen opens.
+    N> The Unlock Key is validated and the License Agreement Screen opens.
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
 
@@ -64,7 +64,7 @@ The following procedure illustrates how to install Essential Studio setup. 
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
 
-    > Note: You can also browse and choose a location by clicking Browse. When you have already installed any other version‘s setup, you cannot change the install path.
+    N> You can also browse and choose a location by clicking Browse. When you have already installed any other version‘s setup, you cannot change the install path.
 
 6.  To install in the displayed default location, click Next.
 
@@ -72,7 +72,7 @@ The following procedure illustrates how to install Essential Studio setup. 
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img8.png)
 
-    > Note: WinRT platforms will install only from Windows 8.
+    N> WinRT platforms will install only from Windows 8.
 
 8.  Click Next. The Select Advanced Options screen opens.
 
@@ -90,7 +90,7 @@ The following procedure illustrates how to install Essential Studio setup. 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img11.png)
 
 
-    > Note: The Completed screen is displayed once the selected platform is installed.
+    N> The Completed screen is displayed once the selected platform is installed.
 
 
 
@@ -100,7 +100,7 @@ The following procedure illustrates how to install Essential Studio setup. 
 
 11. Click Finish. Essential Studio is installed in your system and Syncfusion Essential Studio Dashboard is launched automatically. For more information, refer to [Brief Tour of Dashboard](http://help.syncfusion.com/ug/common/index.html#!Documents/dashboard.htm).
 
-    > Note: The Completed screen is displayed once the selected platform is installed.
+    N> The Completed screen is displayed once the selected platform is installed.
 
 	
 ## Command Line 
@@ -125,7 +125,7 @@ Follow the given steps to install through Command Line in Silent mode.
 
    “Setup file path\SyncfusionEssentialStudio_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] 
 
-    > Note: [..] – Arguments inside the square brackets are optional.
+    N> [..] – Arguments inside the square brackets are optional.
  
     Example: “D:\Temp\SyncfusionEssentialStudio_12.1.0.43.exe” Install /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio.log” /InstallPath:C:\Syncfusion\x.x.x.x
 
@@ -137,18 +137,18 @@ Follow the given steps to install through Command Line in Silent mode.
 
     “Setup file path\SyncfusionEssentialStudio_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
 
-    > Note: [..] – Arguments inside the square brackets are optional.
+    N> [..] – Arguments inside the square brackets are optional.
 
 
 
     Example: “D:\Temp\SyncfusionEssentialStudio_13.2.0.30.exe” /Install silent /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true
 
 
-    > Note: We have provided Advanced Options in silent installation from Syncfusion Version 13.2.0.x.
+    N> We have provided Advanced Options in silent installation from Syncfusion Version 13.2.0.x.
 
 7. Setup is installed.
 
-   > Note: x.x.x.x needs to be replaced with the Essential Studio version installed on your machine, and product unlock key needs to be replaced with the Unlock Key for that version.
+   N> x.x.x.x needs to be replaced with the Essential Studio version installed on your machine, and product unlock key needs to be replaced with the Unlock Key for that version.
 
    
 ### Command Line Uninstallation
@@ -186,4 +186,4 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 
 8. Setup is uninstalled.
-   > Note: x.x.x.x need to be replaced with the Essential studio version installed in your machine and the product unlock key needs to be replaced with the unlock key for that version.
+   N> x.x.x.x need to be replaced with the Essential studio version installed in your machine and the product unlock key needs to be replaced with the unlock key for that version.

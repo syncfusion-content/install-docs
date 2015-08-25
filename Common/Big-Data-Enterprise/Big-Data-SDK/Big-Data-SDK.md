@@ -21,7 +21,7 @@ The following are the steps to install the Big Data SDK Setup.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
    
-   > Note: The WinZip Self-Extractor extracts the syncfusionbigdata_(version).exe dialog, displaying the unzip operation of the package. 
+   N> The WinZip Self-Extractor extracts the syncfusionbigdata_(version).exe dialog, displaying the unzip operation of the package. 
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
@@ -39,7 +39,7 @@ The following are the steps to install the Big Data SDK Setup.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
 
-   > Note: The Completed screen is displayed after the Big Data SDK platform is installed.
+   N> The Completed screen is displayed after the Big Data SDK platform is installed.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img8.png)
 
@@ -70,7 +70,7 @@ Follow the given steps to install through Command Line in Silent mode.
 
 7. Setup is installed.
    
-   > Note: x.x.x.x needs to be replaced with the Big Data version installed on your machine.
+   N> x.x.x.x needs to be replaced with the Big Data version installed on your machine.
    
 
 ### Command Line Uninstallation

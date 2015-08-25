@@ -22,7 +22,7 @@ The following are the steps to install the Big Data Agent Setup.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
-   > Note: The WinZip Self-Extractor extracts the syncfusionbigdataagent_(version).exe dialog, displaying the unzip operation of the package._ 
+   N> The WinZip Self-Extractor extracts the syncfusionbigdataagent_(version).exe dialog, displaying the unzip operation of the package._ 
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
@@ -35,7 +35,7 @@ The following are the steps to install the Big Data Agent Setup.
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
 	
-	> Note: The Completed screen is displayed once the Big Data Agent Platform setup is installed.
+	N> The Completed screen is displayed once the Big Data Agent Platform setup is installed.
 
     ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.png)
 
@@ -58,7 +58,7 @@ Follow the given steps to install through Command Line in Silent mode.
 
 2. Setup is installed.
 
-   > Note: x.x.x.x needs to be replaced with the Big Data version installed on your machine.
+   N> x.x.x.x needs to be replaced with the Big Data version installed on your machine.
    
    
 ### Command Line Uninstallation

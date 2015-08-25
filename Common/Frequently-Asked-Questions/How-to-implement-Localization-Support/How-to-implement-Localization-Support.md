@@ -34,7 +34,7 @@ The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localizatio
 
     (Your Application)\bin\Debug\en-US \LocBaml /parse Syncfusion.Tools.WPF.Resources.dll /out:resourceStrings.csv
 
-    > Note: The .csv files can be edited via MS Excel or Notepad. This file contains string resources with the default text in the English language.
+    N> The .csv files can be edited via MS Excel or Notepad. This file contains string resources with the default text in the English language.
 
 5.  Open the .csv file using MS Excel or Notepad, and change the texts based on your culture. 
 
@@ -46,7 +46,7 @@ The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localizatio
 7.  Open Command Prompt, and navigate to the en-US directory. 
 8.  Create another directory fr-CH under Bin\Debug folder using the fr-CH command.
 
-    > Note: The Directory name should follow a proper culture name.
+    N> The Directory name should follow a proper culture name.
 
 9.  Generate your own culture-specific assembly using the following command from en-US folder:
 
@@ -82,7 +82,7 @@ The following image illustrates Calendar control in the French language.
 
 ![](WPF_images/WPF_img4.jpeg)
 
- > Note: * Localized strings are not displayed in your application until the created satellite assembly is signed. Send in your newly created assemblies for signing. Your assemblies are signed and sent immediately.
+ N> * Localized strings are not displayed in your application until the created satellite assembly is signed. Send in your newly created assemblies for signing. Your assemblies are signed and sent immediately.
  * It is not required to install satellite assemblies in the GAC or Assemblies folder.
  * Your en-US directory should contain the default satellite assembly, available in the Precompiled Assemblies or Assemblies folder.
  * Application culture change should be included before the InitializeComponent() method call in the application. It is better to include culture change in the App.xaml file.

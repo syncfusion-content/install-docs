@@ -17,7 +17,7 @@ Syncfusion provides patch setup to install a new assembly, either to add new fea
 The following procedure illustrates how to install a patch.
 
 
-> Note: * Before installing the patch, ensure that corresponding Essential Studio version and platforms to install the patch in your machine.* If you installed Syncfusion WinRT platform alone then the Assembly Manager execution dialog will not appear during the patch installation. It will skip this dialog from step 1 to step 4. Because, Assembly Manager Utility is not shipped with WinRT platform.
+N> * Before installing the patch, ensure that corresponding Essential Studio version and platforms to install the patch in your machine.* If you installed Syncfusion WinRT platform alone then the Assembly Manager execution dialog will not appear during the patch installation. It will skip this dialog from step 1 to step 4. Because, Assembly Manager Utility is not shipped with WinRT platform.
 
 
 
@@ -48,7 +48,7 @@ The following procedure illustrates how to install a patch.
    
    ![](Installing-a-Patch-Setup_images/Installing-a-Patch-Setup_img5.png)
 
-   > Note: The patch is installed on your computer, and a dialog box appears when the installation is complete.
+   N> The patch is installed on your computer, and a dialog box appears when the installation is complete.
 
 
 
@@ -79,7 +79,7 @@ The patch can also be installed through Command Line. Follow the given steps to 
    ![](Command-Line-Installation_images/Command-Line-Installation_img1.png)
    
   
-    > Note: /silent – Displays the progress dialog alone during the patch setup installation.
+    N> /silent – Displays the progress dialog alone during the patch setup installation.
 	/verysilent – It is installed in the background.
 
 
@@ -109,10 +109,10 @@ The following steps help you revert to the Release Assemblies. 
 
 
 
-   > Note: x.x.x.x has to be replaced with the corresponding Essential Studio Version.
+   N> x.x.x.x has to be replaced with the corresponding Essential Studio Version.
 
 7. Click Perform Action. The assemblies for that specific version are configured in your machine.
 
 
-   > Note: You can also revert to specific patch assemblies by copying the patch assemblies from the Patch folder and adding them in the precompiledassemblies folder.
+   N> You can also revert to specific patch assemblies by copying the patch assemblies from the Patch folder and adding them in the precompiledassemblies folder.
 

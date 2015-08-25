@@ -39,7 +39,7 @@ The following procedure illustrates how to install Link Install setup.
 
 7.  To install in the displayed default location, click Next.
    
-    > Note: Click Browse to choose a location for installing the Essential Studio assemblies.
+    N> Click Browse to choose a location for installing the Essential Studio assemblies.
 
 8.  The Select Platform screen opens. Select the required platforms to install the assemblies.
 
@@ -49,7 +49,7 @@ The following procedure illustrates how to install Link Install setup.
 
     ![](Link-Install-Setup_images/Link-Install-Setup_img7.png)
 
-    > Note: The Completed screen is displayed once the selected package is installed.
+    N> The Completed screen is displayed once the selected package is installed.
     
     ![](Link-Install-Setup_images/Link-Install-Setup_img9.png)
 
@@ -77,7 +77,7 @@ The following steps illustrate how to install Digitally Signed Assemblies Setup
 
 5.  Click Next.
 
-    > Note: The Unlock Key is validated and the Welcome screen opens.
+    N> The Unlock Key is validated and the Welcome screen opens.
 	
     ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img5.png)
 	
@@ -96,7 +96,7 @@ The following steps illustrate how to install Digitally Signed Assemblies Setup
 
 
 
-    > Note: You can also browse to choose a location by clicking Browse.
+    N> You can also browse to choose a location by clicking Browse.
 
 9.  Click Next. The Setup Type screen opens.
 
@@ -111,7 +111,7 @@ The following steps illustrate how to install Digitally Signed Assemblies Setup
     ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img11.png)
 
 
-    > Note: The Completed screen is displayed once the selected package is installed.
+    N> The Completed screen is displayed once the selected package is installed.
 
     ![](Digitally-Signed-Assemblies-Setup_images/Digitally-Signed-Assemblies-Setup_img13.png)
 
@@ -143,7 +143,7 @@ Syncfusion supports Quick Test Professional software with the help of Essential 
 * Navigation Package
 * Notification Package
 
- > Note: You need to install Syncfusion Essential Studio of the same version and Mercury QuickTestProfessional, before installing this add-on.
+ N> You need to install Syncfusion Essential Studio of the same version and Mercury QuickTestProfessional, before installing this add-on.
 
 ## CAB Add-on
 
@@ -197,13 +197,13 @@ The following are the steps to install the WebKit Setup.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
-   > Note: The WinZip Self-Extractor extracts the syncfusionessentialWebKit_(version).exe dialog, displaying the unzip operation of the package.
+   N> The WinZip Self-Extractor extracts the syncfusionessentialWebKit_(version).exe dialog, displaying the unzip operation of the package.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
    
 
-   > Note: No key is required for Syncfusion WebKit Installer.
+   N> No key is required for Syncfusion WebKit Installer.
 
 2. Click Next.
 
@@ -215,13 +215,13 @@ The following are the steps to install the WebKit Setup.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
 
-   > Note: You can also browse and choose a location by clicking Browse.
+   N> You can also browse and choose a location by clicking Browse.
 
 4. To install in the displayed default location, click Install.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img8.png)
    
-   > Note: The Completed screen is displayed once the WebKit is installed.
+   N> The Completed screen is displayed once the WebKit is installed.
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img10.png)
 
@@ -245,13 +245,13 @@ Follow the given steps to install through Command Line in Silent mode.
 
    “Setup file path\syncfusionessentialwebkit _(version).exe” /Install silent [/log “{Log file path}”] [/InstallPath:{Location to install}]
 
-   > Note: [..] – Arguments inside the square brackets are optional.
+   N> [..] – Arguments inside the square brackets are optional.
 
    Example: “D:\Temp\syncfusionessentialwebkit _13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
 7. Setup is installed.
     
-	> Note: * x.x.x.x needs to be replaced with the WebKit version installed on your machine.* Above steps applicable from the version 13.2.0.x.
+	N> * x.x.x.x needs to be replaced with the WebKit version installed on your machine.* Above steps applicable from the version 13.2.0.x.
    
 #### Command Line Uninstallation
 
@@ -271,4 +271,4 @@ Syncfusion WebKit Installer supports uninstalling the setup through Command Line
 
 8. Setup is uninstalled.
     
-	> Note: * x.x.x.x need to be replaced with the Webkit version installed in your machine.* Above steps applicable from the version 13.2.0.x.
+	N> * x.x.x.x need to be replaced with the Webkit version installed in your machine.* Above steps applicable from the version 13.2.0.x.
