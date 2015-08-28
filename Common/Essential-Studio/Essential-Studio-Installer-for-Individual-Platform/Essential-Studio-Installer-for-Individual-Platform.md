@@ -84,7 +84,7 @@ The following procedure illustrates how to install Essential Studio. 
 
 7. Select the Run Dashboard check box to launch the Dashboard after installing.
 
-8. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Dashboard](http://help.syncfusion.com/ug/common/index.html#!Documents/dashboard.htm) is launched automatically.
+8. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Dashboard](http://docs.syncfusion.com/common/essential-studio/utilities#dashboard ) is launched automatically.
 
 ## Command Line 
 

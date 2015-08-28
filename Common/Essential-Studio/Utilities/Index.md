@@ -91,7 +91,7 @@ The Recheck option rechecks the prerequisites list and refreshes the currently i
 
 
 
-![](Dashboard_images/Dashboard_img14.png)
+![](Dashboard_images/Dashboard_img14.png)	
 
 
 
@@ -100,12 +100,12 @@ The Recheck option rechecks the prerequisites list and refreshes the currently i
 This section allows you to access the following. 
 
 1. Add-ons - This lists the add-on utilities that help you to utilize the additional product services from Syncfusion. 
-2. [Utilities](http://help.syncfusion.com/ug/common/documents/6dashboardutilities.htm)- This accordion set displays the common utilities.
-   * [Toolbox Configuration](http://help.syncfusion.com/ug/common/index.html#!Documents/toolboxconfiguration.htm)- This installer allows you to configure Syncfusion controls for various .NET frameworks in combination with compatible Visual Studio versions.
-   * [Assembly Manager](http://help.syncfusion.com/ug/common/index.html#!Documents/assemblymanager.htm)- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
-   * [Build Manager](http://help.syncfusion.com/ug/common/index.html#!Documents/buildmanager.htm) - This utility allows you to build and debug assemblies using the source installed in Essential Studio’s installed location.
-   * [Documentation](http://help.syncfusion.com/ug/common/index.html#!Documents/documentationsetup.htm)- This provides access to view the online documentation and installed documentation.
-   * [License Manager](http://help.syncfusion.com/ug/common/index.html#!Documents/licensemanager.htm)- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.
+2. [Utilities](http://docs.syncfusion.com/ug//common/essential-studio/utilities#dashboard )- This accordion set displays the common utilities.
+   * [Toolbox Configuration](http://docs.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion controls for various .NET frameworks in combination with compatible Visual Studio versions.
+   * [Assembly Manager](http://docs.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
+   * [Build Manager](http://docs.syncfusion.com/common/essential-studio/utilities#build-manager ) - This utility allows you to build and debug assemblies using the source installed in Essential Studio’s installed location.
+   * [Documentation](http://docs.syncfusion.com/common/essential-studio/documentation-setup )- This provides access to view the online documentation and installed documentation.
+   * [License Manager](http://docs.syncfusion.com/common/essential-studio/utilities#license-manager )- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.
    * LicenseAgreement – This allows you to navigate to the Software License Agreement. 
 
 ### Other Information

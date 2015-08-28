@@ -12,7 +12,7 @@ documentation: ug
 
 ## Overview
 
-The Essential Studio Enterprise Installer includes all of the following platforms. There is also a separate installer for individual platforms. For more information refer to the [Platform installer](http://help.syncfusion.com/ug/common/index.html#!Documents/essentialstudioinstallerforindividualplatforms.htm) section.
+The Essential Studio Enterprise Installer includes all of the following platforms. There is also a separate installer for individual platforms. For more information refer to the [Platform installer](http://docs.syncfusion.com/common/essential-studio/essential-studio-installer-for-individual-platform ) section.
 
 * ASP.NET 
 * ASP.NET (Classic)
@@ -98,7 +98,7 @@ The following procedure illustrates how to install Essential Studio setup. 
 
 10. Select the Run Dashboard check box to launch the Dashboard after installing.
 
-11. Click Finish. Essential Studio is installed in your system and Syncfusion Essential Studio Dashboard is launched automatically. For more information, refer to [Brief Tour of Dashboard](http://help.syncfusion.com/ug/common/index.html#!Documents/dashboard.htm).
+11. Click Finish. Essential Studio is installed in your system and Syncfusion Essential Studio Dashboard is launched automatically. For more information, refer to [Brief Tour of Dashboard](http://docs.syncfusion.com/common/essential-studio/utilities#dashboard ).
 
     N> The Completed screen is displayed once the selected platform is installed.
 
