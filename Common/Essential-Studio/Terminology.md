@@ -58,14 +58,14 @@ Represents an example.</td></tr>
 <tr>
 <td>
 Tip</td><td>
-{{ ' ![http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_2.png](Terminology_images/Terminology_img2.png)' | markdownify }}
+{{ ' ![](Terminology_images/Terminology_img2.png)' | markdownify }}
 
 </td><td>
 Represents useful hints that help you in using the controls/features.</td></tr>
 <tr>
 <td>
 Additional Information</td><td>
-{{ '![http://help.syncfusion.com/ug_94/User%20Interface/Windows%20Forms/Grid/ImagesExt/image9_3.png](Terminology_images/Terminology_img3.png)' | markdownify }}
+{{ '![](Terminology_images/Terminology_img3.png)' | markdownify }}
 
 </td><td>
 Represents additional information on the topic.</td></tr>

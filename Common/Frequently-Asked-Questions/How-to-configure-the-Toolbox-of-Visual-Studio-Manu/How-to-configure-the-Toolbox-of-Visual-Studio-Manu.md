@@ -13,7 +13,7 @@ The following are the steps to load the Syncfusion controls in toolbox of Visual
 
 ## Toolbox Configuration Utility
 
-To configure the toolbox using Toolbox Configuration Utility, refer to [Toolbox Configuration](http://help.syncfusion.com/ug/common/index.html#!Documents/toolboxconfiguration.htm).
+To configure the toolbox using Toolbox Configuration Utility, refer to [Toolbox Configuration](/common/essential-studio/utilities#toolbox-configuration).
 
 ## Manually Configuring VS Toolbox
 
