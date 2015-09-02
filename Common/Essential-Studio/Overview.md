@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Big-Data-Agent
-description: big data agent
+title: Essential Studio Overview
+description: Essential Studio
 platform: common
 control: Essential Studio
 documentation: ug
