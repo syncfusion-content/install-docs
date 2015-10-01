@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samples
+title: Samples | common | Syncfusion
 description: samples
 platform: common
 control: Essential Studio
@@ -147,7 +147,7 @@ Online samples are provided for ASP.NET, ASP.NET MVC, ASP.NET MVC (Classic), Sil
 
 The following table lists the links to the online samples.
 
-Table 3: Online samples
+
 
 <table>
 <tr>

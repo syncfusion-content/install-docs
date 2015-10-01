@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terminology
+title: Terminology | common | Syncfusion
 description: terminology
 platform: common
 control: Essential Studio
@@ -11,7 +11,7 @@ documentation: ug
 
 The Terminology section covers documentation conventions used in this manual. 
 
-Table 1: Terminology
+
 
 <table>
 <tr>

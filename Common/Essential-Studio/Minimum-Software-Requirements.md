@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minimum-Software-Requirements
+title: Minimum Software Requirements | common | Syncfusion
 description: minimum software requirements 
 platform: common
 control: Essential Studio

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Studio Overview
+title: Essential Studio Overview | common | Syncfusion
 description: Essential Studio
 platform: common
 control: Essential Studio
@@ -13,7 +13,8 @@ Welcome to the Syncfusion Essential Studio product documentation. The following 
 
 ![](Terminology_images/Essential-Studio_img1.png)
 
-Figure 1: Essential Studio User Guide
+Essential Studio User Guide
+{:.caption}
 
 Essential Studio consists of several .NET libraries that provide support for building modern Windows Forms, Windows Phones, WPF, Silverlight, LightSwitch, ASP.NET, ASP.NET(Classic), ASP.NET MVC, ASP.NET MVC (Classic), JavaScript, FileFormats, Universal and WinRT applications. The packages can the Release-xml configuration for SfDataGrid be used in any .NET environment, including C#, VB.NET, and managed C++.It also consists of iOS and Android that have the Xcode Framework library and Jars respectively.
 

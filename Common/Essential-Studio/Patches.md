@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patches
+title: Patches | common | Syncfusion
 description: patches
 platform: common
 control: Essential Studio

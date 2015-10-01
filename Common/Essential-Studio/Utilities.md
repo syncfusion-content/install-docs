@@ -100,7 +100,7 @@ The Recheck option rechecks the prerequisites list and refreshes the currently i
 This section allows you to access the following. 
 
 1. Add-ons - This lists the add-on utilities that help you to utilize the additional product services from Syncfusion. 
-2. [Utilities](http://docs.syncfusion.com/ug//common/essential-studio/utilities#dashboard )- This accordion set displays the common utilities.
+2. [Utilities](http://docs.syncfusion.com/common/essential-studio/utilities#dashboard ) - This accordion set displays the common utilities.
    * [Toolbox Configuration](http://docs.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion controls for various .NET frameworks in combination with compatible Visual Studio versions.
    * [Assembly Manager](http://docs.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
    * [Build Manager](http://docs.syncfusion.com/common/essential-studio/utilities#build-manager ) - This utility allows you to build and debug assemblies using the source installed in Essential Studio’s installed location.
@@ -229,7 +229,7 @@ Working with Syncfusion assemblies that have been built and tested with specific
 
 The assembly version format has been changed to provide support for framework version 4.5.1 of Essential Studio 11.4.0.26. Refer the following table for the new assembly version’s format.
 
-Table 4: Assembly Version Format
+
 
 <table>
 <tr>
