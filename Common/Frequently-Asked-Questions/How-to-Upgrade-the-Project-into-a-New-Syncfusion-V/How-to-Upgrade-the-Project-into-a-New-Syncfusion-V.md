@@ -12,7 +12,7 @@ documentation: ug
 
 ## Upgrade the Project Using Project Migration Utility
 
-To upgrade the project using the Project Migration Utility, refer to [Project Migration](http://docs.syncfusion.com/common/essential-studio/utilities#project-migration).
+To upgrade the project using the Project Migration Utility, refer to [Project Migration](http://help.syncfusion.com/common/essential-studio/utilities#project-migration).
 
 ## Upgrading the Projects Manually
 
@@ -42,7 +42,7 @@ When you want to switch the framework version while upgrading the project, use t
 
 After switching the framework version using Multi-Target Manager, remove the bin and obj folders from your local project directory, and then recompile your project.
 
-For more details about Multi-Target Manager, refer to [Multi-Target Manager](http://docs.syncfusion.com/common/essential-studio/utilities#multi-target-manager).
+For more details about Multi-Target Manager, refer to [Multi-Target Manager](http://help.syncfusion.com/common/essential-studio/utilities#multi-target-manager).
 
 ### Migrating the Resource Files
 
