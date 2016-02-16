@@ -15,7 +15,7 @@ Provided here are the online and offline samples.
 
 The samples from Syncfusion Essential Studio setup are provided. The samples are installed in the following location. The sample is run from IIS or Local server. The installed samples are configured for IIS 7.0 and IIS 7.5 installed machines, otherwise the samples run from the local server.
 
-You can run the samples from the Dashboard’s Run Samples buttonfor each platform. 
+You can run the samples from the Dashboard’s Run Samples button for each platform. 
 
 
 

@@ -132,7 +132,7 @@ Follow the steps provided to localize strings for your culture:
 
 ### Assign Current UI Culture to the Application
 
-By default, the Current Culture is en-US. You can change the CurrentUICulture. Here, CurentUICulture should be set beforethe IntializeComponent in your StartUp page, here, MainPage.xaml.cs, or you can do it in App.xaml.cs in the Application Startup event.
+By default, the Current Culture is en-US. You can change the CurrentUICulture. Here, CurrentUICulture should be set before the InitializeComponent in your StartUp page, here, MainPage.xaml.cs, or you can do it in App.xaml.cs in the Application Startup event.
 
 {% highlight c# %}
 
