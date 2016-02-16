@@ -117,7 +117,7 @@ Syncfusion provides lots of online and local samples for better understanding of
 * License Agreement – To view the License Agreement.
 * Release Notes - To view the “Release Notes” content.
 * ReadMe - To view the “ReadMe” content.
-* Recheck – Torecheck the prerequisites list and refresh the currently installed software list.
+* Recheck – To recheck the prerequisites list and refresh the currently installed software list.
 
 ### Big Data Studio
 

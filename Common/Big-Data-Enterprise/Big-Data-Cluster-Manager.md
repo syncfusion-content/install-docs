@@ -116,7 +116,7 @@ Click any of the following to know more about the selected product.
 * License Agreement – To view the user’s license information.
 * Release Notes - To view the “Release Notes” content.
 * ReadMe - To view the “ReadMe” content.
-* Recheck – Torecheck the prerequisites list and refresh the currently installed software list.
+* Recheck – To recheck the prerequisites list and refresh the currently installed software list.
 
 ### Big Data Cluster Manager Studio
 
