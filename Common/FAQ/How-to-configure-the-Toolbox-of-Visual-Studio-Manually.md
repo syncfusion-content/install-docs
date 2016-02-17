@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-to-configure-the-Toolbox-of-Visual-Studio-Manu
+title: How-to-configure-the-Toolbox-of-Visual-Studio-Manually
 description: how to configure the toolbox of visual studio manually?
 platform: common
 control: Essential Studio

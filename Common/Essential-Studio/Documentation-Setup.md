@@ -9,7 +9,7 @@ documentation: ug
 
 # Documentation Setup  
 
-Documentation is provided forboth User Guide and Class Reference.
+Documentation is provided for both User Guide and Class Reference.
 
 
 ## User Guide
