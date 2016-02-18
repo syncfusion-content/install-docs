@@ -163,7 +163,7 @@ Use the following steps to run the Assembly Manager.
 
    Framework
 
-   The Framework group box comprises of checkboxes for the .NET framework versions based on the Visual Studio SDK installed in the machine. The following checkboxes are available:
+   The Framework group box comprises of check boxes for the .NET framework versions based on the Visual Studio SDK installed in the machine. The following check boxes are available:
 
    * 4.5.1 - Selecting 4.5.1 ensures installation of 4.5.1 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2013 SDK is installed, the 4.5.1 assemblies have to be deployed.
    * 4.5 - Selecting 4.5 ensures installation of 4.5 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2012 SDK is installed, the 4.5 assemblies have to be deployed.
@@ -507,7 +507,7 @@ Multi-Target Manager helps to manage multiple .NET frameworks in your Visual Stu
 
 ### When to Use Multi-Target Manager?
 
-When Essential Studio is installed in a machine comprising both 2.0 and 3.5 frameworks, then, by default, the target framework is set to 3.5, and the following registry entry AssemblyFoldersEx is also set to 3.5 assembly. You can use the Multi-Target Manager tochange the target framework to 2.0. 
+When Essential Studio is installed in a machine comprising both 2.0 and 3.5 frameworks, then, by default, the target framework is set to 3.5, and the following registry entry AssemblyFoldersEx is also set to 3.5 assembly. You can use the Multi-Target Manager to change the target framework to 2.0. 
 
 HKLM\Software\Microsoft\.NetFramework\v2.0.50727\AssemblyFoldersEx\Syncfusion Essential Studio 3.5
 
