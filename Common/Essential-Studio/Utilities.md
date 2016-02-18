@@ -163,7 +163,7 @@ Use the following steps to run the Assembly Manager.
 
    Framework
 
-   The Framework group box comprises of checkboxes for the .NET framework versions based on the Visual Studio SDK installed in the machine. The following checkboxes are available:
+   The Framework group box comprises of check boxes for the .NET framework versions based on the Visual Studio SDK installed in the machine. The following check boxes are available:
 
    * 4.5.1 - Selecting 4.5.1 ensures installation of 4.5.1 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2013 SDK is installed, the 4.5.1 assemblies have to be deployed.
    * 4.5 - Selecting 4.5 ensures installation of 4.5 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2012 SDK is installed, the 4.5 assemblies have to be deployed.
