@@ -145,9 +145,9 @@ Use the following steps to run the Assembly Manager.
 
 5. Select the required option from Select Assembly Type.
 
-   * Pre-built Assemblies - These are the assemblies shipped with Essential Studio. Selecting this mode triggers the AssemblyManager to install the pre-built assemblies. 
+   * Pre-built Assemblies - These are the assemblies shipped with Essential Studio. Selecting this mode triggers the Assembly Manager to install the pre-built assemblies. 
 
-   * Debug and Release Assemblies - This mode triggers the AssemblyManager to install custom versions, built from the source code, using Build Manager. These assemblies can be used only when the source code for at least one of the Essential Studio products, has been installed. This triggers the AssemblyManager to install custom versions built from source code, installed on your machine. Applies only to versions of the product that come with the source code.
+   * Debug and Release Assemblies - This mode triggers the Assembly Manager to install custom versions, built from the source code, using Build Manager. These assemblies can be used only when the source code for at least one of the Essential Studio products, has been installed. This triggers the Assembly Manager to install custom versions built from source code, installed on your machine. Applies only to versions of the product that come with the source code.
 
     N> The Build Manager application must be run to build, debug or release versions of the assemblies before the Assembly Manager can install the custom built assemblies.
 
@@ -155,7 +155,7 @@ Use the following steps to run the Assembly Manager.
 
    Action
 
-   The AssemblyManager can install or uninstall assemblies. To perform this action, select the Install version x.x.x.x or Remove version x.x.x.x radio button. To remove all, select the Remove All Versions radio button.
+   The Assembly Manager can install or uninstall assemblies. To perform this action, select the Install version x.x.x.x or Remove version x.x.x.x radio button. To remove all, select the Remove All Versions radio button.
    
     N> Remove All Versions must be used with caution in scenarios when one has applications depending on certain versions of the Syncfusion assemblies installed in the GAC. They may cease to function.
 
@@ -165,6 +165,7 @@ Use the following steps to run the Assembly Manager.
 
    The Framework group box comprises of check boxes for the .NET framework versions based on the Visual Studio SDK installed in the machine. The following check boxes are available:
 
+   * 4.6 - Selecting 4.6 ensures installation of 4.6 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2015 SDK is installed, the 4.6 assemblies have to be deployed.
    * 4.5.1 - Selecting 4.5.1 ensures installation of 4.5.1 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2013 SDK is installed, the 4.5.1 assemblies have to be deployed.
    * 4.5 - Selecting 4.5 ensures installation of 4.5 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2012 SDK is installed, the 4.5 assemblies have to be deployed.
    * 4.0 - Selecting 4.0 ensures installation of 4.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2010 SDK is installed, the 4.0 assemblies have to be deployed.
@@ -186,7 +187,6 @@ Use the following steps to run the Assembly Manager.
 
    ![](Utilities_images/Assembly-Manager_img9.png)
 
-   ![](Utilities_images/Assembly-Manager_img10.png)
 
 N> In earlier versions, the Assembly Manager also served as Build Manager to build custom versions of the Syncfusion assemblies. Now, this function has been moved to a separate BuildManager utility. Installation of assemblies to the Visual Studio.NET toolbox is now handled by a separate utility called the ToolboxInstaller. The new Assembly Manager just handles installation of assemblies to the GAC and the assemblies’ folder; the Assemblies folder is applicable only when Visual Studio.NET is installed.
 
@@ -214,10 +214,10 @@ In the Assemblies folder, the assemblies are available in the following instal
 
  N> * The sub-folder 3.5 is used with .NET 3.5 and the sub-folder 2.0 is used with .NET 2.0. In most cases, [System Drive]:\ is C:\.
  * In 2.0 and 3.5 GAC, the assemblies are available in the installation path System Drive:\WINDOWS\assembly. 
- * In 4.0, 4.5, and 4.5.1 GAC, the assemblies are available in the installation path System Drive:\WINDOWS\ Microsoft.NET\assembly\GAC_MSIL.
+ * In 4.0, 4.5, 4.5.1 and 4.6 GAC, the assemblies are available in the installation path System Drive:\WINDOWS\ Microsoft.NET\assembly\GAC_MSIL.
 
 
-Essential Studio ships the pre-built 2.0, 3.5, 4.0, 4.5, and 4.5.1 .NET Framework versions of the Syncfusion assemblies. These assemblies are located in the PreCompiledAssemblies folder.        
+Essential Studio ships the pre-built 2.0, 3.5, 4.0, 4.5, 4.5.1 and 4.6 .NET Framework versions of the Syncfusion assemblies. These assemblies are located in the PreCompiledAssemblies folder.        
 
 System Drive:\Program Files\Syncfusion\Essential Studio\x.x.x.x\PreCompiledAssemblies\x.x.x.x\2.0 
 
@@ -239,46 +239,52 @@ Platforms/Frameworks</td><td>
 3.5</td><td>
 4.0</td><td>
 4.5</td><td>
-4.5.1</td></tr>
+4.5.1</td><td>
+4.6</td></tr>
 <tr>
 <td>
 Windows Forms</td><td>
-12.2200.0.36</td><td>
-12.2350.0.36</td><td>
-12.2400.0.36</td><td>
-12.2450.0.36</td><td>
-12.2451.0.36</td></tr>
+13.4200.0.x</td><td>
+13.4350.0.x</td><td>
+13.4400.0.x</td><td>
+13.4450.0.x</td><td>
+13.4451.0.x</td><td>
+13.4460.0.x</td></tr>
 <tr>
 <td>
 ASP.NET</td><td>
 NA</td><td>
-12.4350.0.x</td><td>
-12.4400.0.x</td><td>
-12.4450.0.x</td><td>
-12.4451.0.x</td></tr>
+13.4350.0.x</td><td>
+13.4400.0.x</td><td>
+13.4450.0.x</td><td>
+13.4451.0.x</td><td>
+13.4460.0.x</td></tr>
 <tr>
 <td>
 ASP.NET (Classic)</td><td>
 NA</td><td>
 NA</td><td>
-12.4400.0.x</td><td>
-12.4450.0.x</td><td>
-12.4451.0.x</td></tr>
+13.4400.0.x</td><td>
+13.4450.0.x</td><td>
+13.4451.0.x</td><td>
+NA</td></tr>
 <tr>
 <td>
 ASP.NET MVC</td><td>
 NA</td><td>
 NA</td><td>
-MVC 3 - 12.4300.0.xMVC 4 - 12.4400.0.x</td><td>
-MVC 5 - 12.4500.0.x</td><td>
-NA</td></tr>
+MVC 3 - 13.4300.0.xMVC 4 - 12.4400.0.x</td><td>
+MVC 5 - 13.4500.0.x</td><td>
+NA</td><td>
+MVC 6 - 13.4600.0.x</td></tr>
 <tr>
 <td>
 ASP.NET MVC (Classic)</td><td>
 NA</td><td>
 NA</td><td>
-MVC 3 - 12.4300.0.xMVC 4 - 12.4400.0.x</td><td>
-MVC 5 - 12.4500.0.x</td><td>
+MVC 3 - 13.4300.0.xMVC 4 - 12.4400.0.x</td><td>
+MVC 5 - 13.4500.0.x</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -287,21 +293,24 @@ NA</td><td>
 NA</td><td>
 MVC 3 - 11.4300.0.xMVC 4 - 11.4400.0.x</td><td>
 MVC 5 - 11.4500.0.x</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
 WPF</td><td>
 NA</td><td>
-12.4350.0.x</td><td>
-12.4400.0.X</td><td>
-12.4450.0.X</td><td>
-12.4451.0.X</td></tr>
+13.4350.0.x</td><td>
+13.4400.0.X</td><td>
+13.4450.0.X</td><td>
+13.4451.0.X</td><td>
+13.4460.0.x</td></tr>
 <tr>
 <td>
 Silverlight</td><td>
 NA</td><td>
 NA</td><td>
-SL4 - 12.4400.0.xSL5 - 12.4500.0.x</td><td>
+SL4 - 13.4400.0.xSL5 - 13.4500.0.x</td><td>
+NA</td><td>
 NA</td><td>
 NA</td></tr>
 <tr>
@@ -309,17 +318,19 @@ NA</td></tr>
 Windows Phone</td><td>
 NA</td><td>
 NA</td><td>
-   NA</td><td>
-WP8 – 12.4800.0.x</td><td>
-12.4810.0.x</td></tr>
+NA</td><td>
+WP8 – 13.4800.0.x</td><td>
+13.4810.0.x</td><td>
+NA</td></tr>
 <tr>
 <td>
 WinRT</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-Windows 8.0 – 12.x800.0.x</td><td>
-Windows 8.1 – 12.4810.0.x</td></tr>
+Windows 8.0 – 13.x800.0.x</td><td>
+Windows 8.1 – 13.4810.0.x</td><td>
+NA</td></tr>
 <tr>
 <td>
 Universal</td><td>
@@ -327,7 +338,17 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-12.4451.0.x</td></tr>
+13.4451.0.x</td><td>
+NA</td></tr>
+<tr>
+<td>
+Universal Windows</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+13.4460.0.x</td></tr>
 <tr>
 <td>
 Xamarin</td><td>
@@ -335,7 +356,8 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-12.4451.0.x</td></tr>
+13.4451.0.x</td><td>
+NA</td></tr>
 </table>
 
 
@@ -367,7 +389,7 @@ This window contains seven sections. 
 
 1. Framework Version 
 
-   The Framework Version group box has five options: .NET 2.0, .NET 3.5, .NET 4.0, .NET 4.5 and .NET 4.5.1. When Visual Studio 2013 is not installed in your system, the .NET 4.5 option is selected by default. When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default. When Visual Studio 2010 is not installed in your system, .NET 3.5 option is selected by default. When Visual Studio 2008 is not installed in your system, .NET 2.0 option is selected by default. You can change the default option by clicking the Other button. The version of the .NET framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies. 
+   The Framework Version group box has six options: .NET 2.0, .NET 3.5, .NET 4.0, .NET 4.5, .NET 4.5.1 and .NET 4.6. When Visual Studio 2015 is not installed in your system, the .NET 4.5.1 option is selected by default. When Visual Studio 2013 is not installed in your system, the .NET 4.5 option is selected by default. When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default. When Visual Studio 2010 is not installed in your system, .NET 3.5 option is selected by default. When Visual Studio 2008 is not installed in your system, .NET 2.0 option is selected by default. You can change the default option by clicking the Other button. The version of the .NET framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies. 
 
 2. Product
 
@@ -485,6 +507,9 @@ The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual St
    * Install VS2010 – Configures Framework 4.0 Syncfusion controls in VS 2010 toolbox.
    * Install VS2012 – Configures Framework 4.5 Syncfusion controls in VS 2012 toolbox.
    * Install VS2013 – Configures Framework 4.5.1 Syncfusion controls in VS 2013 toolbox.
+   * Install VS2015 – Configures Framework 4.6 Syncfusion controls in VS 2015 toolbox.
+   
+    N> You can also configure Syncfusion controls from a lower version framework assembly to higher version of Visual Studio.
    
 4. An Information message is displayed indicating the successful configuration of Toolbox. Click OK.
 
@@ -509,7 +534,7 @@ Multi-Target Manager helps to manage multiple .NET frameworks in your Visual Stu
 
 When Essential Studio is installed in a machine comprising both 2.0 and 3.5 frameworks, then, by default, the target framework is set to 3.5, and the following registry entry AssemblyFoldersEx is also set to 3.5 assembly. You can use the Multi-Target Manager to change the target framework to 2.0. 
 
-HKLM\Software\Microsoft\.NetFramework\v2.0.50727\AssemblyFoldersEx\Syncfusion Essential Studio 3.5
+HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essential Studio 3.5
 
 ### Launching MultiTarget Manager 
 
