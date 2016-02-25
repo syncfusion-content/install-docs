@@ -14,40 +14,41 @@ documentation: ug
 
 The Essential Studio Enterprise Installer includes all of the following platforms. There is also a separate installer for individual platforms. For more information refer to the [Platform installer](http://help.syncfusion.com/common/essential-studio/essential-studio-installer-for-individual-platform ) section.
 
-* ASP.NET 
-* ASP.NET (Classic)
-* ASP.NET MVC 
-* ASP.NET MVC (Classic)
+* ASP.NET MVC
+* ASP.NET
 * JavaScript
-* LightSwitch HTML
-* LightSwitch Silverlight 
-* Silverlight
-* Universal
-* Windows Forms
-* Windows Phone
-* WinRT
 * WPF
+* Windows Forms
+* Xamarin
+* WinRT 
+* Universal Windows
+* Android
+* Windows Phone
+* LightSwitch HTML
+* Universal
 
 
- N> WinRT can only be installed from Windows 8.
+ N> WinRT can only be installed from Windows 8 and later. Universal Windows platform will be installed only in Windows 10. Also Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53).
 
-You are provided with the separate installers for FileFormat, Android and Xamarin platforms. 
+You are provided with the separate installer for FileFormat. 
 
 Also, you are provided iOS packages as zip file. It contains framework library of the controls and samples. 
 
-
+ N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53).
+ 
+ 
 ## Step-by-Step Installation
 
 The following procedure illustrates how to install Essential Studio setup. 
 
-1.  Double-click the Syncfusion Essential Studio Setup file. The Self-ExtractorWizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Essential Studio Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
    
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img1.png)
 
 
     N> The WinZip Self-Extractor extracts the syncfusionessentialstudio(version).exe dialog, displaying the unzip operation of the package.
 
-    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img3.png)
+    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img2.png)
 
 2.  Enter your User Name, Organization, and Unlock Key in the corresponding text boxes provided.
 
@@ -55,54 +56,44 @@ The following procedure illustrates how to install Essential Studio setup. 
 
     N> The Unlock Key is validated and the License Agreement Screen opens.
 
-    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img5.png)
+    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img3.png)
 
 4.  After reading the terms, click the I accept the terms and conditions check box.
 
-5.  Click Next. Select the Installation and Samples Folder screen opens.
+5.  Click Next. Select the platforms to be installed.
 
+    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img4.png)
 
-    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img6.png)
+    N> WinRT platforms will be installed only from Windows 8 and later. Universal Windows platform will be installed only in Windows 10.
 
-    N> You can also browse and choose a location by clicking Browse. When you have already installed any other version‘s setup, you cannot change the install path.
+6.  Select the Installation, Samples Folder and Advanced Options screen opens. To install in the displayed default location, click Next.
 
-6.  To install in the displayed default location, click Next.
-
-7.  Select the platforms to be installed.
-
-    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img8.png)
-
-    N> WinRT platforms will install only from Windows 8.
-
-8.  Click Next. The Select Advanced Options screen opens.
-
-    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img10.png)
+    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img5.png)
+	
+	N> You can also browse and choose a location by clicking Browse. When you have already installed any other same version‘s setup, you cannot change the install path.
 
     * Select the Install Syncfusion samples check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
     * Select the Register Syncfusion assemblies in GAC check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
     * Select the Uninstall previously installed Syncfusion assemblies from GAC check box to uninstall the previously installed Syncfusion assemblies from GAC, or clear this check box to maintain the previously installed assemblies.
     * Select the Configure Syncfusion controls in Visual Studio Toolbox (if assemblies installed) check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
 
+7.  Click Install.
 
-
-9.  Click Install.
-
-    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img11.png)
-
+    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img6.png)
 
     N> The Completed screen is displayed once the selected platform is installed.
 
+    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img7.png)
+
+8. Select the Run Dashboard check box to launch the Dashboard after installing.
+
+9. Click Finish. Essential Studio is installed in your system and Syncfusion Essential Studio Dashboard is launched automatically. For more information, refer to [Brief Tour of Dashboard](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ).
+
+## MSI Installer
+
+Syncfusion has started providing MSI setup for Essential Studio Enterprise Installer from the version 13.4. Please refer the steps provided in [MSI Installation](http://www.syncfusion.com/kb/6041) for installing the MSI Installer.  	
 
 
-    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img13.png)
-
-10. Select the Run Dashboard check box to launch the Dashboard after installing.
-
-11. Click Finish. Essential Studio is installed in your system and Syncfusion Essential Studio Dashboard is launched automatically. For more information, refer to [Brief Tour of Dashboard](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ).
-
-    N> The Completed screen is displayed once the selected platform is installed.
-
-	
 ## Command Line 
 
 Syncfusion Essential Studio supports installing the setup through Command Line Install and Uninstall. The following sections illustrate these options. 
@@ -112,14 +103,14 @@ Syncfusion Essential Studio supports installing the setup through Command Line I
 
 Follow the given steps to install through Command Line in Silent mode.
 
-1. Double-click the Syncfusion Essential Studio Setup file. The Self-ExtractorWizard opens and extracts the package automatically.
+1. Double-click the Syncfusion Essential Studio Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
 2. The SyncfusionEssentialStudio_(version).exe file is extracted into the Temp folder. 
 3. Run %temp%. The Temp folder opens. The SyncfusionEssentialStudio_(version).exe file is available in one of the folders.
 4. Copy the SyncfusionEssentialStudio_(version).exe file in local drive. Example: D:\temp
 5. Cancel the wizard.
 6. Open Command Prompt in administrator mode and pass the following arguments for corresponding version:
    
-   Essential Studio version 13.1 and earlier:
+   Essential Studio version from 11.1 to 13.1:
 
 
 
@@ -156,7 +147,7 @@ Follow the given steps to install through Command Line in Silent mode.
 Syncfusion Essential Studio supports uninstalling the setup through Command Line in Silent mode. The following steps help you uninstall the setup. 
 
 1. When you do not have the extracted setup (SyncfusionEssentialStudio_(version).exe) then follow the steps from 2 to 7.
-2. Double-click the Syncfusion Essential Studio Setup file. The Self-ExtractorWizard opens and extracts the package automatically.
+2. Double-click the Syncfusion Essential Studio Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
 3. The SyncfusionEssentialStudio_(version).exe file gets extracted into the Temp folder.
 4. Run %temp%. The Temp folder opens. The SyncfusionEssentialStudio_(version).exe file is available in one of the folders.
 5. Copy the SyncfusionEssentialStudio_(version).exe file in local drive. Example: D:\temp
@@ -165,7 +156,7 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 
 
-   Essential Studio version 13.1 and earlier:
+   Essential Studio version from 11.1 to 13.1:
 
 
 
@@ -186,4 +177,5 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 
 8. Setup is uninstalled.
+
    N> x.x.x.x need to be replaced with the Essential studio version installed in your machine and the product unlock key needs to be replaced with the unlock key for that version.

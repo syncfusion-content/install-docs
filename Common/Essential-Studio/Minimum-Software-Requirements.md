@@ -45,7 +45,7 @@ Minimum 256 MB in RAM</td></tr>
 <tr>
 <td>
 Free Space</td><td>
-Minimum 8 GB free space in system drive</td></tr>
+Minimum 12 GB free space in system drive</td></tr>
 </table>
 
 

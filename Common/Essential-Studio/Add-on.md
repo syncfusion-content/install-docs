@@ -17,7 +17,7 @@ Syncfusion provides the Link Install Setup to configure the Syncfusion control
 
 The following procedure illustrates how to install Link Install setup.
 
-1.  Double-click the Syncfusion Link Install Setup file. The Self-ExtractorWizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Link Install Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
 
     ![](Add-on_images/Link-Install-Setup_img1.png)
 
@@ -33,19 +33,19 @@ The following procedure illustrates how to install Link Install setup.
 
 5.  After reading the License Agreement, select the I accept the terms and conditions check box.
 
-6.  Click Next. The Installation Location screen opens.
+6.  Click Next. The Select Platform screen opens. Select the required platforms to install the assemblies and click Next.
 
     ![](Add-on_images/Link-Install-Setup_img4.png)
 
-7.  To install in the displayed default location, click Next.
+7.  The Installation Location screen opens.
    
     N> Click Browse to choose a location for installing the Essential Studio assemblies.
 
-8.  The Select Platform screen opens. Select the required platforms to install the assemblies.
+8.  To install in the displayed default location, click Next.
 
     ![](Add-on_images/Link-Install-Setup_img6.png)
    
-9.  Click Next to continue with the installation.
+9.  Link Install installation will be started.
 
     ![](Add-on_images/Link-Install-Setup_img7.png)
 
@@ -195,13 +195,13 @@ The following are the steps to install the WebKit Setup.
 
    ![](Add-on_images/Step-by-Step-Installation_img1.png)
 
-   N> The WinZip Self-Extractor extracts the syncfusionessentialWebKit_(version).exe dialog, displaying the unzip operation of the package.
+   N> The WinZip Self-Extractor extracts the syncfusionessentialwebkit_(version).exe dialog, displaying the unzip operation of the package.
 
    ![](Add-on_images/Step-by-Step-Installation_img3.png)
 
    
 
-   N> No key is required for Syncfusion WebKit Installer.
+   N> No key is required for Syncfusion WebKit HTML Converter.
 
 2. Click Next.
 
