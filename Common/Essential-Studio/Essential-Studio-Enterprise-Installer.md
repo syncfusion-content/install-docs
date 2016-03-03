@@ -32,7 +32,7 @@ The Essential Studio Enterprise Installer includes all of the following platform
 
 You are provided with the separate installer for FileFormat. 
 
-Also, you are provided iOS packages as zip file. It contains framework library of the controls and samples. 
+Also, you are provided iOS packages as zip file. It contains Framework library of the controls and samples. 
 
  N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53).
  
