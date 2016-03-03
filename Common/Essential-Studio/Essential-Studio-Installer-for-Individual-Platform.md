@@ -139,7 +139,7 @@ Follow the steps below to install through Command Line in Silent mode.
 
 7. Setup is installed.
 
-   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with asp.net, asp.netmvc, asp.netmvc-classic, silverlight, windowsforms, windowsphone, winrt, wpf, javascript, or lightswitch.
+   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with ASP.NET, ASP.NET MVC, ASP.NET MVC Classic, Silverlight, Windows Forms, Windows Phone, WinRT, WPF, JavaScript, or LightSwitch.
    
 
 ### Command Line Uninstallation
@@ -168,4 +168,4 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 8. Setup is uninstalled.
 
-    N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with asp.net, asp.netmvc, asp.netmvc-classic, silverlight, windowsforms, windowsphone, winrt, wpf, javascript, or lightswitch.
+    N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with ASP.NET, ASP.NET MVC, ASP.NET MVC Classic, Silverlight, Windows Forms, Windows Phone, WinRT, WPF, JavaScript, or LightSwitch.
