@@ -101,7 +101,7 @@ This section allows you to access the following. 
 
 1. Add-ons - This lists the add-on utilities that help you to utilize the additional product services from Syncfusion. 
 2. [Utilities](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ) - This accordion set displays the common utilities.
-   * [Toolbox Configuration](http://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion controls for various .NET frameworks in combination with compatible Visual Studio versions.
+   * [Toolbox Configuration](http://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion controls for various .NET Frameworks in combination with compatible Visual Studio versions.
    * [Assembly Manager](http://help.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
    * [Build Manager](http://help.syncfusion.com/common/essential-studio/utilities#build-manager ) - This utility allows you to build and debug assemblies using the source installed in Essential Studio’s installed location.
    * [Documentation](http://help.syncfusion.com/common/essential-studio/documentation-setup )- This provides access to view the online documentation and installed documentation.
@@ -163,7 +163,7 @@ Use the following steps to run the Assembly Manager.
 
    Framework
 
-   The Framework group box comprises of check boxes for the .NET framework versions based on the Visual Studio SDK installed in the machine. The following check boxes are available:
+   The Framework group box comprises of check boxes for the .NET Framework versions based on the Visual Studio SDK installed in the machine. The following check boxes are available:
 
    * 4.6 - Selecting 4.6 ensures installation of 4.6 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2015 SDK is installed, the 4.6 assemblies have to be deployed.
    * 4.5.1 - Selecting 4.5.1 ensures installation of 4.5.1 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2013 SDK is installed, the 4.5.1 assemblies have to be deployed.
@@ -171,7 +171,7 @@ Use the following steps to run the Assembly Manager.
    * 4.0 - Selecting 4.0 ensures installation of 4.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2010 SDK is installed, the 4.0 assemblies have to be deployed.
    * 3.5 - Selecting 3.5 ensures installation of 3.5 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2008 SDK is installed, the 3.5, 2.0 assemblies can be deployed.
    * 2.0 - Selecting 2.0 ensures installation of 2.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2005 SDK is installed, the 2.0 assemblies have to be deployed.
-   * All – Selecting All ensures installation of all frameworks, or the frameworks installed in the machine, and assemblies into the GAC and assemblies folder.
+   * All – Selecting All ensures installation of all Frameworks, or the Frameworks installed in the machine, and assemblies into the GAC and assemblies folder.
 
    N> By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed.
 
@@ -227,7 +227,7 @@ Working with Syncfusion assemblies that have been built and tested with specific
 
 ###  Assembly Version Format
 
-The assembly version format has been changed to provide support for framework version 4.5.1 of Essential Studio 11.4.0.26. Refer the following table for the new assembly version’s format.
+The assembly version format has been changed to provide support for Framework version 4.5.1 of Essential Studio 11.4.0.26. Refer the following table for the new assembly version’s format.
 
 
 
@@ -389,7 +389,7 @@ This window contains seven sections. 
 
 1. Framework Version 
 
-   The Framework Version group box has six options: .NET 2.0, .NET 3.5, .NET 4.0, .NET 4.5, .NET 4.5.1 and .NET 4.6. When Visual Studio 2015 is not installed in your system, the .NET 4.5.1 option is selected by default. When Visual Studio 2013 is not installed in your system, the .NET 4.5 option is selected by default. When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default. When Visual Studio 2010 is not installed in your system, .NET 3.5 option is selected by default. When Visual Studio 2008 is not installed in your system, .NET 2.0 option is selected by default. You can change the default option by clicking the Other button. The version of the .NET framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies. 
+   The Framework Version group box has six options: .NET 2.0, .NET 3.5, .NET 4.0, .NET 4.5, .NET 4.5.1 and .NET 4.6. When Visual Studio 2015 is not installed in your system, the .NET 4.5.1 option is selected by default. When Visual Studio 2013 is not installed in your system, the .NET 4.5 option is selected by default. When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default. When Visual Studio 2010 is not installed in your system, .NET 3.5 option is selected by default. When Visual Studio 2008 is not installed in your system, .NET 2.0 option is selected by default. You can change the default option by clicking the Other button. The version of the .NET Framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies. 
 
 2. Product
 
@@ -509,14 +509,14 @@ The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual St
    * Install VS2013 – Configures Framework 4.5.1 Syncfusion controls in VS 2013 toolbox.
    * Install VS2015 – Configures Framework 4.6 Syncfusion controls in VS 2015 toolbox.
    
-    N> You can also configure Syncfusion controls from a lower version framework assembly to higher version of Visual Studio.
+    N> You can also configure Syncfusion controls from a lower version Framework assembly to higher version of Visual Studio.
    
 4. An Information message is displayed indicating the successful configuration of Toolbox. Click OK.
 
    ![](Utilities_images/Toolbox-Configuration_img3.png)
 
 
-   You can configure the Syncfusion controls from a lower framework assembly version to a higher one, by Command-Line mode. For information on configuring the toolbox through Command-Line mode, see [Toolbox command line configuration](http://www.syncfusion.com/support/kb/2336).
+   You can configure the Syncfusion controls from a lower Framework assembly version to a higher one, by Command-Line mode. For information on configuring the toolbox through Command-Line mode, see [Toolbox command line configuration](http://www.syncfusion.com/support/kb/2336).
    
    N> * You must reset the toolbox, when the installed controls are not reflected properly in the Toolbox. * This tool configures only the controls that are located under Installed Location\Assemblies\
 
@@ -526,13 +526,13 @@ The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual St
    
 ## Multi-Target Manager
 
-Multi-Target Manager helps to manage multiple .NET frameworks in your Visual Studio 2008 project that is, switching between multiple frameworks.
+Multi-Target Manager helps to manage multiple .NET Frameworks in your Visual Studio 2008 project that is, switching between multiple Frameworks.
 
- N> This is not essential for VS 2010 because Common Language Runtime (CLR) differs for both 3.5 and 4.0 frameworks. VS 2010 selects the required .NET framework assembly for the corresponding projects. 3.5 and 4.0 are the only frameworks configured; the MultiTarget Manager utility allows you to work on framework 2.0 with VS 2010.
+ N> This is not essential for VS 2010 because Common Language Runtime (CLR) differs for both 3.5 and 4.0 Frameworks. VS 2010 selects the required .NET Framework assembly for the corresponding projects. 3.5 and 4.0 are the only Frameworks configured; the MultiTarget Manager utility allows you to work on Framework 2.0 with VS 2010.
 
 ### When to Use Multi-Target Manager?
 
-When Essential Studio is installed in a machine comprising both 2.0 and 3.5 frameworks, then, by default, the target framework is set to 3.5, and the following registry entry AssemblyFoldersEx is also set to 3.5 assembly. You can use the Multi-Target Manager to change the target framework to 2.0. 
+When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Frameworks, then, by default, the target Framework is set to 3.5, and the following registry entry AssemblyFoldersEx is also set to 3.5 assembly. You can use the Multi-Target Manager to change the target Framework to 2.0. 
 
 HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essential Studio 3.5
 
@@ -563,7 +563,7 @@ HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essentia
 
 8. Refresh the application before building.
 
-    N> The target value and the registry value change according to the selected framework version.
+    N> The target value and the registry value change according to the selected Framework version.
    
 
 ## Project Migration
