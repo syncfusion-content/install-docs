@@ -38,9 +38,9 @@ You can upgrade the project in two methods, based on the procedure used in your 
 
 ### Switching the Framework Version While Upgrading the Project
 
-When you want to switch the framework version while upgrading the project, use the Multi-Target Manager from the Syncfusion Dashboard.
+When you want to switch the Framework version while upgrading the project, use the Multi-Target Manager from the Syncfusion Dashboard.
 
-After switching the framework version using Multi-Target Manager, remove the bin and obj folders from your local project directory, and then recompile your project.
+After switching the Framework version using Multi-Target Manager, remove the bin and obj folders from your local project directory, and then recompile your project.
 
 For more details about Multi-Target Manager, refer to [Multi-Target Manager](http://help.syncfusion.com/common/essential-studio/utilities#multi-target-manager).
 

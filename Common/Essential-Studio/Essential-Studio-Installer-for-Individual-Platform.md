@@ -30,15 +30,15 @@ Separate platform setups are provided from version 11.1.0.21. There are 18 platf
 * iOS
 * Xamarin
 * MVC Extension (from 12.1.0.43 and later)
-* Universal Windows (from 13.2.0.34 and later)
+* Universal Windows Platform(from 13.2.0.34 and later)
 
 Essential Studio MVC Extension is provided from version 12.1.0.43. For more information refer to [MVC Extension](http://www.syncfusion.com/kb/2350).
 
 The LightSwitch platform has been marked as LightSwitch Silverlight from version 12.3.0.26 and later.
 
-WinRT and Windows Phone platform setup can be installed in Windows version 8 and later. Universal Windows platform setup can be installed in Windows 10.
+WinRT and Windows Phone platform setup can be installed in Windows version 8 and later. Universal Windows Platform setup can be installed in Windows 10.
 
-You are provided with iOS packages as a .zip file. It is developed in MAC OS. It contains framework library of the controls and samples.
+You are provided with iOS packages as a .zip file. It is developed in MAC OS. It contains Framework library of the controls and samples.
 
 Essential Studio for ASP.NET MVC has been marked as "Classic" from version 12.1.0.43.
 

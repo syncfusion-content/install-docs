@@ -21,14 +21,14 @@ The Essential Studio Enterprise Installer includes all of the following platform
 * Windows Forms
 * Xamarin
 * WinRT 
-* Universal Windows
+* Universal Windows Platform
 * Android
 * Windows Phone
 * LightSwitch HTML
 * Universal
 
 
- N> WinRT can only be installed from Windows 8 and later. Universal Windows platform will be installed only in Windows 10. Also Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53).
+ N> WinRT can only be installed from Windows 8 and later. Universal Windows Platform will be installed only in Windows 10. Also Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53).
 
 You are provided with the separate installer for FileFormat. 
 
@@ -64,7 +64,7 @@ The following procedure illustrates how to install Essential Studio setup. 
 
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img4.png)
 
-    N> WinRT platforms will be installed only from Windows 8 and later. Universal Windows platform will be installed only in Windows 10.
+    N> WinRT platforms will be installed only from Windows 8 and later. Universal Windows Platform will be installed only in Windows 10.
 
 6.  Select the Installation, Samples Folder and Advanced Options screen opens. To install in the displayed default location, click Next.
 
@@ -178,4 +178,4 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 8. Setup is uninstalled.
 
-   N> x.x.x.x need to be replaced with the Essential studio version installed in your machine and the product unlock key needs to be replaced with the unlock key for that version.
+   N> x.x.x.x need to be replaced with the Essential Studio version installed in your machine and the product unlock key needs to be replaced with the unlock key for that version.

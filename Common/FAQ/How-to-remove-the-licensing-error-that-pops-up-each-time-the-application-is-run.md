@@ -69,7 +69,7 @@ The following steps help you to embed the License.licx file as an embedded resou
 
 12. Click Reload. 
 
-    This message appears because the .exe.licenses file shown in the following screenshot has been modified to include the Syncfusion licensing information. To embed this information into the output exe, you must rebuild the application. Verify whether this file has the Syncfusion version information you have the license to. If the file has information for any other version, every time you run the application, the Licensing Error message will appear.  
+    This message appears because the .exe.licenses file shown in the following screenshot has been modified to include the Syncfusion licensing information. To embed this information into the output EXE, you must rebuild the application. Verify whether this file has the Syncfusion version information you have the license to. If the file has information for any other version, every time you run the application, the Licensing Error message will appear.  
     
 	![](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img5.jpeg)
 

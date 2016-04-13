@@ -269,4 +269,4 @@ Syncfusion WebKit Installer supports uninstalling the setup through Command Line
 
 8. Setup is uninstalled.
     
-	N> * x.x.x.x need to be replaced with the Webkit version installed in your machine.* Above steps applicable from the version 13.2.0.x.
+	N> * x.x.x.x need to be replaced with the WebKit version installed in your machine.* Above steps applicable from the version 13.2.0.x.

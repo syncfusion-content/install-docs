@@ -24,7 +24,7 @@ The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localizatio
     
 	[](http://files.syncfusion.com/support/Tools.WPF/UG/LocBaml.zip)
 
-2.  Copy the exe file and the Syncfusion.Tools.WPF.Resources.dll to the following location:
+2.  Copy the EXE file and the Syncfusion.Tools.WPF.Resources.dll to the following location:
 
     &lt;Your Application&gt;\bin\Debug\en-US 
 
@@ -34,9 +34,9 @@ The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localizatio
 
     (Your Application)\bin\Debug\en-US \LocBaml /parse Syncfusion.Tools.WPF.Resources.dll /out:resourceStrings.csv
 
-    N> The .csv files can be edited via MS Excel or Notepad. This file contains string resources with the default text in the English language.
+    N> The .csv files can be edited via Microsoft Excel or Notepad. This file contains string resources with the default text in the English language.
 
-5.  Open the .csv file using MS Excel or Notepad, and change the texts based on your culture. 
+5.  Open the .csv file using Microsoft Excel or Notepad, and change the texts based on your culture. 
 
     The following illustrates customization from English to French.
 
