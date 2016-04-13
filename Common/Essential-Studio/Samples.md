@@ -145,7 +145,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 	
 	
 	
-13. Universal Windows
+13. Universal Windows Platform
 
 
 

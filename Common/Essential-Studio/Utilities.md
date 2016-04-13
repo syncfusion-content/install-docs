@@ -342,7 +342,7 @@ NA</td><td>
 NA</td></tr>
 <tr>
 <td>
-Universal Windows</td><td>
+Universal Windows Platform</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
