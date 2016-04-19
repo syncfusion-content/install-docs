@@ -1,6 +1,6 @@
 ---
-title : Essential Studio 2015 Vol 4 (Service Pack 2) Supported Environments
-description : Essential Studio 2015 Vol 4 (Service Pack 2) Supported Environments
+title : Essential Studio 2016 Vol 1  Supported Environments
+description : Essential Studio 2016 Vol 1  Supported Environments
 platform: common
 documentation: ug
 --- 
