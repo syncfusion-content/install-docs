@@ -48,4 +48,4 @@ documentation: ug
 
 ## Visual Studio Support
 
-Essential Studio v14.1.0.41 is compatible with Microsoft Visual Studio 2005, Visual Studio 2008, Visual Studio 2010, Visual Studio 2012, Visual Studio 2013 and Visual Studio 2015.
+Essential Studio {{ site.releaseversion }} is compatible with Microsoft Visual Studio 2005, Visual Studio 2008, Visual Studio 2010, Visual Studio 2012, Visual Studio 2013 and Visual Studio 2015.
