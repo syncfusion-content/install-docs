@@ -22,7 +22,7 @@ The following are the steps to install the Big Data Agent Setup.
 
    ![](Big-Data-Agent_images/Big-Data-Agent_img1.png)
 
-   N> The WinZip Self-Extractor extracts the syncfusionbigdataagent_(version).exe dialog, displaying the unzip operation of the package._ 
+   N> The WinZip Self-Extractor extracts the syncfusionbigdataagent_(version).exe dialog, displaying the unzip operation of the package. 
 
    ![](Big-Data-Agent_images/Big-Data-Agent_img3.png)
 
