@@ -18,23 +18,28 @@ After 9.4.0.62, Essential Studio Source has been removed from the product setup.
 
 The following steps show how you can install the Essential Studio Source Code Add-on Setup.
 
-1. Double-click the Syncfusion Essential Studio Source code add-on installer setup file. The Syncfusion Essential Studio Source Installer Wizard opens.
+1. Double-click the Syncfusion Essential Studio Source code add-on installer setup file. The Self-Extractor Wizard opens and extracts the package automatically..
    
    ![](Source-code_images/Step-by-Step-Installation_img1.png)
 
+    N> The WinZip Self-Extractor extracts the syncfusionessentialsourcecodeaddon(version).exe dialog, displaying the unzip operation of the package.
+	
+   
 
 
 
-
-2. Click Next.
+2. Enter your User Name, Organization, and Unlock Key in the corresponding text boxes provided.
    
    ![](Source-code_images/Step-by-Step-Installation_img2.png)
+   
 
+3. Click Next.
 
+    N> The Unlock Key is validated and the License Agreement Screen opens.
 
+ 
 
-
-3. On completion of the Unzip operation, the Setup - Syncfusion Essential Studio Source Code Add-on Installer window opens.
+4. After reading the terms, click the I accept the terms and conditions check box.
 
    ![](Source-code_images/Step-by-Step-Installation_img3.png)
 
@@ -42,78 +47,40 @@ The following steps show how you can install the Essential Studio Source Code A
 
 
 
-4. Click Next. The User Information screen opens.
+5. Click Next. Select the platforms to be installed.
 
    ![](Source-code_images/Step-by-Step-Installation_img4.png)
+   
+
+6. Click Next. The Source Code Add On installation location will be displayed
+
+    N> You can't change the install location. By default Essential Studio Install location will be displayed.
+
+
+   ![](Source-code_images/Step-by-Step-Installation_img5.png)
 
 
 
 
-
-5. Enter your User Name, Organization and Unlock Key in the corresponding text boxes provided.
-
-6. Click Next.
-
-   N> The Unlock Key is validated and the Welcome screen opens.
+7. Click Install. 
 
    ![](Source-code_images/Step-by-Step-Installation_img6.png)
 
+    N> The Completed screen is displayed once the selected platform is installed.
+	
 
 
 
+8. Select the Run Build Manager check box to launch the Build Manager after installing.
 
-7. Click Next. The License Agreement screen opens.
+9. Click Finish. Essential Studio Source Code Add On is installed in your system.
 
    ![](Source-code_images/Step-by-Step-Installation_img7.png)
 
 
-
-
-
-8. After reading the terms, click the I accept the terms in the License Agreement option.
-9. Click Next. The Choose the Setup Type screen opens.
+10. Once the Essential Studio Source Code add-on is installed, the Dashboard provides an option to explore source code.
 
    ![](Source-code_images/Step-by-Step-Installation_img8.png)
 
-
-
-
-
-10. Choose your preferred setup type. For example, to install the complete setup, click Complete.
-11. Click Next. The Ready to Install dialog opens.
-
-    ![](Source-code_images/Step-by-Step-Installation_img9.png)
-
-
-
-
-
-12. Click Install to continue with the installation.
-
-    ![](Source-code_images/Step-by-Step-Installation_img10.png)
-
-
-
-    N> The Completed screen is displayed once the selected package is installed.
-
-    ![](Source-code_images/Step-by-Step-Installation_img12.png)
-
-
-
-
-
-13. Click Finish to exit the Setup Wizard. This initiates the installation of the Syncfusion Essential Studio Source Installer on your computer.
-
-    N> The Syncfusion Essential Studio Source Installer is installed on your computer, and you are informed once the installation is complete.
-
-    ![](Source-code_images/Step-by-Step-Installation_img14.png)
-
-
-
-
-
-14. Once the Essential Studio Source Code add-on is installed, the Dashboard provides an option to explore source code.
-
-    ![](Source-code_images/Step-by-Step-Installation_img15.png)
 
 
