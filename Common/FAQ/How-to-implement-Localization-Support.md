@@ -183,7 +183,7 @@ The following screenshots illustrate the Ribbon Control with various culture opt
 
 The Windows and ASP.NET products have extended support for Localization.Samples and description is available in the following locations.
 
-Table 5 :  Extended Support for Windows and ASP.NET
+Extended Support for Windows and ASP.NET
 
 <table>
 <tr>
