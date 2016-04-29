@@ -36,6 +36,6 @@ Sometimes, installation may crash due to the machine getting switched off during
 
    Example: C:\Users\(user name)\AppData\Local\Syncfusion\EssentialStudio\9.4.0.62
 
-   N> Sample locations mentioned above is default for corresponding OS. When you have installed samples in any other location, remove it from that location._
+   N> Sample locations mentioned above is default for corresponding OS. When you have installed samples in any other location, remove it from that location.
 
 4. The setup is uninstalled. You can install it again.
