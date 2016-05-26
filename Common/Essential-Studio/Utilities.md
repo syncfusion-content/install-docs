@@ -448,7 +448,7 @@ The following are the steps to add a product key.
 
 2. Click Add Key. The following dialog box opens.
 
-   ![](Utilities_images/License-Manager_img3.jpeg)
+   ![](Utilities_images/License-Manager_img3.png)
 
 3. Enter the license key of the product in the space provided.
 
