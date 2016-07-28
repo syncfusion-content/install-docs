@@ -570,7 +570,7 @@ HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essentia
 
 The ProjectMigration tool enables you to move the project files to the given Syncfusion Essential Studio Version.
 
-Syncfusion Project Migration tool supports from, Syncfusion Essential Studio Version 3.2.1.0 to the latest version and the supported platforms are Windows Forms, WPF, Silverlight, WinRT, Windows Phone and Universal Apps.
+Syncfusion Project Migration tool supports from, Syncfusion Essential Studio Version 3.2.1.0 to the latest version and the supported platforms are Windows Forms, WPF, Silverlight, WinRT, Windows Phone and Universal Windows.
 
 The following steps illustrate how to migrate a project.
 
