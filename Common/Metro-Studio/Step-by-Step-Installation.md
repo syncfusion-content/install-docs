@@ -22,12 +22,12 @@ The following are the steps to install the Metro Studio Setup.
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img2.png)
    
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png) 
 
 
-3. Click Next. The Metro Studio installation location will be displayed.
+3. After reading the terms, click the I accept the terms and conditions check box and Click Next. The Metro Studio installation location will be displayed.
    
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png) 
 
     N> You can also browse and choose a location by clicking Browse.   
 	
@@ -36,15 +36,15 @@ The following are the steps to install the Metro Studio Setup.
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
    
-    N> The Completed screen is displayed once the Metro Studio is installed.
+    N> The Completed screen is displayed once the Metro Studio is installed. 
 
 
-5. Select the Run Metro Studio check box to launch the Metro Studio after installing.
+5. Select the Run Metro Studio check box to launch the Metro Studio after installing. 
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
 
 
-6. Once the Metro Studio is installed, Metro Studio Dashboard provides the option to create icons.
+6. Once the Metro Studio is installed, Metro Studio Dashboard provides the option to create icons. 
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.png)
    
