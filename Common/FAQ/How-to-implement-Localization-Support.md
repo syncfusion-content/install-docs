@@ -193,7 +193,7 @@ Sample location</th></tr>
 <tr>
 <td>
 Tools[ASP.NET]</td><td>
-{{' [http://mvc.syncfusion.com/samples/rte](http://mvc.syncfusion.com/samples/rte)' | markdownify }}{{' [http://mvc.syncfusion.com/samples/spellchecker](http://mvc.syncfusion.com/samples/spellchecker) ' | markdownify }}</td></tr>
+{{' [RichTextEditor](http://asp.syncfusion.com/demos/ui/tools/RichTextEditor/Localization/cs/Localization.aspx)' | markdownify }}{{' [spellchecker](http://asp.syncfusion.com/demos/ui/tools/Spell%20Check/Localization/cs/SpellCheckWithContextMenu.aspx) ' | markdownify }}</td></tr>
 <tr>
 <td>
 Chart[Windows]</td><td>
