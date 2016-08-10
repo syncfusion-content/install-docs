@@ -16,14 +16,14 @@ The following are the steps to install the Metro Studio Setup.
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
 
-2. Authentication window will be opened. You can either use Login ID(Direct-Trac) or Product key for unlocking the Metro Studio setup. 
+2. License registration window will be opened. You can use either Syncfusion login account (Direct-Trac) or Product key for unlocking the Metro Studio setup. 
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img2.png)
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png) 
 
 
-3. After reading the terms, click the I accept the terms and conditions check box and Click Next. The Metro Studio installation location will be displayed.
+3. Select the I accept the terms and conditions check box and Click Next. The Metro Studio installation location will be displayed.
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png) 
 
