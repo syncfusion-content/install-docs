@@ -11,120 +11,41 @@ documentation: ug
 
 The following are the steps to install the Metro Studio Setup.
 
-1. Double-click the Syncfusion Metro Studio Installer Setup file. The Syncfusion Metro Studio Installer Wizard opens.
+1. Double-click the Syncfusion Metro Studio Installer Setup file.
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
 
-
-
-
-2. Click Next.
+2. License registration window will be opened. You can use either Syncfusion login account (Direct-Trac) or Product key for unlocking the Metro Studio setup. 
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img2.png)
-
-
-
-
-
-3. When the unzip operation is complete, the Syncfusion Metro Studio Setup dialog box opens.
    
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png) 
 
 
-
-
-
-4. Click Next. The User Information screen opens.
+3. Select the I accept the terms and conditions check box and Click Next. The Metro Studio installation location will be displayed.
    
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png) 
+
+    N> You can also browse and choose a location by clicking Browse.   
+	
+
+4. Click Install. 
+   
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
+   
+    N> The Completed screen is displayed once the Metro Studio is installed. 
 
 
+5. Select the Run Metro Studio check box to launch the Metro Studio after installing. 
+
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
 
 
+6. Once the Metro Studio is installed, Metro Studio Dashboard provides the option to create icons. 
 
-5. Enter your User Name, Organization and Unlock Key in the corresponding text boxes provided.
-
-6. Click Next.
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.png)
    
  
 
-   N> The Unlock Key is validated and the welcome screen opens.
-
-
-
-    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
-
-
-
-
-
-7. Click Next. The License Agreement screen opens.
-
-
-
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.png)
-
-
-
-
-
-8. After reading the terms, click the I accept the terms in the License Agreement option.
-
-9. Click Next. Then Select the Installation folder screen opens.
-
-
-
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img8.png)
-
-
-
-
-
-10. Click Next. The Ready to Install dialog opens.
-
-
-
-    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img9.png)
-
-
-
-
-
-11. Click Install to continue with the installation.
-
-
-
-    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img10.png)
-
-
-    N> The completed screen is displayed once the selected package is installed.
-
-
-
-    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img12.png)
-
-
-
-
-
-12. Click Finish to exit the Setup Wizard. This initiates the installation of the Syncfusion Metro Studio Installer on your computer.
    
-    N> The Syncfusion Metro Studio Installer is installed on your computer, and you are informed with a dialog box, when the installation is complete.
-
-
-
-    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img14.png)
-
-
-
-
-
-13. Once the Metro Studio Source Code Add-on is installed, Metro Studio Dashboard provides the option to create icons.
-
-
-
-    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img15.png)
-
-
-
