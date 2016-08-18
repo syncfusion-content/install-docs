@@ -30,7 +30,7 @@ Separate platform setups are provided from version 11.1.0.21. There are 18 platf
 * iOS
 * Xamarin
 * MVC Extension (from 12.1.0.43 and later)
-* Universal Windows Platform(from 13.2.0.34 and later)
+* Universal Windows Platform (from 13.2.0.34 and later)
 
 Essential Studio MVC Extension is provided from version 12.1.0.43. For more information refer to [MVC Extension](http://www.syncfusion.com/kb/2350).
 
