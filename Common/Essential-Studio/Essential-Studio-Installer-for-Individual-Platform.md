@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Essential Studio Installer for Individual Platform | common | Syncfusion
 description: essential studio installer for individual platforms
@@ -26,15 +26,15 @@ Separate platform setups are provided from version 11.1.0.21. There are 20 platf
 * WinRT (only for Microsoft Windows 8 and later)
 * WPF
 * Xamarin
+* FileFormats
 * Android
+* iOS 
 * Silverlight 
 * Windows Phone (only for Windows Phone SDK 8 and later )
 * LightSwitch Silverlight (from 11.3.0.30 and later)
-* FileFormats
-* iOS 
-* MVC Extension (from 12.1.0.43 and later)
+* Sample Creator (from 12.1.0.43 and later)
 
-Essential Studio MVC Extension is provided from version 12.1.0.43. For more information refer to [MVC Extension](http://www.syncfusion.com/kb/2350).
+Essential Studio Sample Creator is provided from version 12.1.0.43. For more information refer to [Sample Creator](http://www.syncfusion.com/kb/2350).
 
 The LightSwitch platform has been marked as LightSwitch Silverlight from version 12.3.0.26 and later.
 
@@ -58,14 +58,14 @@ The following procedure illustrates how to install Essential Studio. 
     N> The Setup wizard extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
 
 
-2. From the 2016 Vol 3 release(v14.3.0.49), Syncfusion provided two options to  unlock the Syncfusion setup.
+2. From the 2016 Vol 3 release(v14.3.0.49), you are provided with two options to unlock the Syncfusion setup.
 
  **A) Install with login ID**
      
 ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)
     
 
-    N> Email address and Password is validated and the Path Selection window opens.
+    N> You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
 **B) Install with product key**
 
