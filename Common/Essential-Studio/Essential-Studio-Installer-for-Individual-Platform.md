@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Essential Studio Installer for Individual Platform | common | Syncfusion
 description: essential studio installer for individual platforms
@@ -11,28 +11,30 @@ documentation: ug
 
 ## Overview
 
-Separate platform setups are provided from version 11.1.0.21. There are 18 platforms.
+Separate platform setups are provided from version 11.1.0.21. There are 20 platforms.
 
 * ASP.NET (from 12.2.0.36 and later)
 * ASP.NET (Classic)
+* ASP.NET Core (from 14.3.0.49)
 * ASP.NET MVC (from 12.1.0.43 and later)
 * ASP.NET MVC (Classic) 
-* Silverlight
-* Windows Forms
-* Windows Phone (only for Windows Phone SDK 8 and later )
-* WinRT (only for Microsoft Windows 8 and later)
-* WPF
 * JavaScript (from 11.2.0.63 and later)
 * LightSwitch HTML (from 12.4.0.24 and later)
-* LightSwitch Silverlight (from 11.3.0.30 and later)
+* PHP (from 14.3.0.49)
+* Universal Windows Platform (from 13.2.0.34 and later)
+* Windows Forms
+* WinRT (only for Microsoft Windows 8 and later)
+* WPF
+* Xamarin
 * FileFormats
 * Android
-* iOS
-* Xamarin
-* MVC Extension (from 12.1.0.43 and later)
-* Universal Windows Platform (from 13.2.0.34 and later)
+* iOS 
+* Silverlight 
+* Windows Phone (only for Windows Phone SDK 8 and later )
+* LightSwitch Silverlight (from 11.3.0.30 and later)
+* Sample Creator (from 12.1.0.43 and later)
 
-Essential Studio MVC Extension is provided from version 12.1.0.43. For more information refer to [MVC Extension](http://www.syncfusion.com/kb/2350).
+Essential Studio Sample Creator is provided from version 12.1.0.43. For more information refer to [Sample Creator](http://www.syncfusion.com/kb/2350).
 
 The LightSwitch platform has been marked as LightSwitch Silverlight from version 12.3.0.26 and later.
 
@@ -48,27 +50,33 @@ Essential Studio for ASP.NET has been marked as "Classic" from version 12.2.0.36
 
 The following procedure illustrates how to install Essential Studio. 
 
-1. Double-click the Syncfusion Essential Studio Platform Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
+1. Double-click the Syncfusion Essential Studio Platform Setup file. The Setup Wizard opens and extracts the package automatically.
 
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img1.png)
 
 
-    N> The WinZip Self-Extractor extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
-
-   ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)
+    N> The Setup wizard extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
 
 
-2. Enter User Name, Organization and Unlock Key in the corresponding text boxes provided.
+2. From the 2016 Vol 3 release(v14.3.0.49), you are provided with two options to unlock the Syncfusion setup.
 
-3. Click Next.
+ **A) Install with login ID**
+     
+![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)
+    
 
-    N> The Unlock Key is validated and the License Agreement dialog opens.
+    N> You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
-   ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img3.png)
+**B) Install with product key**
 
-4. After reading the terms, click the I accept the terms and conditions check box.
+![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img3.png)
 
-5. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. 
+
+    N> The Unlock key is validated and the Path Selection window opens.
+
+3. After reading the terms by clicking the **License Terms and Conditions** link, check the I accept the terms and conditions check box.
+
+4. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. 
 
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img4.png)
    
@@ -79,18 +87,18 @@ The following procedure illustrates how to install Essential Studio. 
     * Select the Uninstall previously installed Syncfusion assemblies from GAC check box to uninstall the previously installed Syncfusion assemblies from GAC, or clear this check box to maintain the previously installed assemblies.
     * Select the Configure Syncfusion controls in Visual Studio Toolbox (if assemblies installed) check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
 
-6.  Click Install.
+5.  Click Install.
 
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img5.png)
 
 
     N> The Completed screen is displayed once the package is installed.
-
+    
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img6.png)
 
-7. Select the Run Dashboard check box to launch the Dashboard after installing.
+6. Select the Run Syncfusion Control Panel check box to launch the Syncfusion Control Panel after installing.
 
-8. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Dashboard](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ) is launched automatically.
+7. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Syncfusion Control Panel](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ) is launched automatically.
 
 ## Command Line 
 
@@ -100,7 +108,7 @@ The Syncfusion Essential Studio Platform Installer supports installing the setup
 
 Follow the steps below to install through Command Line in Silent mode.
 
-1. Double-click the Syncfusion Essential Studio platform Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
+1. Double-click the Syncfusion Essential Studio platform Setup file. The Setup Wizard opens and extracts the package automatically.
 2. The SyncfusionEssentialStudio(platform)_(version).exe file is extracted into the Temp folder.
 3. Run %temp%. The Temp folder will open. The SyncfusionEssentialStudio(platform)_(version).exe file is available in one of the folders.
 4. Copy the SyncfusionEssentialStudio_(version).exe file in local drive. Example: D:\temp
@@ -147,7 +155,7 @@ Follow the steps below to install through Command Line in Silent mode.
 Syncfusion Essential Studio supports uninstalling the setup through Command Line in Silent mode. The following steps illustrate this. 
 
 1. When you do not have the extracted setup (SyncfusionEssentialStudio(platform)_(version).exe) then follow the steps from 2 to 7.
-2. Double-click the Syncfusion Essential Studio platform Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
+2. Double-click the Syncfusion Essential Studio platform Setup file. The Setup Wizard opens and extracts the package automatically.
 3. The SyncfusionEssentialStudio(platform)_(version).exe file is extracted into the Temp folder.
 4. Run %temp%. The Temp folder will open. The SyncfusionEssentialStudio(platform)_(version).exe file is available in one of the folders.
 5. Copy the SyncfusionEssentialStudio(platform)_(version).exe file in local drive. Example: D:\temp
@@ -169,3 +177,4 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 8. Setup is uninstalled.
 
     N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with ASP.NET, ASP.NET MVC, ASP.NET MVC Classic, Silverlight, Windows Forms, Windows Phone, WinRT, WPF, JavaScript, or LightSwitch.
+
