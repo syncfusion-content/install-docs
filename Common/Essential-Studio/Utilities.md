@@ -81,11 +81,9 @@ You need to install a list of prerequisites, for all of the products to work suc
 
 ### Recommended Software 
 
-Recommended Software lists the prerequisites for all platforms. A ![](Utilities_images/Dashboard_img12.png)
+Recommended Software lists the prerequisites for all platforms. A ![](Utilities_images/Dashboard_img13.png)
 
- symbol appears when all the recommended software for the platform are installed in your system. A ![](Utilities_images/Dashboard_img13.png)
-
-symbol appears when any recommended software for a platform is not installed in your system, before installing Essential Studio.
+symbol appears when any recommended software for a platform is not installed in your system.
 
 The Recheck option rechecks the prerequisites list and refreshes the currently installed software list.
 
