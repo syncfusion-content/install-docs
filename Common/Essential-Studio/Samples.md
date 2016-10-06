@@ -149,7 +149,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img14.png
+    ![](Offline-Samples_images/Offline-Samples_img14.png)
 	
 	
 	
