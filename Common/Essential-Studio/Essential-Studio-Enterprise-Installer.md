@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Essential Studio Enterprise Installer  | common | Syncfusion
 description: essential studio enterprise installer
