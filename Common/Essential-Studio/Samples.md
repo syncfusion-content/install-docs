@@ -206,6 +206,25 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
     ![](Offline-Samples_images/Offline-Samples_img20.png)
 	
 	
+	
+	
+20. Electron
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img21.png)
+	
+	
+	
+	
+20. Ionic
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img22.png)
+	
+	
+	
 ## Online Samples
 
 Online samples are provided for ASP.NET, ASP.NET MVC, ASP.NET MVC (Classic), Silverlight, Windows Phone, WinRT, WPF, and JavaScript platforms.
