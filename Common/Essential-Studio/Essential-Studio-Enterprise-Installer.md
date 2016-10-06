@@ -27,13 +27,13 @@ The Essential Studio Enterprise Installer includes all of the following platform
 * Xamarin
 
 
- N> WinRT can only be installed from Windows 8 and later. Universal Windows Platform will be installed only in Windows 10. Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). Also we have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49).
+N> WinRT can only be installed from Windows 8 and later. Universal Windows Platform will be installed only in Windows 10. Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). Also we have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49).
 
 You are provided with the separate installer for FileFormat. 
 
 Also, you are provided iOS packages as zip file. It contains Framework library of the controls and samples. 
 
- N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). Also we have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49).
+N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). Also we have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49).
  
  
 ## Step-by-Step Installation
@@ -45,22 +45,21 @@ The following procedure illustrates how to install Essential Studio setup. 
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img1.png)
     
     
-     N> The Setup wizard extracts the syncfusionessentialstudio(version).exe dialog, displaying the unzip operation of the package.
+N> The Setup wizard extracts the syncfusionessentialstudio(version).exe dialog, displaying the unzip operation of the package.
     
 2. From the 2016 Vol 3 release(v14.3.0.49), you are provided with two options to unlock the Syncfusion setup.
     
-    **A) Install with login ID**
+ **A) Install with login ID**
 
    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img2.png)
 
-
-    N>  You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
+N> You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
 **B) Install with product key**
 
 ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img3.png)
 
-    N> The Unlock key is validated and the Platform Selection window opens.
+N> The Unlock key is validated and the Platform Selection window opens.
 
 3.  After reading the terms by clicking the **License Terms and Conditions** link, check the I accept the terms and conditions check box.
 
@@ -68,33 +67,30 @@ The following procedure illustrates how to install Essential Studio setup. 
 
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img4.png)
 
-   
-     N> If you have complete license, then all the platforms will be displayed under Licensed category. 
+N> If you have complete license, then all the platforms will be displayed under Licensed category. 
      
 ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img5.png)
-     
-     N> If you have entered evaluation account, then platforms will be displayed under Evaluation category. 
+
+N> If you have entered evaluation account, then platforms will be displayed under Evaluation category. 
 
 ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img6.png)
  
-     N>If you have license only for some of the products, then both licensed and evaluation platforms will be displayed under the repective category. 
+N>If you have license only for some of the products, then both licensed and evaluation platforms will be displayed under the repective category. 
 
-    
-
-    N> WinRT platform will be installed only from Windows 8 and later. Universal Windows Platform will be installed only in Windows 10.
+N> WinRT platform will be installed only from Windows 8 and later. Universal Windows Platform will be installed only in Windows 10.
 
 5.  Select the Installation, Samples Folder and Advanced Options screen opens. To install in the displayed default location, click Next.
 
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img7.png)
 	
-       N> You can also browse and choose a location by clicking Browse. When you have already installed any other same version‘s setup, you cannot change the install path.
+N> You can also browse and choose a location by clicking Browse. When you have already installed any other same version‘s setup, you cannot change the install path.
 
-    * Select the Install Syncfusion samples check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
-    * Select the Register Syncfusion assemblies in GAC check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
-    * Select the Uninstall previously installed Syncfusion assemblies from GAC check box to uninstall the previously installed Syncfusion assemblies from GAC, or clear this check box to maintain the previously installed assemblies.
-    * Select the Configure Syncfusion controls in Visual Studio Toolbox (if assemblies installed) check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
+* Select the Install Syncfusion samples check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
+* Select the Register Syncfusion assemblies in GAC check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
+* Select the Uninstall previously installed Syncfusion assemblies from GAC check box to uninstall the previously installed Syncfusion assemblies from GAC, or clear this check box to maintain the previously installed assemblies.
+* Select the Configure Syncfusion controls in Visual Studio Toolbox (if assemblies installed) check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
 
-7.  Click Install.
+6.  Click Install.
 
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img8.png)
 
@@ -102,9 +98,9 @@ The following procedure illustrates how to install Essential Studio setup. 
 
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img9.png)
 
-8. Select the Run Syncfusion Control Panel check box to launch the Syncfusion Control Panel after installing.
+7. Select the Run Syncfusion Control Panel check box to launch the Syncfusion Control Panel after installing.
 
-9. Click Finish. Essential Studio is installed in your system and Syncfusion Control Panel is launched automatically. For more information, refer to [Brief Tour of Syncfusion Control Panel](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ).
+8. Click Finish. Essential Studio is installed in your system and Syncfusion Control Panel is launched automatically. For more information, refer to [Brief Tour of Syncfusion Control Panel](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ).
 
 ## MSI Installer
 
@@ -190,4 +186,4 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 8. Setup is uninstalled.
 
-   N> x.x.x.x need to be replaced with the Essential Studio version installed in your machine and the product unlock key needs to be replaced with the unlock key for that version.
+   N> x.x.x.x need to be replaced with the Essential Studio version installed in your machine and the product unlock key needs to be replaced with the unlock key for that version. 
