@@ -18,41 +18,28 @@ After 9.4.0.62, Essential Studio Source has been removed from the product setup.
 
 The following steps show how you can install the Essential Studio Source Code Add-on Setup.
 
-1. Double-click the Syncfusion Essential Studio Source code add-on installer setup file. The Self-Extractor Wizard opens and extracts the package automatically..
+1. Double-click the Syncfusion Essential Studio Source code add-on installer setup file. The Inno Script Wizard opens and extracts the package automatically..
    
    ![](Source-code_images/Step-by-Step-Installation_img1.png)
 
-    N> The WinZip Self-Extractor extracts the syncfusionessentialsourcecodeaddon(version).exe dialog, displaying the unzip operation of the package.
+    N> The Inno Script extracts the syncfusionessentialsourcecodeaddon(version).exe dialog, displaying the unzip operation of the package.
 	
    
 
 
 
-2. Enter your User Name, Organization, and Unlock Key in the corresponding text boxes provided.
+2. Enter the Unlock Key in the corresponding text box provided and select the I accept the terms and conditions check box after reading the License Agreement.
    
    ![](Source-code_images/Step-by-Step-Installation_img2.png)
    
 
-3. Click Next.
 
-    N> The Unlock Key is validated and the License Agreement Screen opens.
-
- 
-
-4. After reading the terms, click the I accept the terms and conditions check box.
-
-   ![](Source-code_images/Step-by-Step-Installation_img3.png)
-
-
-
-
-
-5. Click Next. Select the platforms to be installed.
+3. Click Next. Select the platforms to be installed.
 
    ![](Source-code_images/Step-by-Step-Installation_img4.png)
    
 
-6. Click Next. The Source Code Add On installation location will be displayed
+4. Click Next. The Source Code Add On installation location will be displayed
 
     N> You can't change the install location. By default Essential Studio Install location will be displayed.
 
@@ -62,7 +49,7 @@ The following steps show how you can install the Essential Studio Source Code A
 
 
 
-7. Click Install. 
+5. Click Install. 
 
    ![](Source-code_images/Step-by-Step-Installation_img6.png)
 
