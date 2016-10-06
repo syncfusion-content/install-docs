@@ -17,35 +17,29 @@ Syncfusion provides the Link Install Setup to configure the Syncfusion control
 
 The following procedure illustrates how to install Link Install setup.
 
-1.  Double-click the Syncfusion Link Install Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Link Install Setup file. The Inno Script Wizard opens and extracts the package automatically.
 
     ![](Add-on_images/Link-Install-Setup_img1.png)
 
-2.  Once the unzip operation is complete, the User Information screen opens.
+2.  Once the unzip operation is complete, the License registration screen opens.
 
     ![](Add-on_images/Link-Install-Setup_img2.png)
 
-3.  Enter your User Name, Organization and Unlock Key in the corresponding text boxes provided.
+3.  Enter the Unlock Key in the corresponding text box provided and select the I accept the terms and conditions check box after reading the License Agreement.
 
-4.  Click Next to continue with installation. The License Agreement screen opens.
-
-    ![](Add-on_images/Link-Install-Setup_img3.png)
-
-5.  After reading the License Agreement, select the I accept the terms and conditions check box.
-
-6.  Click Next. The Select Platform screen opens. Select the required platforms to install the assemblies and click Next.
+4.  Click Next. The Select Platform screen opens. Select the required platforms to install the assemblies and click Next.
 
     ![](Add-on_images/Link-Install-Setup_img4.png)
 
-7.  The Installation Location screen opens.
+5.  The Installation Location screen opens.
    
     N> Click Browse to choose a location for installing the Essential Studio assemblies.
 
-8.  To install in the displayed default location, click Next.
+6.  To install in the displayed default location, click Next.
 
     ![](Add-on_images/Link-Install-Setup_img6.png)
    
-9.  Link Install installation will be started.
+7.  Link Install installation will be started.
 
     ![](Add-on_images/Link-Install-Setup_img7.png)
 
@@ -53,7 +47,7 @@ The following procedure illustrates how to install Link Install setup.
     
     ![](Add-on_images/Link-Install-Setup_img9.png)
 
-10. Click Finish to exit the Setup Wizard. Essential Studio Assemblies are installed.
+8. Click Finish to exit the Setup Wizard. Essential Studio Assemblies will be installed.
 
 ## Digitally Signed Assemblies Setup
 
@@ -61,61 +55,37 @@ Syncfusion provides Digitally Signed Assemblies Setup. It signs the Syncfusion 
 
 The following steps illustrate how to install Digitally Signed Assemblies Setup.
 
-1.  Double-click the Syncfusion Digitally Signed Setup file. The Self-ExtractorWizard opens and extracts the package automatically. 
+1.  Double-click the Syncfusion Digitally Signed Setup file. The Inno Script Wizard opens and extracts the package automatically. 
    
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img1.png)
 
-2.  Once the unzip operation is complete, Syncfusion Essential Studio Digitally Signed Assemblies Setup screen opens.
+2.  Once the unzip operation is complete, the License registration screen opens.
 
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img2.png)
 
-3.  Click Next. The User Information screen opens.
+3.  Enter the Unlock Key in the corresponding text box provided and select the I accept the terms and conditions check box after reading the License Agreement.
+
+4.  Click Next. The Select Platform screen opens. Select the required platforms to install the assemblies and click Next.
 
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img3.png)
 
-4.  Enter your User Name, Organization and Unlock Key in the corresponding text boxes provided.
+5.  The Installation Location screen opens.
+   
+    N> Click Browse to choose a location for installing the Essential Studio assemblies.
 
-5.  Click Next.
+6.  To install in the displayed default location, click Next.
 
-    N> The Unlock Key is validated and the Welcome screen opens.
-	
+    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img4.png)
+   
+7.  Digitally Signed installation will be started.
+
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img5.png)
-	
-6.  Click Next to continue with installation. The License Agreement screen opens.
-
-
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img6.png)
-
-7.  On accepting the terms, click the I accept the terms in the License Agreement option.
-
-8.  Click Next. The Select the Installation Folder screen opens.
-
-
-
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img7.png)
-
-
-
-    N> You can also browse to choose a location by clicking Browse.
-
-9.  Click Next. The Setup Type screen opens.
-
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img9.png)
-
-10. Select the preferred setup type. To install the complete setup, click Complete.
-
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img10.png)
-
-11. Click Install to continue with the installation.
-
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img11.png)
-
 
     N> The Completed screen is displayed once the selected package is installed.
+    
+    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img6.png)
 
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img13.png)
-
-12. Click Finish to exit the Setup Wizard. Assemblies will be installed.
+8. Click Finish to exit the Setup Wizard. Essential Studio Assemblies will be installed.
 
 
 ## QTP Add-on
@@ -191,31 +161,27 @@ Syncfusion introduces WebKit HTML converter from the version 13.1.0.21 of Essent
 
 The following are the steps to install the WebKit Setup.
 
-1. Double-click the Syncfusion WebKit Installer Setup file. The Syncfusion WebKit Installer Wizard opens.
+1. Double-click the Syncfusion WebKit Installer Setup file. The Inno Script Wizard opens and extracts the package automatically. 
 
    ![](Add-on_images/Step-by-Step-Installation_img1.png)
-
-   N> The WinZip Self-Extractor extracts the syncfusionessentialwebkit_(version).exe dialog, displaying the unzip operation of the package.
-
-   ![](Add-on_images/Step-by-Step-Installation_img3.png)
 
    
 
    N> No key is required for Syncfusion WebKit HTML Converter.
 
-2. Click Next.
+2. Once the unzip operation is complete, License Agreement screen opens.
 
    ![](Add-on_images/Step-by-Step-Installation_img5.png)
 
-3. After reading the terms, click the I accept the terms and conditions check box.
+3. After reading the License Agreement, click the I accept the terms and conditions check box.
 
-4. Click Next.
+4. Click Next. Installation location will be displayed.
 
    ![](Add-on_images/Step-by-Step-Installation_img6.png)
 
    N> You can also browse and choose a location by clicking Browse.
 
-4. To install in the displayed default location, click Install.
+5. To install in the displayed default location, click Install.
 
    ![](Add-on_images/Step-by-Step-Installation_img8.png)
    
@@ -223,7 +189,7 @@ The following are the steps to install the WebKit Setup.
    
    ![](Add-on_images/Step-by-Step-Installation_img10.png)
 
-5. Click Finish. WebKit is installed in your system.
+6. Click Finish. WebKit is installed in your system.
 
 ### Command Line 
 

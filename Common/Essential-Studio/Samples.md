@@ -149,10 +149,61 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img14.png)
+    ![](Offline-Samples_images/Offline-Samples_img14.png
 	
 	
 	
+	
+14. ASP.NET Core Platform
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img15.png)
+	
+	
+	
+	
+15. Angular 2
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img16.png)
+	
+	
+	
+	
+16. AngularJS
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img17.png)
+	
+	
+	
+	
+17. ReactJS
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img18.png)
+	
+	
+	
+	
+18. Aurelia
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img19.png)
+	
+	
+	
+	
+19. TypeScript
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img20.png)
 	
 	
 ## Online Samples
