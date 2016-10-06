@@ -57,6 +57,7 @@ The following procedure illustrates how to install Essential Studio. 
 N> The Setup wizard extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
 
 
+
 2. From the 2016 Vol 3 release(v14.3.0.49), you are provided with two options to unlock the Syncfusion setup.
 
  **A) Install with login ID**
@@ -111,37 +112,29 @@ Follow the steps below to install through Command Line in Silent mode.
 5. Cancel the Wizard.
 6. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version:
 
-   Essential Studio version from 11.1 to 13.1:
+Essential Studio version from 11.1 to 13.1:
 
-   “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}] 
+“Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}] 
 
 N> [..] – Arguments inside the square brackets are optional.
 
+Example: “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe” Install /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
+Essential Studio version 13.2 and later:
 
-   Example: “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe” Install /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x 
-
-
-
-   Essential Studio version 13.2 and later:
-
-
-
-   “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
+“Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
 
 
 N> [..] – Arguments inside the square brackets are optional.
 
-
-
-   Example: “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true
+Example: “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true
 
 
 N> We have provided Advanced Options in silent installation from 13.2.0.x.
 
 7. Setup is installed.
 
-  N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with ASP.NET, ASP.NET MVC, ASP.NET MVC Classic, Silverlight, Windows Forms, Windows Phone, WinRT, WPF, JavaScript, or LightSwitch.
+N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with ASP.NET, ASP.NET MVC, ASP.NET MVC Classic, Silverlight, Windows Forms, Windows Phone, WinRT, WPF, JavaScript, or LightSwitch.
    
 
 ### Command Line Uninstallation
@@ -156,17 +149,17 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 6. Cancel the Wizard.
 7. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version: 
 
-   Essential Studio version from 11.1 to 13.1:
+Essential Studio version from 11.1 to 13.1:
 
-   “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall true 
+“Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall true 
 
-   Example: “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe" /uninstall true
+Example: “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe" /uninstall true
     
-   Essential Studio version 13.2 and later:
+Essential Studio version 13.2 and later:
 
-   “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall silent 
+“Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall silent 
 
-   Example: “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe" /uninstall silent
+Example: “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe" /uninstall silent
 
 8. Setup is uninstalled.
 
