@@ -18,11 +18,11 @@ After 9.4.0.62, Essential Studio Source has been removed from the product setup.
 
 The following steps show how you can install the Essential Studio Source Code Add-on Setup.
 
-1. Double-click the Syncfusion Essential Studio Source code add-on installer setup file. The Inno Script Wizard opens and extracts the package automatically..
+1. Double-click the Syncfusion Essential Studio Source code add-on installer setup file. The Setup Wizard opens and extracts the package automatically..
    
    ![](Source-code_images/Step-by-Step-Installation_img1.png)
 
-    N> The Inno Script extracts the syncfusionessentialsourcecodeaddon(version).exe dialog, displaying the unzip operation of the package.
+    N> The Setup extracts the syncfusionessentialsourcecodeaddon(version).exe dialog, displaying the unzip operation of the package.
 	
    
 

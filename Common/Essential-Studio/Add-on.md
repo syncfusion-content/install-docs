@@ -17,7 +17,7 @@ Syncfusion provides the Link Install Setup to configure the Syncfusion control
 
 The following procedure illustrates how to install Link Install setup.
 
-1.  Double-click the Syncfusion Link Install Setup file. The Inno Script Wizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Link Install Setup file. The Setup Wizard opens and extracts the package automatically.
 
     ![](Add-on_images/Link-Install-Setup_img1.png)
 
@@ -55,7 +55,7 @@ Syncfusion provides Digitally Signed Assemblies Setup. It signs the Syncfusion 
 
 The following steps illustrate how to install Digitally Signed Assemblies Setup.
 
-1.  Double-click the Syncfusion Digitally Signed Setup file. The Inno Script Wizard opens and extracts the package automatically. 
+1.  Double-click the Syncfusion Digitally Signed Setup file. The Setup Wizard opens and extracts the package automatically. 
    
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img1.png)
 
@@ -161,7 +161,7 @@ Syncfusion introduces WebKit HTML converter from the version 13.1.0.21 of Essent
 
 The following are the steps to install the WebKit Setup.
 
-1. Double-click the Syncfusion WebKit Installer Setup file. The Inno Script Wizard opens and extracts the package automatically. 
+1. Double-click the Syncfusion WebKit Installer Setup file. The Setup Wizard opens and extracts the package automatically. 
 
    ![](Add-on_images/Step-by-Step-Installation_img1.png)
 
