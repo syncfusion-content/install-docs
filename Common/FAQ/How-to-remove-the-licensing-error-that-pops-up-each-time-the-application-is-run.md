@@ -81,7 +81,7 @@ The following steps help you to embed the License.licx file as an embedded resou
 
 When your project has been referred with Syncfusion version assemblies from v8.2 to 13.1, follow the given steps to resolve the licensing error.
 
-Syncfusion removed run-time licensing, for all Essential Studio products, from the version 8.2.0.x. to 13.1.0.x, so it is not required to embed the license.licx file in your project. Remove the license.licx file from the project, when it has already been added.
+Syncfusion removed run-time licensing, for all Essential Studio products, from the version 8.2.0.x. So it is not required to embed the license.licx file in your project. Remove the license.licx file from the project, when it has already been added.
 
 Syncfusion has removed the Syncfusion.Core dependency for all the Essential Studio products from the version 13.2.0.29. So, it is not required to refer to the Syncfusion.Core assembly in your project when you are using Syncfusion v13.2.0.29 or the later versions. 
 
