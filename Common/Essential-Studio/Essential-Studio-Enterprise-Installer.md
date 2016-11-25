@@ -18,6 +18,7 @@ The Essential Studio Enterprise Installer includes all of the following platform
 * ASP.NET Core
 * ASP.NET MVC
 * JavaScript
+* JSP
 * LightSwitch HTML
 * PHP
 * Universal Windows Platform
@@ -33,7 +34,7 @@ The Essential Studio Enterprise Installer includes all of the following platform
 
    Also, you are provided iOS packages as zip file. It contains Framework library of the controls and samples. 
 
-   N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). Also we have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49).
+   N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). We have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49). Also we have removed the WinRT platform from the Syncfusion Enterprise edition setup from 2016 2016 Vol 4 release(v14.4.0.15).
  
  
 ## Step-by-Step Installation
@@ -50,14 +51,19 @@ The following procedure illustrates how to install Essential Studio setup. 
 2. From the 2016 Vol 3 release(v14.3.0.49), you are provided with two options to unlock the Syncfusion setup.
     
 
-   **A) Install with login ID**
+   **Install with login ID**
+   **Install with product key**
+   
+   N> While installing the Syncfusion setup, by default Login Validation screen will be displayed. You can provide the email ID and password registered with Syncfusion for Unlocking the setup and your license will be configured. For unlocking the setup with License Key, you can select the **Install with product key** in the Installer and you will be prompt to enter the license key.
+   
+   **Install with login ID**
 
    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img2.png)
 
-   N> You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
+   N> You should enter your Syncfusion Direct-Trac login credentials and your license will be configured. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
 
-   **B) Install with product key**
+   **Install with product key**
 
    ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img3.png)
 
@@ -80,7 +86,7 @@ The following procedure illustrates how to install Essential Studio setup. 
  
     N>If you have license only for some of the products, then both licensed and evaluation platforms will be displayed under the respective category. 
 
-    N> WinRT platform will be installed only from Windows 8 and later. Universal Windows Platform will be installed only in Windows 10.
+    N> Universal Windows Platform will be installed only in Windows 10.
 
 
 5.  Select the Installation, Samples Folder and Advanced Options screen opens. To install in the displayed default location, click Next.

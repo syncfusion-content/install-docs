@@ -10,25 +10,25 @@ documentation: ug
 # Utilities
 
 
-## Dashboard
+## Syncfusion Control Panel
 
-This section provides details on the structure and composition of the Syncfusion Essential Studio dashboard. It also elaborates on navigating the dashboard to access various utilities and product samples.
+This section provides details on the structure and composition of the Syncfusion Control Panel. It also elaborates on navigating the Syncfusion Control Panel to access various utilities and product samples.
 
 ![](Utilities_images/Dashboard_img1.png)
 
 
 
-The dashboard structure can be split as follows. 
+The Syncfusion Control Panel structure can be split as follows. 
 
 ### Menu
 
 The Menu includes the Menu Bar that accommodates five menus.
 
-1. File - Allows you to exit the dashboard. Alternatively, this can be done by clicking ![](Utilities_images/Dashboard_img2.png) at the top right corner of the dashboard.
+1. File - Allows you to exit the Syncfusion Control Panel. Alternatively, this can be done by clicking ![](Utilities_images/Dashboard_img2.png) at the top right corner of the Syncfusion Control Panel.
 
    ![](Utilities_images/Dashboard_img3.png)
 
-2. Studio - Allows you to access the products under each platform. Also provides access to view local and online product samples. It allows you to access the online documentation, release notes and ReadMe documents for the respective products. This can alternatively be accessed using the Product Platforms section in the dashboard.
+2. Studio - Allows you to access the products under each platform. Also provides access to view local and online product samples. It allows you to access the online documentation, release notes and ReadMe documents for the respective products. This can alternatively be accessed using the Product Platforms section in the Syncfusion Control Panel.
 
     ![](Utilities_images/Dashboard_img4.png)
 
@@ -54,7 +54,7 @@ This section allows you to access the product samples available for each platfor
 
 Syncfusion provides lots of online and local samples for better understanding of the controls. You can access them using the following steps. 
 
-1. Open the Syncfusion Dashboard.
+1. Open the Syncfusion Control Panel.
 
    ![](Utilities_images/Dashboard_img9.png)
 
@@ -75,7 +75,7 @@ Syncfusion provides lots of online and local samples for better understanding of
 
 ### Checking Prerequisites
 
-You need to install a list of prerequisites, for all of the products to work successfully. When some of the software is not installed, the dashboard displays an alert. Click Missing Software, and a Recommended Software dialog box opens.
+You need to install a list of prerequisites, for all of the products to work successfully. When some of the software is not installed, the Syncfusion Control Panel displays an alert. Click Missing Software, and a Recommended Software dialog box opens.
 
 ![](Utilities_images/Dashboard_img11.png)
 
@@ -108,7 +108,7 @@ This section allows you to access the following. 
 
 ### Other Information
 
-Other information available in the dashboard includes:
+Other information available in the Syncfusion Control Panel includes:
 
 * Messages- This section allows you to view the user registration information, like whether the user is registered or not.
 
@@ -127,7 +127,7 @@ The Assembly Manager is used to install and uninstall the assemblies, to and fro
 
 Use the following steps to run the Assembly Manager.
 
-1. Open Syncfusion Dashboard.
+1. Open Syncfusion Control Panel.
 2. Click Utilities > Assembly Management.
 3. Click Launch button for Assembly Manager.
    
@@ -367,7 +367,7 @@ Build Manager allows you to build or debug the assemblies using Syncfusion sourc
 
 The following steps help you launch the Build Manager. 
 
-1. Open the Syncfusion Dashboard.
+1. Open the Syncfusion Control Panel.
 
 1. Click Utilities > Build Management.
 
@@ -430,7 +430,7 @@ The License Manager helps you manage license key information, such as the validi
 
 Follow the steps provided to launch the LicenseManager from the Dashboard.
 
-1. Open the Syncfusion Dashboard.
+1. Open the Syncfusion Control Panel.
 2. Click License Management.
 3. Click the Launch button for License Manager. The Syncfusion License Manager dialog box opens. 
    
@@ -488,7 +488,7 @@ The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual St
 
 ### Configuring Toolbox 
 
-1. Open the Syncfusion Dashboard.
+1. Open the Syncfusion Control Panel.
 
 2. Click Utilities > Toolbox Configuration.
    
@@ -536,7 +536,7 @@ HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essentia
 
 ### Launching MultiTarget Manager 
 
-1. Open the Syncfusion Dashboard.
+1. Open the Syncfusion Control Panel.
 
 2. Click Utilities > Assembly Management.
 
@@ -570,6 +570,8 @@ The ProjectMigration tool enables you to move the project files to the given Syn
 
 Syncfusion Project Migration tool supports from, Syncfusion Essential Studio Version 3.2.1.0 to the latest version and the supported platforms are Windows Forms, WPF, Silverlight, WinRT, Windows Phone and Universal Windows Platform.
 
+    N> Project Migration utility will change the TargetFramework version and Syncfusion assembly version alone in the .csproj files.
+
 The following steps illustrate how to migrate a project.
 
 1. You can open the Project Migration Tool from the following location: (Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\ Project Migration\ProjectMigrationWindows.exe.
@@ -587,6 +589,8 @@ The following steps illustrate how to migrate a project.
 5. Select the required .NET version from the .NET Framework version drop-down list.
 
 6. When you refer to the Syncfusion assemblies by Hint path instead of GAC location then, copy the latest assemblies to that location manually or select the Remove hint path from projects check box, to remove the hint from the project. 
+
+    N> If you have referred the syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC if the assemblies are installed in GAC
 
 7. Click Perform Action. The utility upgrades the selected projects to the newer versions.
 
