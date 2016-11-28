@@ -506,6 +506,7 @@ The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual St
    * Install VS2012 – Configures Framework 4.5 Syncfusion controls in VS 2012 toolbox.
    * Install VS2013 – Configures Framework 4.5.1 Syncfusion controls in VS 2013 toolbox.
    * Install VS2015 – Configures Framework 4.6 Syncfusion controls in VS 2015 toolbox.
+   * Install VS2017 – Configures Framework 4.6 Syncfusion controls in VS 2017 toolbox.
    
     N> You can also configure Syncfusion controls from a lower version Framework assembly to higher version of Visual Studio.
    
@@ -570,7 +571,7 @@ The ProjectMigration tool enables you to move the project files to the given Syn
 
 Syncfusion Project Migration tool supports from, Syncfusion Essential Studio Version 3.2.1.0 to the latest version and the supported platforms are Windows Forms, WPF, Silverlight, WinRT, Windows Phone and Universal Windows Platform.
 
-    N> Project Migration utility will change the TargetFramework version and Syncfusion assembly version alone in the .csproj files.
+    N> Project Migration utility will change the TargetFramework version and Syncfusion assembly version alone in the .csproj files. If you are using ASP.NET and ASP.NET MVC projects, please refer [ASP.NET Migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration) . 
 
 The following steps illustrate how to migrate a project.
 
@@ -584,7 +585,7 @@ The following steps illustrate how to migrate a project.
 
 3. Select a folder to store a backup in the Select backup folder field. 
 
-4. Enter the Essential Studio version to upgrade in the Essential Studio version field, for example, 13.1.0.21.
+4. By default, corresponding Essential Studio version will be present displayed in the Essential Studio version field.
 
 5. Select the required .NET version from the .NET Framework version drop-down list.
 
@@ -592,7 +593,7 @@ The following steps illustrate how to migrate a project.
 
     N> If you have referred the syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC if the assemblies are installed in GAC
 
-7. Click Perform Action. The utility upgrades the selected projects to the newer versions.
+7. Click Perform Action. The utility upgrades the selected projects to the newer versions. 
 
 ### Command Line
 

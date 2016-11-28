@@ -23,18 +23,17 @@ The Essential Studio Enterprise Installer includes all of the following platform
 * PHP
 * Universal Windows Platform
 * Windows Forms
-* WinRT
 * WPF 
 * Xamarin
 
 
-   N> WinRT can only be installed from Windows 8 and later. Universal Windows Platform will be installed only in Windows 10. Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). Also we have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49).
+   N> Universal Windows Platform will be installed only in Windows 10. 
 
-   You are provided with the separate installer for FileFormat. 
+   We are providing separate installer for FileFormat. 
 
-   Also, you are provided iOS packages as zip file. It contains Framework library of the controls and samples. 
+   Also, We are the iOS packages as PKG file. It contains Framework library of the controls and samples. 
 
-   N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). We have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49). Also we have removed the WinRT platform from the Syncfusion Enterprise edition setup from 2016 2016 Vol 4 release(v14.4.0.15).
+   N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). We have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49). Also we have removed the WinRT platform from the Syncfusion Enterprise edition setup from 2016 Vol 4 release(v14.4.0.15).
  
  
 ## Step-by-Step Installation
@@ -54,7 +53,7 @@ The following procedure illustrates how to install Essential Studio setup. 
    **Install with login ID**
    **Install with product key**
    
-   N> While installing the Syncfusion setup, by default Login Validation screen will be displayed. You can provide the email ID and password registered with Syncfusion for Unlocking the setup and your license will be configured. For unlocking the setup with License Key, you can select the **Install with product key** in the Installer and you will be prompt to enter the license key.
+   N> While installing the Syncfusion setup, by default Login Validation screen will be displayed. You can provide the registered Syncfusion email ID and password for unlocking the Syncfusion setup and your license will be configured. For unlocking the setup with License Key, you can select the **Install with product key** in the Installer and you will be prompt to enter the license key.
    
    **Install with login ID**
 
@@ -84,7 +83,7 @@ The following procedure illustrates how to install Essential Studio setup. 
 
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img6.png)
  
-    N>If you have license only for some of the products, then both licensed and evaluation platforms will be displayed under the respective category. 
+    N> If you have license only for some of the products, then both licensed and evaluation platforms will be displayed under the respective category. 
 
     N> Universal Windows Platform will be installed only in Windows 10.
 

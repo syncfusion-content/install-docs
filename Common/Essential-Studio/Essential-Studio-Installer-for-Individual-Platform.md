@@ -41,7 +41,7 @@ The LightSwitch platform has been marked as LightSwitch Silverlight from version
 
 WinRT and Windows Phone platform setup can be installed in Windows version 8 and later. Universal Windows Platform setup can be installed in Windows 10.
 
-You are provided with iOS packages as a .zip file. It is developed in MAC OS. It contains Framework library of the controls and samples.
+We are providing the iOS packages as a .pkg file. It is developed in MAC OS. It contains Framework library of the controls and samples.
 
 Essential Studio for ASP.NET MVC has been marked as "Classic" from version 12.1.0.43.
 
@@ -63,7 +63,7 @@ The following procedure illustrates how to install Essential Studio. 
    **Install with login ID**
    **Install with product key**
    
-   N> While installing the Syncfusion setup, by default Login Validation screen will be displayed. You can provide the email ID and password registered with Syncfusion for Unlocking the setup and your license will be configured. For unlocking the setup with License Key, you can select the **Install with product key** in the Installer and you will be prompt to enter the license key.
+   N> While installing the Syncfusion setup, by default Login Validation screen will be displayed. You can provide the registered Syncfusion email ID and password for unlocking the Syncfusion setup and your license will be configured. For unlocking the setup with License Key, you can select the **Install with product key** in the Installer and you will be prompt to enter the license key.
    
    
    **Install with login ID**
