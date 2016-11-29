@@ -41,7 +41,7 @@ The LightSwitch platform has been marked as LightSwitch Silverlight from version
 
 WinRT and Windows Phone platform setup can be installed in Windows version 8 and later. Universal Windows Platform setup can be installed in Windows 10.
 
-We are providing the iOS packages as a .pkg file. It is developed in MAC OS. It contains Framework library of the controls and samples.
+We are providing the iOS packages as a .pkg file which is developed in MAC OS. It contains Framework library of the controls and samples.
 
 Essential Studio for ASP.NET MVC has been marked as "Classic" from version 12.1.0.43.
 
