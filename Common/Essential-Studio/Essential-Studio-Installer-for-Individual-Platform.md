@@ -19,6 +19,7 @@ Separate platform setups are provided from version 11.1.0.21. There are 20 platf
 * ASP.NET MVC (from 12.1.0.43 and later)
 * ASP.NET MVC (Classic) 
 * JavaScript (from 11.2.0.63 and later)
+* JSP (from v14.4.0.15)
 * LightSwitch HTML (from 12.4.0.24 and later)
 * PHP (from 14.3.0.49)
 * Universal Windows Platform (from 13.2.0.34 and later)
@@ -40,7 +41,7 @@ The LightSwitch platform has been marked as LightSwitch Silverlight from version
 
 WinRT and Windows Phone platform setup can be installed in Windows version 8 and later. Universal Windows Platform setup can be installed in Windows 10.
 
-You are provided with iOS packages as a .zip file. It is developed in MAC OS. It contains Framework library of the controls and samples.
+We are providing the iOS packages as a .pkg file which is developed in MAC OS. It contains Framework library of the controls and samples.
 
 Essential Studio for ASP.NET MVC has been marked as "Classic" from version 12.1.0.43.
 
@@ -58,15 +59,21 @@ The following procedure illustrates how to install Essential Studio. 
 
 2. From the 2016 Vol 3 release(v14.3.0.49), you are provided with two options to unlock the Syncfusion setup.
 
-
-   **A) Install with login ID**
+   
+   **Install with login ID**
+   **Install with product key**
+   
+   N> While installing the Syncfusion setup, by default Login Validation screen will be displayed. You can provide the registered Syncfusion email ID and password for unlocking the Syncfusion setup and your license will be configured. For unlocking the setup with License Key, you can select the **Install with product key** in the Installer and you will be prompt to enter the license key.
+   
+   
+   **Install with login ID**
 
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)
 
    N> You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
 
-   **B) Install with product key**
+   **Install with product key**
 
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img3.png)
 
