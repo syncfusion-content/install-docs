@@ -20,7 +20,7 @@ Installed Documentation – Offline User Guide setup files have been removed f
 
 * User Guide PDF
 
-This local documentation can be accessed from the Dashboard > Utilities > Documentation > Local Documentation.
+This local documentation can be accessed from the Syncfusion Control Panel > Utilities > Documentation > User Guide PDF.
 
 
 
@@ -32,7 +32,7 @@ This local documentation can be accessed from the Dashboard > Utilities > Docu
 
 N> When you have not installed local documentation, then a prompt opens to download the setup.
 
-Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products, better. This can be accessed from the Utilities > Documentation > Online Documentation.
+Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products, better. This can be accessed from the Utilities > Documentation > Online User Guide.
 
 ![](Documentation-Setup_images/User-Guide_img3.png)
 
@@ -45,13 +45,13 @@ Installed Documentation - Documentation pertaining to Essential Studio can be 
 * Visual Studio 2005/Visual Studio 2008 Class Reference
 * Visual Studio 2010/Visual Studio 2012/Visual Studio 2013 Class Reference
 
-This local documentation can be accessed from the Dashboard > Utilities > Documentation > Local Documentation.
+This local documentation can be accessed from the Syncfusion Control Panel > Utilities > Documentation > Class Reference.
 
 ![](Documentation-Setup_images/Class-Reference_img1.png)
 
 
 
-Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products better. This can be accessed from the Utilities > Documentation > Online Documentation.
+Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products better. This can be accessed from the Utilities > Documentation > Online Class Reference.
 
 
 
