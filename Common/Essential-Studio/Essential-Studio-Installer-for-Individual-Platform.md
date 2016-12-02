@@ -61,6 +61,8 @@ The following procedure illustrates how to install Essential Studio. 
 
    
    **Install with login ID**
+   
+   
    **Install with product key**
    
    N> While installing the Syncfusion setup, by default Login Validation screen will be displayed. You can provide the registered Syncfusion email ID and password for unlocking the Syncfusion setup and your license will be configured. For unlocking the setup with License Key, you can select the **Install with product key** in the Installer and you will be prompt to enter the license key.

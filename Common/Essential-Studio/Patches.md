@@ -93,7 +93,7 @@ The following steps help you revert to the Release Assemblies. 
 
 1. Copy the Release Assemblies from the Backup Assemblies folder.
 2. Paste them in the precompiledassemblies folder.
-3. Open Dashboard > Utility > Assembly Management > Assembly Manager.
+3. Open Syncfusion Control Panel > Utilities > Assembly Manager.
 
 
 

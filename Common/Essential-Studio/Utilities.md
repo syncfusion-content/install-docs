@@ -128,12 +128,11 @@ The Assembly Manager is used to install and uninstall the assemblies, to and fro
 Use the following steps to run the Assembly Manager.
 
 1. Open Syncfusion Control Panel.
-2. Click Utilities > Assembly Management.
-3. Click Launch button for Assembly Manager.
+2. Click Utilities > Assembly Manager.
    
    ![](Utilities_images/Assembly-Manager_img1.png)
 
-4. The Syncfusion Assembly Manager x.x.x.x window opens.
+3. The Syncfusion Assembly Manager x.x.x.x window opens.
 
    N> You can also open the Assembly Manager from the following location:
 
@@ -141,7 +140,7 @@ Use the following steps to run the Assembly Manager.
 
    ![](Utilities_images/Assembly-Manager_img3.png)
 
-5. Select the required option from Select Assembly Type.
+4. Select the required option from Select Assembly Type.
 
    * Pre-built Assemblies - These are the assemblies shipped with Essential Studio. Selecting this mode triggers the Assembly Manager to install the pre-built assemblies. 
 
@@ -149,7 +148,7 @@ Use the following steps to run the Assembly Manager.
 
     N> The Build Manager application must be run to build, debug or release versions of the assemblies before the Assembly Manager can install the custom built assemblies.
 
-6. Select the required option for the Action sections.
+5. Select the required option for the Action sections.
 
    Action
 
@@ -157,7 +156,7 @@ Use the following steps to run the Assembly Manager.
    
     N> Remove All Versions must be used with caution in scenarios when one has applications depending on certain versions of the Syncfusion assemblies installed in the GAC. They may cease to function.
 
-7. Select the required option for Framework sections. 
+6. Select the required option for Framework sections. 
 
    Framework
 
@@ -173,15 +172,15 @@ Use the following steps to run the Assembly Manager.
 
    N> By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed.
 
-8. Click Perform Action. It starts processing.
+7. Click Perform Action. It starts processing.
 
    ![](Utilities_images/Assembly-Manager_img7.png)
 
-9. Once the action is completed, a confirmation message is displayed.
+8. Once the action is completed, a confirmation message is displayed.
 
    ![](Utilities_images/Assembly-Manager_img8.png)
 
-10. Click OK.
+9. Click OK.
 
    ![](Utilities_images/Assembly-Manager_img9.png)
 
@@ -369,17 +368,16 @@ The following steps help you launch the Build Manager. 
 
 1. Open the Syncfusion Control Panel.
 
-1. Click Utilities > Build Management.
+1. Click Utilities > Build Manager.
 
-2. Click the Launch button for Build Manager.
 
-3. The Syncfusion Build Manager x.x.x.x window opens.
+2. The Syncfusion Build Manager x.x.x.x window opens.
 
    N> Build Manager is available in the Dashboard only when Source code is installed. You can also launch the Build Manager from the following location: C:\Program Files\Syncfusion\Essential Studio\x.x.x.x\Utilities\Build Manager\buildmanagerwindows.exe
 
    ![](Utilities_images/Build-Manager_img2.png)
 
-4. Select the required setting in the Syncfusion Build Manager x.x.x.x window.
+3. Select the required setting in the Syncfusion Build Manager x.x.x.x window.
 
 ### Build Manager Settings
 
@@ -431,8 +429,8 @@ The License Manager helps you manage license key information, such as the validi
 Follow the steps provided to launch the LicenseManager from the Dashboard.
 
 1. Open the Syncfusion Control Panel.
-2. Click License Management.
-3. Click the Launch button for License Manager. The Syncfusion License Manager dialog box opens. 
+2. Click License Manager.
+3. The Syncfusion License Manager dialog box opens. 
    
    ![](Utilities_images/License-Manager_img1.png)
 
@@ -490,11 +488,11 @@ The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual St
 
 1. Open the Syncfusion Control Panel.
 
-2. Click Utilities > Toolbox Configuration.
+2. Click Utilities > Toolbox Installer.
    
    ![](Utilities_images/Toolbox-Configuration_img1.png)
 
-3. Select the Toolbox Installer.
+3. Toolbox Installer will be opened.
 
    ![](Utilities_images/Toolbox-Configuration_img2.png)
 
@@ -539,28 +537,27 @@ HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essentia
 
 1. Open the Syncfusion Control Panel.
 
-2. Click Utilities > Assembly Management.
+2. Click Utilities > Multi-Target Manager.
 
-3. Click the Launch button for Multi-Target Manager. 
 
    ![](Utilities_images/Multi-Target-Manager_img2.png)
 
     N> You can also open the Multi-Target Manager from the following location:
    (Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\MultiTargetManager\ MultiTargetManager.exe
 
-4. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
+3. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
 
    ![](Utilities_images/Multi-Target-Manager_img4.png)
 
-5. Select the required version from the drop-down list. The Multi-Target Manager dialog box opens.
+4. Select the required version from the drop-down list. The Multi-Target Manager dialog box opens.
 
    ![](Utilities_images/Multi-Target-Manager_img5.png)
 
-6. Click OK.
+5. Click OK.
 
-7. Open an application.
+6. Open an application.
 
-8. Refresh the application before building.
+7. Refresh the application before building.
 
     N> The target value and the registry value change according to the selected Framework version.
    
@@ -591,7 +588,7 @@ The following steps illustrate how to migrate a project.
 
 6. When you refer to the Syncfusion assemblies by Hint path instead of GAC location then, copy the latest assemblies to that location manually or select the Remove hint path from projects check box, to remove the hint from the project. 
 
-    N> If you have referred the syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC if the assemblies are installed in GAC
+    N> If you have referred the Syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC if the assemblies are installed in GAC
 
 7. Click Perform Action. The utility upgrades the selected projects to the newer versions. 
 
