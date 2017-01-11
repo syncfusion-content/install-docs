@@ -568,7 +568,7 @@ The ProjectMigration tool enables you to move the project files to the given Syn
 
 Syncfusion Project Migration tool supports from, Syncfusion Essential Studio Version 3.2.1.0 to the latest version and the supported platforms are Windows Forms, WPF, Silverlight, WinRT, Windows Phone and Universal Windows Platform.
 
-    N> Project Migration utility will change the TargetFramework version and Syncfusion assembly version alone in the .csproj files. If you are using ASP.NET and ASP.NET MVC projects, please refer [ASP.NET Migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration) . 
+N> Project Migration utility will change the TargetFramework version and Syncfusion assembly version alone in the .csproj files. If you are using ASP.NET and ASP.NET MVC projects, please refer [ASP.NET Migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration) . 
 
 The following steps illustrate how to migrate a project.
 
