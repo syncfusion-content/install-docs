@@ -43,7 +43,7 @@ Local documentation - A complete set of documentation for Class Reference is pro
 Installed Documentation - Documentation pertaining to Essential Studio can be installed with your copy of Syncfusion local resources. Explore the following three categories of documentation to have a better idea of Essential Studio products.
 
 * Visual Studio 2005/Visual Studio 2008 Class Reference
-* Visual Studio 2010/Visual Studio 2012/Visual Studio 2013 Class Reference
+* Visual Studio 2010/Visual Studio 2012/Visual Studio 2013/Visual Studio 2015/Visual Studio 2017 Class Reference
 
 This local documentation can be accessed from the Syncfusion Control Panel > Utilities > Documentation > Class Reference.
 
