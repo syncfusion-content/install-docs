@@ -196,6 +196,37 @@ N> The version number in the tags have to be changed to the version you are link
 
 
 
+### Assembly Manager Console usage
+
+You can also install the Syncfusion assemblies in GAC using the console version of Assembly Manager by passing the arguments. In order to do so, follow the below steps.
+
+1. Open the command prompt in admin mode.
+
+2. Navigate to the Assembly Manager location and pass the following arguments for AssemblyManagerConsole.exe.
+
+#### 1. Installing particular version
+/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions}
+
+##### Example
+/version:14.4.0.15 /compilemode:prebuilt /action:install /framework:46,451,45,40,35,20
+
+   ![](Utilities_images/Assembly-Manager_img10.png)
+   
+
+#### 2. Removing particular version
+/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions}
+
+##### Example
+/version:14.4.0.15 /compilemode:prebuilt /action:remove /framework:46,451,45,40
+
+#### 3. Removing all versions
+/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions}
+
+##### Example
+/version:14.4.0.15 /compilemode:prebuilt /action:removeall /framework:46,451,45,40   
+
+
+
 ### Syncfusion Assemblies
 
 The Syncfusion assemblies are installed in the following two locations: 
