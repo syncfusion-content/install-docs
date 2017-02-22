@@ -208,15 +208,6 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 	
 	
 	
-20. Electron
-
-
-
-    ![](Offline-Samples_images/Offline-Samples_img21.png)
-	
-	
-	
-	
 20. Ionic
 
 
