@@ -31,7 +31,7 @@ The Essential Studio Enterprise Installer includes all of the following platform
 
    We are providing separate installer for FileFormat. 
 
-   Also, We are the iOS packages as PKG file. It contains Framework library of the controls and samples. 
+   Also, we are providing the iOS packages as PKG file. It contains Framework library of the controls and samples. 
 
    N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). We have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49). Also we have removed the WinRT platform from the Syncfusion Enterprise edition setup from 2016 Vol 4 release(v14.4.0.15).
  
