@@ -267,7 +267,7 @@ WinRT</td><td>
 <tr>
 <td>
 WPF</td><td>
-{{ '[http://silverlight.syncfusion.com/samples/WPF/Samples/WPFSampleBrowser/UI/Tools/Tools.htm](http://silverlight.syncfusion.com/samples/WPF/Samples/WPFSampleBrowser/UI/Tools/Tools.htm)' | markdownify }}</td></tr>
+{{ '[https://samples.syncfusion.com/wpf](https://samples.syncfusion.com/wpf)' | markdownify }}</td></tr>
 
 <tr>
 <td>
