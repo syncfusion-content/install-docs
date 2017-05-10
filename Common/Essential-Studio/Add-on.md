@@ -9,15 +9,15 @@ documentation: ug
 
 # Add-On
 
-## Link Install Setup
+## Essential Studio - Binaries
 
-Syncfusion provides the Link Install Setup to configure the Syncfusion controls in a build machine, in which Syncfusion Essential Studio is not installed. This installs Essential Studio assemblies into the target folder. It also registers the product key to enable you to compile a project developed on a build machine. 
+Syncfusion provides the Essential Studio - Binaries Setup to configure the Syncfusion controls in a build machine, in which Syncfusion Essential Studio is not installed. This installs Essential Studio assemblies into the target folder. It also registers the product key to enable you to compile a project developed on a build machine. For information, see [Essential Studio - Binaries](http://www.syncfusion.com/support/kb/7653). 
 
-### Installing Link Install Setup
+### Installing Essential Studio - Binaries Setup
 
-The following procedure illustrates how to install Link Install setup.
+The following procedure illustrates how to install Essential Studio - Binaries setup.
 
-1.  Double-click the Syncfusion Link Install Setup file. The Setup Wizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Essential Studio - Binaries Setup file. The Setup Wizard opens and extracts the package automatically.
 
     ![](Add-on_images/Link-Install-Setup_img1.png)
 
@@ -39,7 +39,7 @@ The following procedure illustrates how to install Link Install setup.
 
     ![](Add-on_images/Link-Install-Setup_img6.png)
    
-7.  Link Install installation will be started.
+7.  Essential Studio - Binaries installation will be started.
 
     ![](Add-on_images/Link-Install-Setup_img7.png)
 
@@ -47,15 +47,15 @@ The following procedure illustrates how to install Link Install setup.
     
     ![](Add-on_images/Link-Install-Setup_img9.png)
 
-8. Click Finish to exit the Setup Wizard. Essential Studio Assemblies will be installed.
+8. Click Finish to exit the Setup Wizard. Essential Studio - Binaries setup will be installed.
 
-## Digitally Signed Assemblies Setup
+## Digitally Signed Binaries Setup
 
-Syncfusion provides Digitally Signed Assemblies Setup. It signs the Syncfusion assemblies with a .pfx file. 
+Syncfusion provides Digitally Signed Binaries Setup. It signs the Syncfusion assemblies with a .pfx file. For information, see [Digitally Signed Binaries ](http://www.syncfusion.com/support/kb/7671). 
 
-The following steps illustrate how to install Digitally Signed Assemblies Setup.
+The following steps illustrate how to install Digitally Signed Binaries Setup.
 
-1.  Double-click the Syncfusion Digitally Signed Setup file. The Setup Wizard opens and extracts the package automatically. 
+1.  Double-click the Syncfusion Digitally Signed Binaries Setup file. The Setup Wizard opens and extracts the package automatically. 
    
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img1.png)
 
@@ -71,13 +71,13 @@ The following steps illustrate how to install Digitally Signed Assemblies Setup
 
 5.  The Installation Location screen opens.
    
-    N> Click Browse to choose a location for installing the Essential Studio assemblies.
+    N> Click Browse to choose a location for installing the Essential Studio Binaries.
 
 6.  To install in the displayed default location, click Next.
 
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img4.png)
    
-7.  Digitally Signed installation will be started.
+7.  Digitally Signed Binaries installation will be started.
 
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img5.png)
 
@@ -85,7 +85,7 @@ The following steps illustrate how to install Digitally Signed Assemblies Setup
     
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img6.png)
 
-8. Click Finish to exit the Setup Wizard. Essential Studio Assemblies will be installed.
+8. Click Finish to exit the Setup Wizard. Digitally Signed Binaries will be installed.
 
 
 ## QTP Add-on
