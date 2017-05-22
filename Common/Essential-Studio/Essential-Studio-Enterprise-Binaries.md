@@ -14,8 +14,6 @@ documentation: ug
 
 Syncfusion provides the Essential Studio - Binaries Setup to configure the Syncfusion controls in a build machine, in which Syncfusion Essential Studio is not installed. This installs Essential Studio assemblies into the target folder. For information, see [Essential Studio - Binaries](http://www.syncfusion.com/support/kb/7653). 
 
-### Installing Essential Studio - Binaries Setup
-
 The following procedure illustrates how to install Essential Studio - Binaries setup.
 
 1.  Double-click the Syncfusion Essential Studio - Binaries Setup file. The Setup Wizard opens and extracts the package automatically.
@@ -50,7 +48,7 @@ The following procedure illustrates how to install Essential Studio - Binaries�
 
 8. Click Finish to exit the Setup Wizard. Essential Studio - Binaries setup will be installed.
 
-## Digitally Signed Binaries Setup
+## Essential Studio - Digitally Signed Binaries
 
 Syncfusion provides Digitally Signed Binaries Setup. It signs the Syncfusion assemblies with a .pfx file. For information, see [Digitally Signed Binaries ](http://www.syncfusion.com/support/kb/7671). 
 
