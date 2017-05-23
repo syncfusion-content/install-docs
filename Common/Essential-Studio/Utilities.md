@@ -648,3 +648,31 @@ The following screenshot illustrates this.
 
 Syncfusion provides Project Templates for the ASP.NET MVC platform to automatically refer the necessary reference and resource files in an application. However, this is not applicable to other platforms. In the other platforms, such as Windows Forms, WPF, Silverlight, and ASP.NET, the Syncfusion controls are automatically configured in the Microsoft Visual Studio Toolbox after the setup has been installed, and the controls can be used in the application by simply dragging them from the toolbox.
 
+## VSIX Installer
+
+Syncfusion provides VSIX Installer for configuring the Syncfusion extensions in Visual Studio. 
+
+The following steps illustrate how to configure Syncfusion extensions in Visual Studio.
+
+1. Open the SyncfusionVSIXInstallerWindows.exe from the following location.
+
+    {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{version}\Utilities\Extensions\VISX Installer\
+	
+	Example: C:\Program Files (x86)\Syncfusion\Essential Studio\15.2.0.40\Utilities\Extensions\VSIX Installer
+	
+   ![](Utilities_images/VSIXInstaller_img1.png)	
+   
+2. Select the Syncfusion extensions you need to configure in Visual Studio and click the Configure button.
+
+   ![](Utilities_images/VSIXInstaller_img2.png)
+   
+3. Now, the selected Syncfusion extensions will be configured in Visual Studio.  
+
+4. Once the action is completed, a confirmation message is displayed. Click OK.
+
+   ![](Utilities_images/VSIXInstaller_img3.png)
+
+	
+	
+	
+
