@@ -19,7 +19,6 @@ The Essential Studio Enterprise Installer includes all of the following platform
 * ASP.NET MVC
 * JavaScript
 * JSP
-* LightSwitch HTML
 * PHP
 * Universal Windows Platform
 * Windows Forms

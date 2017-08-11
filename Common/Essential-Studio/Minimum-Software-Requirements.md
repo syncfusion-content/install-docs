@@ -44,7 +44,7 @@ Minimum 256 MB in RAM</td></tr>
 <tr>
 <td>
 Free Space</td><td>
-Minimum 12 GB free space in system drive</td></tr>
+Minimum 13.5 GB free space in the drive you are installing. Also, You should have minimum 5.5 GB disk space in C drive even if you are installing the setup in different drive location.</td></tr>
 </table>
 
 

@@ -609,7 +609,7 @@ The following steps illustrate how to migrate a project.
 
 2. Select the project to be upgraded in the Select Project Folder field.
 
-    N> You can also select multiple projects_ by _using the Select Folder List option.
+    N> If you have multiple projects in the same folder, you can select/deselect the projects of your choice. You can also select multiple projects location by using the Select Folder List option.
 
 3. Select a folder to store a backup in the Select backup folder field. 
 
