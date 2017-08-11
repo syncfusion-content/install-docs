@@ -11,7 +11,7 @@ documentation: ug
 |-----------------------|----------------------------------------------|
 | ASP.NET               | Framework 4.0, 4.5, 4.5.1 and 4.6            |
 | ASP.NET MVC           | MVC 3,MVC 4,MVC 5 and MVC 6 (beta 5)         |
-| ASP.NET (Classic)     | Framework 4.0, 4.5 and 4.5.1                 |
+| ASP.NET (Classic)     | Framework 4.0, 4.5, 4.5.1 and 4.6            |
 | ASP.NET MVC (Classic) | MVC 3,MVC 4 and MVC 5                        |
 | WPF                   | Framework 3.5, 4.0, 4.5, 4.5.1 and 4.6                 |
 | Windows Forms         | Framework 2.0, 3.5, 4.0, 4.5, 4.5.1 and 4.6. |
@@ -42,10 +42,10 @@ documentation: ug
 | Universal                                       | Windows 8 and later                                   |
 | Windows Phone 8 (SL) and Windows Phone 8.1 (SL) | Windows 8 and later                                   |
 | Windows Phone 8.1 (WinRT)                       | Windows 8 and later                                   |
-| Xamarin                                         | All Windows OS, Android 4.1 & later and iOS 7 & later |
-| Xamarin.iOS                                     | iOS 7 and later.                                      |
+| Xamarin                                         | All Windows OS, Android 4.1 & later and iOS 9 & later |
+| Xamarin.iOS                                     | iOS 9 and later.                                      |
 | Android and Xamarin.Android                     | Android 4.1 and later                                 |
 
 ## Visual Studio Support
 
-Essential Studio {{ site.releaseversion }} is compatible with Microsoft Visual Studio 2005, Visual Studio 2008, Visual Studio 2010, Visual Studio 2012, Visual Studio 2013 and Visual Studio 2015.
+Essential Studio v15.3.0.26 is compatible with Microsoft Visual Studio 2005, Visual Studio 2008, Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, Visual Studio 2015 and Visual Studio 2017.
