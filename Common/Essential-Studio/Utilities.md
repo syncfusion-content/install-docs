@@ -404,7 +404,7 @@ The following steps help you launch the Build Manager. 
 
 2. The Syncfusion Build Manager x.x.x.x window opens.
 
-   N> Build Manager is available in the Dashboard only when Source code is installed. You can also launch the Build Manager from the following location: C:\Program Files\Syncfusion\Essential Studio\x.x.x.x\Utilities\Build Manager\buildmanagerwindows.exe
+   N> Build Manager is available in the Dashboard only when Source code is installed. You can also launch the Build Manager from the following location: C:\Program Files\Syncfusion\Essential Studio\x.x.x.x\Utilities\Build Manager\Buildmanagerwindows.exe
 
    ![](Utilities_images/Build-Manager_img2.png)
 
@@ -638,7 +638,7 @@ The following steps illustrate how to run the Project Migration tool through com
 
    /source:"sourcepath" /studio:"Essential Studio version" /framework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1]" /backup:"Backupfolderpath" /hintpath:"[False] / [True]"
 
-   Example: /source:"C:\Users\Vadivel\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3" /studio:"11.2.0.25" /framework:"v4.0" /backup:"E:\ProjectMigrationBackup\WindowsFormsApplication3" /hintpath:"False"
+   Example: /source:"C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3" /studio:"11.2.0.25" /framework:"v4.0" /backup:"E:\ProjectMigrationBackup\WindowsFormsApplication3" /hintpath:"False"
 
 The following screenshot illustrates this.
 
