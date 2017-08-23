@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Essential Studio Installer for Individual Platform | common | Syncfusion
 description: essential studio installer for individual platforms
@@ -46,6 +46,8 @@ We are providing the iOS packages as a .pkg file which is developed in MAC OS. I
 Essential Studio for ASP.NET MVC has been marked as "Classic" from version 12.1.0.43.
 
 Essential Studio for ASP.NET has been marked as "Classic" from version 12.2.0.36.
+
+We have stopped providing Essential Studio for the Android and iOS platforms as of version 15.3.0.26 and later.
 
 ## Step-by-Step Installation
 
