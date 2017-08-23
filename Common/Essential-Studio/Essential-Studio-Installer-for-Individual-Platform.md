@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Essential Studio Installer for Individual Platform | common | Syncfusion
 description: essential studio installer for individual platforms
