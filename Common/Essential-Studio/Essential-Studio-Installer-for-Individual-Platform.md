@@ -47,6 +47,8 @@ Essential Studio for ASP.NET MVC has been marked as "Classic" from version 12.1.
 
 Essential Studio for ASP.NET has been marked as "Classic" from version 12.2.0.36.
 
+We have stopped providing Essential Studio for the Android and iOS platforms as of version 15.3.0.26 and later.
+
 ## Step-by-Step Installation
 
 The following procedure illustrates how to install Essential Studio. 
