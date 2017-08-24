@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-Separate platform setups are provided from version 11.1.0.21. There are 20 platforms.
+Separate platform setups are provided from version 11.1.0.21. There are 20 platforms. You can download the latest version platforms Installer [here] (https://www.syncfusion.com/downloads/latest-version) .
 
 * ASP.NET (from 12.2.0.36 and later)
 * ASP.NET (Classic)
