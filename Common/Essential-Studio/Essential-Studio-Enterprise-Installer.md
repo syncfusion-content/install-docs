@@ -12,7 +12,7 @@ documentation: ug
 
 ## Overview
 
-The Essential Studio Enterprise Installer includes all of the following platforms. You can download the latest version Essential Studio Enterprise Installer [here] (https://www.syncfusion.com/downloads/latest-version) . There is also a separate installer for individual platforms. For more information refer to the [Platform installer](http://help.syncfusion.com/common/essential-studio/essential-studio-installer-for-individual-platform ) section.
+The Essential Studio Enterprise Installer includes all of the following platforms. You can download the latest version Essential Studio Enterprise Installer [here](https://www.syncfusion.com/downloads/latest-version) . There is also a separate installer for individual platforms. For more information refer to the [Platform installer](http://help.syncfusion.com/common/essential-studio/essential-studio-installer-for-individual-platform ) section.
 
 * ASP.NET
 * ASP.NET Core
