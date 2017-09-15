@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# What-is-the-role-of-Essential-Studio-in-Visual-Studio?
+# What is the role of Essential Studio in Visual Studio?
 
 Syncfusion Essential Studio is not a plug-in for Visual Studio or an IDE like Visual Studio. Syncfusion Essential Studio is a .NET based product which offers 800+ controls and frameworks which can be used in Visual Studio for developing stunning applications. The Essential Studio setup includes the samples for all the controls which provides an overview of how Syncfusion controls looks like and how it works. The platforms that comes with Syncfusion Essential Studio are as follows.
 

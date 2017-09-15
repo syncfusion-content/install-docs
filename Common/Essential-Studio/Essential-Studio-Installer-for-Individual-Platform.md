@@ -13,41 +13,43 @@ documentation: ug
 
 Separate platform setups are provided from version 11.1.0.21. There are 20 platforms. You can download the latest version platforms Installer [here](https://www.syncfusion.com/downloads/latest-version) .
 
-* ASP.NET (from 12.2.0.36 and later)
-* ASP.NET (Classic)
-* ASP.NET Core (from 14.3.0.49)
+* ASP.NET  (from 12.2.0.36 and later)
+* ASP.NET Core (from 14.3.0.49 and later)
 * ASP.NET MVC (from 12.1.0.43 and later)
-* ASP.NET MVC (Classic) 
 * JavaScript (from 11.2.0.63 and later)
 * JSP (from v14.4.0.15)
-* LightSwitch HTML (from 12.4.0.24 and later)
 * PHP (from 14.3.0.49)
-* Universal Windows Platform (from 13.2.0.34 and later)
-* Windows Forms
-* WinRT (only for Microsoft Windows 8 and later)
+* Universal Windows Platform
+* Windows Forms (from 13.2.0.34 and later)
 * WPF
 * Xamarin
 * FileFormats
-* Android
-* iOS 
-* Silverlight 
-* Windows Phone (only for Windows Phone SDK 8 and later )
-* LightSwitch Silverlight (from 11.3.0.30 and later)
-* Sample Creator (from 12.1.0.43 and later)
 
-Essential Studio Sample Creator is provided from version 12.1.0.43. For more information refer to [Sample Creator](http://www.syncfusion.com/kb/2350).
+### Classic Platforms:
+* ASP.NET MVC Classic (Essential Studio for ASP.NET MVC has been marked as “Classic” from version 12.1.0.43)
+* ASP.NET Classic (Essential Studio for ASP.NET has been marked as “Classic” from version 12.2.0.36)
 
-The LightSwitch platform has been marked as LightSwitch Silverlight from version 12.3.0.26 and later.
+We have stopped providing the following classic platforms from v14.4.0.20.
+* LightSwitch HTML (from 12.4.0.24 and 14.4.0.15)
+* LightSwitch Silverlight (from 11.3.0.30 and 14.4.0.15)
+* Silverlight
+* WinRT
+* Windows Phone
 
 WinRT and Windows Phone platform setup can be installed in Windows version 8 and later. Universal Windows Platform setup can be installed in Windows 10.
 
-We are providing the iOS packages as a .pkg file which is developed in MAC OS. It contains Framework library of the controls and samples.
+We have stopped providing Essential Studio for Android and iOS platforms from version 15.3.0.26.
 
-Essential Studio for ASP.NET MVC has been marked as "Classic" from version 12.1.0.43.
+Essential Studio Sample Creator is provided from version 12.1.0.43. [Sample Creator](http://www.syncfusion.com/kb/2350). 
 
-Essential Studio for ASP.NET has been marked as "Classic" from version 12.2.0.36.
+We are providing the iOS packages as a .pkg file which is developed in MAC OS. It contains Framework library of the controls and samples. We are providing Mac installer for the following Essential Studio platforms.
 
-We have stopped providing Essential Studio for the Android and iOS platforms as of version 15.3.0.26 and later.
+* ASP.NET Core
+* JavaScript
+* Xamarin
+* PHP
+* Electron
+
 
 ## Step-by-Step Installation
 
