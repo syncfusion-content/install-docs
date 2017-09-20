@@ -20,27 +20,10 @@ Separate platform setups are provided from version 11.1.0.21. There are 20 platf
 * JSP (from v14.4.0.15)
 * PHP (from 14.3.0.49)
 * Universal Windows Platform
-* Windows Forms (from 13.2.0.34 and later)
+* Windows Forms (from 13.2.0.34 and later) 
 * WPF
 * Xamarin
 * FileFormats
-
-### Classic Platforms:
-* ASP.NET MVC Classic (Essential Studio for ASP.NET MVC has been marked as “Classic” from version 12.1.0.43)
-* ASP.NET Classic (Essential Studio for ASP.NET has been marked as “Classic” from version 12.2.0.36)
-
-We have stopped providing the following classic platforms from v14.4.0.20.
-* LightSwitch HTML (from 12.4.0.24 and 14.4.0.15)
-* LightSwitch Silverlight (from 11.3.0.30 and 14.4.0.15)
-* Silverlight
-* WinRT
-* Windows Phone
-
-WinRT and Windows Phone platform setup can be installed in Windows version 8 and later. Universal Windows Platform setup can be installed in Windows 10.
-
-We have stopped providing Essential Studio for Android and iOS platforms from version 15.3.0.26.
-
-Essential Studio Sample Creator is provided from version 12.1.0.43. [Sample Creator](http://www.syncfusion.com/kb/2350). 
 
 We are providing the iOS packages as a .pkg file which is developed in MAC OS. It contains Framework library of the controls and samples. We are providing Mac installer for the following Essential Studio platforms.
 
@@ -49,6 +32,29 @@ We are providing the iOS packages as a .pkg file which is developed in MAC OS. I
 * Xamarin
 * PHP
 * Electron
+
+### Classic Platforms:
+* ASP.NET MVC Classic (Essential Studio for ASP.NET MVC has been marked as “Classic” from version 12.1.0.43)
+* ASP.NET Classic (Essential Studio for ASP.NET has been marked as “Classic” from version 12.2.0.36)
+
+We have stopped providing the following platforms.
+
+<table>
+<tr>
+<th>
+Platforms</th><th>
+Stopped from version</th></tr>
+<tr>
+<td>
+LightSwitch HTML, LightSwitch Silverlight, Silverlight, WinRT and Windows Phone</td><td>
+14.4.0.20</td></tr>
+<tr>
+<td>
+Android and iOS</td><td>
+15.3.0.26</td></tr>
+</table>
+
+WinRT and Windows Phone platform setup can be installed in Windows version 8 and later. Universal Windows Platform setup can be installed in Windows 10.
 
 
 ## Step-by-Step Installation
