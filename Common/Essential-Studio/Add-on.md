@@ -157,9 +157,3 @@ Syncfusion WebKit Installer supports uninstalling the setup through Command Line
 8. Setup is uninstalled.
     
 	N> * x.x.x.x need to be replaced with the WebKit version installed in your machine.* Above steps applicable from the version 13.2.0.x.
-	
-	
-## Sample Creator
-
-Sample Creator is provided for the ASP.NET MVC, ASP.NET MVC (Classic), ASP.NET Core and UWP platforms when the MVC Extension setup is installed. For more information about how to install Syncfusion Essential Studio MVC Extension setup, see [MVC Extension](http://www.syncfusion.com/kb/2350/how-to-install-syncfusion-essential-studio-mvc-extension-setup). Refer [here](https://help.syncfusion.com/extension/) for using the Syncfusion Sample Creator.
-
