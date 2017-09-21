@@ -31,14 +31,6 @@ MVC</td><td>
 MVC4 or higher</td></tr>
 <tr>
 <td>
-Silverlight </td><td>
-Silverlight 4 or higher</td></tr>
-<tr>
-<td>
-Windows Phone SDK</td><td>
-Windows 8 - Windows Phone SDK v8 or higher</td></tr>
-<tr>
-<td>
 Memory</td><td>
 Minimum 256 MB in RAM</td></tr>
 <tr>
