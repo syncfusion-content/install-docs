@@ -26,7 +26,7 @@ The following are the steps to configure VS Toolbox manually for Syncfusion tool
 
    C:\Documents and Settings\(user name)\Local Settings\Application Data\Microsoft\VisualStudio\10.0
 
-   Vista/Windows 7:
+   Vista/Windows 7 and later:
 
    C:\Users\(user name)\AppData\Local\Microsoft\VisualStudio\10.0
 
