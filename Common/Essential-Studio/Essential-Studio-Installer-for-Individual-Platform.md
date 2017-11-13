@@ -25,6 +25,8 @@ Separate platform setups are provided from version 11.1.0.21. There are 20 platf
 * Xamarin
 * FileFormats
 
+Universal Windows Platform setup can be installed in Windows 8.1 and later.
+
 We are providing the iOS packages as a .pkg file which is developed in MAC OS. It contains Framework library of the controls and samples. We are providing Mac installer for the following Essential Studio platforms.
 
 * ASP.NET Core
@@ -32,30 +34,6 @@ We are providing the iOS packages as a .pkg file which is developed in MAC OS. I
 * Xamarin
 * PHP
 * Electron
-
-### Classic Platforms:
-* ASP.NET MVC Classic (Essential Studio for ASP.NET MVC has been marked as “Classic” from version 12.1.0.43)
-* ASP.NET Classic (Essential Studio for ASP.NET has been marked as “Classic” from version 12.2.0.36)
-
-We have stopped providing the following platforms.
-
-<table>
-<tr>
-<th>
-Platforms</th><th>
-Stopped from version</th></tr>
-<tr>
-<td>
-LightSwitch HTML, LightSwitch Silverlight, Silverlight, WinRT and Windows Phone</td><td>
-14.4.0.20</td></tr>
-<tr>
-<td>
-Android and iOS</td><td>
-15.3.0.26</td></tr>
-</table>
-
-WinRT and Windows Phone platform setup can be installed in Windows version 8 and later. Universal Windows Platform setup can be installed in Windows 8.1 and later.
-
 
 ## Step-by-Step Installation
 
