@@ -46,4 +46,4 @@ iOS</td><td>
 15.3.0.26</td></tr>
 </table>
 
-N> If you are using the above Classic platforms, you can use the above mentioned versions or earlier versions. WinRT and Windows Phone platform setup can be installed in Windows version 8 and later.
+N> If you are using the above platforms, use the earlier versions. WinRT and Windows Phone platform setup can be installed in Windows version 8 and later.
