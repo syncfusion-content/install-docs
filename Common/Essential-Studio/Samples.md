@@ -216,6 +216,14 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 	
 	
 	
+21. Ember
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img23.png)
+
+
+	
 ## Online Samples
 
 Online samples are provided for ASP.NET, ASP.NET MVC, ASP.NET MVC (Classic), Silverlight, Windows Phone, WinRT, WPF, and JavaScript platforms.
