@@ -10,7 +10,7 @@ documentation: ug
 # How to remove the licensing error that pops up each time the application is run?
 
 
-Resolving the licensing Issues for the older Syncfusion versions Applicable to all older Syncfusion versions before 8.2.0.x
+## Resolving the licensing issues for the Syncfusion versions before 8.2.0.x
 
 When your project has been referred with older Syncfusion version assemblies before v8.2, follow the given steps to resolve the licensing error.
 
@@ -77,7 +77,7 @@ The following steps help you to embed the License.licx file as an embedded resou
 
 13. Rebuild and run the application again. The above mentioned messages are no longer displayed.
 
-## Resolving the licensing issues for the Syncfusion versions Applicable to all Syncfusion versions from 8.2.0.x to 13.1.0.x
+## Resolving the licensing issues for the Syncfusion versions from 8.2.0.x to 13.1.0.x
 
 When your project has been referred with Syncfusion version assemblies from v8.2 to 13.1, follow the given steps to resolve the licensing error.
 
