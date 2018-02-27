@@ -672,7 +672,46 @@ The following steps illustrate how to configure Syncfusion extensions in Visual 
 
    ![](Utilities_images/VSIXInstaller_img3.png)
 
+## NuGet Manager
+
+Syncfusion NuGet Package Manager is the utility that allows you to add, remove and update the Syncfusion NuGet sources (available platforms) to NuGet Package Manager of Visual Studio. 
+
+### Add Syncfusion NuGet Package Sources
+
+The following steps directs you to add the Syncfusion NuGet Package sources from Syncfusion NuGet Manager.
+
+1.	Open Syncfusion Control Panel.
+
+2.	Choose Utilities Tab and click NuGet Manager.
+
+    ![](Utilities_images/NuGetManager_img1.png)
+
+3.	Syncfusion NuGet Manager Window will be opened.
+
+    ![](Utilities_images/NuGetManager_img2.png)
+
+4.	Select the required platforms needed to be configured from “Select platforms to add” (Left side of the window) column and click Add» button.
+    
+    ![](Utilities_images/NuGetManager_img3.png)
+
+5.	Now selected platforms will be added under “Selected platforms to remove” (Right side of the window) column. Click “Configure” button to add the required Syncfusion Package sources to NuGet Package Manager.
+
+    ![](Utilities_images/NuGetManager_img4.png)
 	
+6.	Once Syncfusion NuGet Manager added the Syncfusion NuGet sources, the changes will be reflected in package sources of your Visual Studio.
+
+    ![](Utilities_images/NuGetManager_img5.png)
+
+### Remove Syncfusion NuGet Package sources
+
+1.	If any configured Syncfusion NuGet Package sources are no longer required, Select the unwanted platforms from “Select platforms to remove” (Right side of the window) column and click «Remove button.
+
+    ![](Utilities_images/NuGetManager_img6.png)
+
+2.	Now selected platforms will be added under “Selected platforms to add” (Left side of the window) column. Click “Configure” button to remove the required Syncfusion Package sources to NuGet Package Manager.
+
+3.	Once Syncfusion NuGet Manager removed the Syncfusion NuGet sources, the changes will be reflected in NuGet.config file of your machine and updated the same in available package sources of your Visual Studio.
+
 	
 	
 
