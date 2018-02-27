@@ -597,11 +597,13 @@ HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essentia
 
 The ProjectMigration tool enables you to move the project files to the given Syncfusion Essential Studio Version.
 
-Syncfusion Project Migration tool supports from, Syncfusion Essential Studio Version 3.2.1.0 to the latest version and the supported platforms are Windows Forms, WPF, Silverlight, WinRT, Windows Phone and Universal Windows Platform.
+Syncfusion Project Migration tool supports from, Syncfusion Essential Studio Version 3.2.1.0 to the latest version and the supported platforms are Windows Forms, WPF and Universal Windows Platform.
 
-N> Project Migration utility will change the TargetFramework version and Syncfusion assembly version alone in the .csproj files. If you are using ASP.NET and ASP.NET MVC projects, please refer [ASP.NET Migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration) . 
+N> Project Migration utility will change the TargetFramework version and Syncfusion assembly version alone in the .csproj files.
 
 The following steps illustrate how to migrate a project.
+
+### Windows Forms, WPF and Universal Windows Platform
 
 1. You can open the Project Migration Tool from the following location: (Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\ Project Migration\ProjectMigrationWindows.exe.
 
@@ -615,13 +617,23 @@ The following steps illustrate how to migrate a project.
 
 4. By default, corresponding Essential Studio version will be present displayed in the Essential Studio version field.
 
-5. Select the required .NET version from the .NET Framework version drop-down list.
+5. Select the required Visual Studio .NET Framework version and Syncfusion .NET Framework version from the drop-down list.
 
-6. When you refer to the Syncfusion assemblies by Hint path instead of GAC location then, copy the latest assemblies to that location manually or select the Remove hint path from projects check box, to remove the hint from the project. 
+6. When you refer the Syncfusion assemblies by Hint path instead of GAC location then, copy the latest assemblies to that location manually or select the Remove hint path from projects check box, to remove the hint from the project. 
 
     N> If you have referred the Syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC if the assemblies are installed in GAC
 
 7. Click Perform Action. The utility upgrades the selected projects to the newer versions. 
+
+### For Web platforms.
+
+For Web platforms, follow the steps suggested in the following documentation link to migrate the projects to the latest version. 
+
+ASP.NET - [ASP.NET Migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration) 
+
+ASP.NET MVC - [ASP.NET MVC Migration] (https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration)
+
+ASP.NET Core - [ASP.NET Core Migration] (https://help.syncfusion.com/extension/aspnetcore-extension/project-migration)
 
 ### Command Line
 
@@ -631,14 +643,14 @@ The following steps illustrate how to run the Project Migration tool through com
 
    {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{version}\Utilities\Project Migration\
 
-   Example: C:\Program Files (x86)\Syncfusion\Essential Studio\12.1.0.43\Utilities\Project Migration\
+   Example: C:\Program Files (x86)\Syncfusion\Essential Studio\16.1.0.24\Utilities\Project Migration\
 
 
 2. Run “ProjectMigrationConsole.exe” with the following arguments:
 
-   /source:"sourcepath" /studio:"Essential Studio version" /framework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1]" /backup:"Backupfolderpath" /hintpath:"[False] / [True]"
+   /source:"sourcepath" /studio:"Essential Studio version" /framework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /targetframework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /backup:"Backupfolderpath" /hintpath:"[False] / [True]" /sourcefolder:"sourcefolderpath" /isfolderbackedup:"[False] / [True]"
 
-   Example: /source:"C:\Users\Admin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3" /studio:"11.2.0.25" /framework:"v4.0" /backup:"E:\ProjectMigrationBackup\WindowsFormsApplication3" /hintpath:"False"
+   Example: /source:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1\SyncfusionWindowsFormsApplication1" /studio:"16.1.0.24" /framework:"v4.6" /targetframework:"v4.7" /backup:"C:\Syncfusion\backup\SyncfusionWindowsFormsApplication1_2018_02_27_022449\SyncfusionWindowsFormsApplication1" /hintpath:"False" /sourcefolder:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1" /isfolderbackedup:"False"
 
 The following screenshot illustrates this.
 
