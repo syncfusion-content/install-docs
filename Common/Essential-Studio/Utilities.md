@@ -607,10 +607,9 @@ The following steps illustrate how to migrate a project.
 
 1. You can open the Project Migration Tool from the following location.
 
-**Location:**
-(Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\ Project Migration\ProjectMigrationWindows.exe.
+   **Location:** (Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\ Project Migration\ProjectMigrationWindows.exe.
 
-    ![](Utilities_images/Project-Migration_img1.png)
+   ![](Utilities_images/Project-Migration_img1.png)
 
 2. Select the project to be upgraded in the **Select Project Folder** field.
 
