@@ -605,9 +605,9 @@ The following steps illustrate how to migrate a project.
 
 ### Windows Forms, WPF and Universal Windows Platform
 
-1. You can open the Project Migration Tool from the following location.
+1. Open the Project Migration Tool from the following location.
 
-   **Location:** (Installed location)\Syncfusion\Essential Studio\x.x.x.x\Utilities\ Project Migration\ProjectMigrationWindows.exe.
+   **Location:** {Installed location}\Syncfusion\Essential Studio\x.x.x.x\Utilities\Project Migration\ProjectMigrationWindows.exe.
 
    ![](Utilities_images/Project-Migration_img1.png)
 
@@ -617,15 +617,15 @@ The following steps illustrate how to migrate a project.
 
 3. Select a folder to store a backup in the **Select backup folder** field. 
 
-4. By default, corresponding Essential Studio version will be present displayed in the **Migrate to Essential Studio version** field.
+4. By default, corresponding Essential Studio version will be displayed in the **Migrate to Essential Studio Version** field.
 
 5. Select the required **Visual Studio .NET Framework version** and **Syncfusion .NET Framework version** from the respective drop-down list.
 
 6. When you refer the Syncfusion assemblies from Hint path instead of GAC location then, copy the latest assemblies to that location manually or select the Remove hint path from projects check box, to remove the hint from the project. If you are migrating UWP project and you are using the UWP assemblies in your projects instead of SDK, don't enable the **Remove hint path from projects** option. 
 
-    N> If you have referred the Syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC if the assemblies are installed in GAC
+    N> If you have referred the Syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC for Windows Forms and WPF platforms if the assemblies are installed in GAC
 
-7. Click Perform Action. The utility upgrades the selected projects to the newer versions. 
+7. Click Perform Action. The utility upgrades the selected projects to the newer version. 
 
 ### For Web platforms.
 
