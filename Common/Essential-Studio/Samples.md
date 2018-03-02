@@ -224,6 +224,54 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 	
+22. JavaScript(ES5)
+
+	
+	
+    ![](Offline-Samples_images/Offline-Samples_img24.png)  
+
+
+
+23. AngularJS2
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img25.png)    
+
+
+
+24. ReactJS2
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img26.png)
+
+
+
+25. JavaScriptJS2
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img27.png) 
+
+	
+	
+26. ASp.NET MVCJS2
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img29.png)
+	
+	
+	
+27. ASP.NET CoreJS2
+
+
+
+    ![](Offline-Samples_images/Offline-Samples_img30.png)
+	
+	
+	
 ## Online Samples
 
 Online samples are provided for ASP.NET, ASP.NET MVC, ASP.NET MVC (Classic), Silverlight, Windows Phone, WinRT, WPF, and JavaScript platforms.
