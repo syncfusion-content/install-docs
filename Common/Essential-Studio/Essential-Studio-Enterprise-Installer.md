@@ -14,24 +14,27 @@ documentation: ug
 
 The Essential Studio Enterprise Installer includes all of the following platforms. You can download the latest version Essential Studio Enterprise Installer [here](https://www.syncfusion.com/downloads/latest-version) . There is also separate installer for individual platforms. For more information refer to the [Platform installer](http://help.syncfusion.com/common/essential-studio/essential-studio-installer-for-individual-platform ) section.
 
-* ASP.NET
-* ASP.NET Core (Essential JS 1)
-* ASP.NET MVC (Essential JS 1)
-* JavaScript (Essential JS 1)
-* JSP
-* PHP
-* Universal Windows Platform
+**Web (Essential JS 2)**
+* ASP.NET MVC
+* ASP.NET Core
+* JavaScript
+**Desktop**
 * Windows Forms
-* WPF 
+* WPF
+*Universal Windows
+**Phone and Tablet**
 * Xamarin
-* ASP.NET Core (Essential JS 2)
-* ASP.NET MVC (Essential JS 2)
-* JavaScript (Essential JS 2)
-
+**Web (Essential JS 1)**
+* ASP.NET
+* ASP.NET MVC
+* ASP.NET Core
+* JavaScript
+* PHP
+* JSP
 
    N> Universal Windows Platform will be installed in Windows 8.1 and later.    
 
-   N> Syncfusion has removed Classic products(ASP.NET and ASP.NET MVC), Silverlight, and LightSwitch Silverlight platforms from the Syncfusion Enterprise edition setup and providing them as individual platform setup alone from the 2015 Vol 4 release(v13.4.0.53). We have removed Android, Windows Phone and Universal 8.1 from Syncfusion Enterprise edition setup and providing individual platform setup from the 2016 Vol 3 release(v14.3.0.49). Also we have removed the WinRT platform from the Syncfusion Enterprise edition setup from 2016 Vol 4 release(v14.4.0.15). Syncfusion has started providing separate platforms for **Essential JS 2** from 2018 Volume 1 release (v16.1.0.24)
+   N> Syncfusion has started providing **Essential JS 2** platforms in Essential Studio Enterprise Edition setup from 2018 Volume 1 release (v16.1.0.24)
  
  
 ## Step-by-Step Installation
@@ -48,9 +51,9 @@ The following procedure illustrates how to install Essential Studio setup. 
 2. From the 2016 Vol 3 release(v14.3.0.49), there are two options to unlock the Syncfusion setup.
     
 
-   **Login To Install**   
+     a)Login To Install
    
-   **Use Unlock Key**
+     b)Use Unlock Key
    
    N> While installing the Syncfusion setup, by default **Login To Install** screen will be displayed. You can provide the email ID and password registered with Syncfusion for unlocking the Essential Studio setup and your license will be configured. For unlocking the setup with License Key, you can select the **Use Unlock Key** option in the Installer and you will be prompt to enter the license key.
    
@@ -72,13 +75,19 @@ The following procedure illustrates how to install Essential Studio setup. 
 
 4.  Click Next. Platform selection window opens. This window displays the platforms based on the license type (Licensed or Evaluation).
 
+    **License**
+
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img4.png)
 
-    N> If you have complete license, then all the platforms will be displayed under Licensed category. 
+    N> If you have complete license, then all the platforms will be displayed under Licensed category.
+
+    **Evaluation** 	
      
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img5.png)
 
-    N> If you have entered evaluation account, then platforms will be displayed under Evaluation category. 
+    N> If you have entered evaluation account, then platforms will be displayed under Evaluation category.
+
+    **Combination of License and Evaluation**	
 
     ![](Essential-Studio-Enterprise-Installer_images/Step-by-Step-Installation_img6.png)
  
