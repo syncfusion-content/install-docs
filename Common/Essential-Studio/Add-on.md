@@ -38,7 +38,7 @@ Syncfusion supports Quick Test Professional software with the help of Essential 
 
 ## CAB Add-on
 
-The Syncfusion Essential CAB Enabling Kit provides extensible support for working with CAB easily. It helps developers enhance the look and feel of their applications, as well as speed up the development process with customizable UIs. The workspaces are components or controls that encapsulate visual effects and layout strategies without affecting the business logic. 
+The Syncfusion Essential CAB Enabling Kit provides extensible support for working with CAB easily. It helps developers enhance the look and feel of their applications, as well as speed up the development process with customizable UI's. The workspaces are components or controls that encapsulate visual effects and layout strategies without affecting the business logic. 
 
 The Essential CAB Enabling Kit offers the following workspaces and UI Elements.
 
@@ -94,7 +94,7 @@ The following are the steps to install the WebKit Setup.
 
    ![](Add-on_images/Step-by-Step-Installation_img5.png)
 
-3. After reading the License Agreement, click the I accept the terms and conditions check box.
+3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
 
 4. Click Next. Installation location will be displayed.
 
@@ -128,11 +128,11 @@ Follow the given steps to install through Command Line in Silent mode.
 5. Cancel the wizard.
 6. Open Command Prompt in administrator mode and pass the following arguments:
 
-   “Setup file path\syncfusionessentialwebkit _(version).exe” /Install silent [/log “{Log file path}”] [/InstallPath:{Location to install}]
+   **Arguments:** “Setup file path\syncfusionessentialwebkit _(version).exe” /Install silent [/log “{Log file path}”] [/InstallPath:{Location to install}]
 
    N> [..] – Arguments inside the square brackets are optional.
 
-   Example: “D:\Temp\syncfusionessentialwebkit _13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
+   **Example:** “D:\Temp\syncfusionessentialwebkit _13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
 7. Setup is installed.
     
@@ -150,9 +150,9 @@ Syncfusion WebKit Installer supports uninstalling the setup through Command Line
 6. Cancel the wizard.
 7. Open the Command Prompt in administrator mode and pass the following arguments: 
 
-   “Setup file path\ syncfusionessentialwebkit _(version).exe” /uninstall silent 
+   **Arguments:** “Setup file path\ syncfusionessentialwebkit _(version).exe” /uninstall silent 
 
-    Example: “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
+    **Example:** “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
 
 8. Setup is uninstalled.
     

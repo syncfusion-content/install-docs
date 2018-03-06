@@ -14,9 +14,9 @@ Documentation is provided for both User Guide and Class Reference.
 
 ## User Guide
 
-Local documentation - A complete set of documentation for the User Guide is provided under the following headers. 
+**Local documentation** - A complete set of documentation for the User Guide is provided under the following headers. 
 
-Installed Documentation – Offline User Guide setup files have been removed for Essential Studio 11.4.0.26 and later; instead, the User Guides are provided in PDF file format. Documentation pertaining to Essential Studio can be installed with your copy of Syncfusion local resources. Explore the following to have a better idea of Essential Studio products.
+**Installed Documentation** – Offline User Guide setup files have been removed for Essential Studio 11.4.0.26 and later; instead, the User Guides are provided in PDF file format. Documentation pertaining to Essential Studio can be installed with your copy of Syncfusion local resources. Explore the following to have a better idea of Essential Studio products.
 
 * User Guide PDF
 
@@ -30,15 +30,14 @@ This local documentation can be accessed from the Syncfusion Control Panel > U
 
 
 
-N> When you have not installed local documentation, then a prompt opens to download the setup.
 
-Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products, better. This can be accessed from the Utilities > Documentation > Online User Guide.
+**Online Documentation:** Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products, better. This can be accessed from the Utilities > Documentation > Online User Guide.
 
 ![](Documentation-Setup_images/User-Guide_img3.png)
 
 ## Class Reference
 
-Local documentation - A complete set of documentation for Class Reference is provided under the following headers. 
+**Local documentation** - A complete set of documentation for Class Reference is provided under the following headers. 
 
 Installed Documentation - Documentation pertaining to Essential Studio can be installed with your copy of Syncfusion local resources. Explore the following three categories of documentation to have a better idea of Essential Studio products.
 
@@ -50,8 +49,10 @@ This local documentation can be accessed from the Syncfusion Control Panel > U
 ![](Documentation-Setup_images/Class-Reference_img1.png)
 
 
+N> When you have not installed local documentation, then a prompt opens to download the setup.
 
-Online Documentation: Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products better. This can be accessed from the Utilities > Documentation > Online Class Reference.
+
+**Online Documentation:** Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products better. This can be accessed from the Utilities > Documentation > Online Class Reference.
 
 
 

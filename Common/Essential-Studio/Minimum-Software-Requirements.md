@@ -28,7 +28,7 @@ Visual Studio</td><td>
 <tr>
 <td>
 MVC</td><td>
-MVC4 or higher</td></tr>
+MVC3 or higher</td></tr>
 <tr>
 <td>
 Memory</td><td>
@@ -36,7 +36,7 @@ Minimum 256 MB in RAM</td></tr>
 <tr>
 <td>
 Free Space</td><td>
-Minimum 13.5 GB free space in the drive you are installing. Also, You should have minimum 5.5 GB disk space in C drive even if you are installing the setup in different drive location.</td></tr>
+Minimum 17.5 GB free space in the drive you are installing. Also, You should have minimum 6 GB disk space in C drive even if you are installing the setup in different drive location.</td></tr>
 </table>
 
 

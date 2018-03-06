@@ -22,13 +22,11 @@ The following are the steps to configure VS Toolbox manually for Syncfusion tool
 1. Close all Visual Studio running instances.
 2. Remove the *.tbd files except the toolbox.tbd from the following location:
 
-   Windows XP: 
-
+   **Windows XP:**
    C:\Documents and Settings\(user name)\Local Settings\Application Data\Microsoft\VisualStudio\10.0
 
-   Vista/Windows 7 and later:
-
-   C:\Users\(user name)\AppData\Local\Microsoft\VisualStudio\10.0
+   **Vista/Windows 7 and later:**
+   C:\Users\{user name}\AppData\Local\Microsoft\VisualStudio\10.0
 
     N> It takes some time to configure the toolbox and create tbd files when you load the toolbox in VS2010 initially.
 
