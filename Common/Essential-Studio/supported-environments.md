@@ -16,6 +16,7 @@ documentation: ug
 | WPF                   | Framework 3.5, 4.0, 4.5, 4.5.1 and 4.6                 |
 | Windows Forms         | Framework 2.0, 3.5, 4.0, 4.5, 4.5.1 and 4.6. |
 | Silverlight           | Silverlight 4 or Silverlight 5               |
+| Universal Windows     | Framework 4.6               |
 
 ## Apps Framework
 
@@ -37,7 +38,7 @@ documentation: ug
 | Silverlight                                     | All Windows OS                                        |
 | LightSwitch Silverlight                         | All Windows OS                                        |
 | ASP.NET (Classic)                               | All Windows OS                                        |
-| ASP.NET MVC (Classic)                           | All Windows OS                                        |
+| ASP.NET MVC (Classic)                           | Windows 8.1 and later                                       |
 | Universal Windows                               | Windows 10                                            |
 | Universal                                       | Windows 8 and later                                   |
 | Windows Phone 8 (SL) and Windows Phone 8.1 (SL) | Windows 8 and later                                   |
@@ -48,4 +49,4 @@ documentation: ug
 
 ## Visual Studio Support
 
-Essential Studio v15.3.0.26 is compatible with Microsoft Visual Studio 2005, Visual Studio 2008, Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, Visual Studio 2015 and Visual Studio 2017.
+Syncfusion Essential Studio is compatible with Microsoft Visual Studio 2005, Visual Studio 2008, Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, Visual Studio 2015 and Visual Studio 2017.

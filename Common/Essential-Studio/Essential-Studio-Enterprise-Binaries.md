@@ -24,7 +24,7 @@ The following procedure illustrates how to install Essential Studio - Binaries�
 
     ![](Add-on_images/Binaries-Install-Setup_img2.png)
 
-3.  Enter the Unlock Key in the corresponding text box provided and select the I accept the terms and conditions check box after reading the License Agreement.
+3.  Enter the Unlock Key in the corresponding text box provided and select the **I agree to the License Terms and Conditions** check box after reading the License Agreement.
 
 4.  Click Next. The Select Platform screen opens. Select the required platforms to install the assemblies and click Next.
 
@@ -46,7 +46,7 @@ The following procedure illustrates how to install Essential Studio - Binaries�
     
     ![](Add-on_images/Binaries-Install-Setup_img9.png)
 
-8. Click Finish to exit the Setup Wizard. Essential Studio - Binaries setup will be installed.
+8. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing. Click Finish to exit the Setup Wizard. Essential Studio - Binaries setup will be installed.
 
 ## Essential Studio - Digitally Signed Binaries
 
@@ -62,7 +62,7 @@ The following steps illustrate how to install Digitally Signed Binaries Setup.
 
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img2.png)
 
-3.  Enter the Unlock Key in the corresponding text box provided and select the I accept the terms and conditions check box after reading the License Agreement.
+3.  Enter the Unlock Key in the corresponding text box provided and select the **I agree to the License Terms and Conditions** check box after reading the License Agreement.
 
 4.  Click Next. The Select Platform screen opens. Select the required platforms to install the assemblies and click Next.
 
@@ -84,4 +84,4 @@ The following steps illustrate how to install Digitally Signed Binaries Setup.
     
     ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img6.png)
 
-8. Click Finish to exit the Setup Wizard. Digitally Signed Binaries will be installed.
+8. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing. Click Finish to exit the Setup Wizard. Digitally Signed Binaries will be installed.
