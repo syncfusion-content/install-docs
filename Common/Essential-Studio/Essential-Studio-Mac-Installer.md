@@ -64,5 +64,5 @@ The following procedure illustrates how to install Essential Studio Mac installe
 
    ![](Mac-Installer_images/Mac_Installer9.png)
    
-   N> By default, Mac installer will install the files in {Documents}\Synfusion\{version}\{platform}
+   N> By default, Mac installer will install the files in {Documents}\Syncfusion\{version}\{platform}
 
