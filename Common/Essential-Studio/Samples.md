@@ -226,9 +226,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 	
 ## Online Samples
 
-Online samples are provided for ASP.NET, ASP.NET MVC, ASP.NET MVC (Classic), Silverlight, Windows Phone, WinRT, WPF, and JavaScript platforms.
-
-The following table lists the links to the online samples.
+Online samples are provided for the following platforms.The following table lists the links to the online samples.
 
 
 
