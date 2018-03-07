@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-Syncfusion provides the iOS packages as a .pkg file which is developed in MAC OS. It contains Framework library of the controls and samples. We are providing Mac installer for the following Essential Studio platforms.
+Syncfusion provides the Mac installer for the following Essential Studio platforms.
 
 1. ASP.NET Core (Essential JS 1)
 2. JavaScript (Essential JS 1)
@@ -64,5 +64,9 @@ The following procedure illustrates how to install Essential Studio Mac installe
 
    ![](Mac-Installer_images/Mac_Installer9.png)
    
-   N> By default, Mac installer will install the files in {Documents}\Syncfusion\{version}\{platform}
+By default, Mac installer will install the files in following location.
+
+   **Location:** {Documents}\Syncfusion\ {version}\ {platform}
+   
+   ![](Mac-Installer_images/Mac_Installer10.png)
 
