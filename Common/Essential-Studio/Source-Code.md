@@ -12,7 +12,9 @@ documentation: ug
 
 ## Overview
 
-After 9.4.0.62, Essential Studio Source has been removed from the product setup. To access the source code, install the Essential Studio Source Code Add-on Setup. You can access the Essential Studio Source Code Add-on Setup from the Syncfusion Control Panel. You can also access it from the Product Downloads and Keys page using your support account in Direct-Trac.
+After 9.4.0.62, Essential Studio Source has been removed from the Essential Studio setup. To access the source code, install the Essential Studio Source Code Add-on Setup. You can access the Essential Studio Source Code Add-on Setup from the Syncfusion Control Panel. You can also access it from the Product Downloads and Keys page using your support account in Direct-Trac.
+
+N> Source License is required for downloading and installing the Source Code Add-on setup
 
 ## Step-by-Step Installation
 
@@ -28,7 +30,7 @@ The following steps show how you can install the Essential Studio Source Code A
 
 
 
-2. Enter the Unlock Key in the corresponding text box provided and select the I accept the terms and conditions check box after reading the License Agreement.
+2. Enter the Unlock Key in the corresponding text box provided and select the **I agree to the License Terms and Conditions** check box after reading the License Agreement.
    
    ![](Source-code_images/Step-by-Step-Installation_img2.png)
    

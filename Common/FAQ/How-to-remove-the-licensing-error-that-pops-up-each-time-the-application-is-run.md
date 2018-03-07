@@ -36,7 +36,7 @@ The following steps help you to embed the License.licx file as an embedded resou
 1. Open the project.
 2. In the Solution Explorer, right-click on the Project node and then select Add New Item.
 3. Choose the License.licx file from the following location:
-  (Installed Drive):\Program Files\Syncfusion\Essential Studio\(version)\Templates\licenses.licx file.
+  **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\(version)\Templates\licenses.licx file.
 
 4. The file is added. 
 5. In the Solution Explorer, click the License file node and then open the Properties window.
@@ -84,7 +84,7 @@ When your project has been referred with Syncfusion version assemblies from v8.2
 Syncfusion removed run-time licensing, for all Essential Studio products, from the version 8.2.0.x. So it is not required to embed the license.licx file in your project. Remove the license.licx file from the project, when it has already been added.
  
 
-The following steps are provided to resolve the licensing issues for the Syncfusion versions from 8.2 to 13.1:
+The following steps are provided to resolve the licensing issues for the Syncfusion versions from **8.2 to 13.1:**
 
 1. Ensure that the Unlock Key for the respective version, has been installed properly in the registry using the License Manager utility from the Dashboard.
    

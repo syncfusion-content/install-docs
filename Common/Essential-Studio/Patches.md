@@ -17,7 +17,7 @@ Syncfusion provides patch setup to install a new assembly, either to add new fea
 The following procedure illustrates how to install a patch.
 
 
-N> * Before installing the patch, ensure that corresponding Essential Studio version and platforms to install the patch in your machine.* If you installed Syncfusion WinRT platform alone then the Assembly Manager execution dialog will not appear during the patch installation. It will skip this dialog from step 1 to step 4. Because, Assembly Manager Utility is not shipped with WinRT platform.
+N> * Before installing the patch, ensure that corresponding Essential Studio version and platforms to install the patch in your machine.*
 
 
 
@@ -69,10 +69,10 @@ The patch can also be installed through Command Line. Follow the given steps to 
 
 1. Open Command Prompt with administrative privileges, that is, in the Admin mode.
 2. Navigate to the patch file’s location and pass the following argument:
-   {patchsetup.exe} [/silent or /verysilent]
+   
+   **Argument:** {patchsetup.exe} [/silent or /verysilent]
 
-   Example: 
-
+   **Example:**
    SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /verysilent  
    SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /silent         
    
@@ -80,14 +80,14 @@ The patch can also be installed through Command Line. Follow the given steps to 
    
   
     N> /silent – Displays the progress dialog alone during the patch setup installation.
-	/verysilent – It is installed in the background.
+	/verysilent – It will be installed in background.
 
 
 ## Reverting a Patch
 
-The Patch Install takes a backup of the Release Assemblies and stores them in the Backup Assemblies folder. The patch assemblies are also stored in the Patch folder. You can revert back when needed. 
+The Patch installation takes a backup of the Release Assemblies and stores them in the Backup Assemblies folder. The patch assemblies are also stored in the Patch folder. You can revert back when needed. 
 
-Reverting back to Release Assemblies: 
+**Reverting back to Release Assemblies:** 
 
 The following steps help you revert to the Release Assemblies. 
 

@@ -11,33 +11,29 @@ documentation: ug
 
 ## Overview
 
-Separate platform setups are provided from version 11.1.0.21. There are 20 platforms. You can download the latest version platforms Installer [here](https://www.syncfusion.com/downloads/latest-version) .
+Syncfusion provides separate platform setups for all the Essential Studio platforms. You can download the latest version platforms Installer [here](https://www.syncfusion.com/downloads/latest-version) .
 
-* ASP.NET  (from 12.2.0.36 and later)
-* ASP.NET Core (from 14.3.0.49 and later)
-* ASP.NET MVC (from 12.1.0.43 and later)
-* JavaScript (from 11.2.0.63 and later)
-* JSP (from v14.4.0.15)
-* PHP (from 14.3.0.49)
+* ASP.NET 
+* ASP.NET Core (Essential JS 1)
+* ASP.NET MVC (Essential JS 1)
+* JavaScript (Essential JS 1)
+* JSP
+* PHP
 * Universal Windows Platform
-* Windows Forms (from 13.2.0.34 and later) 
+* Windows Forms 
 * WPF
 * Xamarin
 * FileFormats
+* ASP.NET Core (Essential JS 2)
+* ASP.NET MVC (Essential JS 2)
+* JavaScript (Essential JS 2)
 
-We are providing the iOS packages as a .pkg file which is developed in MAC OS. It contains Framework library of the controls and samples. We are providing Mac installer for the following Essential Studio platforms.
-
-* ASP.NET Core
-* JavaScript
-* Xamarin
-* PHP
-* Electron
 
 ### Classic Platforms:
 * ASP.NET MVC Classic (Essential Studio for ASP.NET MVC has been marked as “Classic” from version 12.1.0.43)
 * ASP.NET Classic (Essential Studio for ASP.NET has been marked as “Classic” from version 12.2.0.36)
 
-Universal Windows Platform setup can be installed in Windows 8.1 and later.
+   N> Universal Windows Platform setup can be installed in Windows 8.1 and later.
 
 
 ## Step-by-Step Installation
@@ -53,29 +49,28 @@ The following procedure illustrates how to install Essential Studio. 
 2. From the 2016 Vol 3 release(v14.3.0.49), you are provided with two options to unlock the Syncfusion setup.
 
    
-   **Install with login ID**
+   **Login To Install**   
+   
+   **Use Unlock Key**
+   
+   N> While installing the Syncfusion setup, by default **Login To Install** screen will be displayed. You can provide the email ID and password registered with Syncfusion for unlocking the Essential Studio setup and your license will be configured. For unlocking the setup with License Key, you can select the **Use Unlock Key** option in the Installer and you will be prompt to enter the license key.
    
    
-   **Install with product key**
-   
-   N> While installing the Syncfusion setup, by default Login Validation screen will be displayed. You can provide the registered Syncfusion email ID and password for unlocking the Syncfusion setup and your license will be configured. For unlocking the setup with License Key, you can select the **Install with product key** in the Installer and you will be prompt to enter the license key.
-   
-   
-   **Install with login ID**
+   **Login To Install**
 
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)
 
    N> You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
 
-   **Install with product key**
+   **Use Unlock Key**
 
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img3.png)
 
    N> The Unlock key is validated and the Path Selection window opens.
 
 
-3. After reading the terms by clicking the **License Terms and Conditions** link, check the I accept the terms and conditions check box.
+3. After reading the License Terms and Conditions, check the **I agree to the License Terms and Conditions** check box.
 
 
 4. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. 
@@ -86,10 +81,11 @@ The following procedure illustrates how to install Essential Studio. 
 
    N> To install in the displayed default location, click Install. You can also browse and choose a location by clicking Browse. When you have already installed any other same version‘s setup, you cannot change the install and samples path.
 
-   * Select the Install Syncfusion samples check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
-   * Select the Register Syncfusion assemblies in GAC check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
-   * Select the Uninstall previously installed Syncfusion assemblies from GAC check box to uninstall the previously installed Syncfusion assemblies from GAC, or clear this check box to maintain the previously installed assemblies.
-   * Select the Configure Syncfusion controls in Visual Studio Toolbox (if assemblies installed) check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
+   * Select the **Install Syncfusion Samples** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
+   * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
+   * Select the **Uninstall the previously installed Syncfusion assemblies from GAC** check box to uninstall the previously installed Syncfusion assemblies from GAC, or clear this check box to maintain the previously installed assemblies.
+   * Select the **Configure Syncfusion controls in Visual Studio Toolbox** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
+   * Select the **Install Syncfusion Extensions** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
 
 
 5.  Click Install.
@@ -102,7 +98,7 @@ The following procedure illustrates how to install Essential Studio. 
     ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img6.png)
 
 
-6. Select the Run Syncfusion Control Panel check box to launch the Syncfusion Control Panel after installing.
+6. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing.
 
 
 7. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Syncfusion Control Panel](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ) is launched automatically.
@@ -110,7 +106,7 @@ The following procedure illustrates how to install Essential Studio. 
 
 ## Command Line 
 
-The Syncfusion Essential Studio Platform Installer supports installing the setup through Command Line Install and Uninstall. The following sections illustrate this ability. 
+The Syncfusion Essential Studio Platform Installer supports installing/uninstalling the setup through Command Line. The following sections illustrate this ability. 
 
 ### Command Line Installation
 
@@ -123,22 +119,22 @@ Follow the steps below to install through Command Line in Silent mode.
 5. Cancel the Wizard.
 6. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version:
 
-   Essential Studio version from 11.1 to 13.1:
+   **Essential Studio version from 11.1 to 13.1**
 
-   “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}] 
-
-   N> [..] – Arguments inside the square brackets are optional.
-
-   Example: “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe” Install /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x 
-
-   Essential Studio version 13.2 and later:
-
-   “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
-
+   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}] 
 
    N> [..] – Arguments inside the square brackets are optional.
 
-   Example: “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true
+   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe” Install /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x 
+
+   **Essential Studio version 13.2 and later**
+
+   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
+
+
+   N> [..] – Arguments inside the square brackets are optional.
+
+   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true
 
 
    N> We have provided Advanced Options in silent installation from 13.2.0.x.
@@ -161,17 +157,17 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 6. Cancel the Wizard.
 7. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version: 
 
-   Essential Studio version from 11.1 to 13.1:
+   **Essential Studio version from 11.1 to 13.1**
 
-   “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall true 
+   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall true 
 
-   Example: “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe" /uninstall true
+   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe" /uninstall true
     
-   Essential Studio version 13.2 and later:
+   **Essential Studio version 13.2 and later**
 
-   “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall silent 
+   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall silent 
 
-   Example: “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe" /uninstall silent
+   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe" /uninstall silent
 
 
 8. Setup is uninstalled.
