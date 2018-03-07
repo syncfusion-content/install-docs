@@ -13,9 +13,9 @@ Provided here are the online and offline samples.
 
 ##  Offline Samples
 
-The samples from Syncfusion Essential Studio setup are provided. The samples are installed in the following location. The sample is run from IIS or Local server. The installed samples are configured for IIS 7.0 and IIS 7.5 installed machines, otherwise the samples run from the local server.
+The Offline Samples are provided in the Syncfusion Essential Studio setup. The offline samples will run from IIS or Local server. The offline samples are configured in IIS 7.0 and IIS 7.5 installed machines, otherwise the samples will run from the local server.
 
-You can run the samples from the Syncfusion Control Panel's Run Offline button for each platform. 
+You can run the samples from the Syncfusion Control Panel's **Run Offline** button for each platform. 
 
 
 
@@ -274,9 +274,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 	
 ## Online Samples
 
-Online samples are provided for ASP.NET, ASP.NET MVC, ASP.NET MVC (Classic), Silverlight, Windows Phone, WinRT, WPF, and JavaScript platforms.
-
-The following table lists the links to the online samples.
+Online samples are provided for the following platforms.The following table lists the links to the online samples.
 
 
 
@@ -285,6 +283,22 @@ The following table lists the links to the online samples.
 <td>
 Platform</td><td>
 Online link</td></tr>
+
+<tr>
+<td>
+ASP.NET MVC (Essential JS 2)</td><td>
+{{ '[https://aspnetmvc.syncfusion.com/](https://aspnetmvc.syncfusion.com/)' | markdownify }}</td></tr>
+
+<tr>
+<td>
+JavaScript (Essential JS 2)</td><td>
+{{ '[https://ej2.syncfusion.com/javascript/demos/](https://ej2.syncfusion.com/javascript/demos/)' | markdownify }}</td></tr>
+
+<tr>
+<td>
+ASP.NET Core (Essential JS 2)</td><td>
+{{ '[https://aspdotnetcore.syncfusion.com/](https://aspdotnetcore.syncfusion.com/)' | markdownify }}</td></tr>
+
 <tr>
 <td>
 ASP.NET</td><td>
@@ -292,33 +306,13 @@ ASP.NET</td><td>
 
 <tr>
 <td>
-ASP.NET (Classic)</td><td>
-{{ '[http://asp.syncfusion.com/demos/web](http://asp.syncfusion.com/demos/web)' | markdownify }}</td></tr>
+PHP</td><td>
+{{ '[https://php.syncfusion.com/](https://php.syncfusion.com/)' | markdownify }}</td></tr>
 
 <tr>
 <td>
-ASP.NET MVC</td><td>
-{{ '[http://mvc.syncfusion.com/demos/web](http://mvc.syncfusion.com/demos/web)' | markdownify }}</td></tr>
-
-<tr>
-<td>
-ASP.NET MVC (Classic)</td><td>
-{{ '[http://mvc.syncfusion.com/demos/ui/tools](http://mvc.syncfusion.com/demos/ui/tools)' | markdownify }}</td></tr>
-
-<tr>
-<td>
-Silverlight</td><td>
-{{ '[http://silverlight.syncfusion.com/samples/silverlight/](http://silverlight.syncfusion.com/samples/silverlight/)' | markdownify }}</td></tr>
-
-<tr>
-<td>
-Windows Phone</td><td>
-{{ '[http://www.syncfusion.com/products/windows-phone](http://www.syncfusion.com/products/windows-phone/)' | markdownify }}</td></tr>
-
-<tr>
-<td>
-WinRT</td><td>
-{{ '[http://www.syncfusion.com/products/winrt](http://www.syncfusion.com/products/winrt/)' | markdownify }}</td></tr>
+JSP</td><td>
+{{ '[https://jsp.syncfusion.com/](https://jsp.syncfusion.com/)' | markdownify }}</td></tr>
 
 <tr>
 <td>
@@ -327,13 +321,28 @@ WPF</td><td>
 
 <tr>
 <td>
-JavaScript</td><td>
+ASP.NET MVC (Essential JS 1)</td><td>
+{{ '[http://mvc.syncfusion.com/demos/web](http://mvc.syncfusion.com/demos/web)' | markdownify }}</td></tr>
+
+<tr>
+<td>
+JavaScript (Essential JS 1)</td><td>
 {{ '[http://js.syncfusion.com/demos/web](http://js.syncfusion.com/demos/web)' | markdownify }}</td></tr>
 
 <tr>
 <td>
-LightSwitch HTML</td><td>
-{{ '[http://js.syncfusion.com/demos/LightSwitch/HTMLClient/](http://js.syncfusion.com/demos/LightSwitch/HTMLClient/)' | markdownify }}</td></tr>
+ASP.NET Core (Essential JS 1)</td><td>
+{{ '[https://aspnetcore.syncfusion.com/](https://aspnetcore.syncfusion.com/)' | markdownify }}</td></tr>
+
+<tr>
+<td>
+ASP.NET (Classic)</td><td>
+{{ '[http://asp.syncfusion.com/demos/web](http://asp.syncfusion.com/demos/web)' | markdownify }}</td></tr>
+
+<tr>
+<td>
+ASP.NET MVC (Classic)</td><td>
+{{ '[http://mvc.syncfusion.com/demos/ui/tools](http://mvc.syncfusion.com/demos/ui/tools)' | markdownify }}</td></tr>
 
 </table>
 

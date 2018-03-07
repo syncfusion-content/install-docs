@@ -38,7 +38,7 @@ Syncfusion supports Quick Test Professional software with the help of Essential 
 
 ## CAB Add-on
 
-The Syncfusion Essential CAB Enabling Kit provides extensible support for working with CAB easily. It helps developers enhance the look and feel of their applications, as well as speed up the development process with customizable UIs. The workspaces are components or controls that encapsulate visual effects and layout strategies without affecting the business logic. 
+The Syncfusion Essential CAB Enabling Kit provides extensible support for working with CAB easily. It helps developers enhance the look and feel of their applications, as well as speed up the development process with customizable UI's. The workspaces are components or controls that encapsulate visual effects and layout strategies without affecting the business logic. 
 
 The Essential CAB Enabling Kit offers the following workspaces and UI Elements.
 
@@ -74,7 +74,7 @@ The Essential CAB Enabling Kit offers the following workspaces and UI Elements.
 
 Essential CAB setup supports Visual Studio Framework versions V2.0, V3.5, V4.0, V4.5, and V4.5.1.
 
-## WebKit
+## WebKit HTML converter
 
 Syncfusion introduces WebKit HTML converter from the version 13.1.0.21 of Essential Studio that supports HTML to PDF conversion by using the WebKit rendering engine. This converter works on both x86 and x64 environments and can be easily integrated into any application on .NET platforms such as Windows Forms, WPF, ASP.NET, and ASP. NET MVC to convert URLs, HTML string, images, and SVG to PDF.
 
@@ -94,7 +94,7 @@ The following are the steps to install the WebKit Setup.
 
    ![](Add-on_images/Step-by-Step-Installation_img5.png)
 
-3. After reading the License Agreement, click the I accept the terms and conditions check box.
+3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
 
 4. Click Next. Installation location will be displayed.
 
@@ -128,11 +128,11 @@ Follow the given steps to install through Command Line in Silent mode.
 5. Cancel the wizard.
 6. Open Command Prompt in administrator mode and pass the following arguments:
 
-   “Setup file path\syncfusionessentialwebkit _(version).exe” /Install silent [/log “{Log file path}”] [/InstallPath:{Location to install}]
+   **Arguments:** “Setup file path\syncfusionessentialwebkit _(version).exe” /Install silent [/log “{Log file path}”] [/InstallPath:{Location to install}]
 
    N> [..] – Arguments inside the square brackets are optional.
 
-   Example: “D:\Temp\syncfusionessentialwebkit _13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
+   **Example:** “D:\Temp\syncfusionessentialwebkit _13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
 7. Setup is installed.
     
@@ -150,14 +150,87 @@ Syncfusion WebKit Installer supports uninstalling the setup through Command Line
 6. Cancel the wizard.
 7. Open the Command Prompt in administrator mode and pass the following arguments: 
 
-   “Setup file path\ syncfusionessentialwebkit _(version).exe” /uninstall silent 
+   **Arguments:** “Setup file path\ syncfusionessentialwebkit _(version).exe” /uninstall silent 
 
-    Example: “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
+    **Example:** “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
 
 8. Setup is uninstalled.
     
 	N> * x.x.x.x need to be replaced with the WebKit version installed in your machine.* Above steps applicable from the version 13.2.0.x.
 	
+## WPF Theme Studio
+
+The Theme Studio is a desktop-based, intuitive UI customization tool for easy customization of skins and themes for the Syncfusion control suite.
+
+### Step-by-Step Installation
+
+The following are the steps to install the WebKit Setup.
+
+1. Double-click the Syncfusion WPF Theme Studio Installer Setup file. The Setup Wizard opens and extracts the package automatically. 
+
+   ![](Add-on_images/Theme-Studio-Setup_img1.png)
+
+   
+
+   N> You need to install corresponding version WPF platform setup before installing WPF Theme Studio setup. Also, no key is required for Syncfusion WPF Theme Studio.
+
+2. Once the unzip operation is complete, License Agreement screen opens.
+
+   ![](Add-on_images/Theme-Studio-Setup_img2.png)
+
+3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
+
+4. Click Next. Installation location will be displayed.
+
+   ![](Add-on_images/Theme-Studio-Setup_img3.png)
+   
+
+5. Click Install. You can't change the install location as it will be installed in the WPF platform installed location.
+
+   ![](Add-on_images/Theme-Studio-Setup_img4.png)
+   
+   N> The Completed screen is displayed once the Syncfusion WPF Theme Studio is installed.
+   
+   ![](Add-on_images/Theme-Studio-Setup_img5.png)
+
+6. Click Finish. Syncfusion WPF Theme Studio is installed in your system.
+
+## Electron
+
+Electron (Previously known as Atom Shell) is used create a cross platform desktop application for different OS like Linux, Windows and OS X by using JavaScript and able to access platform specific native API’s.
+
+### Step-by-Step Installation
+
+The following are the steps to install the WebKit Setup.
+
+1. Double-click the Syncfusion Electron Setup file. The Setup Wizard opens and extracts the package automatically. 
+
+   ![](Add-on_images/Electron-Setup_img1.png)
+   
+
+   N> No key is required for Syncfusion Electron.
+
+2. Once the unzip operation is complete, License Agreement screen opens.
+
+   ![](Add-on_images/Electron-Setup_img2.png)
+
+3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
+
+4. Click Next. Installation location will be displayed.
+
+   ![](Add-on_images/Electron-Setup_img3.png)
+
+   N> You can also browse and choose a location by clicking Browse.
+
+5. To install in the displayed default location, click Install.
+
+   ![](Add-on_images/Electron-Setup_img4.png)
+   
+   N> The Completed screen is displayed once the Electron is installed.
+   
+   ![](Add-on_images/Electron-Setup_img5.png)
+
+6. Click Finish. Electron is installed in your system.
 	
 ## Sample Creator
 

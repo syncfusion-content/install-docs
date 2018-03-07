@@ -18,7 +18,7 @@ You can use this satellite assembly to utilize the localization support for your
 
 The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localization support for the Syncfusion controls. This assembly is available in the following installation location:
 
-(Installed_location)\Syncfusion\Essential Studio\<Version Number>\Assemblies\3.5
+**Location:** {Installed_location}\Syncfusion\Essential Studio\<Version Number>\Assemblies\3.5
 
 1.  Download the LocBaml.exe file from the following location:
     
@@ -106,12 +106,12 @@ The following steps illustrate this:
 
 1. Add Resource (.resx) files in the Resources folder for different cultures. Here, .resx files in a different culture or invariant culture should be placed in the Resources folder of your project.
 2. Resource files should be named as AssemblyName.CultureName.resx and AssemblyName.resx for the invariant culture, where
-   * AssemblyName – Syncfusion Silverlight Control Assembly Name.
-   * CultureName – Culture Code of the resource that you want to show in the UI. 
+   * **AssemblyName** – Syncfusion Silverlight Control Assembly Name.
+   * **CultureName** – Culture Code of the resource that you want to show in the UI. 
 
 When your conversion is only for the invariant culture, the .resx file does not have to contain a culture suffix.
 
-### Example:
+**Example:**
 
 * Syncfusion.Ribbon.Silverlight.fr-FR.resx – French resource for Syncfusion.Ribbon.Silverlight assembly.
 * Syncfusion.Ribbon.Silverlight.resx – Invariant Culture resource for Syncfusion.Ribbon.Silverlight assembly.
@@ -126,7 +126,7 @@ Follow the steps provided to localize strings for your culture:
 2. Right-click the project again, and select the Edit_SampleProjectName.csproj option.
 3. In the .csproj file, find the &lt;SupportedCultures&gt; &lt;/SupportedCultures&gt; tags. By default, the tags are empty. So, add the cultures that you want to be supported, separated by a semicolon.
 
-   Example: <SupportedCultures>fr-FR </SupportedCultures>
+   **Example:** <SupportedCultures>fr-FR </SupportedCultures>
 
 4. Save the project and reload it by right-clicking the SampleProjectName.csproj and choosing Reload SampleProjectName.csproj.
 
@@ -183,7 +183,7 @@ The following screenshots illustrate the Ribbon Control with various culture opt
 
 The Windows and ASP.NET products have extended support for Localization.Samples and description is available in the following locations.
 
-Extended Support for Windows and ASP.NET
+**Extended Support for Windows and ASP.NET**
 
 <table>
 <tr>
@@ -197,11 +197,11 @@ Tools[ASP.NET]</td><td>
 <tr>
 <td>
 Chart[Windows]</td><td>
-(Installed Drive):\Syncfusion\EssentialStudio\(version)\Windows\Chart.Windows\Samples\2.0\Culture Localization\Localization Demo\cs</td></tr>
+{Installed Drive}:\Syncfusion\EssentialStudio\(version)\Windows\Chart.Windows\Samples\2.0\Culture Localization\Localization Demo\cs</td></tr>
 <tr>
 <td>
 Diagram [Windows]</td><td>
-(Installed Drive):\\Syncfusion\EssentialStudio\(version)\Windows\Diagram.Windows\Samples\2.0\Localizing Dialogs\Localization Demo\cs</td></tr>
+{Installed Drive}:\Syncfusion\EssentialStudio\(version)\Windows\Diagram.Windows\Samples\2.0\Localizing Dialogs\Localization Demo\cs</td></tr>
 <tr>
 <td>
 Chart[ASP.NET]</td><td>
@@ -213,5 +213,5 @@ Does not support localization currently.</td></tr>
 <tr>
 <td>
 Windows Forms [Grid,Tools]</td><td>
-Samples are available in the machine installed with Essential Studio.<br>(Installed Drive):\Syncfusion\EssentialStudio\8.4.0.8\Windows\Tools.Windows\Samples\2.0\Localization Demo\Localization Demo</td></tr>
+Samples are available in the machine installed with Essential Studio.<br>{Installed Drive}:\Syncfusion\EssentialStudio\8.4.0.8\Windows\Tools.Windows\Samples\2.0\Localization Demo\Localization Demo</td></tr>
 </table>
