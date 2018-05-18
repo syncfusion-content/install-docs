@@ -28,7 +28,7 @@ Syncfusion provides separate platform setups for all the Essential Studio platfo
 * ASP.NET MVC (Essential JS 2)
 * JavaScript (Essential JS 2)
 
-N> From the 2018 Volume 2 release, Syncfusion provides the support for uninstalling the particluar platform alone. 
+N> From the 2018 Volume 2 release, Syncfusion provides the support for uninstalling the particular platform alone. 
 
 
    N> Universal Windows Platform setup can be installed in Windows 8.1 and later.

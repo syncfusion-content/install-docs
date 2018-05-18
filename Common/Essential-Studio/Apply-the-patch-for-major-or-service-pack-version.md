@@ -9,7 +9,7 @@ documentation: ug
 
 # Patches
 
-Syncfusion provides patch setup for major version or sevice pack version, either to add new features or to fix issues. You have to install the patches in the order you have received.
+Syncfusion provides patch setup for major version or service pack version, either to add new features or to fix issues. You have to install the patches in the order you have received.
 
 
 ## Installing a Patch Setup

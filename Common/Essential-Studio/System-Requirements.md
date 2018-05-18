@@ -253,7 +253,7 @@ The following topic describes the system requirements required by Syncfusion Win
 
 ## Universal Windows
 
-The following topic describes the system requirements required by Syncfusion Universal Windows platform.
+The following topic describes the system requirements required by Syncfusion Universal Windows Platform.
 
 ### Operating Systems
 
