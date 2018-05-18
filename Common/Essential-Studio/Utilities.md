@@ -12,43 +12,10 @@ documentation: ug
 
 ## Syncfusion Control Panel
 
-This section provides details on the structure and composition of the Syncfusion Control Panel. It also elaborates on navigating the Syncfusion Control Panel to access various utilities and product samples.
+This section provides details on the structure and composition of the Syncfusion Control Panel. It also elaborates on navigating the Syncfusion Control Panel to access various utilities, add ons and product samples.
 
 ![](Utilities_images/Dashboard_img1.png)
 
-
-
-The Syncfusion Control Panel structure can be split as follows. 
-
-### Menu
-
-The Menu includes the Menu Bar that accommodates five menus.
-
-1. **File** - Allows you to exit the Syncfusion Control Panel. Alternatively, this can be done by clicking ![](Utilities_images/Dashboard_img2.png) at the top right corner of the Syncfusion Control Panel.
-
-   ![](Utilities_images/Dashboard_img3.png)
-
-2. **Studio** - Allows you to access the products under each platform. Also provides access to view local and online product samples. It allows you to access the Online Documentation, Release Notes and Read Me documents for the respective products. This can alternatively be accessed using the Product Platforms section in the Syncfusion Control Panel.
-
-    ![](Utilities_images/Dashboard_img4.png)
-
-3. **Tools** - Allow you to access the Add-Ons, Utilities and Documentation available for various platforms and products. This can alternatively be accessed from the Utilities, Add-Ons & Documentation section.
-
-    ![](Utilities_images/Dashboard_img5.png)
-
-4. **Help** - You can access the Direct-TracSupport Page online.
-
-    ![](Utilities_images/Dashboard_img6.png)
-
-5. **Updates** – Shows the latest version of Syncfusion Essential Studio available. 
-
-    ![](Utilities_images/Dashboard_img7.png)
-
-### Product Platforms 
-
-This section allows you to access the product samples available for each platform.
-
-![](Utilities_images/Dashboard_img8.png)
 
 ### Accessing Product Samples
 
@@ -58,15 +25,14 @@ Syncfusion provides lots of online and local samples for better understanding of
 
    ![](Utilities_images/Dashboard_img9.png)
 
-2. Select the required platform. Options for the selected platform are displayed on the right.
+2. Click any of the following to know more about the selected product.
 
-3. Click any of the following to know more about the selected product.
-
-   * **Run Samples** - To run the locally installed samples.
-   * **Online Samples** - To view online samples.
-   * **Explore Samples** - To open local installed location.
+   * **Run Local Demos** - To run the locally installed samples.
+   * **Run Online Demos** - To view online samples.
+   * **Explore Demos** - To open local installed location.
    * **Explore Source** - To view the source, when you have installed the source add-on setup.
-   * **Online Documentation** - To view the online documentation help contents for the respective products.
+   * **User Guide** - To view the user guide documentation for the respective products.
+   * **API Reference** - To view the online documentation help contents for the respective products.
    * **Release Notes** - To view the “Release Notes” content.
    * **Read Me** - To view the “Read Me” content.
    * **What’s New** - To view the “What’s New” content.
@@ -102,11 +68,9 @@ This section allows you to access the following. 
    * [Toolbox Configuration](http://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion controls for various .NET Frameworks in combination with compatible Visual Studio versions.
    * [Assembly Manager](http://help.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
    * [Build Manager](http://help.syncfusion.com/common/essential-studio/utilities#build-manager ) - This utility allows you to build and debug assemblies using the source installed in Essential Studio’s installed location.
-   * [Documentation](http://help.syncfusion.com/common/essential-studio/documentation-setup )- This provides access to view the online documentation and offline documentation.
    * [License Manager](http://help.syncfusion.com/common/essential-studio/utilities#license-manager )- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.   
    * [Project Migration](https://help.syncfusion.com/common/essential-studio/utilities#project-migration )- This allows to migrate the project references to the given Essential Studio version.
    * [Extension Installer](https://help.syncfusion.com/common/essential-studio/utilities#vsix-installer )- This allows to configure the Syncfusion Visual Studio extensions in Visual Studio.
-   * [Multi-Target Manager](https://help.syncfusion.com/common/essential-studio/utilities#multi-target-manager )- This allows to manage multiple .NET framework target in Visual Studio project.
    * [NuGet Manager](https://help.syncfusion.com/common/essential-studio/utilities#nuget-manager )- This allows to configure the Syncfusion NuGet sources to NuGet Package Manager.
 
 ### Other Information
@@ -119,6 +83,8 @@ Other information available in the Syncfusion Control Panel includes:
 
 * [Sales FAQ](http://www.syncfusion.com/sales/faq) - Clicking this link directs you to the FAQ page that lists common sales-related queries and other sales contact information.
 * [Contact Support](http://www.syncfusion.com/Account/Logon?ReturnUrl=%2fsupport%2fdirecttrac) - Clicking this link directs you to the Direct-Trac Login page to contact the Support Team.
+* Check for updates - Shows the latest version of Syncfusion Essential Studio if available.
+* License Agreement - Shows the License Agreement for the current version of Essential Studio.
 
 
 
@@ -131,13 +97,13 @@ The Assembly Manager is used to install and uninstall the assemblies, to and fro
 Use the following steps to run the Assembly Manager.
 
 1. Open Syncfusion Control Panel.
-2. Click Utilities > Assembly Manager.
+2. Click Add On and Utilities > Assembly Manager.
    
    ![](Utilities_images/Assembly-Manager_img1.png)
 
-3. The Syncfusion Assembly Manager x.x.x.x window opens.
+3. The Syncfusion {platform} Assembly Manager x.x.x.x window opens.
 
-   N> You can also open the Assembly Manager from {Installed location}\Syncfusion\Essential Studio\x.x.x.x\Utilities\Assembly Manager\AssemblyManagerWindows.exe
+   N> You can also open the Assembly Manager from {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Utilities\Assembly Manager\AssemblyManagerWindows.exe
 
    ![](Utilities_images/Assembly-Manager_img3.png)
 
@@ -206,25 +172,25 @@ You can also install the Syncfusion assemblies in GAC using the console version 
 2. Navigate to the Assembly Manager location and pass the following arguments for AssemblyManagerConsole.exe.
 
 **1. Installing particular version**
-/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions}
+/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions} /platform:"{platform}"
 
 **Example**
-/version:14.4.0.15 /compilemode:prebuilt /action:install /framework:46,451,45,40,35,20
+/version:14.4.0.15 /compilemode:prebuilt /action:install /framework:46,451,45,40,35,20 /platform:"WPF"
 
    ![](Utilities_images/Assembly-Manager_img10.png)
    
 
 **2. Removing particular version**
-/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions}
+/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions} /platform:"{platform}"
 
 **Example**
-/version:14.4.0.15 /compilemode:prebuilt /action:remove /framework:46,451,45,40
+/version:14.4.0.15 /compilemode:prebuilt /action:remove /framework:46,451,45,40 /platform:"WPF"
 
 **3. Removing all versions**
-/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions}
+/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions} /platform:"{platform}"
 
 **Example**
-/version:14.4.0.15 /compilemode:prebuilt /action:removeall /framework:46,451,45,40   
+/version:14.4.0.15 /compilemode:prebuilt /action:removeall /framework:46,451,45,40 /platform:"WPF"  
 
 
 
@@ -239,7 +205,7 @@ The Syncfusion assemblies are installed in the following two locations: 
 
 In the Assemblies folder, the assemblies are available in the following installation location:
 
- **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\x.x.x.x\Assemblies
+ **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Assemblies
 
  N> * The sub-folder 3.5 is used with .NET 3.5 and the sub-folder 2.0 is used with .NET 2.0. In most cases, [System Drive]:\ is C:\.
  * In 2.0 and 3.5 GAC, the assemblies are available in {System Drive:}\WINDOWS\assembly. 
@@ -248,7 +214,7 @@ In the Assemblies folder, the assemblies are available in the following instal
 
 Essential Studio ships the pre-built 2.0, 3.5, 4.0, 4.5, 4.5.1 and 4.6 .NET Framework versions of the Syncfusion assemblies. These assemblies are located in the PreCompiledAssemblies location.        
 
-**Location**: {ProgramFilesFolder}\Syncfusion\Essential Studio\x.x.x.x\PreCompiledAssemblies\x.x.x.x\{Framework}
+**Location**: {ProgramFilesFolder}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\PreCompiledAssemblies\x.x.x.x\{Framework}
 
 When you work with multiple target environments, you can see that each appropriate version is installed in the GAC, for side-by-side usage.
 
@@ -400,7 +366,7 @@ The following steps help you launch the Build Manager. 
 
 1. Open the Syncfusion Control Panel.
 
-1. Click Utilities > Build Manager.
+1. Click Add On and Utilities > Build Manager.
 
 
 2. The Syncfusion Build Manager x.x.x.x window opens.
@@ -461,7 +427,7 @@ The License Manager helps to manage license key information, such as the validit
 Follow the steps provided to launch the License Manager from the Dashboard.
 
 1. Open the Syncfusion Control Panel.
-2. Click License Manager.
+2. Click Add On and Utilities->License Manager.
 3. The Syncfusion License Manager dialog box opens. 
    
    ![](Utilities_images/License-Manager_img1.png)
@@ -522,7 +488,7 @@ N> Toolbox configuration support is not available for the Visual Studio Express 
 
 1. Open the Syncfusion Control Panel.
 
-2. Click Utilities > Toolbox Installer.
+2. Click Add On and Utilities > Toolbox Installer.
    
    ![](Utilities_images/Toolbox-Configuration_img1.png)
 
@@ -561,7 +527,7 @@ Multi-Target Manager helps to manage multiple .NET Frameworks in your Visual Stu
 
 When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Frameworks, then, by default, the target Framework is set to 3.5, and the following registry entry AssemblyFoldersEx is also set to 3.5 assembly. You can use the Multi-Target Manager to change the target Framework to 2.0. 
 
-**Registry Location:** HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essential Studio 3.5
+**Registry Location:** HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essential {platform} 3.5
 
 ### Launching MultiTarget Manager 
 
@@ -573,7 +539,7 @@ When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Fram
    ![](Utilities_images/Multi-Target-Manager_img2.png)
 
     N> You can also open the Multi-Target Manager from the following location:
-   **Location:**{Installed location}\Syncfusion\Essential Studio\x.x.x.x\Utilities\MultiTargetManager\MultiTargetManager.exe
+   **Location:**{Installed location}\Syncfusion\Essential Studio\{platform}\x.x.x.x\Utilities\MultiTargetManager\MultiTargetManager.exe
 
 3. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
 
@@ -606,7 +572,7 @@ The following steps illustrate how to migrate a project.
 
 1. Open the Project Migration Tool from the following location.
 
-   **Location:** {Installed location}\Syncfusion\Essential Studio\x.x.x.x\Utilities\Project Migration\ProjectMigrationWindows.exe.
+   **Location:** {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Utilities\Project Migration\ProjectMigrationWindows.exe.
 
    ![](Utilities_images/Project-Migration_img1.png)
 
@@ -644,7 +610,7 @@ The following steps illustrate how to run the Project Migration tool through com
 
    **Location:** {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{version}\Utilities\Project Migration\
 
-   **Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\16.1.0.24\Utilities\Project Migration\
+   **Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\{Platform}\16.1.0.24\Utilities\Project Migration\
 
 
 2. Run “ProjectMigrationConsole.exe” with the following arguments.
@@ -669,9 +635,9 @@ The following steps illustrate how to configure Syncfusion extensions in Visual 
 
 1. Open the SyncfusionVSIXInstallerWindows.exe from the following location.
 
-    **Location:** {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{version}\Utilities\Extensions\VISX Installer\
+    **Location:** {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{Platform}\{version}\Utilities\Extensions\VISX Installer\
 	
-	**Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\15.2.0.40\Utilities\Extensions\VSIX Installer
+	**Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\WPF\15.2.0.40\Utilities\Extensions\VSIX Installer
 	
    ![](Utilities_images/VSIXInstaller_img1.png)	
    
@@ -695,7 +661,7 @@ The following steps directs you to add the Syncfusion NuGet Package sources from
 
 1.	Open Syncfusion Control Panel.
 
-2.	Choose Utilities Tab and click NuGet Manager.
+2.	Choose Add On and Utilities Tab and click NuGet Manager.
 
     ![](Utilities_images/NuGetManager_img1.png)
 
