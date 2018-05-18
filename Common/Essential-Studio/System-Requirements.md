@@ -332,7 +332,7 @@ Opera</th><th>
 Edge</th><th>
 IE</th><th>
 Safari</th><th>
-IOS</th><th>
+iOS</th><th>
 Android</th><th>
 Windows Mobile</th></tr>
 <tr><td>
@@ -403,7 +403,7 @@ Opera</th><th>
 Edge</th><th>
 IE</th><th>
 Safari</th><th>
-IOS</th><th>
+iOS</th><th>
 Android</th><th>
 Windows Mobile</th></tr>
 <tr><td>
