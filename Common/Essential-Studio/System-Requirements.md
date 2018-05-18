@@ -251,7 +251,7 @@ The following topic describes the system requirements required by Syncfusion Win
 * Microsoft Visual Studio 2005/2008/2010/2012/2013/2015/2017
 * .NET Framework 2.0/3.5/4.0/4.5/4.5.1/4.6
 
-## Universal Windows
+## Universal Windows Platform
 
 The following topic describes the system requirements required by Syncfusion Universal Windows Platform.
 
