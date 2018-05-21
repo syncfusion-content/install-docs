@@ -22,8 +22,9 @@ Syncfusion started providing the Online Installer for Essential Studio from 2018
 * Windows Forms
 * WPF
 *Universal Windows
-**Phone and Tablet**
+**Mobile**
 * Xamarin
+**FileFormats**
 **Web (Essential JS 1)**
 * ASP.NET
 * ASP.NET MVC

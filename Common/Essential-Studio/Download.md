@@ -11,7 +11,7 @@ documentation: ug
 
 {screen shot of Web Installer setup from the downloads page}
 
-2. You can provide the email ID and password registered with Syncfusion for unlocking the Essential Studio Web Installer setup and your license will be configured.
+I> You can provide the email ID and password registered with Syncfusion for unlocking the Essential Studio Web Installer setup and your license will be configured.
 
 
 ## Offline Installer
