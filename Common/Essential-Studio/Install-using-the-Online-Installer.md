@@ -15,17 +15,25 @@ documentation: ug
 Syncfusion started providing the Online Installer for Essential Studio from 2018 Volume 2 release. This installer reduces the burden of downloading the setup of larger size. You can just download and launch the online installer which will be of smaller size and it will downloads and installs all the Essential Studio packages for the platforms you have selected. The Essential Studio Web Installer includes all of the following platforms. You can download the latest version Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
 
 **Web (Essential JS 2)**
+
 * ASP.NET MVC
 * ASP.NET Core
 * JavaScript
+
 **Desktop**
+
 * Windows Forms
 * WPF
-*Universal Windows
+* Universal Windows
+
 **Mobile**
+
 * Xamarin
+
 **FileFormats**
+
 **Web (Essential JS 1)**
+
 * ASP.NET
 * ASP.NET MVC
 * ASP.NET Core
