@@ -24,7 +24,7 @@ Syncfusion started providing the Online Installer for Essential Studio from 2018
 
 * Windows Forms
 * WPF
-* Universal Windows
+* Universal Windows Platform
 
 **Mobile**
 
