@@ -12,7 +12,9 @@ documentation: ug
 
 ## Overview
 
-Syncfusion started providing the Online Installer for Essential Studio from 2018 Volume 2 release. This installer reduces the burden of downloading the setup of larger size. You can just download and launch the online installer which will be of smaller size and it will downloads and installs all the Essential Studio packages for the platforms you have selected. The Essential Studio Web Installer includes all of the following platforms. You can download the latest version Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
+Syncfusion started providing the Offline Essential Studio setup only for Licensed customers from 2018 Volume 2 release. You can download the latest version Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
+
+I> You can install the Essential Studio Installer only using Login.
 
 **Web (Essential JS 2)**
 
@@ -41,21 +43,18 @@ Syncfusion started providing the Online Installer for Essential Studio from 2018
 * PHP
 * JSP
 
-   N> Universal Windows Platform will be installed in Windows 8.1 and later.   
  
  
-## Step-by-Step Installation
+The following procedure illustrates how to install Essential Studio Offline Installer setup. 
 
-The following procedure illustrates how to install Essential Studio Online Installer setup. 
-
-1.  Double-click the Syncfusion Essential Studio Online Installer setup file. The Setup Wizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Essential Studio Offline Installer setup file. The Setup Wizard opens and extracts the package automatically.
 
     ![](WebInstaller/Step-by-Step-Installation_img1.png)
 
     
-    N> The Setup wizard extracts the syncfusion{platform}webinstaller_{version}.exe dialog, displaying the unzip operation of the package.
+    N> The Setup wizard extracts the syncfusionessentialstudiowebinstaller_{version}.exe dialog, displaying the unzip operation of the package.
     
-2. Welcome wizard of the Syncfusion Online Installer will be displayed. Click Proceed.
+2. Welcome wizard of the Syncfusion Offline Installer will be displayed. Click Proceed.
 
    ![](WebInstaller/Step-by-Step-Installation_img2.png)
 

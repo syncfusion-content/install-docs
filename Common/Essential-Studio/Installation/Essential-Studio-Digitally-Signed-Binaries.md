@@ -12,21 +12,23 @@ documentation: ug
 
 Syncfusion provides Digitally Signed Binaries Setup. It signs the Syncfusion assemblies with a .pfx file. For information, see [Digitally Signed Binaries ](http://www.syncfusion.com/support/kb/7671). 
 
+I> Essential Studio Digitally Signed Binaries can be installed only by the customers who holds the valid license
+
 The following steps illustrate how to install Digitally Signed Binaries Setup.
 
 1.  Double-click the Syncfusion Digitally Signed Binaries Setup file. The Setup Wizard opens and extracts the package automatically. 
    
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img1.png)
+    ![](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img1.png)
 
 2.  Once the unzip operation is complete, the License registration screen opens.
 
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img2.png)
+    ![](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img2.png)
 
 3.  Enter the Unlock Key in the corresponding text box provided and select the **I agree to the License Terms and Conditions** check box after reading the License Agreement.
 
 4.  Click Next. The Select Platform screen opens. Select the required platforms to install the assemblies and click Next.
 
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img3.png)
+    ![](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img3.png)
 
 5.  The Installation Location screen opens.
    
@@ -34,14 +36,14 @@ The following steps illustrate how to install Digitally Signed Binaries Setup.
 
 6.  To install in the displayed default location, click Next.
 
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img4.png)
+    ![](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img4.png)
    
 7.  Digitally Signed Binaries installation will be started.
 
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img5.png)
+    ![](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img5.png)
 
     N> The Completed screen is displayed once the selected package is installed.
     
-    ![](Add-on_images/Digitally-Signed-Assemblies-Setup_img6.png)
+    ![](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img6.png)
 
 8. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing. Click Finish to exit the Setup Wizard. Digitally Signed Binaries will be installed.
