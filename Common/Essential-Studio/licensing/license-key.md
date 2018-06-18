@@ -1,13 +1,13 @@
 ---
 layout: post
-title: License Key | Syncfusion
+title: Syncfusion Licensing Overview | Syncfusion
 description: Overview of the license key, how to generate the license key, how to register the license key
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# License Key
+# Syncfusion Licensing Overview
 
 ## How to generate Syncfusion license key  
 
