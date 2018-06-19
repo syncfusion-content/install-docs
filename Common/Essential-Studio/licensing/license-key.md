@@ -15,7 +15,7 @@ documentation: ug
 
 You can generate your license key from [Syncfusion.com](https://www.syncfusion.com/). This license key will be required to use our products in your application. If you have a licensed installer, this key is not required. If you are using our trial installer, you must include the license key in your application. 
  
-	N> License key will be applicable only after the release version 16.2. 
+N> License key will be applicable only after the release version 16.2. 
 
 ## License Key for Trial Users  
 
