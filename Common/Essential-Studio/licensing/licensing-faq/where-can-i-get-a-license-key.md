@@ -9,7 +9,7 @@ documentation: ug
 
 # Where can I get a license key?
 
-You can generate the license key from [here](https://www.syncfusion.com/account/downloads)
+You can generate the license key from [here](https://www.syncfusion.com/account/downloads).
 
 
 
