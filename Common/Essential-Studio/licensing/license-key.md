@@ -208,7 +208,7 @@ We recommend registering the license key at the application level as show in the
 ## NuGet.org users without a Syncfusion account**
 
 If you have directly obtained Syncfusion assemblies from NuGet.org and don’t have a Syncfusion account then you need to follow the steps below to obtain a free 30 day license key
-•	Register for a free Syncfusion account here
-•	Go to the start trials page and start a trial
-•	Finally proceed to the License & Downloads section to obtain the license key
+•	Register for a free Syncfusion account [here](https://www.syncfusion.com/account/register)
+•	Go to the start trials [page](https://staging.syncfusion.com/account/manage-trials/start-trials) and start a trial
+•	Finally proceed to the [License & Downloads](https://staging.syncfusion.com/account/downloads) section to obtain the license key
 
