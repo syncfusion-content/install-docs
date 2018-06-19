@@ -9,7 +9,7 @@ documentation: ug
 
 # Syncfusion Licensing Overview
 
-We have introduced a new licensing system starting with the version 16.2.0.x release of Essential Studio. These changes apply to all evaluators and only to paid customers who use Nuget packages. Starting with v16.2.0.x, if you reference Syncfusion assemblies from evaluation builds or from the Nuget feed in your projects, then you also need to include a license key in your projects. Please note that this license key is different from the set up unlock key that you may have used in the past and needs to be separately generated from the Syncfusion website. A licensing error will be show if this license key is missing.
+We have introduced a new licensing system starting with the version 16.2.0.x release of Essential Studio. These changes apply to all evaluators and only to paid customers who use NuGet packages. Starting with v16.2.0.x, if you reference Syncfusion assemblies from evaluation builds or from the NuGet feed in your projects, then you also need to include a license key in your projects. Please note that this license key is different from the set up unlock key that you may have used in the past and needs to be separately generated from the Syncfusion website. A licensing error will be show if this license key is missing.
 
 ## How to generate Syncfusion license key
 
@@ -83,7 +83,7 @@ void Application_Start(object sender, EventArgs e)
 {% endhighlight %}
 {% endtabs %}
 
-### ASP.NET Mvc
+### ASP.NET MVC
 
 Register the license key in Application_Start method of Global.asax.cs 
 
@@ -137,9 +137,9 @@ public App()
 	this.Suspending += OnSuspending;
 }
 {% endhighlight %}
-{% endtabs %
+{% endtabs %}
 
-### Xamarin Forms
+### Xamarin.Forms
 
 Register the license key in App xaml constructor before InitializeComponent()
 
@@ -165,7 +165,7 @@ Register the license key in OnCreate override method of your main launcher activ
 {% highlight c# %}
 protected override void OnCreate(Bundle savedInstanceState)
 {
-	//Register Syncfuison license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 	base.OnCreate(savedInstanceState);
@@ -200,14 +200,14 @@ public override bool FinishedLaunching(UIApplication application, NSDictionary l
 	return true;
 } 
 {% endhighlight %}
-{% endtabs %
+{% endtabs %}
 
 ### Registering key in a User control that contains Syncfusion controls
 We recommend registering the license key at the application level as show in the above sections.
 
 ## NuGet.org users without a Syncfusion account**
 
-If you have directly obtained Syncfusion assemblies from Nuget.org and don’t have a Syncfusion account then you need to follow the steps below to obtain a free 30 day license key
+If you have directly obtained Syncfusion assemblies from NuGet.org and don’t have a Syncfusion account then you need to follow the steps below to obtain a free 30 day license key
 •	Register for a free Syncfusion account here
 •	Go to the start trials page and start a trial
 •	Finally proceed to the License & Downloads section to obtain the license key
