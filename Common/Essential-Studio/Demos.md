@@ -7,11 +7,11 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Samples
+# Demos
 
 Provided here are the online and offline samples.
 
-##  Offline Samples
+##  Offline Demos
 
 The Offline Samples are provided in the Syncfusion Essential Studio setup. The offline samples will run from IIS or Local server. The offline samples are configured in IIS 7.0 and IIS 7.5 installed machines, otherwise the samples will run from the local server.
 
@@ -272,7 +272,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 	
 	
 	
-## Online Samples
+## Online Demos
 
 Online samples are provided for the following platforms.The following table lists the links to the online samples.
 
@@ -333,16 +333,6 @@ JavaScript (Essential JS 1)</td><td>
 <td>
 ASP.NET Core (Essential JS 1)</td><td>
 {{ '[https://aspnetcore.syncfusion.com/](https://aspnetcore.syncfusion.com/)' | markdownify }}</td></tr>
-
-<tr>
-<td>
-ASP.NET (Classic)</td><td>
-{{ '[http://asp.syncfusion.com/demos/web](http://asp.syncfusion.com/demos/web)' | markdownify }}</td></tr>
-
-<tr>
-<td>
-ASP.NET MVC (Classic)</td><td>
-{{ '[http://mvc.syncfusion.com/demos/ui/tools](http://mvc.syncfusion.com/demos/ui/tools)' | markdownify }}</td></tr>
 
 </table>
 

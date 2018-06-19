@@ -14,49 +14,32 @@ Documentation is provided for both User Guide and Class Reference.
 
 ## User Guide
 
-**Local documentation** - A complete set of documentation for the User Guide is provided under the following headers. 
-
-**Installed Documentation** – Offline User Guide setup files have been removed for Essential Studio 11.4.0.26 and later; instead, the User Guides are provided in PDF file format. Documentation pertaining to Essential Studio can be installed with your copy of Syncfusion local resources. Explore the following to have a better idea of Essential Studio products.
-
 * User Guide PDF
 
-This local documentation can be accessed from the Syncfusion Control Panel > Utilities > Documentation > User Guide PDF.
+Syncfusion User Guide has step-by-step procedure so that users can clearly understand the usage of the Syncfusion controls from it. 
 
-
+ User Guide can be accessed from the Syncfusion Control Panel > Documentation.
 
 ![](Documentation-Setup_images/User-Guide_img1.png)
 
 
+You can access the User Guide documentation in any of the below two ways.
 
+* **PDF Download**  - You can download the User Guide as a PDF and access it in offline
+* **View On Web** - You can view the User Guide for the corresponding platform online.
 
+## API Reference
 
+Syncfusion API reference provides a clear understanding to the users for accessing the classes, methods, properties etc... from the Syncfusion assemblies
 
-**Online Documentation:** Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products, better. This can be accessed from the Utilities > Documentation > Online User Guide.
-
-![](Documentation-Setup_images/User-Guide_img3.png)
-
-## Class Reference
-
-**Local documentation** - A complete set of documentation for Class Reference is provided under the following headers. 
-
-Installed Documentation - Documentation pertaining to Essential Studio can be installed with your copy of Syncfusion local resources. Explore the following three categories of documentation to have a better idea of Essential Studio products.
-
-* Visual Studio 2005/Visual Studio 2008 Class Reference
-* Visual Studio 2010/Visual Studio 2012/Visual Studio 2013/Visual Studio 2015/Visual Studio 2017 Class Reference
-
-This local documentation can be accessed from the Syncfusion Control Panel > Utilities > Documentation > Class Reference.
+API Reference can be accessed from the Syncfusion Control Panel > Documentation >
 
 ![](Documentation-Setup_images/Class-Reference_img1.png)
 
 
-N> When you have not installed local documentation, then a prompt opens to download the setup.
+You can access the API reference documentation in any of the below two ways.
 
+* **Visual Studio Help Viewer Compatible** - You can download the API reference setup and install it in Offline.
+* **View On Web**  - You can view the API reference for the corresponding platform online.
 
-**Online Documentation:** Syncfusion provides comprehensive documentation online, to help you understand Essential Studio products better. This can be accessed from the Utilities > Documentation > Online Class Reference.
-
-
-
-![](Documentation-Setup_images/Class-Reference_img2.png)
-
-
-
+I> For accessing the API Reference offline, you need to install the **Help Viewer** setup for the corresponding version Visual Studio.

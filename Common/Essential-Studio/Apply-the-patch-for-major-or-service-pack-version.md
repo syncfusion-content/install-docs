@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Patches | common | Syncfusion
-description: patches
+title: Apply the patch for major or service pack version | common | Syncfusion
+description: apply the patch for major or service pack version
 platform: common
 control: Essential Studio
 documentation: ug
@@ -9,7 +9,7 @@ documentation: ug
 
 # Patches
 
-Syncfusion provides patch setup to install a new assembly, either to add new features or to fix issues.
+Syncfusion provides patch setup for major version or service pack version, either to add new features or to fix issues. You have to install the patches in the order you have received.
 
 
 ## Installing a Patch Setup
@@ -17,7 +17,7 @@ Syncfusion provides patch setup to install a new assembly, either to add new fea
 The following procedure illustrates how to install a patch.
 
 
-N> * Before installing the patch, ensure that corresponding Essential Studio version and platforms to install the patch in your machine.*
+I> Before installing the patch, ensure that corresponding Essential Studio version or platforms setup has been installed in your machine.
 
 
 

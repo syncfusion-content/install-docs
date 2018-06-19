@@ -28,10 +28,8 @@ Syncfusion provides separate platform setups for all the Essential Studio platfo
 * ASP.NET MVC (Essential JS 2)
 * JavaScript (Essential JS 2)
 
+N> From the 2018 Volume 2 release, Syncfusion provides the support for uninstalling the particular platform alone. 
 
-### Classic Platforms:
-* ASP.NET MVC Classic (Essential Studio for ASP.NET MVC has been marked as “Classic” from version 12.1.0.43)
-* ASP.NET Classic (Essential Studio for ASP.NET has been marked as “Classic” from version 12.2.0.36)
 
    N> Universal Windows Platform setup can be installed in Windows 8.1 and later.
 
@@ -73,13 +71,13 @@ The following procedure illustrates how to install Essential Studio. 
 3. After reading the License Terms and Conditions, check the **I agree to the License Terms and Conditions** check box.
 
 
-4. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. 
+4. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. To install in the displayed default location, click Install
 
 
     ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img4.png)
-
-
-   N> To install in the displayed default location, click Install. You can also browse and choose a location by clicking Browse. When you have already installed any other same version‘s setup, you cannot change the install and samples path.
+	
+	N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location. The default install location will be **{ProgramFilesFolder}\Syncfusion\{Platform}\{version}**. The default samples location will be the **Public Documents** folder.
+   
 
    * Select the **Install Syncfusion Samples** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
    * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.

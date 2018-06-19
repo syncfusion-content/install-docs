@@ -44,6 +44,14 @@ Android</td><td>
 <td>
 iOS</td><td>
 15.3.0.26</td></tr>
+<tr>
+<td>
+ASP.NET Classic</td><td>
+16.2.0.*</td></tr>
+<tr>
+<td>
+ASP.NET MVC Classic</td><td>
+16.2.0.*</td></tr>
 </table>
 
 N> If you are using the above platforms, use the earlier versions. WinRT and Windows Phone platform setup can be installed in Windows version 8 and later.
