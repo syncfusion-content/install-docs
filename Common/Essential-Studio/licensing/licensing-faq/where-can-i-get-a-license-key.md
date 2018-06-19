@@ -7,9 +7,9 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Recommended places to register the Syncfusion license key in your application
+# Where can I get a license key?
 
-
+You can generate the license key from https://www.syncfusion.com/account/downloads
 
 
 
