@@ -9,93 +9,206 @@ documentation: ug
 
 # Syncfusion Licensing Overview
 
+We have introduced a new licensing system starting with the version 16.2.0.x release of Essential Studio. These changes apply to all evaluators and only to paid customers who use NuGet packages. Starting with v16.2.0.x, if you reference Syncfusion assemblies from evaluation builds or from the NuGet feed in your projects, then you also need to include a license key in your projects. Please note that this license key is different from the set up unlock key that you may have used in the past and needs to be separately generated from the Syncfusion website. A licensing error will be show if this license key is missing.
 
-## How to generate Syncfusion license key  
+## How to generate Syncfusion license key
 
+License keys can be generated from the License & Downloads section on the Syncfusion website. 
 
-You can generate your license key from [Syncfusion.com](https://www.syncfusion.com/). This license key will be required to use our products in your application. If you have a licensed installer, this key is not required. If you are using our trial installer, you must include the license key in your application. 
- 
-N> License key will be applicable only after the release version 16.2. 
-
-## License Key for Trial Users  
-
-1.  You can generate the license key from [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads).
- 
-2.  In [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads), you will find only your current, active trial products. Trials which you have completed through both the [Free Trial](https://www.syncfusion.com/downloads) and [Start Trial](https://www.syncfusion.com/account/manage-trials/start-trials) pages are listed here.
-
-3.	You can generate the license key for required product installer by clicking on Get License Key, as shown in the following screenshot. 
-
-	![](licensing-images/trial-screenshot-1.png)
- 
-4.	After clicking Get License Key, a pop-up will be opened.
-
-	![](licensing-images/trial-screenshot-2.png)
-	
-5.	The chosen product name will be displayed at the top. 
-
-6.  You can select the required platforms in the Platform multi-select dropdown. License keys will be generated for the selected platforms.
-
-	![](licensing-images/trial-screenshot-3.png)
-	
-7.  The platform-based section is only required when you have an Essential Studio trial license. If you have evaluated the studio license, you are eligible to use all platforms. 
-
-8.  If you have evaluated individual products (platforms), you are only eligible for that platform and you can directly generate license key for that platform only. Refer to the following screenshot.
-
-	![](licensing-images/trial-screenshot-4.png)
-	
-9.  You can only generate license keys for active trial versions which you are using.
-
-10. Project name is optional. You can provide the name of the application to which you are going to apply the license key.
-
-11. After clicking  GET LICENSE KEY, your license key will be generated, as shown in the following screenshot.
-
-	![](licensing-images/trial-screenshot-5.png)
- 
-12. To register the downloaded license key to in your application, refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-register-the-syncfusion-license-key). 
-
-
-## License Key for Licensed Users
-
-
-1.  You can generate the license key for licensed products from [License & Downloads](https://www.syncfusion.com/account/downloads). 
-
-2.  In [License & Downloads](https://www.syncfusion.com/account/downloads), you can find all your licensed products, both active and expired. 
-
-3.  You can generate the license key for required product installer by clicking on Get License Key link (refer to the following screenshot). 
-
-	![](licensing-images/license-screenshot-1.png)
- 
-4.  After clicking Get License Key, a pop-up will be opened, as shown in the following screenshot.
-
-	![](licensing-images/license-screenshot-2.png)
- 
-5.  Product name will be displayed at the top. 
-
-6.	You can select the required platforms in the Platform multi-select dropdown. License keys will be generated for selected platforms.
-
-	![](licensing-images/license-screenshot-3.png)
- 
-7.  The platform-based section is only required when you have an Essential Studio license. If you have studio license, you are eligible to use all platforms. 
-
-8.  If you have an individual product (platform) license, you are only eligible for that platform, and you can directly generate license keys for that platform. Refer to the below screenshot, for more information.
-
-	![](licensing-images/license-screenshot-4.png)
-	
-9.  You only need license keys for release versions 16.2 and later.
-
-10. Project name is optional. You can give the name of the application in which you’re going to include the license key.
-
-11. After clicking on GET LICENSE KEY, your license key will be generated and shown. Refer to the following screenshot for more information.
-
-	![](licensing-images/license-screenshot-5.png)
- 
-12. To register the downloaded license key in your application, refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-register-the-syncfusion-license-key). 
-
+![](licensing-images/generate-license.png)
 
 ## How to register the Syncfusion license key
 
+The generated license key is just a string that needs to be registered before any Syncfusion controls are initiated. The following code is used to register the license.
 
+{% tabs %}
+{% highlight c# %}
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+{% endhighlight %}
+{% endtabs %}
 
+Note: Place the license key between double quotes.  Also, ensure that Syncfusion.Licensing.dll is referenced in your project where the license key is being  registered.
 
+The recommended place to register the license in the various platforms (ASP.NET Core, Xamarin etc.) is covered in the section below.
 
+Recommended places to register license keys in your application
+
+### Windows Forms
+
+Register the licensing code in static void main method before calling  Application.Run() method.
+
+{% tabs %}
+{% highlight c# %}
+static void Main()
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+			
+    Application.EnableVisualStyles();
+    Application.SetCompatibleTextRenderingDefault(false);
+    Application.Run(new Form1());
+}
+{% endhighlight %}
+{% endtabs %}
+ 
+### WPF
+
+Register the license key in App constructor of App.xaml.cs 
+{% tabs %}
+{% highlight c# %}
+public partial class App : Application
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+		
+} 
+{% endhighlight %}
+{% endtabs %}
+
+### ASP.NET	
+
+Register the license key in Application_Start method of Global.asax.cs
+
+{% tabs %}
+{% highlight c# %}
+void Application_Start(object sender, EventArgs e)
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	
+	// Code that runs on application startup
+	RouteConfig.RegisterRoutes(RouteTable.Routes);
+	BundleConfig.RegisterBundles(BundleTable.Bundles);
+}
+{% endhighlight %}
+{% endtabs %}
+
+### ASP.NET MVC
+
+Register the license key in Application_Start method of Global.asax.cs 
+
+{% tabs %}
+{% highlight c# %}
+void Application_Start(object sender, EventArgs e)
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	
+	// Code that runs on application startup
+	RouteConfig.RegisterRoutes(RouteTable.Routes);
+	BundleConfig.RegisterBundles(BundleTable.Bundles);
+}
+{% endhighlight %}
+{% endtabs %} 
+
+### ASP.NET Core
+
+Register the license key in Configure method of Startup.cs
+
+{% tabs %}
+{% highlight c# %}
+// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	
+	loggerFactory.AddConsole(Configuration.GetSection("Logging"));
+	loggerFactory.AddDebug();
+
+	...
+	
+}
+{% endhighlight %}
+{% endtabs %} 
+
+### UWP
+
+Register the license key in App xaml constructor before InitializeComponent()
+
+{% tabs %}
+{% highlight c# %}
+public App()
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+
+	this.InitializeComponent();
+	this.Suspending += OnSuspending;
+}
+{% endhighlight %}
+{% endtabs %}
+
+### Xamarin.Forms
+
+Register the license key in App xaml constructor before InitializeComponent()
+
+{% tabs %}
+{% highlight c# %}
+public App()
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	
+	InitializeComponent();
+	
+	MainPage = new App1.MainPage();
+}
+{% endhighlight %}
+{% endtabs %}
+
+### Xamarin.Android
+
+Register the license key in OnCreate override method of your main launcher activity class before initializing any Syncfusion control.
+
+{% tabs %}
+{% highlight c# %}
+protected override void OnCreate(Bundle savedInstanceState)
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+
+	base.OnCreate(savedInstanceState);
+
+	// Set our view from the "main" layout resource
+	SetContentView(Resource.Layout.Main);
+}
+{% endhighlight %}
+{% endtabs %}
+ 
+
+### Xamarin.iOS
+
+Register the license key in FinishedLaunching override method of AppDelegate.cs 
+
+{% tabs %}
+{% highlight c# %}
+public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+
+	// create a new window instance based on the screen size
+	Window = new UIWindow(UIScreen.MainScreen.Bounds);
+
+	// If you have defined a root view controller, set it here:
+	// Window.RootViewController = myViewController;
+
+	// make the window visible
+	Window.MakeKeyAndVisible();
+
+	return true;
+} 
+{% endhighlight %}
+{% endtabs %}
+
+### Registering key in a User control that contains Syncfusion controls
+We recommend registering the license key at the application level as show in the above sections.
+
+## NuGet.org users without a Syncfusion account**
+
+If you have directly obtained Syncfusion assemblies from NuGet.org and don’t have a Syncfusion account then you need to follow the steps below to obtain a free 30 day license key
+•	Register for a free Syncfusion account here
+•	Go to the start trials page and start a trial
+•	Finally proceed to the License & Downloads section to obtain the license key
 
