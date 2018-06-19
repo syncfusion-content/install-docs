@@ -19,5 +19,3 @@ There are two possible solutions
 
 
 
-
-

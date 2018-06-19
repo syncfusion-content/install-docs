@@ -31,11 +31,9 @@ Note: Place the license key between double quotes.  Also, ensure that Syncfusion
 
 The recommended place to register the license in the various platforms (ASP.NET Core, Xamarin etc.) is covered in the section below.
 
-Recommended places to register license keys in your application
-
 ### Windows Forms
 
-Register the licensing code in static void main method before calling  Application.Run() method.
+Register the licensing code in static void main method before calling ~Application.Run() method.
 
 {% tabs %}
 {% highlight c# %}
@@ -43,7 +41,7 @@ static void Main()
 {
 	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
-			
+	
     Application.EnableVisualStyles();
     Application.SetCompatibleTextRenderingDefault(false);
     Application.Run(new Form1());
@@ -53,7 +51,7 @@ static void Main()
  
 ### WPF
 
-Register the license key in App constructor of App.xaml.cs 
+Register the license key in App constructor of ~App.xaml.cs 
 {% tabs %}
 {% highlight c# %}
 public partial class App : Application
@@ -67,7 +65,7 @@ public partial class App : Application
 
 ### ASP.NET	
 
-Register the license key in Application_Start method of Global.asax.cs
+Register the license key in Application_Start method of ~Global.asax.cs
 
 {% tabs %}
 {% highlight c# %}
@@ -85,7 +83,7 @@ void Application_Start(object sender, EventArgs e)
 
 ### ASP.NET MVC
 
-Register the license key in Application_Start method of Global.asax.cs 
+Register the license key in Application_Start method of ~Global.asax.cs 
 
 {% tabs %}
 {% highlight c# %}
@@ -103,7 +101,7 @@ void Application_Start(object sender, EventArgs e)
 
 ### ASP.NET Core
 
-Register the license key in Configure method of Startup.cs
+Register the license key in Configure method of ~Startup.cs
 
 {% tabs %}
 {% highlight c# %}
@@ -124,7 +122,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### UWP
 
-Register the license key in App xaml constructor before InitializeComponent()
+Register the license key in ~App.xaml.cs constructor before InitializeComponent()
 
 {% tabs %}
 {% highlight c# %}
@@ -141,7 +139,7 @@ public App()
 
 ### Xamarin.Forms
 
-Register the license key in App xaml constructor before InitializeComponent()
+Register the license key in ~App.xaml.cs constructor before InitializeComponent()
 
 {% tabs %}
 {% highlight c# %}
@@ -159,7 +157,7 @@ public App()
 
 ### Xamarin.Android
 
-Register the license key in OnCreate override method of your main launcher activity class before initializing any Syncfusion control.
+Register the license key in OnCreate override method of ~MainActivity.cs before initializing any Syncfusion control.
 
 {% tabs %}
 {% highlight c# %}
@@ -179,7 +177,7 @@ protected override void OnCreate(Bundle savedInstanceState)
 
 ### Xamarin.iOS
 
-Register the license key in FinishedLaunching override method of AppDelegate.cs 
+Register the license key in ~FinishedLaunching override method of ~AppDelegate.cs 
 
 {% tabs %}
 {% highlight c# %}
@@ -202,7 +200,7 @@ public override bool FinishedLaunching(UIApplication application, NSDictionary l
 {% endhighlight %}
 {% endtabs %}
 
-### Registering key in a User control that contains Syncfusion controls
+## Registering key in a User control that contains Syncfusion controls
 We recommend registering the license key at the application level as show in the above sections.
 
 ## NuGet.org users without a Syncfusion account
@@ -210,6 +208,6 @@ We recommend registering the license key at the application level as show in the
 If you have directly obtained Syncfusion assemblies from NuGet.org and don’t have a Syncfusion account then you need to follow the steps below to obtain a free 30 day license key
 
 * Register for a free Syncfusion account [here](https://www.syncfusion.com/account/register)
-* Go to the start trials [page](https://staging.syncfusion.com/account/manage-trials/start-trials) and start a trial
-* Finally proceed to the [License & Downloads](https://staging.syncfusion.com/account/downloads) section to obtain the license key
+* Go to the start trials [page](https://syncfusion.com/account/manage-trials/start-trials) and start a trial
+* Finally proceed to the [License & Downloads](https://syncfusion.com/account/downloads) section to obtain the license key
 
