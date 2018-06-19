@@ -33,7 +33,7 @@ The recommended place to register the license in the various platforms (ASP.NET 
 
 ### Windows Forms
 
-Register the licensing code in static void main method before calling ~Application.Run() method.
+Register the licensing code in static void main method before calling **Application.Run()** method.
 
 {% tabs %}
 {% highlight c# %}
@@ -51,7 +51,7 @@ static void Main()
  
 ### WPF
 
-Register the license key in App constructor of ~App.xaml.cs 
+Register the license key in App constructor of **App.xaml.cs** 
 {% tabs %}
 {% highlight c# %}
 public partial class App : Application
@@ -65,7 +65,7 @@ public partial class App : Application
 
 ### ASP.NET	
 
-Register the license key in Application_Start method of ~Global.asax.cs
+Register the license key in Application_Start method of **Global.asax.cs**
 
 {% tabs %}
 {% highlight c# %}
@@ -83,7 +83,7 @@ void Application_Start(object sender, EventArgs e)
 
 ### ASP.NET MVC
 
-Register the license key in Application_Start method of ~Global.asax.cs 
+Register the license key in Application_Start method of **Global.asax.cs**
 
 {% tabs %}
 {% highlight c# %}
@@ -101,7 +101,7 @@ void Application_Start(object sender, EventArgs e)
 
 ### ASP.NET Core
 
-Register the license key in Configure method of ~Startup.cs
+Register the license key in Configure method of **Startup.cs**
 
 {% tabs %}
 {% highlight c# %}
@@ -122,7 +122,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### UWP
 
-Register the license key in ~App.xaml.cs constructor before InitializeComponent()
+Register the license key in **App.xaml.cs** constructor before InitializeComponent()
 
 {% tabs %}
 {% highlight c# %}
@@ -139,7 +139,7 @@ public App()
 
 ### Xamarin.Forms
 
-Register the license key in ~App.xaml.cs constructor before InitializeComponent()
+Register the license key in **App.xaml.cs** constructor before InitializeComponent()
 
 {% tabs %}
 {% highlight c# %}
@@ -157,7 +157,7 @@ public App()
 
 ### Xamarin.Android
 
-Register the license key in OnCreate override method of ~MainActivity.cs before initializing any Syncfusion control.
+Register the license key in OnCreate override method of **MainActivity.cs** before initializing any Syncfusion control.
 
 {% tabs %}
 {% highlight c# %}
@@ -177,7 +177,7 @@ protected override void OnCreate(Bundle savedInstanceState)
 
 ### Xamarin.iOS
 
-Register the license key in ~FinishedLaunching override method of ~AppDelegate.cs 
+Register the license key in **FinishedLaunching** override method of **AppDelegate.cs**
 
 {% tabs %}
 {% highlight c# %}
