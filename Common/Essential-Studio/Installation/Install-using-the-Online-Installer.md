@@ -66,19 +66,18 @@ The following procedure illustrates how to install Essential Studio Platform Onl
 	
 	I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
 	
-	![](WebInstaller/Step-by-Step-Installation_img10.png)
+	![](WebInstaller/Step-by-Step-Installation_img4.png)
 	
 	N> You can check the Estimated size of the Download and Installation by clicking the **Download Size and Installation Size** link.
 	
-	![](WebInstaller/Step-by-Step-Installation_img13.png)
+	![](WebInstaller/Step-by-Step-Installation_img5.png)
 
 4.  Configuration wizard will be displayed. Here you can change the Install and samples location. Also, you can change the Additional settings for the individual platform. To install using the default configuration, click Next.
 
-    ![](WebInstaller/Step-by-Step-Installation_img4.png)
+    ![](WebInstaller/Step-by-Step-Installation_img6.png)
 	
     I> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location. The default install location will be **{ProgramFilesFolder}\Syncfusion\{Platform}\{version}**. The default samples location will be the **Public Documents** folder. However, you can change the locations by clicking browse button.
 	
-	![](WebInstaller/Step-by-Step-Installation_img4.png)
 
     * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
     * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
@@ -90,13 +89,13 @@ The following procedure illustrates how to install Essential Studio Platform Onl
 
 6. Login wizard will be displayed. You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on **Create an Account**. Else if you forgot your password, click on **Forgot Password** to create new password. Click Install.
 
-    ![](WebInstaller/Step-by-Step-Installation_img8.png)
+    ![](WebInstaller/Step-by-Step-Installation_img7.png)
 
 7. Download and Installation progress will be displayed.
 
-    ![](WebInstaller/Step-by-Step-Installation_img9.png)
+    ![](WebInstaller/Step-by-Step-Installation_img8.png)
 
 8. Once the Installation is complete, **Installation Summary** wizard will be displayed. Here you can check the list of platforms which are installed successfully and failed. Click on the **Getting Started** link to goto the UG documentation of the corresponding platform and **Launch Control Panel** to open the Syncfusion Control Panel. Click Finish to exit the Installation Summary wizard. 
 
-    ![](WebInstaller/Step-by-Step-Installation_img12.png)
+    ![](WebInstaller/Step-by-Step-Installation_img9.png)
 
