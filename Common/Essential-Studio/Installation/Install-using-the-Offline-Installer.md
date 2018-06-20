@@ -13,20 +13,20 @@ documentation: ug
 
 Syncfusion provides separate platform setups for all the Essential Studio platforms. You can download the latest version platforms Installer [here](https://www.syncfusion.com/downloads/latest-version) .
 
+* ASP.NET MVC (Essential JS 2)
+* ASP.NET Core (Essential JS 2)
+* JavaScript (Essential JS 2)
+* Xamarin
+* Windows Forms 
+* WPF
+* Universal Windows Platform
+* FileFormats
 * ASP.NET 
-* ASP.NET Core (Essential JS 1)
 * ASP.NET MVC (Essential JS 1)
+* ASP.NET Core (Essential JS 1)
 * JavaScript (Essential JS 1)
 * JSP
 * PHP
-* Universal Windows Platform
-* Windows Forms 
-* WPF
-* Xamarin
-* FileFormats
-* ASP.NET Core (Essential JS 2)
-* ASP.NET MVC (Essential JS 2)
-* JavaScript (Essential JS 2)
 
 N> From the 2018 Volume 2 release, Syncfusion provides the support for uninstalling the particular platform alone. 
 
@@ -44,28 +44,29 @@ The following procedure illustrates how to install Essential Studio. 
 
    N> The Setup wizard extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
 
-2. From the 2016 Vol 3 release(v14.3.0.49), you are provided with two options to unlock the Syncfusion setup.
+2. You are provided with two options to unlock the Syncfusion setup.
 
    
-   **Login To Install**   
+   * **Login To Install**   
    
-   **Use Unlock Key**
+   * **Use Unlock Key**
    
    N> While installing the Syncfusion setup, by default **Login To Install** screen will be displayed. You can provide the email ID and password registered with Syncfusion for unlocking the Essential Studio setup and your license will be configured. For unlocking the setup with License Key, you can select the **Use Unlock Key** option in the Installer and you will be prompt to enter the license key.
    
    
    **Login To Install**
+   
+   You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
-   ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)
-
-   N> You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
+   ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)   
 
 
    **Use Unlock Key**
+   
+   You should use the Syncfusion License/Trial key. Trial key is valid for 30 days and the installer won't accept the expired trial key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326).
 
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img3.png)
-
-   N> The Unlock key is validated and the Path Selection window opens.
+   
 
 
 3. After reading the License Terms and Conditions, check the **I agree to the License Terms and Conditions** check box.
@@ -76,7 +77,21 @@ The following procedure illustrates how to install Essential Studio. 
 
     ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img4.png)
 	
-	N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location. The default install location will be **{ProgramFilesFolder}\Syncfusion\{Platform}\{version}**. The default samples location will be the **Public Documents** folder.
+	<style>
+#license {
+    font-size: .88em!important;
+margin-top: 1.5em;     margin-bottom: 1.5em;
+    background-color: #def8ff;
+    padding: 10px 17px 14px;
+}
+</style>
+
+<div id="license">
+From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
+	  <li> <b>Default Install location:</b> {ProgramFilesFolder}\Syncfusion\{Platform}\{version} </li>
+	 <li>  <b>Default Samples location:</b> C:\Users\Public\Documents\Syncfusion\{platform}\{version} </li>
+	   However, you can change the locations by clicking browse button.
+</div>
    
 
    * Select the **Install Syncfusion Samples** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
@@ -140,7 +155,7 @@ Follow the steps below to install through Command Line in Silent mode.
 	
 7. Setup is installed.
 
-   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with ASP.NET, ASP.NET MVC, ASP.NET MVC Classic, Silverlight, Windows Forms, Windows Phone, WinRT, WPF, JavaScript, or LightSwitch.
+   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with ASP.NET, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
    
 
 ### Command Line Uninstallation
@@ -170,5 +185,5 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 
 8. Setup is uninstalled.
 
-   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with ASP.NET, ASP.NET MVC, ASP.NET MVC Classic, Silverlight, Windows Forms, Windows Phone, WinRT, WPF, JavaScript, or LightSwitch.
+   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with ASP.NET, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
 

@@ -12,7 +12,7 @@ documentation: ug
 
 ## Overview
 
-Syncfusion started providing the Offline Essential Studio setup only for Licensed customers from 2018 Volume 2 release. You can download the latest version Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
+Syncfusion started providing the Offline Essential Studio setup only for Licensed customers from 2018 Volume 2 release. The Essential Studio Enterprise Edition Installer includes the following platforms. You can download the latest version Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
 
 I> You can install the Essential Studio Installer only using Login.
 
@@ -22,17 +22,15 @@ I> You can install the Essential Studio Installer only using Login.
 * ASP.NET Core
 * JavaScript
 
+**Mobile**
+
+* Xamarin
+
 **Desktop**
 
 * Windows Forms
 * WPF
 * Universal Windows Platform
-
-**Mobile**
-
-* Xamarin
-
-**FileFormats**
 
 **Web (Essential JS 1)**
 
@@ -42,7 +40,6 @@ I> You can install the Essential Studio Installer only using Login.
 * JavaScript
 * PHP
 * JSP
-
  
  
 The following procedure illustrates how to install Essential Studio Offline Installer setup. 
@@ -75,7 +72,21 @@ The following procedure illustrates how to install Essential Studio Offline Inst
 
     ![](Offline-ES/Step-by-Step-Installation_img6.png)
 	
-    I> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location. The default install location will be **{ProgramFilesFolder}\Syncfusion\{Platform}\{version}**. The default samples location will be the **Public Documents** folder. However, you can change the locations by clicking browse button.
+    <style>
+#license {
+    font-size: .88em!important;
+margin-top: 1.5em;     margin-bottom: 1.5em;
+    background-color: #def8ff;
+    padding: 10px 17px 14px;
+}
+</style>
+
+<div id="license">
+From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
+	  <li> <b>Default Install location:</b> {ProgramFilesFolder}\Syncfusion\{Platform}\{version} </li>
+	 <li>  <b>Default Samples location:</b> C:\Users\Public\Documents\Syncfusion\{platform}\{version} </li>
+	   However, you can change the locations by clicking browse button.
+</div>
 	
 	
     * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
