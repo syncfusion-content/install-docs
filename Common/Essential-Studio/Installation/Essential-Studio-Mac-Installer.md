@@ -13,14 +13,15 @@ documentation: ug
 
 Syncfusion provides the Mac installer for the following Essential Studio platforms.
 
-1. ASP.NET Core (Essential JS 1)
-2. JavaScript (Essential JS 1)
-3. Xamarin
-4. PHP
-5. Electron
-6. WebKit HTML Converter
-7. ASP.NET Core (Essential JS 2)
-8. JavaScript (Essential JS 2)
+* ASP.NET Core (Essential JS 2)
+* JavaScript (Essential JS 2)
+* Xamarin
+* ASP.NET Core (Essential JS 1)
+* JavaScript (Essential JS 1)
+* PHP
+* Electron
+* WebKit HTML Converter
+
 
 
 ## Step-by-Step Installation

@@ -12,7 +12,7 @@ documentation: ug
 
 ## Overview
 
-Syncfusion started providing the Online Installer for Essential Studio platforms from 2018 Volume 2 release. This installer reduces the burden of downloading the setup of larger size. You can just download and launch the online installer which will be of smaller size and it will downloads and installs all the Essential Studio packages for the platforms you have selected. The Essential Studio Web Installer includes all of the following platforms. You can download the latest version Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
+Starting with version 16.2 (2018 Vol 2), Syncfusion provides Online Installer for Essential Studio platforms. This installer reduces the burden of downloading the setup of larger size. You can just download and launch the online installer which will be of smaller size and it will downloads and installs the Essential Studio products you have selected. The Essential Studio Web Installer includes the following platforms. You can download the latest version Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
 
 **Web (Essential JS 2)**
 
@@ -20,17 +20,19 @@ Syncfusion started providing the Online Installer for Essential Studio platforms
 * ASP.NET Core
 * JavaScript
 
+**Mobile**
+
+* Xamarin
+
 **Desktop**
 
 * Windows Forms
 * WPF
 * Universal Windows Platform
 
-**Mobile**
-
-* Xamarin
-
 **FileFormats**
+
+* Read and Write Excel, Word, PDF and PowerPoint files
 
 **Web (Essential JS 1)**
 
@@ -64,7 +66,7 @@ The following procedure illustrates how to install Essential Studio Platform Onl
 
     ![](WebInstaller/Step-by-Step-Installation_img3.png)
 	
-	I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
+	I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed. However, you can continue the installation and install the required software later.
 	
 	![](WebInstaller/Step-by-Step-Installation_img4.png)
 	
@@ -72,11 +74,25 @@ The following procedure illustrates how to install Essential Studio Platform Onl
 	
 	![](WebInstaller/Step-by-Step-Installation_img5.png)
 
-4.  Configuration wizard will be displayed. Here you can change the Install and samples location. Also, you can change the Additional settings for the individual platform. To install using the default configuration, click Next.
+4.  Configuration wizard will be displayed. Here you can change the Install and samples location. Also, you can change the Additional settings by platform basis. To install using the default configuration, click Next.
 
     ![](WebInstaller/Step-by-Step-Installation_img6.png)
 	
-    I> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location. The default install location will be **{ProgramFilesFolder}\Syncfusion\{Platform}\{version}**. The default samples location will be the **Public Documents** folder. However, you can change the locations by clicking browse button.
+    <style>
+#license {
+    font-size: .88em!important;
+margin-top: 1.5em;     margin-bottom: 1.5em;
+    background-color: #def8ff;
+    padding: 10px 17px 14px;
+}
+</style>
+
+<div id="license">
+From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
+	  <li> <b>Default Install location:</b> {ProgramFilesFolder}\Syncfusion\{Platform}\{version} </li>
+	 <li>  <b>Default Samples location:</b> C:\Users\Public\Documents\Syncfusion\{platform}\{version} </li>
+	   However, you can change the locations by clicking browse button.
+</div>
 	
 
     * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
@@ -87,15 +103,21 @@ The following procedure illustrates how to install Essential Studio Platform Onl
 
 5.  After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click Next.
 
-6. Login wizard will be displayed. You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on **Create an Account**. Else if you forgot your password, click on **Forgot Password** to create new password. Click Install.
+6. Login wizard will be displayed. You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on **Create an Account**. Else if you forgot your password, click on **Forgot Password** to create new password. Click Install. 
 
     ![](WebInstaller/Step-by-Step-Installation_img7.png)
+	
+	I> The selected platforms will be installed based on your Syncfusion License (Trial or Licensed).
 
 7. Download and Installation progress will be displayed.
 
     ![](WebInstaller/Step-by-Step-Installation_img8.png)
 
-8. Once the Installation is complete, **Installation Summary** wizard will be displayed. Here you can check the list of platforms which are installed successfully and failed. Click on the **Getting Started** link to goto the UG documentation of the corresponding platform and **Launch Control Panel** to open the Syncfusion Control Panel. Click Finish to exit the Installation Summary wizard. 
+8. Once the Installation is complete, **Installation Summary** wizard will be displayed. Here you can check the list of platforms which are installed successfully and failed. Click Finish to exit the Installation Summary wizard. 
 
     ![](WebInstaller/Step-by-Step-Installation_img9.png)
+	
+	* Click **Getting Started** link to goto the UG documentation of the corresponding platform.
+	
+	* Click **Launch Control Panel** to open the Syncfusion Control Panel.
 
