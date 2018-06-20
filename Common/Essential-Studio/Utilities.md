@@ -531,29 +531,24 @@ When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Fram
 
 ### Launching MultiTarget Manager 
 
-1. Open the Syncfusion Control Panel.
-
-2. Click Utilities > Multi-Target Manager.
+1. Open the Multi-Target Manager from below location
 
 
-   ![](Utilities_images/Multi-Target-Manager_img2.png)
-
-    N> You can also open the Multi-Target Manager from the following location:
    **Location:**{Installed location}\Syncfusion\Essential Studio\{platform}\x.x.x.x\Utilities\MultiTargetManager\MultiTargetManager.exe
 
-3. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
+2. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
 
    ![](Utilities_images/Multi-Target-Manager_img4.png)
 
-4. Select the required version from the drop-down list. The Multi-Target Manager dialog box opens.
+3. Select the required version from the drop-down list. The Multi-Target Manager dialog box opens.
 
    ![](Utilities_images/Multi-Target-Manager_img5.png)
 
-5. Click OK.
+4. Click OK.
 
-6. Open an application.
+5. Open an application.
 
-7. Refresh the application before building.
+6. Refresh the application before building.
 
     N> The target value and the registry value change according to the selected Framework version.
    
