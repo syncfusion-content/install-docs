@@ -51,14 +51,15 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 <div id="license">
 Visual Studio Help Viewer Compatible is available for the following platforms
-	  <li><ul> <b>ASP.NET</b> </ul></li>
-	  <li><ul> <b>ASP.NET MVC</b> </ul></li>
-	  <li><ul> <b>Windows Forms</b> </ul></li>
-	  <li><ul> <b>WPF</b> </ul></li>
-	  <li><ul> <b>ASP.NET Core</b> </ul></li>
-	  <li><ul> <b>UWP</b> </ul></li>
-	  <li><ul> <b>Xamarin</b> </ul></li>
+	  <li><ul> <b>ASP.NET</b> </ul>
+	  <ul> <b>ASP.NET MVC</b> </ul>
+	  <ul> <b>Windows Forms</b> </ul>>
+	  <ul> <b>WPF</b> </ul>
+	  <ul> <b>ASP.NET Core</b> </ul>
+	  <ul> <b>UWP</b> </ul>
+	  <ul> <b>Xamarin</b> </ul></li>
 </div>
+
 * **View On Web**  - You can view the API reference for the corresponding platform online.
 
 I> For accessing the API Reference offline, you need to install the **Help Viewer** setup for the corresponding version Visual Studio.
