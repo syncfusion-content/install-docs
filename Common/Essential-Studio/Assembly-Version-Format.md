@@ -41,6 +41,7 @@ NA</td><td>
 13.4450.0.x</td><td>
 13.4451.0.x</td><td>
 13.4460.0.x</td></tr>
+<tr>
 <td>
 ASP.NET (Classic)</td><td>
 NA</td><td>
@@ -58,6 +59,7 @@ MVC 3 - 13.4300.0.xMVC 4 - 12.4400.0.x</td><td>
 MVC 5 - 13.4500.0.x</td><td>
 NA</td><td>
 MVC 6 - 13.4600.0.x</td></tr>
+<tr>
 <td>
 WPF</td><td>
 NA</td><td>
@@ -66,14 +68,6 @@ NA</td><td>
 13.4450.0.X</td><td>
 13.4451.0.X</td><td>
 13.4460.0.x</td></tr>
-<td>
-Universal</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-13.4451.0.x</td><td>
-NA</td></tr>
 <tr>
 <td>
 Universal Windows Platform</td><td>
