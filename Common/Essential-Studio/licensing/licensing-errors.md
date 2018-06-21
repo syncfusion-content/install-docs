@@ -35,7 +35,7 @@ The following error message will be shown if the trial key has expired after 30 
 
 **Error Message:** Your Syncfusion trial license has expired. Please refer to this help topic(https://help.syncfusion.com/es/licensing/) for more information.
 
-**Solution:** Purchase from [here](https://www.syncfusion.com/sales/products] to get a valid Syncfusion license.  
+**Solution:** Purchase from [here](https://www.syncfusion.com/sales/products) to get a valid Syncfusion license.  
 
 ## Could not load Syncfusion.Licensing.dll assembly version...?
 Make sure that all the referenced Syncfusion assembles are of the same version. Try cleaning and rebuilding the application to resolve assembly conflict issues.
