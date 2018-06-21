@@ -12,14 +12,6 @@ documentation: ug
 
 ## Overview
 
-<style>
-#license {
-    font-size: .88em!important;
-margin-top: 1.5em;     margin-bottom: 1.5em;
-    background-color: #def8ff;
-    padding: 10px 17px 14px;
-}
-</style>
 
 Syncfusion provides Source Code Add On setup in which you can modify the Syncfusion source and customized assemblies. Source License is required for downloading and installing the Source Code Add-on setup.
 
@@ -52,11 +44,11 @@ The following steps show how you can install the Essential Studio Source Code A
 
    ![](Source-code_images/Step-by-Step-Installation_img5.png)
 
-<div id="license">
-By default, Source Code Add On will be installed in below location.
-<li> <b>Location:</b> {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}</li>
-You can change the install location by clicking the Browse button.
-</div>
+
+   N> By default, Source Code Add On will be installed in below location.
+      **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}
+      You can change the install location by clicking the Browse button.
+
 
 
 5. Click Install. 
@@ -92,9 +84,9 @@ The following steps help you launch the Build Manager. 
 
    ![](Utilities_images/Build-Manager_img2.png)
    
-<div id="license">
-You can launch the Build Manager from {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
-</div>
+
+   N> You can launch the Build Manager from {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
+
 
 3. Select the required setting in the Syncfusion Build Manager x.x.x.x window.
 
