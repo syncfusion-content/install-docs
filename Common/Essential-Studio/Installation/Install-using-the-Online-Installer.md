@@ -78,27 +78,18 @@ The following procedure illustrates how to install Essential Studio Platform Onl
 
     ![](WebInstaller/Step-by-Step-Installation_img6.png)
 	
-    <style>
-#license {
-    font-size: .88em!important;
-margin-top: 1.5em;     margin-bottom: 1.5em;
-    background-color: #def8ff;
-    padding: 10px 17px 14px;
-}
-</style>
-
-<div id="license">
-From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
-	  <li> <b>Default Install location:</b> {ProgramFilesFolder}\Syncfusion\{Platform}\{version} </li>
-	 <li>  <b>Default Samples location:</b> C:\Users\Public\Documents\Syncfusion\{platform}\{version} </li>
+ 
+    N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
+	   **Default Install location:** {ProgramFilesFolder}\Syncfusion\{Platform}\{version}
+	   **Default Samples location:** C:\Users\Public\Documents\Syncfusion\{platform}\{version}
 	   However, you can change the locations by clicking browse button.
-</div>
+
 	
 
-* Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
-* Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
-* Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
-* Select the **Configure Extensions controls in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
+    * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
+    * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
+    * Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
+    * Select the **Configure Extensions controls in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
 
 
 5.  After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click Next.
