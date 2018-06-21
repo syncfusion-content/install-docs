@@ -43,15 +43,6 @@ NA</td><td>
 13.4460.0.x</td></tr>
 <tr>
 <td>
-ASP.NET (Classic)</td><td>
-NA</td><td>
-NA</td><td>
-13.4400.0.x</td><td>
-13.4450.0.x</td><td>
-13.4451.0.x</td><td>
-NA</td></tr>
-<tr>
-<td>
 ASP.NET MVC</td><td>
 NA</td><td>
 NA</td><td>

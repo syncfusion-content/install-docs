@@ -50,16 +50,13 @@ The following steps show how you can install the Essential Studio Source Code A
 
 4. Click Next. The Source Code Add On installation location will be displayed
 
-<div id="license">
-<li>By default, Source Code Add On will be installed in below location.<li>
-<li> <b>Location:</b> {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}<li>
-<li>You can change the install location by clicking the Browse button.<li>
-</div>
-
-
    ![](Source-code_images/Step-by-Step-Installation_img5.png)
 
-
+<div id="license">
+By default, Source Code Add On will be installed in below location.
+<li> <b>Location:</b> {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}</li>
+You can change the install location by clicking the Browse button.
+</div>
 
 
 5. Click Install. 
@@ -93,11 +90,11 @@ The following steps help you launch the Build Manager. 
 
 2. The Syncfusion Build Manager x.x.x.x window opens.
 
+   ![](Utilities_images/Build-Manager_img2.png)
+   
 <div id="license">
 You can launch the Build Manager from {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
 </div>
-
-   ![](Utilities_images/Build-Manager_img2.png)
 
 3. Select the required setting in the Syncfusion Build Manager x.x.x.x window.
 
