@@ -11,21 +11,56 @@ documentation: ug
 
 ## Unlocked licensed setup with Trial key?
 
-If you tried to unlock the Licensed setup with Trial key, the following error message will be displayed. Licensed setup can be unlocked only by License key. So, use the License key to unlock the Licensed setup.
+### Problem
+
+**Error Message:** Sorry, the provided unlock key is a trial key and cannot be used to unlock the licensed version of our Essential Studio for {platform} setup
 
 ![](Errors/Installation_Errors_img1.png)
 
-## Licensed Expired?
+### Reason
 
-If your license has been expired, you will get the following error message. You should renew the subscription [here](https://www.syncfusion.com/sales/products) or contact the [sales team](salessupport@syncfusion.com). Also, you will be prompt to use 30 days trial after your license has been expired.
+If you unlocked the Licensed setup with Trial key, this error message will be shown.
+
+### Suggested solution
+
+Licensed setup can be unlocked only by License key. So, use the License key to unlock the Licensed setup. Refer [this](http://syncfusion.com/kb/2326) topic to generate the license key.
+
+
+## Licensed Expired! What to do?
+
+### Problem
+
+**Error Message:** Your license for Syncfusion Essential Studio for {platform} has been expired since {date}. Please renew your subscription and try again
 
 ![](Errors/Installation_Errors_img2.png)
 
+### Reason
+
+This error message will be shown when your license has been expired.
+
+### Suggested solution.
+
+Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact the [sales team](salessupport@syncfusion.com). Also, you can continue the 30 days trial after your license has been expired.
+
+
 ## Not a Valid license holder?
 
-If you are not a valid license holder, the following error message will be shown. You should renew the subscription [here](https://www.syncfusion.com/sales/products) or contact the [sales team](salessupport@syncfusion.com).
+### Problem
+
+**Error Message:** Sorry, we were unable to find a valid license for Essential Studio for {platform} under your account.
 
 ![](Errors/Installation_Errors_img3.png)
+
+### Reason
+
+The possible reasons for this error are:
+
+* **When your trial expired**
+* **When you don't have License or trial
+
+### Suggested solution.
+
+Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact the [sales team](salessupport@syncfusion.com).
 
 
 
