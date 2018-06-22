@@ -28,3 +28,14 @@ For example, you can install WPF (Licensed) setup and Windows (Trial) setup in s
 </div>
 
 If you install Licensed and Trial setup in the same machine, assemblies will conflict as both Licensed and Trial assemblies will be present in GAC. This will leads to licensing issues while development. To avoid this chaos, run the [Assembly Manager](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) for the licensed setup after installing both Licensed and Trial setup.
+
+<div id="license">
+Assemblies will conflict for the below platforms.
+	  <li><b>ASP.NET</b> </li>
+	  <li><b>ASP.NET MVC</b> </li>
+	  <li><b>Windows Forms</b> </li>
+	  <li><b>WPF</b> </li>
+	  <li><b>File Formats</b> </li>
+	  <li><b>JavaScript</b> </li>
+	  
+</div>
