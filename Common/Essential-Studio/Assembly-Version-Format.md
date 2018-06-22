@@ -9,7 +9,7 @@ documentation: ug
 
 # Assembly Version Format
 
-The assembly version format differs for each platform. Refer the following table for the assembly version’s format.
+The assembly version format differs for each platform. Refer the following table for the assembly version’s format for ASP.NET, ASP.NET MVC, WPF, Windows Forms, UWP and Xamarin platforms.
 
 
 
@@ -77,4 +77,21 @@ NA</td><td>
 NA</td><td>
 13.4451.0.x</td><td>
 NA</td></tr>
+</table>
+
+**For ASP.NET Core:**
+
+<table>
+<tr>
+<td>
+Platforms</td><td>
+netstandard 1.2</td><td>
+netstandard 1.4</td><td>
+netstandard 2.0</td></tr>
+<tr>
+<td>
+ASP.NET Core</td><td>
+16.2120.0.x</td><td>
+16.2140.0.x</td><td>
+16.2200.0.x</td></tr>
 </table>

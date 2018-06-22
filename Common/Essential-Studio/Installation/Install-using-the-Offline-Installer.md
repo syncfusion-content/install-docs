@@ -123,14 +123,6 @@ Follow the steps below to install through Command Line in Silent mode.
 5. Cancel the Wizard.
 6. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version:
 
-   **Essential Studio version from 11.1 to 13.1**
-
-   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}] 
-
-   N> [..] – Arguments inside the square brackets are optional.
-
-   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe” Install /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x 
-
    **Essential Studio version 13.2 and later**
 
    **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
@@ -140,6 +132,15 @@ Follow the steps below to install through Command Line in Silent mode.
 
    **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true
 
+   **Essential Studio version from 11.1 to 13.1**
+
+   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}] 
+
+   N> [..] – Arguments inside the square brackets are optional.
+
+   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe” Install /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x 
+
+   
 
    N> We have provided Advanced Options in silent installation from 13.2.0.x.
 
@@ -161,19 +162,19 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
 6. Cancel the Wizard.
 7. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version: 
 
+   **Essential Studio version 13.2 and later**
+
+   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall silent 
+
+   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe" /uninstall silent
+   
    **Essential Studio version from 11.1 to 13.1**
 
    **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall true 
 
    **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe" /uninstall true
     
-   **Essential Studio version 13.2 and later**
-
-   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall silent 
-
-   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe" /uninstall silent
-
-
+   
 8. Setup is uninstalled.
 
    N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with ASP.NET, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
