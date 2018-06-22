@@ -19,7 +19,12 @@ You can install both Licensed and Trial setup side by side for different Essenti
 * WPF
 * File Formats  
 
-{screen shot}
+**Online Installer**
+
+
+**Offline Installer**
+
+
 
 ### Problem
 

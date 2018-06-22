@@ -11,11 +11,11 @@ documentation: ug
 
 This article lists the common Installation errors, reasons and solution for those errors.
 
-* [Unlocked licensed setup with Trial key?](http://172.16.0.76/common/essential-studio/installation/installation-errors#unlocked-licensed-setup-with-trial-key)
+* [Couldn't unlock Licensed setup with Trial key?](http://172.16.0.76/common/essential-studio/installation/installation-errors#couldn't-unlock-licensed-setup-with-trial-key)
 * [Licensed Expired! What to do?](http://172.16.0.76/common/essential-studio/installation/installation-errors#licensed-expired-what-to-do)
 * [Not a Valid license holder?](http://172.16.0.76/common/essential-studio/installation/installation-errors#not-a-valid-license-holder)
 
-### Unlocked licensed setup with Trial key?
+### Couldn't unlock Licensed setup with Trial key?
 
 #### Problem
 
@@ -38,6 +38,8 @@ Licensed setup can be unlocked only by License key. So, use the License key to u
 
 **Error Message:** Your license for Syncfusion Essential Studio for {platform} has been expired since {date}. Please renew your subscription and try again
 
+**Online Installer**
+
 ![](Errors/Installation_Errors_img2.png)
 
 #### Reason
@@ -46,7 +48,7 @@ This error message will be shown when your license has been expired.
 
 #### Suggested solution.
 
-Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact the [sales team](salessupport@syncfusion.com). Also, you can continue the 30 days trial after your license has been expired.
+Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>. Also, you can continue the 30 days trial after your license has been expired.
 
 
 ### Not a Valid license holder?
@@ -66,7 +68,7 @@ The possible reasons for this error are:
 
 #### Suggested solution.
 
-Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact the [sales team](salessupport@syncfusion.com).
+Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>.
 
 
 
