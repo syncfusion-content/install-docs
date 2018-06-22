@@ -40,6 +40,26 @@ API Reference can be accessed from the Syncfusion Control Panel > Documentation
 You can access the API reference documentation in any of the below two ways.
 
 * **Visual Studio Help Viewer Compatible** - You can download the API reference setup and install it in Offline.
+<style>
+#license {
+    font-size: .88em!important;
+margin-top: 1.5em;     margin-bottom: 1.5em;
+    background-color: #def8ff;
+    padding: 10px 17px 14px;
+}
+</style>
+
+<div id="license">
+Visual Studio Help Viewer Compatible is available for the following platforms
+	  <li><b>ASP.NET</b> </li>
+	  <li><b>ASP.NET MVC</b> </li>
+	  <li><b>Windows Forms</b> </li>
+	  <li><b>WPF</b> </li>
+	  <li><b>ASP.NET Core</b> </li>
+	  <li><b>UWP</b> </li>
+	  <li><b>Xamarin</b> </li>	  
+</div>
+
 * **View On Web**  - You can view the API reference for the corresponding platform online.
 
 I> For accessing the API Reference offline, you need to install the **Help Viewer** setup for the corresponding version Visual Studio.

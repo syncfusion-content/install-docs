@@ -14,6 +14,19 @@ documentation: ug
 
 This section provides details on the structure and composition of the Syncfusion Control Panel. It also elaborates on navigating the Syncfusion Control Panel to access various utilities, add ons and product samples.
 
+<style>
+#license {
+    font-size: .88em!important;
+margin-top: 1.5em;     margin-bottom: 1.5em;
+    background-color: #def8ff;
+    padding: 10px 17px 14px;
+}
+</style>
+
+<div id="license">
+From the 2018 Volume 2 release, each Essential Studio platform has separate Syncfusion Control Panel. You can launch the Syncfusion Control Panel either from <b>Desktop Shortcut</b> or <b>Start Menu->Syncfusion Control Panel {version}</b>
+</div>
+
 ![](Utilities_images/Dashboard_img1.png)
 
 
@@ -37,7 +50,7 @@ Syncfusion provides lots of online and local samples for better understanding of
    * **Read Me** - To view the “Read Me” content.
    * **What’s New** - To view the “What’s New” content.
 
-    N> You can explore source only when you have source license and have installed the Source Add-on Setup.
+    
 
 ### Checking Prerequisites
 
@@ -77,7 +90,7 @@ This section allows you to access the following. 
 
 Other information available in the Syncfusion Control Panel includes:
 
-* Messages- This section allows you to view the user registration information, like whether the user is registered or not.
+* Messages- This section allows you to view the License information, like whether the user is Licensed or Trial. Syncfusion Trial expires in 30 days.
 
   ![](Utilities_images/Dashboard_img15.png)
 
@@ -103,18 +116,18 @@ Use the following steps to run the Assembly Manager.
 
 3. The Syncfusion {platform} Assembly Manager x.x.x.x window opens.
 
-   N> You can also open the Assembly Manager from {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Utilities\Assembly Manager\AssemblyManagerWindows.exe
+<div id="license">
+You can also open the Assembly Manager from {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Utilities\Assembly Manager\AssemblyManagerWindows.exe
+</div>
+
 
    ![](Utilities_images/Assembly-Manager_img3.png)
 
 4. Select the required option from Select Assembly Type.
 
-   * **Pre-built Assemblies** - These are the assemblies shipped with Essential Studio. Selecting this mode triggers the Assembly Manager to install the pre-built assemblies. 
+   * **Pre-built Assemblies** - These are the assemblies shipped with Essential Studio. Selecting this mode triggers the Assembly Manager to install the pre-built assemblies.    
 
-   * **Debug and Release Assemblies** - This mode triggers the Assembly Manager to install custom versions, built from the source code, using Build Manager. These assemblies can be used only when the source code for at least one of the Essential Studio products has been installed. This triggers the Assembly Manager to install custom versions built from source code, installed on your machine. Applies only to versions of the product that come with the source code.
-
-    N> The Build Manager application must be run to build, debug or release versions of the assemblies before the Assembly Manager can install the custom built assemblies.
-
+    
 5. Select the required option for the Action sections.
 
    **Action**
@@ -150,17 +163,6 @@ Use the following steps to run the Assembly Manager.
 9. Click OK.
 
    ![](Utilities_images/Assembly-Manager_img9.png)
-
-
-N> In earlier versions, the Assembly Manager also served as Build Manager to build custom versions of the Syncfusion assemblies. Now, this function has been moved to a separate BuildManager utility. Installation of assemblies to the Visual Studio.NET toolbox is now handled by a separate utility called the ToolboxInstaller. The new Assembly Manager just handles installation of assemblies to the GAC and the assemblies’ folder; the Assemblies folder is applicable only when Visual Studio.NET is installed.
-
-In previous versions, the Assembly Manager allowed switching to any version of the Syncfusion assemblies, installed on the system. This causes compatibility issues and also restricts the overall structure of the utility. To switch to another version from the current version, you must run the Assembly Manager of the respective version.It is preferable to have the Assembly Manager do a Remove All operation before it installs the latest assemblies. 
-
-The console version of the Assembly Manager runs at the end of the installation process, to add the default, pre-built version of the Syncfusion assemblies to the Global Assembly Cache (GAC) and the Visual Studio .NET Public Assemblies folders. The need to run the Assembly Manager arises, only when changes have been made to the GAC, or when custom versions have been built for controls for debugging purposes.
-
-N> The version number in the tags have to be changed to the version you are linking it to.
-
-
 
 
 ### Assembly Manager Console usage
@@ -219,141 +221,6 @@ Essential Studio ships the pre-built 2.0, 3.5, 4.0, 4.5, 4.5.1 and 4.6 .NET Fram
 When you work with multiple target environments, you can see that each appropriate version is installed in the GAC, for side-by-side usage.
 
 Working with Syncfusion assemblies that have been built and tested with specific .NET Framework versions, greatly increases the overall reliability. It also allows Syncfusion controls to take advantage of features that may be available in specific environments. For instance .NET 2.0 variants of the control offer features specific to the .NET 2.0 environment.
-
-###  Assembly Version Format
-
-The assembly version format differs for each platform. Refer the following table for the assembly version’s format.
-
-
-
-<table>
-<tr>
-<td>
-Platforms/Frameworks</td><td>
-2.0</td><td>
-3.5</td><td>
-4.0</td><td>
-4.5</td><td>
-4.5.1</td><td>
-4.6</td></tr>
-<tr>
-<td>
-Windows Forms</td><td>
-13.4200.0.x</td><td>
-13.4350.0.x</td><td>
-13.4400.0.x</td><td>
-13.4450.0.x</td><td>
-13.4451.0.x</td><td>
-13.4460.0.x</td></tr>
-<tr>
-<td>
-ASP.NET</td><td>
-NA</td><td>
-13.4350.0.x</td><td>
-13.4400.0.x</td><td>
-13.4450.0.x</td><td>
-13.4451.0.x</td><td>
-13.4460.0.x</td></tr>
-<tr>
-<td>
-ASP.NET (Classic)</td><td>
-NA</td><td>
-NA</td><td>
-13.4400.0.x</td><td>
-13.4450.0.x</td><td>
-13.4451.0.x</td><td>
-NA</td></tr>
-<tr>
-<td>
-ASP.NET MVC</td><td>
-NA</td><td>
-NA</td><td>
-MVC 3 - 13.4300.0.xMVC 4 - 12.4400.0.x</td><td>
-MVC 5 - 13.4500.0.x</td><td>
-NA</td><td>
-MVC 6 - 13.4600.0.x</td></tr>
-<tr>
-<td>
-ASP.NET MVC (Classic)</td><td>
-NA</td><td>
-NA</td><td>
-MVC 3 - 13.4300.0.xMVC 4 - 12.4400.0.x</td><td>
-MVC 5 - 13.4500.0.x</td><td>
-NA</td><td>
-NA</td></tr>
-<tr>
-<td>
-Mobile MVC (Removed from v12.1.0.43)</td><td>
-NA</td><td>
-NA</td><td>
-MVC 3 - 11.4300.0.xMVC 4 - 11.4400.0.x</td><td>
-MVC 5 - 11.4500.0.x</td><td>
-NA</td><td>
-NA</td></tr>
-<tr>
-<td>
-WPF</td><td>
-NA</td><td>
-13.4350.0.x</td><td>
-13.4400.0.X</td><td>
-13.4450.0.X</td><td>
-13.4451.0.X</td><td>
-13.4460.0.x</td></tr>
-<tr>
-<td>
-Silverlight</td><td>
-NA</td><td>
-NA</td><td>
-SL4 - 13.4400.0.xSL5 - 13.4500.0.x</td><td>
-NA</td><td>
-NA</td><td>
-NA</td></tr>
-<tr>
-<td>
-Windows Phone</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-WP8 – 13.4800.0.x</td><td>
-13.4810.0.x</td><td>
-NA</td></tr>
-<tr>
-<td>
-WinRT</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-Windows 8.0 – 13.x800.0.x</td><td>
-Windows 8.1 – 13.4810.0.x</td><td>
-NA</td></tr>
-<tr>
-<td>
-Universal</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-13.4451.0.x</td><td>
-NA</td></tr>
-<tr>
-<td>
-Universal Windows Platform</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-13.4460.0.x</td></tr>
-<tr>
-<td>
-Xamarin</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-13.4451.0.x</td><td>
-NA</td></tr>
-</table>
 
 
 ## Build Manager
@@ -482,6 +349,8 @@ You can copy the product key from the License Manager window to the clipboard. T
 
 The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual Studio .NET toolbox.
 
+I> From the 2018 Volume 2 release, Syncfusion has started provided Toolbox support for Xamarin platform.
+
 N> Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
 
 ### Configuring Toolbox 
@@ -531,29 +400,25 @@ When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Fram
 
 ### Launching MultiTarget Manager 
 
-1. Open the Syncfusion Control Panel.
+1. Open the Multi-Target Manager from below location
 
-2. Click Utilities > Multi-Target Manager.
+   <div id="license">
+   <b>Location:</b>{Installed location}\Syncfusion\Essential Studio\{platform}\x.x.x.x\Utilities\MultiTargetManager\MultiTargetManager.exe
+   </div>
 
-
-   ![](Utilities_images/Multi-Target-Manager_img2.png)
-
-    N> You can also open the Multi-Target Manager from the following location:
-   **Location:**{Installed location}\Syncfusion\Essential Studio\{platform}\x.x.x.x\Utilities\MultiTargetManager\MultiTargetManager.exe
-
-3. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
+2. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
 
    ![](Utilities_images/Multi-Target-Manager_img4.png)
 
-4. Select the required version from the drop-down list. The Multi-Target Manager dialog box opens.
+3. Select the required version from the drop-down list. The Multi-Target Manager dialog box opens.
 
    ![](Utilities_images/Multi-Target-Manager_img5.png)
 
-5. Click OK.
+4. Click OK.
 
-6. Open an application.
+5. Open an application.
 
-7. Refresh the application before building.
+6. Refresh the application before building.
 
     N> The target value and the registry value change according to the selected Framework version.
    
@@ -572,7 +437,9 @@ The following steps illustrate how to migrate a project.
 
 1. Open the Project Migration Tool from the following location.
 
-   **Location:** {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Utilities\Project Migration\ProjectMigrationWindows.exe.
+   <div id="license">
+   <b>Location:</b> {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Utilities\Project Migration\ProjectMigrationWindows.exe.
+   </div>
 
    ![](Utilities_images/Project-Migration_img1.png)
 
@@ -608,24 +475,24 @@ The following steps illustrate how to run the Project Migration tool through com
 
 1. Open the Command Prompt in administrator mode and navigate to the following location.
 
-   **Location:** {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{version}\Utilities\Project Migration\
+   <div id="license">
+   <b>Location:</b> {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{version}\Utilities\Project Migration\
 
-   **Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\{Platform}\16.1.0.24\Utilities\Project Migration\
+   <b>Example:</b> C:\Program Files (x86)\Syncfusion\Essential Studio\{Platform}\16.1.0.24\Utilities\Project Migration\
+   </div>
 
 
 2. Run “ProjectMigrationConsole.exe” with the following arguments.
 
-   **Arguments:** /source:"sourcepath" /studio:"Essential Studio version" /framework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /targetframework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /backup:"Backupfolderpath" /hintpath:"[False] / [True]" /sourcefolder:"sourcefolderpath" /isfolderbackedup:"[False] / [True]"
+   <div id="license">
+   <b>Arguments:</b> /source:"sourcepath" /studio:"Essential Studio version" /framework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /targetframework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /backup:"Backupfolderpath" /hintpath:"[False] / [True]" /sourcefolder:"sourcefolderpath" /isfolderbackedup:"[False] / [True]"
 
-   **Example:** /source:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1\SyncfusionWindowsFormsApplication1" /studio:"16.1.0.24" /framework:"v4.6" /targetframework:"v4.7" /backup:"C:\Syncfusion\backup\SyncfusionWindowsFormsApplication1_2018_02_27_022449\SyncfusionWindowsFormsApplication1" /hintpath:"False" /sourcefolder:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1" /isfolderbackedup:"False"
+   <b>Example:</b> /source:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1\SyncfusionWindowsFormsApplication1" /studio:"16.1.0.24" /framework:"v4.6" /targetframework:"v4.7" /backup:"C:\Syncfusion\backup\SyncfusionWindowsFormsApplication1_2018_02_27_022449\SyncfusionWindowsFormsApplication1" /hintpath:"False" /sourcefolder:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1" /isfolderbackedup:"False"
+   </div>
 
 The following screenshot illustrates this.
 
 ![cid:image003.png@01CEB5A3.33923680](Utilities_images/Command-Line_img1.png)
-
-## Project Templates
-
-Syncfusion provides Project Templates for the ASP.NET MVC platform to automatically refer the necessary reference and resource files in an application. However, this is not applicable to other platforms. In the other platforms, such as Windows Forms, WPF, Silverlight, and ASP.NET, the Syncfusion controls are automatically configured in the Microsoft Visual Studio Toolbox after the setup has been installed, and the controls can be used in the application by simply dragging them from the toolbox.
 
 ## VSIX Installer
 
@@ -635,9 +502,11 @@ The following steps illustrate how to configure Syncfusion extensions in Visual 
 
 1. Open the SyncfusionVSIXInstallerWindows.exe from the following location.
 
-    **Location:** {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{Platform}\{version}\Utilities\Extensions\VISX Installer\
+    <div id="license">
+    <b>Location:</b> {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{Platform}\{version}\Utilities\Extensions\VISX Installer\
 	
-	**Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\WPF\15.2.0.40\Utilities\Extensions\VSIX Installer
+	<b>Example:</b> C:\Program Files (x86)\Syncfusion\Essential Studio\WPF\15.2.0.40\Utilities\Extensions\VSIX Installer
+	</div>
 	
    ![](Utilities_images/VSIXInstaller_img1.png)	
    
