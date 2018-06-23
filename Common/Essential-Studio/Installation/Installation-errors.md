@@ -63,8 +63,8 @@ Renew the subscription [here](https://www.syncfusion.com/sales/products) or cont
 
 The possible reasons for this error are:
 
-* **When your trial expired**
-* **When you don't have License or trial**
+* When your trial expired
+* When you don't have License or trial
 
 #### Suggested solution.
 
