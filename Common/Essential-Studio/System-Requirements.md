@@ -295,7 +295,7 @@ The following topic describes the system requirements required by Syncfusion ASP
 * .NET Framework 3.5/4.0/4.5/4.5.1/4.6
 
 
-## ASP.NET MVC
+## ASP.NET MVC (Essential JS1)
 
 The following topic describes the system requirements required by Syncfusion ASP.NET MVC platform.
 
@@ -319,7 +319,7 @@ The following topic describes the system requirements required by Syncfusion ASP
 * .NET Framework 3.5/4.0/4.5/4.5.1/4.6
 * MVC Version: MVC3/MVC4/MVC5
 
-## ASP.NET Core
+## ASP.NET Core (Essential JS1)
 
 The following topic describes the system requirements required by Syncfusion ASP.NET Core platform.
 
@@ -351,7 +351,7 @@ The following topic describes the system requirements required by Syncfusion ASP
 * Visual Studio Code (optional text-editor)
 * SQL Server 2008 Express (optional)
 
-## JavaScript
+## JavaScript (Essential JS1)
 
 The following topic describes the system requirements required by Syncfusion JavaScript platform.
 
