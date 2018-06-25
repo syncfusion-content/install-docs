@@ -12,7 +12,7 @@ documentation: ug
 
 ## Overview
 
-Starting with version 16.2 (2018 Vol 2), Syncfusion provides Online Installer for Essential Studio platforms. This installer reduces the burden of downloading the setup of larger size. You can just download and launch the online installer which will be of smaller size and it will downloads and installs the Essential Studio products you have selected. The Essential Studio Web Installer includes the following platforms. You can download the latest version Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
+Starting with version 16.2 (2018 Vol 2), Syncfusion provides Web Installer for Essential Studio platforms. This installer reduces the burden of downloading the setup of larger size. You can just download and launch the online installer which will be of smaller size and it will downloads and installs the Essential Studio products you have selected. The Essential Studio Web Installer includes the following platforms. You can download the latest version Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
 
 **Web (Essential JS 2)**
 
