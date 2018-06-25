@@ -13,7 +13,7 @@ We have introduced a new licensing system starting with version 16.2.0.x release
 
 ## How to generate Syncfusion license key
 
-License keys can be generated from the License & Downloads section of the Syncfusion website. 
+License keys can be generated from the [License & Downloads](https://syncfusion.com/account/downloads) section of the Syncfusion website. 
 
 ![](licensing-images/generate-license.png)
 
@@ -209,5 +209,5 @@ If you have directly obtained Syncfusion assemblies from NuGet.org and do not ha
 
 * Register for a free Syncfusion account [here](https://www.syncfusion.com/account/register)
 * Go to the start trials [page](https://syncfusion.com/account/manage-trials/start-trials) and start a trial
-* Finally proceed to the [License & Downloads](https://syncfusion.com/account/downloads) section to obtain the license key
+* Finally proceed to the [Trail & Downloads section] (https://www.syncfusion.com/account/manage-trials/downloads) to obtain the license key
 
