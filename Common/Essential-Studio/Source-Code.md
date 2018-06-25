@@ -13,7 +13,7 @@ documentation: ug
 ## Overview
 
 
-Syncfusion provides Source Code Add On setup in which you can modify the Syncfusion source and customized assemblies. Source License is required for downloading and installing the Source Code Add-on setup.
+Syncfusion provides Source Code Add On setup in which you can modify the Syncfusion source and make use of the customized assemblies. All the Essential Studio sources will be packed in this setup and you can easily build the customized source. Source License is required for downloading and installing the Source Code Add-on setup.
 
 ## Step-by-Step Installation
 
