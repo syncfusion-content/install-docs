@@ -16,6 +16,6 @@ Welcome to the Syncfusion Essential Studio product documentation. The following 
 Essential Studio User Guide
 {:.caption}
 
-Essential Studio consists of several .NET libraries that provide support for building modern Windows Forms, WPF, ASP.NET, ASP.NET(Classic), ASP.NET Core, PHP, JSP, ASP.NET MVC, ASP.NET MVC (Classic), JavaScript, FileFormats, Universal Windows Platform and Xamarin applications. The packages can be used in any .NET environment, including C#, VB.NET, and managed C++. It also consists of iOS and Android that have the Xcode Framework library and Jars respectively. 
+Syncfusion Essential Studio is a .NET based product which offers 800+ controls and frameworks which can be used in Visual Studio for developing stunning applications. Essential Studio consists of several .NET libraries that provide support for building modern Windows Forms, WPF, ASP.NET, ASP.NET Core, PHP, JSP, ASP.NET MVC, JavaScript, File Formats, Universal Windows Platform and Xamarin applications. The packages can be used in any .NET environment including C#, VB.NET, and managed C++.
 
  N> The Express Editions of Visual Studio .NET do not have support for toolbox.

@@ -156,44 +156,8 @@ Syncfusion WebKit Installer supports uninstalling the setup through Command Line
 
 8. Setup is uninstalled.
     
-	N> * x.x.x.x need to be replaced with the WebKit version installed in your machine.* Above steps applicable from the version 13.2.0.x.
-	
-## WPF Theme Studio
+	N> * x.x.x.x need to be replaced with the WebKit version installed in your machine.* Above steps applicable from the version 13.2.0.x.	
 
-The Theme Studio is a desktop-based, intuitive UI customization tool for easy customization of skins and themes for the Syncfusion control suite.
-
-### Step-by-Step Installation
-
-The following are the steps to install the WebKit Setup.
-
-1. Double-click the Syncfusion WPF Theme Studio Installer Setup file. The Setup Wizard opens and extracts the package automatically. 
-
-   ![](Add-on_images/Theme-Studio-Setup_img1.png)
-
-   
-
-   N> You need to install corresponding version WPF platform setup before installing WPF Theme Studio setup. Also, no key is required for Syncfusion WPF Theme Studio.
-
-2. Once the unzip operation is complete, License Agreement screen opens.
-
-   ![](Add-on_images/Theme-Studio-Setup_img2.png)
-
-3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
-
-4. Click Next. Installation location will be displayed.
-
-   ![](Add-on_images/Theme-Studio-Setup_img3.png)
-   
-
-5. Click Install. You can't change the install location as it will be installed in the WPF platform installed location.
-
-   ![](Add-on_images/Theme-Studio-Setup_img4.png)
-   
-   N> The Completed screen is displayed once the Syncfusion WPF Theme Studio is installed.
-   
-   ![](Add-on_images/Theme-Studio-Setup_img5.png)
-
-6. Click Finish. Syncfusion WPF Theme Studio is installed in your system.
 
 ## Electron
 
@@ -232,7 +196,4 @@ The following are the steps to install the WebKit Setup.
 
 6. Click Finish. Electron is installed in your system.
 	
-## Sample Creator
-
-Sample Creator is provided for the ASP.NET MVC, ASP.NET MVC (Classic), ASP.NET Core and UWP platforms when the MVC Extension setup is installed. For more information about how to install Syncfusion Essential Studio MVC Extension setup, see [MVC Extension](http://www.syncfusion.com/kb/2350/how-to-install-syncfusion-essential-studio-mvc-extension-setup). Refer [here](https://help.syncfusion.com/extension/) for using the Syncfusion Sample Creator.
 

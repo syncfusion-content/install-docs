@@ -1,0 +1,49 @@
+---
+layout: post
+title: License Key Errors | Syncfusion 
+description: How to fix Syncfusion license key related errors
+platform: common
+control: Essential Studio
+documentation: ug
+---
+
+# Licensing Errors
+
+Licensing error popup is displayed with various messages under different circumstances. Here are some ways to resolve different issues.
+
+## License key not registered 
+
+The following error message will be shown if a Syncfusion license key has not been registered in your application. 
+
+**Error message:** This application was built using a trial version of Syncfusion Essential Studio. Please include a valid license to permanently remove this license validation message. You can also obtain a free 30 day evaluation license to temporarily remove this message during the evaluation period. Please refer to this help topic(https://help.syncfusion.com/es/licensing/) for more information.
+
+**Solution:** Generate a license key from [here](https://www.syncfusion.com/account/downloads) and register it in your application.
+
+## Invalid key
+
+If the application is registered with an invalid key, another version of license key, or another platform's license key, the following error message will pop up when launching the application. 
+
+This error message will be shown if the license key is invalid. It is possible that the key is for another platform or for an older version.
+
+**Error Message:** The included Syncfusion license is invalid. Please refer to this help topic(https://help.syncfusion.com/es/licensing/) for more information.
+
+**Solution:** Generate a valid license key from [here](https://www.syncfusion.com/account/downloads) for a specific version and platform.
+
+## Trail Expired
+
+The following error message will be shown if the trial key has expired after 30 days.
+
+**Error Message:** Your Syncfusion trial license has expired. Please refer to this help topic(https://help.syncfusion.com/es/licensing/) for more information.
+
+**Solution:** Purchase from [here](https://www.syncfusion.com/sales/products) to get a valid Syncfusion license.  
+
+## Could not load Syncfusion.Licensing.dll assembly version...?
+Make sure that all the referenced Syncfusion assembles are of the same version. Try cleaning and rebuilding the application to resolve assembly conflict issues.
+
+
+
+
+
+
+
+
