@@ -157,7 +157,7 @@ public App()
 
 ### Xamarin.Android
 
-Register the license key in OnCreate override method of **MainActivity.cs** before initializing any Syncfusion control.
+Register the license key in **OnCreate** override method of your main activity class before initializing any Syncfusion control.
 
 {% tabs %}
 {% highlight c# %}
