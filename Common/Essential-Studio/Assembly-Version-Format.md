@@ -16,66 +16,66 @@ The assembly version format differs for each platform. Refer the following table
 <table>
 <tr>
 <td>
-Platforms/Frameworks</td><td>
-2.0</td><td>
-3.5</td><td>
-4.0</td><td>
-4.5</td><td>
-4.5.1</td><td>
-4.6</td></tr>
+<b>Platforms/Frameworks</b></td><td>
+<b>2.0</b></td><td>
+<b>3.5</b></td><td>
+<b>4.0</b></td><td>
+<b>4.5</b></td><td>
+<b>4.5.1</b></td><td>
+<b>4.6</b></td></tr>
 <tr>
 <td>
-Windows Forms</td><td>
-13.4200.0.x</td><td>
-13.4350.0.x</td><td>
-13.4400.0.x</td><td>
-13.4450.0.x</td><td>
-13.4451.0.x</td><td>
-13.4460.0.x</td></tr>
+<b>Windows Forms</b></td><td>
+16.4200.0.x</td><td>
+16.4350.0.x</td><td>
+16.4400.0.x</td><td>
+16.4450.0.x</td><td>
+16.4451.0.x</td><td>
+16.4460.0.x</td></tr>
 <tr>
 <td>
-ASP.NET</td><td>
+<b>ASP.NET</b></td><td>
 NA</td><td>
-13.4350.0.x</td><td>
-13.4400.0.x</td><td>
-13.4450.0.x</td><td>
-13.4451.0.x</td><td>
-13.4460.0.x</td></tr>
+16.4350.0.x</td><td>
+16.4400.0.x</td><td>
+16.4450.0.x</td><td>
+16.4451.0.x</td><td>
+16.4460.0.x</td></tr>
 <tr>
 <td>
-ASP.NET MVC</td><td>
+<b>ASP.NET MVC</b></td><td>
 NA</td><td>
 NA</td><td>
-MVC 3 - 13.4300.0.xMVC 4 - 12.4400.0.x</td><td>
-MVC 5 - 13.4500.0.x</td><td>
+MVC 3 - 16.4300.0.xMVC 4 - 16.4400.0.x</td><td>
+MVC 5 - 16.4500.0.x</td><td>
 NA</td><td>
-MVC 6 - 13.4600.0.x</td></tr>
+MVC 6 - 16.4600.0.x</td></tr>
 <tr>
 <td>
-WPF</td><td>
+<b>WPF</b></td><td>
 NA</td><td>
-13.4350.0.x</td><td>
-13.4400.0.X</td><td>
-13.4450.0.X</td><td>
-13.4451.0.X</td><td>
-13.4460.0.x</td></tr>
+16.4350.0.x</td><td>
+16.4400.0.X</td><td>
+16.4450.0.X</td><td>
+16.4451.0.X</td><td>
+16.4460.0.x</td></tr>
 <tr>
 <td>
-Universal Windows Platform</td><td>
+<b>Universal Windows Platform</b></td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-13.4460.0.x</td></tr>
+16.4460.0.x</td></tr>
 <tr>
 <td>
-Xamarin</td><td>
+<b>Xamarin</b></td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-13.4451.0.x</td><td>
+16.4451.0.x</td><td>
 NA</td></tr>
 </table>
 
@@ -84,13 +84,13 @@ NA</td></tr>
 <table>
 <tr>
 <td>
-Platforms</td><td>
-netstandard 1.2</td><td>
-netstandard 1.4</td><td>
-netstandard 2.0</td></tr>
+<b>Platforms</b></td><td>
+<b>netstandard 1.2</b></td><td>
+<b>netstandard 1.4</b></td><td>
+<b>netstandard 2.0</b></td></tr>
 <tr>
 <td>
-ASP.NET Core</td><td>
+<b>ASP.NET Core</b></td><td>
 16.2120.0.x</td><td>
 16.2140.0.x</td><td>
 16.2200.0.x</td></tr>
