@@ -56,9 +56,11 @@ Register the license key in App constructor of **App.xaml.cs**
 {% highlight c# %}
 public partial class App : Application
 {
-	//Register Syncfusion license
-	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
-		
+	public App()
+	{
+		//Register Syncfusion license
+		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	}	
 } 
 {% endhighlight %}
 {% endtabs %}
