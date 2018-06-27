@@ -157,7 +157,7 @@ public App()
 {% endhighlight %}
 {% endtabs %}
 
-If your application is **Prism Framework**, Register the license key before InitializeComponent in OnInitialized method of **App.Xaml.cs**
+If you are using **Prism Framework** in your application, Register the license key before InitializeComponent in OnInitialized method of **App.Xaml.cs**
 
 {% tabs %}
 {% highlight c# %}
