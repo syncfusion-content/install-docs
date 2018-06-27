@@ -157,6 +157,22 @@ public App()
 {% endhighlight %}
 {% endtabs %}
 
+If you are using **Prism Framework** in your application, Register the license key before InitializeComponent in OnInitialized method of **App.Xaml.cs**
+
+{% tabs %}
+{% highlight c# %}
+protected override async void OnInitialized()
+{
+	//Register Syncfusion license
+    Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+ 
+    InitializeComponent();
+ 
+    await NavigationService.NavigateAsync("NavigationPage/MainPage");
+}
+{% endhighlight %}
+{% endtabs %}
+
 ### Xamarin.Android
 
 Register the license key in **OnCreate** override method of your main activity class before initializing any Syncfusion control.
