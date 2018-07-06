@@ -69,26 +69,18 @@ The following steps show how you can install the Essential Studio Source Code A
    
 ## Build Manager
 
-Build Manager allows you to build or debug the assemblies using Syncfusion source code. 
-
-### Launching Build Manager 
-
-The following steps help you launch the Build Manager. 
-
-1. Open the Syncfusion Control Panel.
-
-1. Click Add On and Utilities > Build Manager.
+Build Manager allows you to build or debug the assemblies using Syncfusion source code. You can launch the Build Manager from the following location.
 
 
-2. The Syncfusion Build Manager x.x.x.x window opens.
+**Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
 
    ![](Utilities_images/Build-Manager_img2.png)
    
 
-   N> You can launch the Build Manager from {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
+   
 
 
-3. Select the required setting in the Syncfusion Build Manager x.x.x.x window.
+You can select the required setting in the Syncfusion Build Manager x.x.x.x window.
 
 ### Build Manager Settings
 
