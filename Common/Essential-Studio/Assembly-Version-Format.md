@@ -26,39 +26,39 @@ The assembly version format differs for each platform. Refer the following table
 <tr>
 <td>
 <b>Windows Forms</b></td><td>
-16.4200.0.x</td><td>
-16.4350.0.x</td><td>
-16.4400.0.x</td><td>
-16.4450.0.x</td><td>
-16.4451.0.x</td><td>
-16.4460.0.x</td></tr>
+16.2200.0.x</td><td>
+16.2350.0.x</td><td>
+16.2400.0.x</td><td>
+16.2450.0.x</td><td>
+16.2451.0.x</td><td>
+16.2460.0.x</td></tr>
 <tr>
 <td>
 <b>ASP.NET</b></td><td>
 NA</td><td>
-16.4350.0.x</td><td>
-16.4400.0.x</td><td>
-16.4450.0.x</td><td>
-16.4451.0.x</td><td>
-16.4460.0.x</td></tr>
+16.2350.0.x</td><td>
+16.2400.0.x</td><td>
+16.2450.0.x</td><td>
+16.2451.0.x</td><td>
+16.2460.0.x</td></tr>
 <tr>
 <td>
 <b>ASP.NET MVC</b></td><td>
 NA</td><td>
 NA</td><td>
-MVC 3 - 16.4300.0.xMVC 4 - 16.4400.0.x</td><td>
-MVC 5 - 16.4500.0.x</td><td>
+MVC 3 - 16.2300.0.xMVC 4 - 16.2400.0.x</td><td>
+MVC 5 - 16.2500.0.x</td><td>
 NA</td><td>
-MVC 6 - 16.4600.0.x</td></tr>
+MVC 6 - 16.2600.0.x</td></tr>
 <tr>
 <td>
 <b>WPF</b></td><td>
 NA</td><td>
-16.4350.0.x</td><td>
-16.4400.0.X</td><td>
-16.4450.0.X</td><td>
-16.4451.0.X</td><td>
-16.4460.0.x</td></tr>
+16.2350.0.x</td><td>
+16.2400.0.X</td><td>
+16.2450.0.X</td><td>
+16.2451.0.X</td><td>
+16.2460.0.x</td></tr>
 <tr>
 <td>
 <b>Universal Windows Platform</b></td><td>
@@ -67,7 +67,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-16.4460.0.x</td></tr>
+16.2460.0.x</td></tr>
 <tr>
 <td>
 <b>Xamarin</b></td><td>
@@ -75,7 +75,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-16.4451.0.x</td><td>
+16.2451.0.x</td><td>
 NA</td></tr>
 </table>
 
