@@ -25,7 +25,7 @@ If the application is registered with an invalid key, another version of license
 
 This error message will be shown if the license key is invalid. It is possible that the key is for another platform or for an older version.
 
-**Error Message:** The included Syncfusion license is invalid. Please refer to this help topic(https://help.syncfusion.com/es/licensing/) for more information.
+**Error Message:** The included Syncfusion license is invalid. Please refer to this help topic(https://help.syncfusion.com/es/licensing/invalid/) for more information.
 
 **Solution:** Generate a valid license key from [here](https://www.syncfusion.com/account/downloads) for a specific version and platform.
 
@@ -33,9 +33,29 @@ This error message will be shown if the license key is invalid. It is possible t
 
 The following error message will be shown if the trial key has expired after 30 days.
 
-**Error Message:** Your Syncfusion trial license has expired. Please refer to this help topic(https://help.syncfusion.com/es/licensing/) for more information.
+**Error Message:** Your Syncfusion trial license has expired. Please refer to this help topic(https://help.syncfusion.com/es/licensing/expired) for more information.
 
-**Solution:** Purchase from [here](https://www.syncfusion.com/sales/products) to get a valid Syncfusion license.  
+**Solution:** Purchase from [here](https://www.syncfusion.com/sales/products) to get a valid Syncfusion license.
+
+## Platform Missmatch
+
+If the application is registered with another platforms license key, the following error message will pop up when launching the application.
+
+This error message will be shown if the license key is another platform's license key.
+
+**Error Message:**The included Syncfusion license is invalid (Platform mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/platform/) for more information."
+
+**Solution:** Generate a valid license key from [here](https://www.syncfusion.com/account/downloads) for a specific version and platform.
+
+## Version Missmatch
+
+If the application is registered with another version license key, the following error message will pop up when launching the application.
+
+This error message will be shown if the license key is another version's license key.
+
+**Error Message:**The included Syncfusion license is invalid (Version mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/version/) for more information."
+
+**Solution:** Generate a valid license key from [here](https://www.syncfusion.com/account/downloads) for a specific version and platform.
 
 ## Could not load Syncfusion.Licensing.dll assembly version...?
 Make sure that all the referenced Syncfusion assembles are of the same version. Try cleaning and rebuilding the application to resolve assembly conflict issues.
