@@ -43,7 +43,7 @@ If the application is registered with another platforms license key, the followi
 
 This error message will be shown if the license key is another platform's license key.
 
-**Error Message:**The included Syncfusion license is invalid (Platform mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/platform/) for more information."
+**Error Message:**The included Syncfusion license is invalid (Platform mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/platform/) for more information.
 
 **Solution:** Generate a valid license key from [here](https://www.syncfusion.com/account/downloads) for a specific version and platform.
 
@@ -53,7 +53,7 @@ If the application is registered with another version license key, the following
 
 This error message will be shown if the license key is another version's license key.
 
-**Error Message:**The included Syncfusion license is invalid (Version mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/version/) for more information."
+**Error Message:**The included Syncfusion license is invalid (Version mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/version/) for more information.
 
 **Solution:** Generate a valid license key from [here](https://www.syncfusion.com/account/downloads) for a specific version and platform.
 
