@@ -37,7 +37,7 @@ The following error message will be shown if the trial key has expired after 30 
 
 **Solution:** Purchase from [here](https://www.syncfusion.com/sales/products) to get a valid Syncfusion license.
 
-## Platform Missmatch
+## Platform Mismatch
 
 If the application is registered with another platforms license key, the following error message will pop up when launching the application.
 
@@ -47,7 +47,7 @@ This error message will be shown if the license key is another platform's licens
 
 **Solution:** Generate a valid license key from [here](https://www.syncfusion.com/account/downloads) for a specific version and platform.
 
-## Version Missmatch
+## Version Mismatch
 
 If the application is registered with another version license key, the following error message will pop up when launching the application.
 
