@@ -34,7 +34,7 @@ The assembly version format differs for each platform. Refer the following table
 16.2460.0.x</td></tr>
 <tr>
 <td>
-<b>ASP.NET</b></td><td>
+<b>ASP.NET (Essential JS 1)</b></td><td>
 NA</td><td>
 16.2350.0.x</td><td>
 16.2400.0.x</td><td>
@@ -43,13 +43,31 @@ NA</td><td>
 16.2460.0.x</td></tr>
 <tr>
 <td>
-<b>ASP.NET MVC</b></td><td>
+<b>ASP.NET MVC (Essential JS 1)</b></td><td>
 NA</td><td>
 NA</td><td>
 MVC 3 - 16.2300.0.xMVC 4 - 16.2400.0.x</td><td>
 MVC 5 - 16.2500.0.x</td><td>
 NA</td><td>
 MVC 6 - 16.2600.0.x</td></tr>
+<tr>
+<td>
+<b>JavaScript (Essential JS 1)</b></td><td>
+NA</td><td>
+16.2350.0.x</td><td>
+16.2400.0.X</td><td>
+16.2450.0.X</td><td>
+16.2451.0.X</td><td>
+16.2460.0.x</td></tr>
+<tr>
+<td>
+<b>ASP.NET MVC (Essential JS 2)</b></td><td>
+NA</td><td>
+NA</td><td>
+MVC 4 - 16.2400.0.x</td><td>
+MVC 5 - 16.2500.0.x</td><td>
+NA</td><td>
+NA</td></tr>
 <tr>
 <td>
 <b>WPF</b></td><td>
@@ -79,7 +97,7 @@ NA</td><td>
 NA</td></tr>
 </table>
 
-**For ASP.NET Core:**
+**For ASP.NET Core (Essential JS 1 and Essential JS 2):**
 
 <table>
 <tr>
@@ -95,3 +113,9 @@ NA</td></tr>
 16.2140.0.x</td><td>
 16.2200.0.x</td></tr>
 </table>
+
+The following Essential Studio platforms doesn't have assembly support.
+
+1. JavaScript (Essential JS 2)
+2. PHP (Essential JS 1)
+3. JSP (Essential JS 1)
