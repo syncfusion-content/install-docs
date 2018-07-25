@@ -9,7 +9,7 @@ documentation: ug
 
 # Assembly Version Format
 
-The assembly version format differs for each platform. Refer the following table for the assembly version’s format for ASP.NET, ASP.NET MVC, WPF, Windows Forms, UWP and Xamarin platforms.
+The assembly version format differs for each platform. Refer the following table for the assembly version’s format for ASP.NET, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP and Xamarin platforms.
 
 
 
