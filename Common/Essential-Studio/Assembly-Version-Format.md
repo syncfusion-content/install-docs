@@ -43,7 +43,7 @@ NA</td><td>
 16.2460.0.x</td></tr>
 <tr>
 <td>
-<b>Universal Windows Platform</b></td><td>
+<b>UWP</b></td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
