@@ -43,7 +43,7 @@ NA</td><td>
 16.2460.0.x</td></tr>
 <tr>
 <td>
-<b>Universal Windows Platform</b></td><td>
+<b>UWP</b></td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -82,7 +82,7 @@ NA</td><td>
 <b>ASP.NET MVC (Essential JS 1)</b></td><td>
 NA</td><td>
 NA</td><td>
-MVC 3 - 16.2300.0.xMVC 4 - 16.2400.0.x</td><td>
+<li>MVC 3 - 16.2300.0.x</li><li>MVC 4 - 16.2400.0.x</li></td><td>
 MVC 5 - 16.2500.0.x</td><td>
 NA</td><td>
 MVC 6 - 16.2600.0.x</td></tr>
