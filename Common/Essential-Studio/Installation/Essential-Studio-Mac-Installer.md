@@ -53,7 +53,7 @@ The following procedure illustrates how to install Essential Studio Mac installe
 
    ![](Mac-Installer_images/Mac_Installer6.png)
 
-6. Authentication window opens. Provide the password and click **Install Software**
+6. Authentication window opens. Provide your system's user name, password and click **Install Software**
 
    ![](Mac-Installer_images/Mac_Installer7.png)
 
