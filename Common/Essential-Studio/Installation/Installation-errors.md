@@ -87,11 +87,11 @@ This error message will be shown when another installation is already running in
 
 Open the Task Manager and kill the msiexec process and then continue the Syncfusion installation. If still the problem persists, restart the machine and try installing Syncfusion setup.
 
-1. Open the Windows Task manager.
+1. Open the Windows Task Manager.
 
 2. Navigate to the Details tab.
 
-3. Select the msiexec.exe and click **End task**
+3. Select the msiexec.exe and click **End task**.
 
 ![](Errors/Installation_Errors_img5.png)
 
