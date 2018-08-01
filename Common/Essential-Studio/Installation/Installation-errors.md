@@ -75,7 +75,7 @@ Renew the subscription [here](https://www.syncfusion.com/sales/products) or cont
 
 #### Problem
 
-**Error Message:** Another installation is in progress. You must complete that installation before continuing this one. If you click cancel, setup will be cancelled.
+**Error Message:** Another installation is in progress. You cannot complete this installation without completing all other currently active installations. Click cancel to end this setup, or retry to attempt to install again.
 
 ![](Errors/Installation_Errors_img4.png)
 
