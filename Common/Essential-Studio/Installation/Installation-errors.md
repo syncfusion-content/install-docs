@@ -11,12 +11,12 @@ documentation: ug
 
 This article lists the common Installation errors, reasons and solution for those errors.
 
-* [Couldn't unlock Licensed setup with Trial key?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#couldn't-unlock-licensed-setup-with-trial-key)
+* [Could not unlock the Licensed setup with Trial key?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-unlock-the-licensed-setup-with-trial-key)
 * [Licensed Expired! What to do?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#licensed-expired-what-to-do)
 * [Not a Valid license holder?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#not-a-valid-license-holder)
 * [Could not install the setup due to another installation?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-another-installation)
 
-### Couldn't unlock Licensed setup with Trial key?
+### Could not the unlock Licensed setup with Trial key?
 
 #### Problem
 
@@ -72,6 +72,20 @@ The possible reasons for this error are:
 Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>.
 
 ### Could not install the setup due to another installation?
+
+#### Problem
+
+**Error Message:** Another installation is in progress. You must complete that installation before continuing this one. If you click cancel, setup will be cancelled.
+
+![](Errors/Installation_Errors_img4.png)
+
+#### Reason
+
+This error message will be shown when another installation is already running in your machine. 
+
+#### Suggested solution.
+
+Open the Task Manager and kill the msiexec process and then continue the Syncfusion installation. If still the problem persists, restart the machine and try installing Syncfusion setup.
 
 
 
