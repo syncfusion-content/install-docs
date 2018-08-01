@@ -14,6 +14,7 @@ This article lists the common Installation errors, reasons and solution for thos
 * [Couldn't unlock Licensed setup with Trial key?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#couldn't-unlock-licensed-setup-with-trial-key)
 * [Licensed Expired! What to do?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#licensed-expired-what-to-do)
 * [Not a Valid license holder?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#not-a-valid-license-holder)
+* [Could not install the setup due to another installation?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-another-installation)
 
 ### Couldn't unlock Licensed setup with Trial key?
 
@@ -69,6 +70,8 @@ The possible reasons for this error are:
 #### Suggested solution.
 
 Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>.
+
+### Could not install the setup due to another installation?
 
 
 
