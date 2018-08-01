@@ -75,7 +75,7 @@ Renew the subscription [here](https://www.syncfusion.com/sales/products) or cont
 
 #### Problem
 
-**Error Message:** Another installation is in progress. You must complete that installation before continuing this one. If you click cancel, setup will be cancelled.
+**Error Message:** Another installation is in progress. You cannot complete this installation without completing all other currently active installations. Click cancel to end this setup, or retry to attempt to install again.
 
 ![](Errors/Installation_Errors_img4.png)
 
@@ -86,6 +86,14 @@ This error message will be shown when another installation is already running in
 #### Suggested solution.
 
 Open the Task Manager and kill the msiexec process and then continue the Syncfusion installation. If still the problem persists, restart the machine and try installing Syncfusion setup.
+
+1. Open the Windows Task Manager.
+
+2. Navigate to the Details tab.
+
+3. Select the msiexec.exe and click **End task**.
+
+![](Errors/Installation_Errors_img5.png)
 
 
 
