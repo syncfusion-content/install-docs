@@ -47,17 +47,19 @@ static void Main()
     Application.Run(new Form1());
 }
 {% endhighlight %}
+
 {% highlight vb %}
 Public Sub New()
             MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
-			' Syncfusion Licensing Register
+			'Register Syncfusion License
             Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MDAxQDMxMzYyZTMyMmUzMEtEblJPTXVQbFRnZG1OU24yUzl3NjF5M3J0WWxrc0FHYzBnZGMwbEtQVUE9")
             Me.IsSingleInstance = False
             Me.EnableVisualStyles = True
             Me.SaveMySettingsOnExit = True
             Me.ShutdownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
-        End Sub
+End Sub
 {% endhighlight %}
+
 {% endtabs %}
  
 ### WPF
@@ -74,11 +76,14 @@ public partial class App : Application
 	}	
 } 
 {% endhighlight %}
+
 {% highlight vb %}
 Private Sub New()
+		'Register Syncfusion License
         Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
- End Sub
+End Sub
 {% endhighlight %}
+
 {% endtabs %}
 
 ### ASP.NET	
@@ -97,18 +102,19 @@ void Application_Start(object sender, EventArgs e)
 	BundleConfig.RegisterBundles(BundleTable.Bundles);
 }
 {% endhighlight %}
+
 {% highlight vb %}
 Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
-        ' Syncfusion Licensing Register
+        'Syncfusion Licensing Register
         SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
-        ' Code that runs on application startup
+        'Code that runs on application startup
         AuthConfig.RegisterOpenAuth()
         RouteConfig.RegisterRoutes(RouteTable.Routes)
-
         System.Web.Http.GlobalConfiguration.Configuration.Routes.MapHttpRoute(name:="DefaultApi", routeTemplate:="api/{controller}/{action}/{id}", defaults:=New With {.id = System.Web.Http.RouteParameter.[Optional]
            })
 End Sub
 {% endhighlight %}
+
 {% endtabs %}
 
 ### ASP.NET MVC
@@ -127,17 +133,19 @@ void Application_Start(object sender, EventArgs e)
 	BundleConfig.RegisterBundles(BundleTable.Bundles);
 }
 {% endhighlight %}
+
 {% highlight vb %}
 Protected Sub Application_Start()
-        ' Syncfusion Licensing Register
+        'Syncfusion Licensing Register
         SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
         AreaRegistration.RegisterAllAreas()
         Register(GlobalConfiguration.Configuration)
         FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters)
         RouteConfig.RegisterRoutes(RouteTable.Routes)
         BundleConfig.RegisterBundles(BundleTable.Bundles)
-    End Sub
-{% endhighlight %}	
+End Sub
+{% endhighlight %}
+	
 {% endtabs %} 
 
 ### ASP.NET Core
@@ -176,11 +184,14 @@ public App()
 	this.Suspending += OnSuspending;
 }
 {% endhighlight %}
+
 {% highlight vb %}
 Public Sub New()
+		'Register Syncfusion License
         Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
- End Sub
+End Sub
 {% endhighlight %}
+
 {% endtabs %}
 
 ### Xamarin.Forms
