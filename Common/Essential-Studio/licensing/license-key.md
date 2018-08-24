@@ -171,7 +171,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### UWP
 
-Register the license key in **App.xaml.cs** constructor before InitializeComponent(). In Visual Basic, Register the licensing code in **App.xaml.vb** file before OnLaunched event.
+Register the license key in **App.xaml.cs** constructor before InitializeComponent() in C#. In Visual Basic, Register the licensing code in **App.xaml.vb** file before OnLaunched event.
 
 {% tabs %}
 {% highlight c# %}
