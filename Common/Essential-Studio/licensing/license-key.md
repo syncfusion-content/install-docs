@@ -33,7 +33,7 @@ Recommended place to register the license in the various platforms (ASP.NET Core
 
 ### Windows Forms
 
-Register the licensing code in static void main method before calling **Application.Run()** method in C#. In VisualBasic, Register the licensing code in **Application.designer.vb** file constructor.
+Register the licensing code in static void main method before calling **Application.Run()** method in C#. In Visual Basic, Register the licensing code in **Application.designer.vb** file constructor.
 
 {% tabs %}
 {% highlight c# %}
@@ -64,7 +64,7 @@ End Sub
  
 ### WPF
 
-Register the license key in App constructor of **App.xaml.cs** in C#. In VisualBasic, Register the license code in **App.xaml.vb**.
+Register the license key in App constructor of **App.xaml.cs** in C#. In Visual Basic, Register the license code in **App.xaml.vb**.
 {% tabs %}
 {% highlight c# %}
 public partial class App : Application
@@ -171,7 +171,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### UWP
 
-Register the license key in **App.xaml.cs** constructor before InitializeComponent(). In VisualBasic, Register the licensing code in **App.xaml.vb** file before OnLaunched event.
+Register the license key in **App.xaml.cs** constructor before InitializeComponent(). In Visual Basic, Register the licensing code in **App.xaml.vb** file before OnLaunched event.
 
 {% tabs %}
 {% highlight c# %}
