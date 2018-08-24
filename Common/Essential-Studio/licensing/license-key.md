@@ -33,7 +33,7 @@ Recommended place to register the license in the various platforms (ASP.NET Core
 
 ### Windows Forms
 
-Register the licensing code in static void main method before calling **Application.Run()** method.
+Register the licensing code in static void main method before calling **Application.Run()** method in C#. In Visual Basic, Register the licensing code in **Application.designer.vb** file constructor.
 
 {% tabs %}
 {% highlight c# %}
@@ -47,11 +47,24 @@ static void Main()
     Application.Run(new Form1());
 }
 {% endhighlight %}
+
+{% highlight vb %}
+Public Sub New()
+		MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
+		'Register Syncfusion License
+		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+		Me.IsSingleInstance = False
+		Me.EnableVisualStyles = True
+		Me.SaveMySettingsOnExit = True
+		Me.ShutdownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
+End Sub
+{% endhighlight %}
+
 {% endtabs %}
  
 ### WPF
 
-Register the license key in App constructor of **App.xaml.cs** 
+Register the license key in App constructor of **App.xaml.cs** in C#. In Visual Basic, Register the license code in **App.xaml.vb**.
 {% tabs %}
 {% highlight c# %}
 public partial class App : Application
@@ -63,11 +76,19 @@ public partial class App : Application
 	}	
 } 
 {% endhighlight %}
+
+{% highlight vb %}
+Private Sub New()
+	'Register Syncfusion License
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+End Sub
+{% endhighlight %}
+
 {% endtabs %}
 
 ### ASP.NET	
 
-Register the license key in Application_Start method of **Global.asax.cs**
+Register the license key in Application_Start method of **Global.asax.cs/Global.asax**
 
 {% tabs %}
 {% highlight c# %}
@@ -81,11 +102,24 @@ void Application_Start(object sender, EventArgs e)
 	BundleConfig.RegisterBundles(BundleTable.Bundles);
 }
 {% endhighlight %}
+
+{% highlight vb %}
+Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
+	'Syncfusion Licensing Register
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+	'Code that runs on application startup
+	AuthConfig.RegisterOpenAuth()
+	RouteConfig.RegisterRoutes(RouteTable.Routes)
+	System.Web.Http.GlobalConfiguration.Configuration.Routes.MapHttpRoute(name:="DefaultApi", routeTemplate:="api/{controller}/{action}/{id}", defaults:=New With {.id = System.Web.Http.RouteParameter.[Optional]
+	   })
+End Sub
+{% endhighlight %}
+
 {% endtabs %}
 
 ### ASP.NET MVC
 
-Register the license key in Application_Start method of **Global.asax.cs**
+Register the license key in Application_Start method of **Global.asax.cs/Global.asax.vb**
 
 {% tabs %}
 {% highlight c# %}
@@ -99,6 +133,19 @@ void Application_Start(object sender, EventArgs e)
 	BundleConfig.RegisterBundles(BundleTable.Bundles);
 }
 {% endhighlight %}
+
+{% highlight vb %}
+Protected Sub Application_Start()
+        'Syncfusion Licensing Register
+        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+        AreaRegistration.RegisterAllAreas()
+        Register(GlobalConfiguration.Configuration)
+        FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters)
+        RouteConfig.RegisterRoutes(RouteTable.Routes)
+        BundleConfig.RegisterBundles(BundleTable.Bundles)
+End Sub
+{% endhighlight %}
+	
 {% endtabs %} 
 
 ### ASP.NET Core
@@ -124,7 +171,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### UWP
 
-Register the license key in **App.xaml.cs** constructor before InitializeComponent()
+Register the license key in **App.xaml.cs** constructor before InitializeComponent() in C#. In Visual Basic, Register the licensing code in **App.xaml.vb** file before OnLaunched event.
 
 {% tabs %}
 {% highlight c# %}
@@ -137,6 +184,20 @@ public App()
 	this.Suspending += OnSuspending;
 }
 {% endhighlight %}
+
+{% highlight vb %}
+Public Sub New()
+	'Register Syncfusion License
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+End Sub
+
+Protected Overrides Sub OnLaunched(e As Windows.ApplicationModel.Activation.LaunchActivatedEventArgs)
+
+...
+
+End Sub
+{% endhighlight %}
+
 {% endtabs %}
 
 ### Xamarin.Forms
