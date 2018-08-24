@@ -50,13 +50,13 @@ static void Main()
 
 {% highlight vb %}
 Public Sub New()
-            MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
-			'Register Syncfusion License
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MDAxQDMxMzYyZTMyMmUzMEtEblJPTXVQbFRnZG1OU24yUzl3NjF5M3J0WWxrc0FHYzBnZGMwbEtQVUE9")
-            Me.IsSingleInstance = False
-            Me.EnableVisualStyles = True
-            Me.SaveMySettingsOnExit = True
-            Me.ShutdownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
+		MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
+		'Register Syncfusion License
+		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MDAxQDMxMzYyZTMyMmUzMEtEblJPTXVQbFRnZG1OU24yUzl3NjF5M3J0WWxrc0FHYzBnZGMwbEtQVUE9")
+		Me.IsSingleInstance = False
+		Me.EnableVisualStyles = True
+		Me.SaveMySettingsOnExit = True
+		Me.ShutdownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
 End Sub
 {% endhighlight %}
 
@@ -79,8 +79,8 @@ public partial class App : Application
 
 {% highlight vb %}
 Private Sub New()
-		'Register Syncfusion License
-        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+	'Register Syncfusion License
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
 End Sub
 {% endhighlight %}
 
@@ -105,13 +105,13 @@ void Application_Start(object sender, EventArgs e)
 
 {% highlight vb %}
 Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
-        'Syncfusion Licensing Register
-        SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
-        'Code that runs on application startup
-        AuthConfig.RegisterOpenAuth()
-        RouteConfig.RegisterRoutes(RouteTable.Routes)
-        System.Web.Http.GlobalConfiguration.Configuration.Routes.MapHttpRoute(name:="DefaultApi", routeTemplate:="api/{controller}/{action}/{id}", defaults:=New With {.id = System.Web.Http.RouteParameter.[Optional]
-           })
+	'Syncfusion Licensing Register
+	SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+	'Code that runs on application startup
+	AuthConfig.RegisterOpenAuth()
+	RouteConfig.RegisterRoutes(RouteTable.Routes)
+	System.Web.Http.GlobalConfiguration.Configuration.Routes.MapHttpRoute(name:="DefaultApi", routeTemplate:="api/{controller}/{action}/{id}", defaults:=New With {.id = System.Web.Http.RouteParameter.[Optional]
+	   })
 End Sub
 {% endhighlight %}
 
@@ -187,8 +187,8 @@ public App()
 
 {% highlight vb %}
 Public Sub New()
-		'Register Syncfusion License
-        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+	'Register Syncfusion License
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
 End Sub
 {% endhighlight %}
 
