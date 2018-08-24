@@ -106,7 +106,7 @@ void Application_Start(object sender, EventArgs e)
 {% highlight vb %}
 Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
 	'Syncfusion Licensing Register
-	SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
 	'Code that runs on application startup
 	AuthConfig.RegisterOpenAuth()
 	RouteConfig.RegisterRoutes(RouteTable.Routes)
@@ -137,7 +137,7 @@ void Application_Start(object sender, EventArgs e)
 {% highlight vb %}
 Protected Sub Application_Start()
         'Syncfusion Licensing Register
-        SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
+        Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
         AreaRegistration.RegisterAllAreas()
         Register(GlobalConfiguration.Configuration)
         FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters)
