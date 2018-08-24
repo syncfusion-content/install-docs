@@ -52,7 +52,7 @@ static void Main()
 Public Sub New()
 		MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
 		'Register Syncfusion License
-		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MDAxQDMxMzYyZTMyMmUzMEtEblJPTXVQbFRnZG1OU24yUzl3NjF5M3J0WWxrc0FHYzBnZGMwbEtQVUE9")
+		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
 		Me.IsSingleInstance = False
 		Me.EnableVisualStyles = True
 		Me.SaveMySettingsOnExit = True
