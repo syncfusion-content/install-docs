@@ -284,13 +284,23 @@ You can copy the product key from the License Manager window to the clipboard. T
 
 ## Toolbox Configuration 
 
-The Syncfusion Toolbox Installer adds the Syncfusion controls into the Visual Studio .NET toolbox.
-
-I> From the 2018 Volume 2 release, Syncfusion has started provided Toolbox support for Xamarin platform.
+Syncfusion provides toolbox support for WPF, Windows Forms, ASP.NET, UWP and Xamarin platforms. The Syncfusion Toolbox Installer utility adds the Syncfusion controls into the Visual Studio .NET toolbox.
 
 N> Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
 
 ### Configuring Toolbox 
+
+#### For Xamarin:
+
+To configure the Syncfusion Xamarin controls to the Visual Studio toolbox, refer [this](https://help.syncfusion.com/extension/xamarin-extension/toolbox) link.
+
+I> Syncfusion has started providing Toolbox support for Xamarin platform from v16.2.0.41
+
+#### For UWP:
+
+Syncfusion UWP controls will be automatically configured in Visual Studio toolbox while installing the Syncfusion UWP setup.
+
+#### For WPF, Windows Forms and ASP.NET platforms:
 
 1. Open the Syncfusion Control Panel.
 
