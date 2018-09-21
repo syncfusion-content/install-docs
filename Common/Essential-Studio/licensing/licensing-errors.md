@@ -41,7 +41,7 @@ The following error message will be shown if the trial key has expired after 30 
 
 If the application is registered with another platform's license key, the following error message will pop up when launching the application.
 
-**Error Message:**The included Syncfusion license is invalid (Platform mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/platform/) for more information.
+**Error Message:**The included Syncfusion license is invalid (Platform mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/platform-mismatch/) for more information.
 
 **Solution:** Generate a valid license key from [here](https://www.syncfusion.com/account/downloads) for a specific version and platform.
 
@@ -49,7 +49,7 @@ If the application is registered with another platform's license key, the follow
 
 If the application is registered with another version's license key, the following error message will pop up when launching the application.
 
-**Error Message:**The included Syncfusion license is invalid (Version mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/version/) for more information.
+**Error Message:**The included Syncfusion license is invalid (Version mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/version-mismatch/) for more information.
 
 **Solution:** Generate a valid license key from [here](https://www.syncfusion.com/account/downloads) for a specific version and platform.
 
