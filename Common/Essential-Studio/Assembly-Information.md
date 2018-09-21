@@ -17,7 +17,7 @@ Starting with version 16.2.0.41 (2018 Vol 2), Syncfusion provides separate setup
 
 ![](Documentation-Setup_images/Assembly-Description_img1.png)
 
-In the License setup, licensed Syncfusion assemblies will be shipped and there will be no information regarding **LR** in the File description.
+In the License setup, licensed Syncfusion assemblies will be shipped and **LR** information will not be shown in the File description.
 
 **Example:** Syncfusion.SfBarcode.XForms
 
