@@ -14,7 +14,7 @@ documentation: ug
 
 Syncfusion started providing the Offline Essential Studio setup only for Licensed customers from 2018 Volume 2 release. The Essential Studio Enterprise Edition Installer includes the following platforms. You can download the latest version Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
 
-I> You can install the Essential Studio Installer only using Login.
+I> You can install the Essential Studio Offline Installer using Login and Unlock key.
 
 **Web (Essential JS 2)**
 

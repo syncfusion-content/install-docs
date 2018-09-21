@@ -7,7 +7,24 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Assembly Version Format
+# Assembly Information
+
+## Assembly Description
+
+Starting with version 16.2.0.41 (2018 Vol 2), Syncfusion provides separate setup for License and Trial. In the trial setup, License Enforced Syncfusion assemblies will be shipped and this information will be present in the File Description as **License Required(LR)**.
+
+**Example:** Syncfusion.SfBarcode.XForms(LR)
+
+![](Documentation-Setup_images/Assembly-Description_img1.png)
+
+In the License setup, licensed Syncfusion assemblies will be shipped and **LR** information will not be shown in the File description.
+
+**Example:** Syncfusion.SfBarcode.XForms
+
+![](Documentation-Setup_images/Assembly-Description_img2.png)
+
+
+## Assembly Version Format
 
 The assembly version format differs for each platform. Refer the following table for the assembly version’s format for ASP.NET, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP and Xamarin platforms.
 
