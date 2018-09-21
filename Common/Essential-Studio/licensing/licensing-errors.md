@@ -17,7 +17,7 @@ The following error message will be shown if a Syncfusion license key has not be
 
 **Error message:** This application was built using a trial version of Syncfusion Essential Studio. Please include a valid license to permanently remove this license validation message. You can also obtain a free 30 day evaluation license to temporarily remove this message during the evaluation period. Please refer to this help topic(https://help.syncfusion.com/es/licensing/) for more information.
 
-**Solution:** Generate a valid license key from here [License users](https://www.syncfusion.com/account/downloads) or [Trail users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform. Kindly follow the [KB](https://www.syncfusion.com/kb/8976/how-to-generate-license-key-for-licensed-products) to generate license key.
+**Solution:** Generate a valid license key from here [License users](https://www.syncfusion.com/account/downloads) or [Trail users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
 
 ## Invalid key
 
@@ -27,7 +27,7 @@ This error message will be shown if the license key is invalid. It is possible t
 
 **Error Message:** The included Syncfusion license is invalid. Please refer to this help topic(https://help.syncfusion.com/es/licensing/invalid/) for more information.
 
-**Solution:** Generate a valid license key from here [License users](https://www.syncfusion.com/account/downloads) or [Trail users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform. Kindly follow the [KB](https://www.syncfusion.com/kb/8976/how-to-generate-license-key-for-licensed-products) to generate license key.
+**Solution:** Generate a valid license key from here [License users](https://www.syncfusion.com/account/downloads) or [Trail users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
 
 ## Trail Expired
 
@@ -43,7 +43,7 @@ If the application is registered with another platform's license key, the follow
 
 **Error Message:**The included Syncfusion license is invalid (Platform mismatch). Please refer to this help topic(https://help.syncfusion.com/es/licensing/platform-mismatch/) for more information.
 
-**Solution:** Generate a valid license key from here [License users](https://www.syncfusion.com/account/downloads) or [Trail users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform. Kindly follow the [KB](https://www.syncfusion.com/kb/8976/how-to-generate-license-key-for-licensed-products) to generate license key.
+**Solution:** Generate a valid license key from here [License users](https://www.syncfusion.com/account/downloads) or [Trail users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
 
 ## Version Mismatch
 
