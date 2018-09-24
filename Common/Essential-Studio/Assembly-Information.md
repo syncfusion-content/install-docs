@@ -11,9 +11,9 @@ documentation: ug
 
 ## Assembly Description
 
-Starting with version 16.2.0.41 (2018 Vol 2), Syncfusion provides separate setup for License and Trial. In the trial setup, License Enforced Syncfusion assemblies will be shipped and this information will be present in the File Description as **License Required(LR)**.
+Starting with version 16.2.0.41 (2018 Vol 2), Syncfusion provides separate setup for Paying (Licensed setup) and Evaluation (Trial setup) customers. In the trial setup, License Enforced Syncfusion assemblies will be shipped and this information will be present in the File Description as **License Required (LR)**.
 
-**Example:** Syncfusion.SfBarcode.XForms(LR)
+**Example:** Syncfusion.SfBarcode.XForms (LR)
 
 ![](Documentation-Setup_images/Assembly-Description_img1.png)
 
