@@ -317,7 +317,7 @@ JSP</td><td>
 <tr>
 <td>
 WPF</td><td>
-{{ '[https://samples.syncfusion.com/wpf](https://samples.syncfusion.com/wpf)' | markdownify }}</td></tr>
+{{ '[https://wpf.syncfusion.com/Samples.html](https://wpf.syncfusion.com/Samples.html)' | markdownify }}</td></tr>
 
 <tr>
 <td>
