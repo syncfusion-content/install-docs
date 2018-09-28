@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Utilities
-description: utilities
+title: Essential Studio utilities | common | Syncfusion
+description: This section provides information regarding all the Syncfusion Essential Studio utilities and its usage
 platform: common
 control: Essential Studio
 documentation: ug

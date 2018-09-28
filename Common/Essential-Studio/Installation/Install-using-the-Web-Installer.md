@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install using the Online Installer  | common | Syncfusion
-description: install using the online installer
+description: This section provides information regarding the Syncfusion Online installer and steps for installing it
 platform: common
 control: Essential Studio
 documentation: ug
