@@ -17,7 +17,7 @@ License keys can be generated from the [License & Downloads](https://syncfusion.
 
 ![](licensing-images/generate-license.png)
 
-Kindly follow the [KB](https://www.syncfusion.com/kb/8976/) to generate the licnse key for required version and platform.
+Kindly follow the [KB](https://www.syncfusion.com/kb/8976/) to generate the license key for required version and platform.
 
 ## How to register the Syncfusion license key
 
