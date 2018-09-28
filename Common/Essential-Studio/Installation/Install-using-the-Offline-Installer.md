@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Essential Studio Installer for Individual Platform | common | Syncfusion
-description: essential studio installer for individual platforms
+title: Essential Studio Offline Installer | common | Syncfusion
+description: This section provides information regarding the Syncfusion Offline installer and steps for installing it
 platform: common
 control: Essential Studio
 documentation: ug
@@ -63,7 +63,7 @@ The following procedure illustrates how to install Essential Studio. 
 
    **Use Unlock Key**
    
-   You should use the Syncfusion License/Trial key. Trial key is valid for 30 days and the installer won't accept the expired trial key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326).
+   You should use the Syncfusion License/Trial key. Trial key is valid for 30 days and the installer won't accept the expired trial key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-the-syncfusion-support-account).
 
    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img3.png)
    

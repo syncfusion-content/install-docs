@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade from one version to another version| common | Syncfusion
-description: upgrade from one version to another version
+description: This section provides information about upgrading from older Essential Studio version to a newer version
 platform: common
 control: Essential Studio
 documentation: ug

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How-to-configure-the-Toolbox-of-Visual-Studio-Manually
-description: how to configure the toolbox of visual studio manually?
+description: This section provides information about manual configuration of Syncfusion controls in Visual Studio 
 platform: common
 control: Essential Studio
 documentation: ug
