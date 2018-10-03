@@ -29,7 +29,7 @@ This error message will be shown if the license key is invalid. It is possible t
 
 **Solution:** Generate a valid license key from here [License users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
 
-## Trail Expired
+## Trial Expired
 
 The following error message will be shown if the trial key has expired after 30 days.
 
