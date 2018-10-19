@@ -58,6 +58,16 @@ I> Before installing the patch, ensure that corresponding Essential Studio versi
 6. Click Finish. 
 
    The new assemblies are placed in the Pre-Compiled Assemblies folder. These new assemblies can be referenced in your project.
+   
+   The File Version of the patch assemblies will be the increment of the release version. The File Version of each patches will be different. You can differentiate between the build and patch assemblies by File Version. 
+   
+   **File Version of the assembly shipped in build**
+   
+   ![](Patches_images/Installing-a-Patch-Setup_img8.png)
+   
+   **File Version of the assembly shipped in patch**
+   
+   ![](Patches_images/Installing-a-Patch-Setup_img9.png)
 
 
 
