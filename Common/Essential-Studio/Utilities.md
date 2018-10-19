@@ -71,6 +71,12 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 ![](Utilities_images/Dashboard_img14.png)	
 
 
+### Purpose of Recheck button
+
+**Recheck** option in Syncfusion Control Panel is used to refresh the recently installed software in your machine. If you have installed any software required for Essential Studio after installing the Syncfusion setup, those software information will not be updated in the InstallInfo.xml file in which all the installed software details will be stored. In this case, you can just click the Recheck button in Syncfusion Control Panel which will refresh the recently installed software in your machine and update the details in the InstallInfo.xml file. 
+
+**InstallInfo.xml location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\{platform}\{version}\Utilities\InstallInfoGenerator
+
 
 ### Other Utilities
 
