@@ -45,8 +45,8 @@ The following steps show how you can install the Essential Studio Source Code A
    ![](Source-code_images/Step-by-Step-Installation_img5.png)
 
 
-   N> By default, Source Code Add On will be installed in below location.
-      **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}
+   N> From the 2018 Volume 2 release, Source Code Add On will be installed in below location.
+      **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\ {version}
       You can change the install location by clicking the Browse button.
 
 
@@ -121,6 +121,16 @@ This window contains seven sections. 
    After selecting the required options in the above-mentioned frames, click Perform Build inside the output frame.
 
 N> The Build operation is performed and the status is updated in the text area, inside the output frame. On completion of the Build operation, an information message is displayed stating that the Build operation has been completed. It also asks you to review the Build output and log files for additional information.
+
+**8. Assembly Manager**
+
+   Assembly Manager shipped in the Source Code Add On setup is used to **Install\Remove** the assemblies from GAC location. You can launch the Assembly Manager from the below Source Code Add On installed location.
+   
+   **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Assembly Manager\AssemblyManagerWindows.exe
+   
+   Refer [this](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) link for the detailed information regarding the functionalities of Assembly Manager.
+   
+   
  
 
 
