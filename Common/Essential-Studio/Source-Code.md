@@ -122,12 +122,22 @@ This window contains seven sections. 
 
 N> The Build operation is performed and the status is updated in the text area, inside the output frame. On completion of the Build operation, an information message is displayed stating that the Build operation has been completed. It also asks you to review the Build output and log files for additional information.
 
-**8. Assembly Manager**
+
+
+## Assembly Manager usage
 
    Assembly Manager shipped in the Source Code Add On setup is used to **Install\Remove** the assemblies from GAC location. You can launch the Assembly Manager from the below Source Code Add On installed location.
    
    **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Assembly Manager\AssemblyManagerWindows.exe
    
+   Only **Debug** and **Pre-built** options will be enabled in the Assembly Manager shipped in Source Code Add-on setup.
+
+   * Pre-built Assemblies - These are the assemblies shipped with Essential Studio. Selecting this mode triggers the Assembly Manager to install the pre-built assemblies. 
+
+   * Debug Assemblies - This mode triggers the Assembly Manager to install custom assemblies built from the source code using Build Manager. 
+   
+   ![](Utilities_images/Build-Manager_img3.png)
+
    Refer [this](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) link for the detailed information regarding the functionalities of Assembly Manager.
    
    
