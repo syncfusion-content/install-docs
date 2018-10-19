@@ -77,18 +77,32 @@ Build Manager allows you to build or debug the assemblies using Syncfusion sourc
    ![](Utilities_images/Build-Manager_img2.png)
    
 
-   
+The output assemblies of the Build Manager will be placed in the below location.
+
+**Output Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\UserAssemblies\{version}\{framework}\{Debug\Release}
 
 
 You can select the required setting in the Syncfusion Build Manager x.x.x.x window.
 
 ### Build Manager Settings
 
-This window contains seven sections. 
+This window contains several sections. 
 
 **1. Framework Version **
 
-   The Framework Version group box has six options: .NET 2.0, .NET 3.5, .NET 4.0, .NET 4.5, .NET 4.5.1 and .NET 4.6. When Visual Studio 2015 is not installed in your system, the .NET 4.5.1 option is selected by default. When Visual Studio 2013 is not installed in your system, the .NET 4.5 option is selected by default. When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default. When Visual Studio 2010 is not installed in your system, .NET 3.5 option is selected by default. When Visual Studio 2008 is not installed in your system, .NET 2.0 option is selected by default. You can change the default option by clicking the other button. The version of the .NET Framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies. 
+   The Framework Version group box has six options: .NET 2.0, .NET 3.5, .NET 4.0, .NET 4.5, .NET 4.5.1 and .NET 4.6. 
+   
+   * When Visual Studio 2015 is not installed in your system, the .NET 4.5.1 option is selected by default. 
+   
+   * When Visual Studio 2013 is not installed in your system, the .NET 4.5 option is selected by default. 
+   
+   * When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default. 
+   
+   * When Visual Studio 2010 is not installed in your system, .NET 3.5 option is selected by default. 
+   
+   * When Visual Studio 2008 is not installed in your system, .NET 2.0 option is selected by default. 
+   
+   You can change the default option by clicking the other button. The version of the .NET Framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies. 
 
 **2. Product**
 
@@ -106,15 +120,11 @@ This window contains seven sections. 
 
    You can switch between the Debug and Release mode of product configurations. Building the Debug version of the assemblies allows you to step into the Syncfusion assemblies when debugging applications. 
 
-**5. Dependencies**
-
-   This enables you to specify whether the dependent assemblies of the product need to be used or not. When the Use Pre-Built Dependencies check box is selected, the dependent assemblies of the product under the selected product frame are taken from the Pre-Compiled Assemblies folder that exists under the installed location. Rebuilding assemblies can be restricted to specific assemblies, by enabling the pre-built dependencies. In that case, the other assemblies would be just precompiled variants, installed with the product. 
-
-**6. Strong Key**
+**5. Strong Key**
 
    This enables you to install the compiled assemblies in GAC. Select the **Use Strong Key** check box and choose a .snk file to achieve this. You can debug the assembly only when it is complied with the Strong Key. 
 
-**7. Output**
+**6. Output**
 
    This frame shows the output, that is, the status of the build operation, in a text area. 
 
@@ -124,17 +134,16 @@ N> The Build operation is performed and the status is updated in the text area, 
 
 
 
-## Assembly Manager usage
+## Assembly Manager
 
-   Assembly Manager shipped in the Source Code Add On setup is used to **Install\Remove** the assemblies from GAC location. You can launch the Assembly Manager from the below Source Code Add On installed location.
+   Assembly Manager shipped in the Source Code Add On setup is used to **Install\Remove** the **Debug\Release** assemblies from GAC location and has its unique features. You can launch the Assembly Manager from the below Source Code Add On installed location.
    
-   **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Assembly Manager\AssemblyManagerWindows.exe
+   **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Assembly Manager\AssemblyManagerWindows.exe 
    
-   Only **Debug** and **Pre-built** options will be enabled in the Assembly Manager shipped in Source Code Add-on setup.
 
-   * Pre-built Assemblies - These are the assemblies shipped with Essential Studio. Selecting this mode triggers the Assembly Manager to install the pre-built assemblies. 
+   * Pre-built Assemblies - These are the assemblies shipped with Essential Studio. You can **only remove** the pre-built assemblies from the Assembly Manager shipped in Source Code Add-on setup.
 
-   * Debug Assemblies - This mode triggers the Assembly Manager to install custom assemblies built from the source code using Build Manager. 
+   * Debug and Release Assemblies - This mode triggers the Assembly Manager to install custom assemblies built from the source code using Build Manager. The Debug\Release option will be enabled based on the **Assembly Type** selected in Build Manager during compilation.
    
    ![](Utilities_images/Build-Manager_img3.png)
 
