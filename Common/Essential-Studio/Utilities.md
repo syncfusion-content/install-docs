@@ -75,10 +75,7 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 **Recheck** option in Syncfusion Control Panel is used to update the recently installed software information in your machine. If you have installed any required software for Essential Studio platforms after installing the Syncfusion setup, those software information will not be updated in the Syncfusion Control Panel. In this case, you can just click the Recheck button in Syncfusion Control Panel which will update the recently installed software in your machine. 
 
-
-
 ![](Utilities_images/Dashboard_img15.png)
-
 
 ### Other Utilities
 
