@@ -73,10 +73,9 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 ### Purpose of Recheck button
 
-**Recheck** option in Syncfusion Control Panel is used to refresh the recently installed software in your machine. If you have installed any software required for Essential Studio after installing the Syncfusion setup, those software information will not be updated in the InstallInfo.xml file in which all the installed software details will be stored. In this case, you can just click the Recheck button in Syncfusion Control Panel which will refresh the recently installed software in your machine and update the details in the InstallInfo.xml file. 
+**Recheck** option in Syncfusion Control Panel is used to update the recently installed software information in your machine. If you have installed any required software for Essential Studio platforms after installing the Syncfusion setup, those software information will not be updated in the Syncfusion Control Panel. In this case, you can just click the Recheck button in Syncfusion Control Panel which will update the recently installed software in your machine. 
 
-**InstallInfo.xml location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\{platform}\{version}\Utilities\InstallInfoGenerator
-
+![](Utilities_images/Dashboard_img15.png)
 
 ### Other Utilities
 
@@ -97,7 +96,7 @@ Other information available in the Syncfusion Control Panel includes:
 
 * Messages- This section allows you to view the License information, like whether the user is Licensed or Trial. Syncfusion Trial expires in 30 days.
 
-  ![](Utilities_images/Dashboard_img15.png)
+  ![](Utilities_images/Dashboard_img16.png)
 
 * [Sales FAQ](http://www.syncfusion.com/sales/faq) - Clicking this link directs you to the FAQ page that lists common sales-related queries and other sales contact information.
 * [Contact Support](http://www.syncfusion.com/Account/Logon?ReturnUrl=%2fsupport%2fdirecttrac) - Clicking this link directs you to the Direct-Trac Login page to contact the Support Team.
