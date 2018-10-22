@@ -77,7 +77,6 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 ![](Utilities_images/Dashboard_img15.png)
 
-
 ### Other Utilities
 
 This section allows you to access the following. 
