@@ -39,7 +39,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-   ![ASP.NET(Classic)Sample browser](Offline-Samples_images/Offline-Samples_img3.png)
+   ![ASP.NET Classic Sample browser](Offline-Samples_images/Offline-Samples_img3.png)
 
 
 
@@ -59,7 +59,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-   ![ASP.NET MVC(Classic) Sample browser](Offline-Samples_images/Offline-Samples_img5.png)
+   ![ASP.NET MVC Classic Sample browser](Offline-Samples_images/Offline-Samples_img5.png)
 
 
 
@@ -228,7 +228,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 	
 	
-    ![JavaScript(ES5) Sample browser](Offline-Samples_images/Offline-Samples_img24.png)  
+    ![JavaScript ES5 Sample browser](Offline-Samples_images/Offline-Samples_img24.png)  
 
 
 

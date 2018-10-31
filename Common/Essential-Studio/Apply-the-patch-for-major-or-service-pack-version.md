@@ -66,11 +66,11 @@ In the patch assembly, the **File Version** and **Product Version** will be diff
    
 **File Version of the assembly shipped in build:**
    
-![](Patches_images/Installing-a-Patch-Setup_img8.png)
+![Patch Assembly](Patches_images/Installing-a-Patch-Setup_img8.png)
    
 **File Version of the assembly shipped in patch:**
    
-![](Patches_images/Installing-a-Patch-Setup_img9.png)
+![Patch Assembly](Patches_images/Installing-a-Patch-Setup_img9.png)
 
 
 

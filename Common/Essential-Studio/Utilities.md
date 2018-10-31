@@ -60,7 +60,7 @@ You need to install a list of prerequisites, for all of the products to work suc
 
 ### Missing Software 
 
-Missing Software lists the prerequisites for all platforms. A ![](Utilities_images/Dashboard_img13.png) <font color="red">Additional Software Required</font>
+Missing Software lists the prerequisites for all platforms. A ![Missing Software Alert](Utilities_images/Dashboard_img13.png) <font color="red">Additional Software Required</font>
 
 symbol appears when any recommended software for a platform is not installed in your system.
 
@@ -442,7 +442,7 @@ The following steps illustrate how to run the Project Migration tool through com
 
 The following screenshot illustrates this.
 
-![cid:image003.png@01CEB5A3.33923680](Utilities_images/Command-Line_img1.png)
+![Project Migration Console](Utilities_images/Command-Line_img1.png)
 
 ## VSIX Installer
 
