@@ -40,7 +40,7 @@ The following procedure illustrates how to install Essential Studio. 
 
 1. Double-click the Syncfusion Essential Studio Platform Setup file. The Setup Wizard opens and extracts the package automatically.
 
-   ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img1.png)
+   ![Setup extraction wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img1.png)
 
    N> The Setup wizard extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
 
@@ -58,14 +58,14 @@ The following procedure illustrates how to install Essential Studio. 
    
    You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
-   ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)   
+   ![Login credentials](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)   
 
 
    **Use Unlock Key**
    
    You should use the Syncfusion License/Trial key. Trial key is valid for 30 days and the installer won't accept the expired trial key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-the-syncfusion-support-account).
 
-   ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img3.png)
+   ![Product key](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img3.png)
    
 
 
@@ -75,7 +75,7 @@ The following procedure illustrates how to install Essential Studio. 
 4. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. To install in the displayed default location, click Install
 
 
-    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img4.png)
+    ![Advanced options](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img4.png)
 
 	
     N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
@@ -95,11 +95,11 @@ The following procedure illustrates how to install Essential Studio. 
 5.  Click Install.
 
 
-    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img5.png)
+    ![Installing wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img5.png)
 
      N> The Completed screen is displayed once the package is installed.
 
-    ![](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img6.png)
+    ![Installation completed](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img6.png)
 
 
 6. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing.

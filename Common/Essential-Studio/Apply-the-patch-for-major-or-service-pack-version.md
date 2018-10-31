@@ -23,14 +23,14 @@ I> Before installing the patch, ensure that corresponding Essential Studio versi
 
 1. Double-click the Syncfusion Essential Studio patch setup file. The Syncfusion Essential Studio Service Pack opens.
    
-   ![](Patches_images/Installing-a-Patch-Setup_img2.png)
+   ![Welcome Wizard](Patches_images/Installing-a-Patch-Setup_img2.png)
 
 
 
 
 2. Click Next. The Assembly Manager screen opens.
    
-   ![](Patches_images/Installing-a-Patch-Setup_img3.png)
+   ![Assembly Manager](Patches_images/Installing-a-Patch-Setup_img3.png)
 
 
 
@@ -39,20 +39,20 @@ I> Before installing the patch, ensure that corresponding Essential Studio versi
 
 4. Click Next. The Ready To Install screen opens.
    
-   ![](Patches_images/Installing-a-Patch-Setup_img4.png)
+   ![Ready To Install](Patches_images/Installing-a-Patch-Setup_img4.png)
 
 
 
 
 5. Click Install to continue installing.
    
-   ![](Patches_images/Installing-a-Patch-Setup_img5.png)
+   ![Installation Progress](Patches_images/Installing-a-Patch-Setup_img5.png)
 
    N> The patch is installed on your computer, and a dialog box appears when the installation is complete.
 
 
 
-    ![](Patches_images/Installing-a-Patch-Setup_img7.png)
+    ![Finish Wizard](Patches_images/Installing-a-Patch-Setup_img7.png)
 
 
 6. Click Finish. 
@@ -89,7 +89,7 @@ The patch can also be installed through Command Line. Follow the given steps to 
    SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /verysilent  
    SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /silent         
    
-   ![](Patches_images/Command-Line-Installation_img1.png)
+   ![Command Prompt](Patches_images/Command-Line-Installation_img1.png)
    
   
     N> /silent – Displays the progress dialog alone during the patch setup installation.
@@ -110,7 +110,7 @@ The following steps help you revert to the Release Assemblies. 
 
 
 
-   ![](Patches_images/Reverting-a-Patch_img1.png)
+   ![Assembly Manager](Patches_images/Reverting-a-Patch_img1.png)
 
 
 

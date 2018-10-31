@@ -19,7 +19,7 @@ You can run the samples from the Syncfusion Control Panel's **Run Offline** butt
 
 
 
-![](Offline-Samples_images/Offline-Samples_img1.png)
+![Syncfusion Control Panel](Offline-Samples_images/Offline-Samples_img1.png)
 
 
 
@@ -29,7 +29,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-   ![](Offline-Samples_images/Offline-Samples_img2.png)
+   ![ASP.NET Web Forms Sample browser](Offline-Samples_images/Offline-Samples_img2.png)
 
 
 
@@ -39,7 +39,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-   ![](Offline-Samples_images/Offline-Samples_img3.png)
+   ![ASP.NET(Classic)Sample browser](Offline-Samples_images/Offline-Samples_img3.png)
 
 
 
@@ -49,7 +49,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-   ![](Offline-Samples_images/Offline-Samples_img4.png)
+   ![ASP.NET MVC Sample browser](Offline-Samples_images/Offline-Samples_img4.png)
 
 
 
@@ -59,7 +59,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-   ![](Offline-Samples_images/Offline-Samples_img5.png)
+   ![ASP.NET MVC(Classic) Sample browser](Offline-Samples_images/Offline-Samples_img5.png)
 
 
 
@@ -69,7 +69,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-   ![](Offline-Samples_images/Offline-Samples_img6.png)
+   ![WPF Sample browser](Offline-Samples_images/Offline-Samples_img6.png)
 
 
 
@@ -79,7 +79,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img7.png)
+    ![Silverlight Sample browser](Offline-Samples_images/Offline-Samples_img7.png)
 
 
 
@@ -89,7 +89,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img8.png)
+    ![Windows Forms Sample browser](Offline-Samples_images/Offline-Samples_img8.png)
 
 
 
@@ -99,7 +99,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-   ![](Offline-Samples_images/Offline-Samples_img9.png)
+   ![Windows Phone Sample browser](Offline-Samples_images/Offline-Samples_img9.png)
 
 
 
@@ -109,7 +109,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img10.png)
+    ![WinRT Sample browser](Offline-Samples_images/Offline-Samples_img10.png)
 
 
 
@@ -119,7 +119,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img11.png)
+    ![JavaScript Sample browser](Offline-Samples_images/Offline-Samples_img11.png)
 
 
 
@@ -129,7 +129,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img12.png)
+    ![LightSwitch HTML Sample browser](Offline-Samples_images/Offline-Samples_img12.png)
 
 
 
@@ -139,7 +139,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img13.png)
+    ![LightSwitch Silverlight Sample browser](Offline-Samples_images/Offline-Samples_img13.png)
 	
 	
 	
@@ -149,7 +149,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img14.png)
+    ![UWP Sample browser](Offline-Samples_images/Offline-Samples_img14.png)
 	
 	
 	
@@ -158,7 +158,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img15.png)
+    ![ASP.NET Core Sample browser](Offline-Samples_images/Offline-Samples_img15.png)
 	
 	
 	
@@ -167,7 +167,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img16.png)
+    ![Angular 2 Sample browser](Offline-Samples_images/Offline-Samples_img16.png)
 	
 	
 	
@@ -176,7 +176,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img17.png)
+    ![AngularJS Sample browser](Offline-Samples_images/Offline-Samples_img17.png)
 	
 	
 	
@@ -185,7 +185,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img18.png)
+    ![ReactJS Sample browser](Offline-Samples_images/Offline-Samples_img18.png)
 	
 	
 	
@@ -194,7 +194,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img19.png)
+    ![Aurelia Sample browser](Offline-Samples_images/Offline-Samples_img19.png)
 	
 	
 	
@@ -203,7 +203,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img20.png)
+    ![TypeScript Sample browser](Offline-Samples_images/Offline-Samples_img20.png)
 	
 	
 	
@@ -212,7 +212,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img22.png)
+    ![Ionic Sample browser](Offline-Samples_images/Offline-Samples_img22.png)
 	
 	
 	
@@ -220,7 +220,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img23.png)
+    ![Ember Sample browser](Offline-Samples_images/Offline-Samples_img23.png)
 
 
 	
@@ -228,7 +228,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 	
 	
-    ![](Offline-Samples_images/Offline-Samples_img24.png)  
+    ![JavaScript(ES5) Sample browser](Offline-Samples_images/Offline-Samples_img24.png)  
 
 
 
@@ -236,7 +236,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img25.png)    
+    ![AngularJS2 Sample browser](Offline-Samples_images/Offline-Samples_img25.png)    
 
 
 
@@ -244,7 +244,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img26.png)
+    ![ReactJS2 Sample browser](Offline-Samples_images/Offline-Samples_img26.png)
 
 
 
@@ -252,7 +252,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img27.png) 
+    ![JavaScriptJS2 Sample browser](Offline-Samples_images/Offline-Samples_img27.png) 
 
 	
 	
@@ -260,7 +260,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img29.png)
+    ![ASP.NET MVCJS2 Sample browser](Offline-Samples_images/Offline-Samples_img29.png)
 	
 	
 	
@@ -268,7 +268,7 @@ The Sample Browser is an application provided by Syncfusion to help you browse t
 
 
 
-    ![](Offline-Samples_images/Offline-Samples_img30.png)
+    ![ASP.NET CoreJS2 Sample browser](Offline-Samples_images/Offline-Samples_img30.png)
 	
 	
 	

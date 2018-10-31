@@ -84,7 +84,7 @@ The following are the steps to install the WebKit Setup.
 
 1. Double-click the Syncfusion WebKit Installer Setup file. The Setup Wizard opens and extracts the package automatically. 
 
-   ![](Add-on_images/Step-by-Step-Installation_img1.png)
+   ![Setup Extraction Wizard](Add-on_images/Step-by-Step-Installation_img1.png)
 
    
 
@@ -92,23 +92,23 @@ The following are the steps to install the WebKit Setup.
 
 2. Once the unzip operation is complete, License Agreement screen opens.
 
-   ![](Add-on_images/Step-by-Step-Installation_img5.png)
+   ![License Agreement](Add-on_images/Step-by-Step-Installation_img5.png)
 
 3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
 
 4. Click Next. Installation location will be displayed.
 
-   ![](Add-on_images/Step-by-Step-Installation_img6.png)
+   ![Installation location](Add-on_images/Step-by-Step-Installation_img6.png)
 
    N> You can also browse and choose a location by clicking Browse.
 
 5. To install in the displayed default location, click Install.
 
-   ![](Add-on_images/Step-by-Step-Installation_img8.png)
+   ![Installation progress](Add-on_images/Step-by-Step-Installation_img8.png)
    
    N> The Completed screen is displayed once the WebKit is installed.
    
-   ![](Add-on_images/Step-by-Step-Installation_img10.png)
+   ![Installation Complete](Add-on_images/Step-by-Step-Installation_img10.png)
 
 6. Click Finish. WebKit is installed in your system.
 
@@ -165,34 +165,34 @@ Electron (Previously known as Atom Shell) is used create a cross platform deskto
 
 ### Step-by-Step Installation
 
-The following are the steps to install the WebKit Setup.
+The following are the steps to install the Electron Setup.
 
 1. Double-click the Syncfusion Electron Setup file. The Setup Wizard opens and extracts the package automatically. 
 
-   ![](Add-on_images/Electron-Setup_img1.png)
+   ![Setup Extraction Wizard](Add-on_images/Electron-Setup_img1.png)
    
 
    N> No key is required for Syncfusion Electron.
 
 2. Once the unzip operation is complete, License Agreement screen opens.
 
-   ![](Add-on_images/Electron-Setup_img2.png)
+   ![License Agreement](Add-on_images/Electron-Setup_img2.png)
 
 3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
 
 4. Click Next. Installation location will be displayed.
 
-   ![](Add-on_images/Electron-Setup_img3.png)
+   ![Installation location](Add-on_images/Electron-Setup_img3.png)
 
    N> You can also browse and choose a location by clicking Browse.
 
 5. To install in the displayed default location, click Install.
 
-   ![](Add-on_images/Electron-Setup_img4.png)
+   ![Installation progress](Add-on_images/Electron-Setup_img4.png)
    
    N> The Completed screen is displayed once the Electron is installed.
    
-   ![](Add-on_images/Electron-Setup_img5.png)
+   ![Installation Complete](Add-on_images/Electron-Setup_img5.png)
 
 6. Click Finish. Electron is installed in your system.
 	

@@ -21,18 +21,18 @@ You can install both Licensed and Trial setup side by side for different Essenti
 
 **Online Installer**
 
-![](Errors/Side-by-side_img2.png)
+![License Conflict Alert](Errors/Side-by-side_img2.png)
 
 **Offline Installer**
 
-![](Errors/Side-by-side_img1.png)
+![Alert Message](Errors/Side-by-side_img1.png)
 
 
 ### Problem
 
 If you install Licensed and Trial setup in the same machine, licensing issues will occur while development and the following licensing alert will be shown.
 
-![](Errors/Side-by-side_img3.png)
+![Syncfusion License](Errors/Side-by-side_img3.png)
 
 ### Reason
 

@@ -21,7 +21,7 @@ The following steps show how you can install the Essential Studio Source Code A
 
 1. Double-click the Syncfusion Essential Studio Source code add-on installer setup file. The Setup Wizard opens and extracts the package automatically..
    
-   ![](Source-code_images/Step-by-Step-Installation_img1.png)
+   ![Setup Extraction Wizard](Source-code_images/Step-by-Step-Installation_img1.png)
 
     N> The Setup extracts the syncfusionessentialsourcecodeaddon(version).exe dialog, displaying the unzip operation of the package.
 	
@@ -31,18 +31,18 @@ The following steps show how you can install the Essential Studio Source Code A
 
 2. Enter the Unlock Key in the corresponding text box provided and select the **I agree to the License Terms and Conditions** check box after reading the License Agreement.
    
-   ![](Source-code_images/Step-by-Step-Installation_img2.png)
+   ![Product key](Source-code_images/Step-by-Step-Installation_img2.png)
    
 
 
 3. Click Next. Select the platforms to be installed.
 
-   ![](Source-code_images/Step-by-Step-Installation_img4.png)
+   ![Platform Selection wizard](Source-code_images/Step-by-Step-Installation_img4.png)
    
 
 4. Click Next. The Source Code Add On installation location will be displayed
 
-   ![](Source-code_images/Step-by-Step-Installation_img5.png)
+   ![Install Location](Source-code_images/Step-by-Step-Installation_img5.png)
 
 
    N> From the 2018 Volume 2 release, Source Code Add On will be installed in below location.
@@ -53,7 +53,7 @@ The following steps show how you can install the Essential Studio Source Code A
 
 5. Click Install. 
 
-   ![](Source-code_images/Step-by-Step-Installation_img6.png)
+   ![Install Progress](Source-code_images/Step-by-Step-Installation_img6.png)
 
     N> The Completed screen is displayed once the selected platform is installed.
 	
@@ -64,7 +64,7 @@ The following steps show how you can install the Essential Studio Source Code A
 
 7. Click Finish. Essential Studio Source Code Add On is installed in your system.
 
-   ![](Source-code_images/Step-by-Step-Installation_img7.png)
+   ![Installation Complete](Source-code_images/Step-by-Step-Installation_img7.png)
    
    
 ## Build Manager
@@ -74,7 +74,7 @@ Build Manager allows you to build or debug the assemblies using Syncfusion sourc
 
 **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
 
-   ![](Utilities_images/Build-Manager_img2.png)
+   ![Build Manager](Utilities_images/Build-Manager_img2.png)
    
 
 The output assemblies of the Build Manager will be placed in the below location.
@@ -145,7 +145,7 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    * Debug and Release Assemblies - This mode triggers the Assembly Manager to install custom assemblies built from the source code using Build Manager. The Debug\Release option will be enabled based on the **Assembly Type** selected in Build Manager during compilation.
    
-   ![](Utilities_images/Build-Manager_img3.png)
+   ![Assembly Manager](Utilities_images/Build-Manager_img3.png)
 
    Refer [this](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) link for the detailed information regarding the functionalities of Assembly Manager.
    

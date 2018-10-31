@@ -20,7 +20,7 @@ Syncfusion User Guide has step-by-step procedure so that users can clearly under
 
  User Guide can be accessed from the Syncfusion Control Panel > Documentation.
 
-![](Documentation-Setup_images/User-Guide_img1.png)
+![User Guide](Documentation-Setup_images/User-Guide_img1.png)
 
 
 You can access the User Guide documentation in any of the below two ways.
@@ -34,7 +34,7 @@ Syncfusion API reference provides a clear understanding to the users for accessi
 
 API Reference can be accessed from the Syncfusion Control Panel > Documentation >
 
-![](Documentation-Setup_images/Class-Reference_img1.png)
+![API Reference](Documentation-Setup_images/Class-Reference_img1.png)
 
 
 You can access the API reference documentation in any of the below two ways.
