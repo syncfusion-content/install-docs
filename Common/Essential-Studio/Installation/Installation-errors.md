@@ -22,7 +22,7 @@ This article lists the common Installation errors, reasons and solution for thos
 
 **Error Message:** Sorry, the provided unlock key is a trial key and cannot be used to unlock the licensed version of our Essential Studio for {platform} setup
 
-![](Errors/Installation_Errors_img1.png)
+![Alert Message](Errors/Installation_Errors_img1.png)
 
 #### Reason
 
@@ -41,7 +41,7 @@ Licensed setup can be unlocked only by License key. So, use the License key to u
 
 **Online Installer**
 
-![](Errors/Installation_Errors_img2.png)
+![Warning Message](Errors/Installation_Errors_img2.png)
 
 #### Reason
 
@@ -58,7 +58,7 @@ Renew the subscription [here](https://www.syncfusion.com/sales/products) or cont
 
 **Error Message:** Sorry, we were unable to find a valid license for Essential Studio for {platform} under your account.
 
-![](Errors/Installation_Errors_img3.png)
+![Alert Message](Errors/Installation_Errors_img3.png)
 
 #### Reason
 
@@ -77,7 +77,7 @@ Renew the subscription [here](https://www.syncfusion.com/sales/products) or cont
 
 **Error Message:** Another installation is in progress. You cannot complete this installation without completing all other currently active installations. Click cancel to end this setup, or retry to attempt to install again.
 
-![](Errors/Installation_Errors_img4.png)
+![Warning Message](Errors/Installation_Errors_img4.png)
 
 #### Reason
 
@@ -93,7 +93,7 @@ Open the Task Manager and kill the msiexec process and then continue the Syncfus
 
 3. Select the msiexec.exe and click **End task**.
 
-![](Errors/Installation_Errors_img5.png)
+![Task Manager](Errors/Installation_Errors_img5.png)
 
 
 

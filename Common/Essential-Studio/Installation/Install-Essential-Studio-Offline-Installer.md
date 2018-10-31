@@ -46,31 +46,31 @@ The following procedure illustrates how to install Essential Studio Offline Inst
 
 1.  Double-click the Syncfusion Essential Studio Offline Installer setup file. The Setup Wizard opens and extracts the package automatically.
 
-    ![](Offline-ES/Step-by-Step-Installation_img1.png)
+    ![Setup extraction wizard](Offline-ES/Step-by-Step-Installation_img1.png)
 
     
     N> The Setup wizard extracts the syncfusionessentialstudiowebinstaller_{version}.exe dialog, displaying the unzip operation of the package.
     
 2. Welcome wizard of the Syncfusion Offline Installer will be displayed. Click Proceed.
 
-   ![](Offline-ES/Step-by-Step-Installation_img2.png)
+   ![Welcome wizard](Offline-ES/Step-by-Step-Installation_img2.png)
 
   
 3.  Platform Selection wizard will be displayed. Here you can select the required platforms to be installed. Click Next.
 
-    ![](Offline-ES/Step-by-Step-Installation_img3.png)
+    ![Platform Selection wizard](Offline-ES/Step-by-Step-Installation_img3.png)
 	
 	I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
 	
-	![](Offline-ES/Step-by-Step-Installation_img4.png)
+	![Additional Software Required alert](Offline-ES/Step-by-Step-Installation_img4.png)
 	
 	N> You can check the Estimated size of the Download and Installation by clicking the **Download Size and Installation Size** link.
 	
-	![](Offline-ES/Step-by-Step-Installation_img5.png)
+	![ES download and installation size](Offline-ES/Step-by-Step-Installation_img5.png)
 
 4.  Configuration wizard will be displayed. Here you can change the Install and samples location. Also, you can change the Additional settings for the individual platform. To install using the default configuration, click Next.
 
-    ![](Offline-ES/Step-by-Step-Installation_img6.png)
+    ![Configuration wizard](Offline-ES/Step-by-Step-Installation_img6.png)
 	
    
     N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
@@ -90,15 +90,15 @@ The following procedure illustrates how to install Essential Studio Offline Inst
 
 6. Login wizard will be displayed. You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on **Create an Account**. Else if you forgot your password, click on **Forgot Password** to create new password. Click Install.
 
-    ![](Offline-ES/Step-by-Step-Installation_img7.png)
+    ![Login wizard](Offline-ES/Step-by-Step-Installation_img7.png)
 
 7. Download and Installation progress will be displayed.
 
-    ![](Offline-ES/Step-by-Step-Installation_img8.png)
+    ![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img8.png)
 
 8. Once the Installation is complete, **Installation Summary** wizard will be displayed. Here you can check the list of platforms which are installed successfully and failed. Click Finish to exit the Installation Summary wizard. 
 
-    ![](Offline-ES/Step-by-Step-Installation_img9.png)
+    ![ES Installation Summary](Offline-ES/Step-by-Step-Installation_img9.png)
 	
 	* Click **Getting Started** link to goto the UG documentation of the corresponding platform.
 	
