@@ -27,7 +27,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 From the 2018 Volume 2 release, each Essential Studio platform has separate Syncfusion Control Panel. You can launch the Syncfusion Control Panel either from <b>Desktop Shortcut</b> or <b>Start Menu->Syncfusion Control Panel {version}</b>
 </div>
 
-![](Utilities_images/Dashboard_img1.png)
+![Syncfusion Control Panel](Utilities_images/Dashboard_img1.png)
 
 
 ### Accessing Product Samples
@@ -36,7 +36,7 @@ Syncfusion provides lots of online and local samples for better understanding of
 
 1. Open the Syncfusion Control Panel.
 
-   ![](Utilities_images/Dashboard_img9.png)
+   ![Syncfusion Control Panel](Utilities_images/Dashboard_img9.png)
 
 2. Click any of the following to know more about the selected product.
 
@@ -56,11 +56,11 @@ Syncfusion provides lots of online and local samples for better understanding of
 
 You need to install a list of prerequisites, for all of the products to work successfully. When some of the software is not installed, the Syncfusion Control Panel displays an alert. Click Additional Software Required, and a Missing Software dialog box opens.
 
-![](Utilities_images/Dashboard_img11.png)
+![Syncfusion Control Panel](Utilities_images/Dashboard_img11.png)
 
 ### Missing Software 
 
-Missing Software lists the prerequisites for all platforms. A ![](Utilities_images/Dashboard_img13.png) <font color="red">Additional Software Required</font>
+Missing Software lists the prerequisites for all platforms. A ![Missing Software Alert](Utilities_images/Dashboard_img13.png) <font color="red">Additional Software Required</font>
 
 symbol appears when any recommended software for a platform is not installed in your system.
 
@@ -68,14 +68,14 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 
 
-![](Utilities_images/Dashboard_img14.png)	
+![Missing Software](Utilities_images/Dashboard_img14.png)	
 
 
 ### Purpose of Recheck button
 
 **Recheck** option in Syncfusion Control Panel is used to update the recently installed software information in your machine. If you have installed any required software for Essential Studio platforms after installing the Syncfusion setup, those software information will not be updated in the Syncfusion Control Panel. In this case, you can just click the Recheck button in Syncfusion Control Panel which will update the recently installed software in your machine. 
 
-![](Utilities_images/Dashboard_img15.png)
+![Syncfusion Control Panel](Utilities_images/Dashboard_img15.png)
 
 ### Other Utilities
 
@@ -96,7 +96,7 @@ Other information available in the Syncfusion Control Panel includes:
 
 * Messages- This section allows you to view the License information, like whether the user is Licensed or Trial. Syncfusion Trial expires in 30 days.
 
-  ![](Utilities_images/Dashboard_img16.png)
+  ![Syncfusion Control Panel](Utilities_images/Dashboard_img16.png)
 
 * [Sales FAQ](http://www.syncfusion.com/sales/faq) - Clicking this link directs you to the FAQ page that lists common sales-related queries and other sales contact information.
 * [Contact Support](http://www.syncfusion.com/Account/Logon?ReturnUrl=%2fsupport%2fdirecttrac) - Clicking this link directs you to the Direct-Trac Login page to contact the Support Team.
@@ -116,7 +116,7 @@ Use the following steps to run the Assembly Manager.
 1. Open Syncfusion Control Panel.
 2. Click Add On and Utilities > Assembly Manager.
    
-   ![](Utilities_images/Assembly-Manager_img1.png)
+   ![Add On and Utilities](Utilities_images/Assembly-Manager_img1.png)
 
 3. The Syncfusion {platform} Assembly Manager x.x.x.x window opens.
 
@@ -125,7 +125,7 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
 </div>
 
 
-   ![](Utilities_images/Assembly-Manager_img3.png)
+   ![Assembly Manager](Utilities_images/Assembly-Manager_img3.png)
 
 4. Select the required option from Select Assembly Type.
 
@@ -158,15 +158,15 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
 
 7. Click Perform Action. It starts processing.
 
-   ![](Utilities_images/Assembly-Manager_img7.png)
+   ![Assembly Manager](Utilities_images/Assembly-Manager_img7.png)
 
 8. Once the action is completed, a confirmation message is displayed.
 
-   ![](Utilities_images/Assembly-Manager_img8.png)
+   ![Assembly Manager](Utilities_images/Assembly-Manager_img8.png)
 
 9. Click OK.
 
-   ![](Utilities_images/Assembly-Manager_img9.png)
+   ![Assembly Manager](Utilities_images/Assembly-Manager_img9.png)
 
 
 ### Assembly Manager Console usage
@@ -183,7 +183,7 @@ You can also install the Syncfusion assemblies in GAC using the console version 
 **Example**
 /version:14.4.0.15 /compilemode:prebuilt /action:install /framework:46,451,45,40,35,20 /platform:"WPF"
 
-   ![](Utilities_images/Assembly-Manager_img10.png)
+   ![Assembly Manager Console](Utilities_images/Assembly-Manager_img10.png)
    
 
 **2. Removing particular version**
@@ -239,7 +239,7 @@ Follow the steps provided to launch the License Manager from the Dashboard.
 2. Click Add On and Utilities->License Manager.
 3. The Syncfusion License Manager dialog box opens. 
    
-   ![](Utilities_images/License-Manager_img1.png)
+   ![License Manager](Utilities_images/License-Manager_img1.png)
 
 ### Adding a Product Key
 
@@ -247,17 +247,17 @@ The following are the steps to add a product key.
 
 1. Open the Syncfusion License Manager Dialog box.
 
-   ![](Utilities_images/License-Manager_img2.png)
+   ![License Manager](Utilities_images/License-Manager_img2.png)
 
 2. Click Add Key. The following dialog box opens.
 
-   ![](Utilities_images/License-Manager_img3.png)
+   ![License Manager](Utilities_images/License-Manager_img3.png)
 
 3. Enter the license key of the product in the space provided.
 
 4. Click OK. The entered key is displayed in the log.
 
-   ![](Utilities_images/License-Manager_img4.png)
+   ![License Manager](Utilities_images/License-Manager_img4.png)
 
 By adding an additional product key, you can also:
 
@@ -273,7 +273,7 @@ The following are the steps to remove a license key:
 1. Open the Syncfusion License Manager dialog box.
 2. Select the key to be removed. The selected key is highlighted. 
 
-   ![](Utilities_images/License-Manager_img5.png)
+   ![License Manager](Utilities_images/License-Manager_img5.png)
 
 3. Click Remove Key. The selected key is removed.
 
@@ -311,11 +311,11 @@ Syncfusion UWP controls will be automatically configured in Visual Studio toolbo
 
 2. Click Add On and Utilities > Toolbox Installer.
    
-   ![](Utilities_images/Toolbox-Configuration_img1.png)
+   ![Add On and Utilities](Utilities_images/Toolbox-Configuration_img1.png)
 
 3. Toolbox Installer will be opened.
 
-   ![](Utilities_images/Toolbox-Configuration_img2.png)
+   ![Toolbox Installer](Utilities_images/Toolbox-Configuration_img2.png)
 
    The following options are available in Toolbox Configuration:
 
@@ -331,7 +331,7 @@ Syncfusion UWP controls will be automatically configured in Visual Studio toolbo
    
 4. An Information message is displayed indicating the successful configuration of Toolbox. Click OK.
 
-   ![](Utilities_images/Toolbox-Configuration_img3.png)
+   ![Toolbox Installer](Utilities_images/Toolbox-Configuration_img3.png)
    
    
    N> * You must reset the toolbox, when the installed controls are not reflected properly in the Toolbox. * This tool configures only the controls that are located under {Installed Location}\Assemblies\{Framework version}.
@@ -360,11 +360,11 @@ When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Fram
 
 2. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
 
-   ![](Utilities_images/Multi-Target-Manager_img4.png)
+   ![Multi-Target Manager](Utilities_images/Multi-Target-Manager_img4.png)
 
 3. Select the required version from the drop-down list. The Multi-Target Manager dialog box opens.
 
-   ![](Utilities_images/Multi-Target-Manager_img5.png)
+   ![Multi-Target Manager](Utilities_images/Multi-Target-Manager_img5.png)
 
 4. Click OK.
 
@@ -393,7 +393,7 @@ The following steps illustrate how to migrate a project.
    <b>Location:</b> {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Utilities\Project Migration\ProjectMigrationWindows.exe.
    </div>
 
-   ![](Utilities_images/Project-Migration_img1.png)
+   ![Project Migration Tool](Utilities_images/Project-Migration_img1.png)
 
 2. Select the project to be upgraded in the **Select Project Folder** field.
 
@@ -442,7 +442,7 @@ The following steps illustrate how to run the Project Migration tool through com
 
 The following screenshot illustrates this.
 
-![cid:image003.png@01CEB5A3.33923680](Utilities_images/Command-Line_img1.png)
+![Project Migration Console](Utilities_images/Command-Line_img1.png)
 
 ## VSIX Installer
 
@@ -457,17 +457,17 @@ The following steps illustrate how to configure Syncfusion extensions in Visual 
 	<b>Example:</b> C:\Program Files (x86)\Syncfusion\Essential Studio\WPF\15.2.0.40\Utilities\Extensions\VSIX Installer
 	</div>
 	
-   ![](Utilities_images/VSIXInstaller_img1.png)	
+   ![VSIX Installer](Utilities_images/VSIXInstaller_img1.png)	
    
 2. Select the Syncfusion extensions to configure in Visual Studio and click the Configure button.
 
-   ![](Utilities_images/VSIXInstaller_img2.png)
+   ![VSIX Installer](Utilities_images/VSIXInstaller_img2.png)
    
 3. Now, the selected Syncfusion extensions will be configured in Visual Studio.  
 
 4. Once the action is completed, a confirmation message is displayed. Click OK.
 
-   ![](Utilities_images/VSIXInstaller_img3.png)
+   ![VSIX Installer](Utilities_images/VSIXInstaller_img3.png)
 
 ## NuGet Manager
 
@@ -481,29 +481,29 @@ The following steps directs you to add the Syncfusion NuGet Package sources from
 
 2.	Choose Add On and Utilities Tab and click NuGet Manager.
 
-    ![](Utilities_images/NuGetManager_img1.png)
+    ![Add On and Utilities](Utilities_images/NuGetManager_img1.png)
 
 3.	Syncfusion NuGet Manager Window will be opened.
 
-    ![](Utilities_images/NuGetManager_img2.png)
+    ![NuGet Manager](Utilities_images/NuGetManager_img2.png)
 
 4.	Select the required platforms needed to be configured from **Select platforms to add** (Left side of the window) column and click Add» button.
     
-    ![](Utilities_images/NuGetManager_img3.png)
+    ![NuGet Manager](Utilities_images/NuGetManager_img3.png)
 
 5.	Now selected platforms will be added under **Selected platforms to remove** (Right side of the window) column. Click “Configure” button to add the required Syncfusion Package sources to NuGet Package Manager.
 
-    ![](Utilities_images/NuGetManager_img4.png)
+    ![NuGet Manager](Utilities_images/NuGetManager_img4.png)
 	
 6.	Once Syncfusion NuGet Manager added the Syncfusion NuGet sources, the changes will be reflected in package sources of your Visual Studio.
 
-    ![](Utilities_images/NuGetManager_img5.png)
+    ![NuGet Manager](Utilities_images/NuGetManager_img5.png)
 
 ### Remove Syncfusion NuGet Package sources
 
 1.	If any configured Syncfusion NuGet Package sources are no longer required, Select the unwanted platforms from **Select platforms to remove** (Right side of the window) column and click «Remove button.
 
-    ![](Utilities_images/NuGetManager_img6.png)
+    ![NuGet Manager](Utilities_images/NuGetManager_img6.png)
 
 2.	Now selected platforms will be added under **Selected platforms to add** (Left side of the window) column. Click “Configure” button to remove the required Syncfusion Package sources to NuGet Package Manager.
 
