@@ -28,7 +28,7 @@ Syncfusion Essential Studio is not a plug-in for Visual Studio or an IDE like Vi
 
 Syncfusion Essential Studio offers Syncfusion Control Panel from which both the online and offline samples can be viewed for all the controls. Documentation, Read Me and Release Notes can also be viewed from the dashboard itself which reduces the burden of searching over the web.  
 
-![](WPF_images/Dashboard_img1.png)
+![Syncfusion Control Panel](WPF_images/Dashboard_img1.png)
 
 Apart from the installer for Windows, Syncfusion also provides the installer for Mac for the following Essential Studio platforms.
 
