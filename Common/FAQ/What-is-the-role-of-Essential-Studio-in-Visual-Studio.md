@@ -43,7 +43,7 @@ Apart from the installer for Windows, Syncfusion also provides the installer for
 
 Download and install the latest Essential Studio setup from [here](https://www.syncfusion.com/downloads/latest-version).
 
-Refer [this](https://help.syncfusion.com/common/essential-studio/essential-studio-enterprise-installer#step-by-step-installation) link for the step by step installation of Syncfusion Essential Studio setup. 
+Refer [this](https://help.syncfusion.com/common/essential-studio/installation/install-using-the-offline-installer#step-by-step-installation) link for the step by step installation of Syncfusion Essential Studio setup. 
 
 After installing the Essential Studio setup, refer [this](https://help.syncfusion.com/) link for using the Syncfusion controls in Visual Studio for various platforms.  
 
