@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What-is-the-role-of-Essential-Studio-in-Visual-Studio
+title: What-is-the-role-of-Syncfusion-Essential-Studio-in-Visual-Studio
 description: This section illustrates the role of Syncfusion Essential Studio in Visual Studio and its difference from Visual Studio
 platform: common
 control: Essential Studio
@@ -28,7 +28,7 @@ Syncfusion Essential Studio is not a plug-in for Visual Studio or an IDE like Vi
 
 Syncfusion Essential Studio offers Syncfusion Control Panel from which both the online and offline samples can be viewed for all the controls. Documentation, Read Me and Release Notes can also be viewed from the dashboard itself which reduces the burden of searching over the web.  
 
-![](WPF_images/Dashboard_img1.png)
+![Syncfusion Control Panel](WPF_images/Dashboard_img1.png)
 
 Apart from the installer for Windows, Syncfusion also provides the installer for Mac for the following Essential Studio platforms.
 
@@ -43,7 +43,7 @@ Apart from the installer for Windows, Syncfusion also provides the installer for
 
 Download and install the latest Essential Studio setup from [here](https://www.syncfusion.com/downloads/latest-version).
 
-Refer [this](https://help.syncfusion.com/common/essential-studio/essential-studio-enterprise-installer#step-by-step-installation) link for the step by step installation of Syncfusion Essential Studio setup. 
+Refer [this](https://help.syncfusion.com/common/essential-studio/installation/install-using-the-offline-installer#step-by-step-installation) link for the step by step installation of Syncfusion Essential Studio setup. 
 
 After installing the Essential Studio setup, refer [this](https://help.syncfusion.com/) link for using the Syncfusion controls in Visual Studio for various platforms.  
 
