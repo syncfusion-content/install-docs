@@ -15,6 +15,7 @@ This article lists the common Installation errors, reasons and solution for thos
 * [Licensed Expired! What to do?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#licensed-expired-what-to-do)
 * [Not a Valid license holder?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#not-a-valid-license-holder)
 * [Could not install the setup due to another installation?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-another-installation)
+* [Unable to find a license or trial?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#unable-to-find-a-license-or-trial)
 
 ### Could not the unlock Licensed setup with Trial key?
 
@@ -96,7 +97,21 @@ Open the Task Manager and kill the msiexec process and then continue the Syncfus
 ![Task Manager](Errors/Installation_Errors_img5.png)
 
 
+### Unable to find a license or trial?
 
+#### Problem
 
+**Error Message:** Sorry, we are unable to find a license or trial for Essential Studio for {platform} under your account.
 
+![Warning Message](Errors/Installation_Errors_img6.PNG)
 
+#### Reason
+
+This is due to one of the following reasons:
+
+* You are not the license holder of your license. 
+* Your account administrator has not assigned a license to your account yet. Please contact your account administrator to have a license assigned to you or contact us via email at <clientrelations@syncfusion.com>.
+
+#### Suggested solution.
+
+Please check your subscription [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>. Also, you can continue the 30 days trial.
