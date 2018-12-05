@@ -109,6 +109,15 @@ Other information available in the Syncfusion Control Panel includes:
 
 The Assembly Manager is used to install and uninstall the assemblies, to and from the GAC and Public Assemblies folder under the installed location.
 
+### Supported Platforms
+
+Assembly Manager will be shipped for the following platforms as these platforms alone have the GAC support. Other Essential Studio platform assemblies will not be installed in GAC and the Assembly Manager will not be shipped.
+
+* ASP.NET
+* ASP.NET MVC
+* WPF
+* Windows Forms
+
 ### Launching the Assembly Manager 
 
 Use the following steps to run the Assembly Manager.
