@@ -111,12 +111,14 @@ The Assembly Manager is used to install and uninstall the assemblies, to and fro
 
 ### Supported Platforms
 
-Assembly Manager will be shipped for the following platforms as these platforms alone have the GAC support. Other Essential Studio platform assemblies will not be installed in GAC and the Assembly Manager will not be shipped.
+Assembly Manager will be shipped for the following platforms as these platforms alone have the GAC support. Other Syncfusion platform assemblies will not be installed in GAC and the Assembly Manager will not be shipped.
 
 * ASP.NET
 * ASP.NET MVC
+* JavaScript(Essential JS 1)
 * WPF
 * Windows Forms
+* FileFormats
 
 ### Launching the Assembly Manager 
 
