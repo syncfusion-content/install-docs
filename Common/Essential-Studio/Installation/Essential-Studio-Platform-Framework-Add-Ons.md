@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-Starting with version 16.4.0.* (2018 Volume 4), Syncfusion has removed the .NET Framework 2.0, 3.5 and 4.5.1 assemblies and provide the separate Add-On setup for the following platforms. . 
+Starting with version 16.4.0.* (2018 Volume 4), Syncfusion has removed the .NET Framework 2.0, 3.5 and 4.5.1 assemblies and provide the separate Framework Add-On setup for the following platforms. . 
 
 N> Only customers with valid license can download and install the Framework Add-Ons
 
@@ -55,6 +55,6 @@ The following procedure illustrates how to install Syncfusion Platform Framewor
 	
 Now, you can find the Framework 2.0, 3.5 and 4.5.1 assemblies from the Syncfusion Essential Studio Platform installed location.
 
-**Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\{Platform}\{version}\precompiledassemblies
+**Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\ {Platform}\ {version}\precompiledassemblies
 
 **Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\Windows\16.4.0.40\precompiledassemblies
