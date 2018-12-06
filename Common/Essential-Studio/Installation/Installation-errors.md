@@ -57,9 +57,9 @@ Renew the subscription [here](https://www.syncfusion.com/sales/products) or cont
 
 #### Problem
 
-**Error Message:** Sorry, we were unable to find a valid license for Essential Studio for {platform} under your account.
+**Error Message:** Sorry, we are unable to find a valid license for Essential Studio for {platform} under your account.
 
-![Alert Message](Errors/Installation_Errors_img3.png)
+![Alert Message](Errors/Installation_Errors_img3.PNG)
 
 #### Reason
 
