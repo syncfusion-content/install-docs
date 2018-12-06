@@ -37,7 +37,7 @@ The following procedure illustrates how to install Syncfusion Platform Framewor
 
 2.  Confirmation to run the Assembly Manager will be displayed. Click Next. 
 
-    N> If you do not need the asssemblies to be installed in GAC, uncheck the **Run Assembly Manager** checkbox and click Next.
+    N> If you do not need the assemblies to be installed in GAC, uncheck the **Run Assembly Manager** checkbox and click Next.
 
     ![Framework Add On](Framework-Add-On-Images/FrameworkAddOn3.png)
 
