@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-Starting with version 16.4.0.* (2018 Volume 4), Syncfusion has removed the .NET Framework 2.0, 3.5 and 4.5.1 assemblies and provide the separate Framework Add-On setup for the following platforms. . 
+Starting with version 16.4.0.* (2018 Volume 4), Syncfusion has removed the .NET Framework 2.0, 3.5, 4.5.1 and MVC3 assemblies and provide the separate Framework Add-On setup for the following platforms. . 
 
 N> Only customers with valid license can download and install the Framework Add-Ons
 
