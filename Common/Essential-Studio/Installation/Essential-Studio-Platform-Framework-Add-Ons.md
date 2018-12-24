@@ -25,17 +25,17 @@ N> Only customers with valid license can download and install the Framework Add-
 
 1. You can download the Framework Add On setup under your registered Syncfusion account in [License and Downloads](https://www.syncfusion.com/account/downloads) page.
 
-N> Only customers with valid license can download and install the Framework Add-Ons
+   N> Only customers with valid license can download and install the Framework Add-Ons
 
 2. Navigate to the required Essential Studio version and click **More Download Options**.
 
-N> Syncfusion has started providing Framework Add On setup from 2018 Volume 4 release (v16.4.0.42)
+   N> Syncfusion has started providing Framework Add On setup from 2018 Volume 4 release (v16.4.0.42)
 
-![Download](Framework-Add-On-Images/FrameworkAddOn7.png)
+   ![Download](Framework-Add-On-Images/FrameworkAddOn7.png)
 
 3. You can find the Syncfusion Framework Add On setup under the **Add-On** section.
 
-![Download](Framework-Add-On-Images/FrameworkAddOn8.png)
+   ![Download](Framework-Add-On-Images/FrameworkAddOn8.png)
 
 
 
