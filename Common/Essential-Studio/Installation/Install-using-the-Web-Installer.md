@@ -106,7 +106,7 @@ The following procedure illustrates how to install Essential Studio Platform Onl
 
 8. Once the Installation is complete, **Installation Summary** wizard will be displayed. Here you can check the list of platforms which are installed successfully and failed. Click Finish to exit the Installation Summary wizard. 
 
-    ![Installation Summary](WebInstaller/Step-by-Step-Installation_img9.png)
+    ![Installation Summary](WebInstaller/Step-by-Step-Installation_img9.PNG)
 	
 	* Click **Getting Started** link to goto the UG documentation of the corresponding platform.
 	
