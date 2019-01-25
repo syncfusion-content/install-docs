@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows Operating System Vs Syncfusion Supported Version | common | Syncfusion
+title: Syncfusion Supported Version | common | Syncfusion
 description: windows os vs syncfusion supported version
 platform: common
 control: Essential Studio
