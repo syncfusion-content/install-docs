@@ -11,7 +11,7 @@ documentation: ug
 
 The tables in this topic provide the details about what are all Syncfusion versions supported for the corresponding Operating Systems.
 
-# Supported Client Operating Systems
+## Supported Client Operating Systems
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ The tables in this topic provide the details about what are all Syncfusion versi
 </tr>
 </table>
 
-# Supported Server Operating Systems
+## Supported Server Operating Systems
 
 <table>
 <tr>
