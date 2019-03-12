@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add-On
+title: Syncfusion Add-On
 description: add-on
 platform: common
 control: Essential Studio
