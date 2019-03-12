@@ -113,7 +113,7 @@ The Assembly Manager is used to install and uninstall the assemblies, to and fro
 
 Assembly Manager will be shipped for the following platforms as these platforms alone have the GAC support. Other Syncfusion platform assemblies will not be installed in GAC and the Assembly Manager will not be shipped.
 
-* ASP.NET
+* ASP.NET Web Forms
 * ASP.NET MVC
 * JavaScript(Essential JS 1)
 * WPF
@@ -300,7 +300,7 @@ You can copy the product key from the License Manager window to the clipboard. T
 
 ## Toolbox Configuration 
 
-Syncfusion provides toolbox support for WPF, Windows Forms, ASP.NET, UWP and Xamarin platforms. The Syncfusion Toolbox Installer utility adds the Syncfusion controls into the Visual Studio .NET toolbox.
+Syncfusion provides toolbox support for WPF, Windows Forms, ASP.NET Web Forms, UWP and Xamarin platforms. The Syncfusion Toolbox Installer utility adds the Syncfusion controls into the Visual Studio .NET toolbox.
 
 N> Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
 
@@ -316,7 +316,7 @@ I> Syncfusion has started providing Toolbox support for Xamarin platform from v1
 
 Syncfusion UWP controls will be automatically configured in Visual Studio toolbox while installing the Syncfusion UWP setup.
 
-#### For WPF, Windows Forms and ASP.NET platforms:
+#### For WPF, Windows Forms and ASP.NET Web Forms platforms:
 
 1. Open the Syncfusion Control Panel.
 
@@ -426,7 +426,7 @@ The following steps illustrate how to migrate a project.
 
 For Web platforms, follow the steps suggested in the following documentation link to migrate the projects to the latest version. 
 
-ASP.NET - [ASP.NET Migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration) 
+ASP.NET Web Forms - [ASP.NET Migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration) 
 
 ASP.NET MVC - [ASP.NET MVC Migration](https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration)
 

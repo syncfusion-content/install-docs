@@ -271,9 +271,9 @@ The following topic describes the system requirements required by Syncfusion Xam
 
 * Microsoft Visual Studio 2015/2017
 
-## ASP.NET
+## ASP.NET Web Forms
 
-The following topic describes the system requirements required by Syncfusion ASP.NET platform.
+The following topic describes the system requirements required by Syncfusion ASP.NET Web Forms platform.
 
 ### Operating Systems
 

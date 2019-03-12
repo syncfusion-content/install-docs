@@ -18,7 +18,7 @@ Platform</th><th>
 Project Migration link</th></tr>
 <tr>
 <td>
-ASP.NET</td><td>
+ASP.NET Web Forms</td><td>
 {{'[https://help.syncfusion.com/extension/aspnet-extension/project-migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration)' | markdownify }} </td></tr>
 <tr>
 <td>

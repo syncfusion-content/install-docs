@@ -12,7 +12,7 @@ documentation: ug
 
 You can install both Licensed and Trial setup side by side for different Essential Studio platforms. The following alert message will be shown if you install the combination of License and Trial platform setup. However, you can continue the installation. The alert message will be shown for the following platforms.
 
-* ASP.NET
+* ASP.NET Web Forms
 * ASP.NET MVC
 * JavaScript
 * Windows Forms

@@ -21,7 +21,7 @@ Syncfusion provides separate platform setups for all the Essential Studio platfo
 * WPF
 * Universal Windows Platform
 * FileFormats
-* ASP.NET 
+* ASP.NET Web Forms
 * ASP.NET MVC (Essential JS 1)
 * ASP.NET Core (Essential JS 1)
 * JavaScript (Essential JS 1)
@@ -134,7 +134,7 @@ Follow the steps below to install through Command Line in Silent mode.
 
    **Essential Studio version 13.2 to 16.1**
 
-   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
+   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}] [/CreateShortcut:{true/false}]
 
 
    N> [..] – Arguments inside the square brackets are optional.
@@ -156,7 +156,7 @@ Follow the steps below to install through Command Line in Silent mode.
 	
 7. Setup is installed.
 
-   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with ASP.NET, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
+   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with ASP.NET Web Forms, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
    
 
 ### Command Line Uninstallation
@@ -186,5 +186,5 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
    
 8. Setup is uninstalled.
 
-   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with ASP.NET, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
+   N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with ASP.NET Web Forms, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
 
