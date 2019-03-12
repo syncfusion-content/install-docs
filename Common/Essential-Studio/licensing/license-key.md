@@ -21,10 +21,19 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 We have introduced a new licensing system starting with version 16.2.0.x release of Essential Studio. These changes apply to all evaluators and only to paid customers who use NuGet packages. Starting with v16.2.0.x, if you reference Syncfusion assemblies from evaluation builds or from the NuGet feed, you also have to include a license key in your projects. Please note that this license key is different from the setup unlock key that you might have used in the past, and needs to be separately generated from Syncfusion website. A below licensing error will show if this license key is missing,
 
+N> This licensing system is not applicable for Javascript (Essential JS 1 & Essential JS 2) script files(.js files). So there is no need apply license key anywhere in scripts or themes.
+
 <div id="license">
 
 This application was built using a trial version of Syncfusion Essential Studio. Please include a valid license to permanently remove this license validation message. You can also obtain a free 30 day evaluation license to temporarily remove this message during the evaluation period. Please refer to this <a href="/common/essential-studio/licensing/license-key">help topic</a> for more information 
+
 </div>
+
+If you are using File-Format libraries, trial message will be displayed as watermark in the generated documents.
+
+Example
+
+![IO Licensing Message](licensing-images/io-licensing-message.png)
 
 
 
@@ -83,7 +92,7 @@ End Sub
  
 ### WPF
 
-Register the license key in App constructor of **App.xaml.cs** in C#. In Visual Basic, register the license code in **App.xaml.vb**.
+Register the license key in App constructor of **App.xaml.cs** in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor. In Visual Basic, register the license code in **App.xaml.vb**.
 {% tabs %}
 {% highlight c# %}
 public partial class App : Application
@@ -190,7 +199,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### UWP
 
-Register the license key in **App.xaml.cs** constructor before InitializeComponent() in C#. In Visual Basic, register the licensing code in **App.xaml.vb** file before OnLaunched event.
+Register the license key in **App.xaml.cs** constructor before InitializeComponent() in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor. In Visual Basic, register the licensing code in **App.xaml.vb** file before OnLaunched event.
 
 {% tabs %}
 {% highlight c# %}
@@ -221,7 +230,7 @@ End Sub
 
 ### Xamarin.Forms
 
-Register the license key in **App.xaml.cs** constructor before InitializeComponent()
+Register the license key in **App.xaml.cs** constructor before InitializeComponent(). If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
 
 {% tabs %}
 {% highlight c# %}
@@ -236,6 +245,12 @@ public App()
 }
 {% endhighlight %}
 {% endtabs %}
+
+	N> 	1.	Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinandroid) to register Syncfusion license key in Xamarin.Forms.Android
+		2.	Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinios) to register Syncfusion license key in Xamarin.Forms.iOS
+		3.	Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#uwp) to register Syncfusion license key in Xamarin.Forms.UWP
+
+
 
 If you are using **Prism Framework** in your application, register the license key before InitializeComponent in OnInitialized method of **App.Xaml.cs**
 
