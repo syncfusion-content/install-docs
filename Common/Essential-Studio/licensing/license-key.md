@@ -21,7 +21,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 We have introduced a new licensing system starting with version 16.2.0.x release of Essential Studio. These changes apply to all evaluators and only to paid customers who use NuGet packages. Starting with v16.2.0.x, if you reference Syncfusion assemblies from evaluation builds or from the NuGet feed, you also have to include a license key in your projects. Please note that this license key is different from the setup unlock key that you might have used in the past, and needs to be separately generated from Syncfusion website. A below licensing error will show if this license key is missing,
 
-N> This licensing system is not applicable for Javascript (Essential JS 1 & Essential JS 2) script files(.js files). So there is no need apply license key anywhere in scripts or themes.
+N> This licensing system is not applicable for JavaScript (Essential JS 1 & Essential JS 2) script files(.js files). So there is no need apply license key anywhere in scripts or themes.
 
 <div id="license">
 
