@@ -24,7 +24,7 @@ Syncfusion provides the Mac installer for the following Essential Studio platfor
 
 ## How to download Mac setups?
 
-1. To download trial\licensed setup based on your license refer [this](https://help.syncfusion.com/common/essential-studio/download) link.
+1. Refer [this](https://help.syncfusion.com/common/essential-studio/download) link To download trial\licensed setup based on your license.
 
 2. In the downloads page, click the "Mac" button and download the required Mac setup
 
