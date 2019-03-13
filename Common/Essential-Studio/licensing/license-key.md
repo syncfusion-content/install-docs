@@ -31,7 +31,7 @@ This application was built using a trial version of Syncfusion Essential Studio.
 
 If you are using File-Format libraries, trial message will be displayed as watermark in the generated documents.
 
-Example
+**Example**
 
 ![IO Licensing Message](licensing-images/io-licensing-message.png)
 
@@ -246,9 +246,9 @@ public App()
 {% endhighlight %}
 {% endtabs %}
 
-	N> 	1.	Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinandroid) to register Syncfusion license key in Xamarin.Forms.Android
-		2.	Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinios) to register Syncfusion license key in Xamarin.Forms.iOS
-		3.	Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#uwp) to register Syncfusion license key in Xamarin.Forms.UWP
+N> Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinandroid) to register Syncfusion license key in Xamarin.Forms.Android
+   Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinios) to register Syncfusion license key in Xamarin.Forms.iOS
+   Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#uwp) to register Syncfusion license key in Xamarin.Forms.UWP
 
 
 
