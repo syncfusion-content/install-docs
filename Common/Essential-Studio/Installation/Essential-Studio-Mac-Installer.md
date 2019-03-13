@@ -22,7 +22,15 @@ Syncfusion provides the Mac installer for the following Essential Studio platfor
 * Electron
 * WebKit HTML Converter
 
+## How to download Mac setups?
 
+1. To download trial\licensed setup based on your license refer 
+
+   [this](https://help.syncfusion.com/common/essential-studio/download) link.
+
+2. In the downloads page, click the "Mac" button and download the required Mac setup
+
+   ![Download Page](Mac-Installer_images/Mac_Download.png)  
 
 ## Step-by-Step Installation
 

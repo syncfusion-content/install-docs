@@ -22,7 +22,8 @@ The assembly version format differs for each platform. Refer the following table
 <b>4.0</b></td><td>
 <b>4.5</b></td><td>
 <b>4.5.1</b></td><td>
-<b>4.6</b></td></tr>
+<b>4.6</b></td><td>
+<b>netcoreapp3.0</b></td></tr>
 <tr>
 <td>
 <b>Windows Forms</b></td><td>
@@ -31,7 +32,8 @@ The assembly version format differs for each platform. Refer the following table
 16.2400.0.x</td><td>
 16.2450.0.x</td><td>
 16.2451.0.x</td><td>
-16.2460.0.x</td></tr>
+16.2460.0.x</td><td>
+17.3100.0.x</td></tr>
 <tr>
 <td>
 <b>WPF</b></td><td>
@@ -40,7 +42,8 @@ NA</td><td>
 16.2400.0.X</td><td>
 16.2450.0.X</td><td>
 16.2451.0.X</td><td>
-16.2460.0.x</td></tr>
+16.2460.0.x</td><td>
+17.3100.0.x</td></tr>
 <tr>
 <td>
 <b>UWP</b></td><td>
@@ -49,7 +52,8 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-16.2460.0.x</td></tr>
+16.2460.0.x</td><td>
+NA</td></tr>
 <tr>
 <td>
 <b>Xamarin</b></td><td>
@@ -58,6 +62,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 16.2451.0.x</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -66,6 +71,7 @@ NA</td><td>
 NA</td><td>
 MVC 4 - 16.2400.0.x</td><td>
 MVC 5 - 16.2500.0.x</td><td>
+NA</td><td>
 NA</td><td>
 NA</td></tr>
 <tr>
@@ -76,7 +82,8 @@ NA</td><td>
 16.2400.0.x</td><td>
 16.2450.0.x</td><td>
 16.2451.0.x</td><td>
-16.2460.0.x</td></tr>
+16.2460.0.x</td><td>
+NA</td></tr>
 <tr>
 <td>
 <b>ASP.NET MVC (Essential JS 1)</b></td><td>
@@ -85,7 +92,8 @@ NA</td><td>
 <li>MVC 3 - 16.2300.0.x</li><li>MVC 4 - 16.2400.0.x</li></td><td>
 MVC 5 - 16.2500.0.x</td><td>
 NA</td><td>
-MVC 6 - 16.2600.0.x</td></tr>
+MVC 6 - 16.2600.0.x</td><td>
+NA</td></tr>
 <tr>
 <td>
 <b>JavaScript (Essential JS 1)</b></td><td>
@@ -94,7 +102,8 @@ NA</td><td>
 16.2400.0.X</td><td>
 16.2450.0.X</td><td>
 16.2451.0.X</td><td>
-16.2460.0.x</td></tr>
+16.2460.0.X</td><td>
+NA</td></tr>
 </table>
 
 **For ASP.NET Core (Essential JS 1 and Essential JS 2):**
@@ -105,13 +114,15 @@ NA</td><td>
 <b>Platforms</b></td><td>
 <b>netstandard 1.2</b></td><td>
 <b>netstandard 1.4</b></td><td>
-<b>netstandard 2.0</b></td></tr>
+<b>netstandard 2.0</b></td><td>
+<b>netcoreapp3.0</b></td></tr>
 <tr>
 <td>
 <b>ASP.NET Core</b></td><td>
 16.2120.0.x</td><td>
 16.2140.0.x</td><td>
-16.2200.0.x</td></tr>
+16.2200.0.x</td><td>
+NA</td></tr>
 </table>
 
 The following Essential Studio platforms do not have assembly support.
