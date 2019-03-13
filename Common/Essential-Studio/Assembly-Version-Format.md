@@ -33,7 +33,7 @@ The assembly version format differs for each platform. Refer the following table
 16.2450.0.x</td><td>
 16.2451.0.x</td><td>
 16.2460.0.x</td><td>
-17.3100.0.x</td></tr>
+17.1300.0.x</td></tr>
 <tr>
 <td>
 <b>WPF</b></td><td>
@@ -43,7 +43,7 @@ NA</td><td>
 16.2450.0.X</td><td>
 16.2451.0.X</td><td>
 16.2460.0.x</td><td>
-17.3100.0.x</td></tr>
+17.1300.0.x</td></tr>
 <tr>
 <td>
 <b>UWP</b></td><td>
