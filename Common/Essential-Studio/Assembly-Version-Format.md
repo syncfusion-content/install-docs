@@ -9,7 +9,7 @@ documentation: ug
 
 # Assembly Version Format
 
-The assembly version format differs for each platform. Refer the following table for the assembly version’s format for ASP.NET, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP and Xamarin platforms.
+The assembly version format differs for each platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP and Xamarin platforms.
 
 
 
@@ -76,7 +76,7 @@ NA</td><td>
 NA</td></tr>
 <tr>
 <td>
-<b>ASP.NET (Essential JS 1)</b></td><td>
+<b>ASP.NET Web Forms(Essential JS 1)</b></td><td>
 NA</td><td>
 16.2350.0.x</td><td>
 16.2400.0.x</td><td>
