@@ -51,7 +51,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 <div id="license">
 Visual Studio Help Viewer Compatible is available for the following platforms
-	  <li><b>ASP.NET</b> </li>
+	  <li><b>ASP.NET Web Forms</b> </li>
 	  <li><b>ASP.NET MVC</b> </li>
 	  <li><b>Windows Forms</b> </li>
 	  <li><b>WPF</b> </li>

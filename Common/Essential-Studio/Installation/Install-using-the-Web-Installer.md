@@ -36,7 +36,7 @@ Starting with version 16.2 (2018 Vol 2), Syncfusion provides Web Installer for E
 
 **Web (Essential JS 1)**
 
-* ASP.NET
+* ASP.NET Web Forms
 * ASP.NET MVC
 * ASP.NET Core
 * JavaScript
