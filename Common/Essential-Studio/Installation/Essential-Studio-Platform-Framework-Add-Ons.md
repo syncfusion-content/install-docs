@@ -17,7 +17,7 @@ N> Only customers with valid license can download and install the Framework Add-
 
 * Windows Forms
 * WPF
-* ASP.NET
+* ASP.NET Web Forms
 * ASP.NET MVC
 * JavaScript
 

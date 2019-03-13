@@ -34,7 +34,7 @@ I> You can install the Essential Studio Offline Installer using Login and Unlock
 
 **Web (Essential JS 1)**
 
-* ASP.NET
+* ASP.NET Web Forms
 * ASP.NET MVC
 * ASP.NET Core
 * JavaScript
