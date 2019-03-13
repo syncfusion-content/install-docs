@@ -337,6 +337,7 @@ Syncfusion UWP controls will be automatically configured in Visual Studio toolbo
    * Install VS2013 – Configures Framework 4.5.1 Syncfusion controls in VS 2013 toolbox.
    * Install VS2015 – Configures Framework 4.6 Syncfusion controls in VS 2015 toolbox.
    * Install VS2017 – Configures Framework 4.6 Syncfusion controls in VS 2017 toolbox.
+   * Install VS2019 – Configures Framework 4.6 Syncfusion controls in VS 2019 toolbox
    
     N> You can also configure Syncfusion controls from a lower version Framework assembly to higher version of Visual Studio.
    
