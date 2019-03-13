@@ -114,15 +114,13 @@ NA</td></tr>
 <b>Platforms</b></td><td>
 <b>netstandard 1.2</b></td><td>
 <b>netstandard 1.4</b></td><td>
-<b>netstandard 2.0</b></td><td>
-<b>netcoreapp3.0</b></td></tr>
+<b>netstandard 2.0</b></td></tr>
 <tr>
 <td>
 <b>ASP.NET Core</b></td><td>
 16.2120.0.x</td><td>
 16.2140.0.x</td><td>
-16.2200.0.x</td><td>
-NA</td></tr>
+16.2200.0.x</td></tr>
 </table>
 
 The following Essential Studio platforms do not have assembly support.
