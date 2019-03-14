@@ -123,7 +123,7 @@ Follow the steps below to install through Command Line in Silent mode.
 5. Cancel the Wizard.
 6. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version:
 
-**Essential Studio version 17.1 and later**
+   **Essential Studio version 17.1 and later**
 
    **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /UNLOCKKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}] [/InstallVsix:{true/false}] [/CreateShortcut:{true/false}]
    
@@ -132,7 +132,7 @@ Follow the steps below to install through Command Line in Silent mode.
 
    **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /UNLOCKKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true /InstallVsix:true /CreateShortcut:true
    
-**Refer the below table for older versions**
+   **Refer the below table for older versions**
    
 <table>
 <tr>
