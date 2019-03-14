@@ -123,7 +123,7 @@ Follow the steps below to install through Command Line in Silent mode.
 5. Cancel the Wizard.
 6. Open the Command Prompt in administrator mode and pass the following arguments for corresponding version:
 
-   **Essential Studio version 16.2 and later**
+   **Essential Studio version 17.1 and later**
 
    **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /UNLOCKKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}] [/InstallVsix:{true/false}] [/CreateShortcut:{true/false}]
    
@@ -131,24 +131,34 @@ Follow the steps below to install through Command Line in Silent mode.
    N> [..] – Arguments inside the square brackets are optional.
 
    **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /UNLOCKKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true /InstallVsix:true /CreateShortcut:true
-
-   **Essential Studio version 13.2 to 16.1**
-
-   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]
-
-
-   N> [..] – Arguments inside the square brackets are optional.
-
-   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true
-
-   **Essential Studio version from 11.1 to 13.1**
-
-   **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}] 
-
-   N> [..] – Arguments inside the square brackets are optional.
-
-   **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe” Install /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x 
-
+   
+   **Refer the below table for older versions**
+   
+<table>
+<tr>
+<td>
+<b>Syncfusion Essential Studio Versions</b></td><td>
+<b>Arguments</b></td><td>
+<b>Example</b></td></tr>
+<tr>
+<td>
+<b>16.2 to 16.4</b></td><td>
+“Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /UNLOCKKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}] [/InstallVsix:{true/false}]</td><td>
+“D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /UNLOCKKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true /InstallVsix:true</td>
+</tr>
+<tr>
+<td>
+<b>13.2 to 16.1</b></td><td>
+“Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /Install silent /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath:{Location to install}] [/InstallSamples:{true/false}] [/InstallAssemblies:{true/false}] [/UninstallExistAssemblies:{true/false}] [/InstallToolbox:{true/false}]</td><td>
+“D:\Temp\SyncfusionEssentialStudio(platform)_13.2.0.30.exe” /Install silent /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x /InstallSamples:true /InstallAssemblies:true /UninstallExistAssemblies:true /InstallToolbox:true</td>
+</tr>
+<tr>
+<td>
+<b>11.1 to 13.1</b></td><td>
+“Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” Install /PIDKEY:“(product unlock key)” [/log “{Log file path}”] [/InstallPath: {Location to install}]</td><td>
+“D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe” Install /PIDKEY:“product unlock key” /log “C:\Temp\EssentialStudio_Platform.log” /InstallPath:C:\Syncfusion\x.x.x.x</td>
+</tr>
+</table>
    
 
    N> We have provided Advanced Options in silent installation from 13.2.0.x.
