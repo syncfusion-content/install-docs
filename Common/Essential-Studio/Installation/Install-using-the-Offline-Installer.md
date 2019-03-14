@@ -160,7 +160,6 @@ Follow the steps below to install through Command Line in Silent mode.
    </table>
 
    N> We have provided Advanced Options in silent installation from 13.2.0.x.
-
 7. Setup is installed.
 
    N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with ASP.NET Web Forms, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
