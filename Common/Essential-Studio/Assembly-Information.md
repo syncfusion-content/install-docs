@@ -93,7 +93,7 @@ NA</td><td>
 NA</td></tr>
 <tr>
 <td>
-<b>ASP.NET Web Forms(Essential JS 1)</b></td><td>
+<b>ASP.NET Web Forms (Essential JS 1)</b></td><td>
 NA</td><td>
 17.1350.0.x</td><td>
 17.1400.0.x</td><td>
