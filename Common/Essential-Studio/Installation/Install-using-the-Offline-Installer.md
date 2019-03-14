@@ -139,7 +139,7 @@ Follow the steps below to install through Command Line in Silent mode.
 <td>
 <b>Syncfusion Essential Studio Versions</b></td><td>
 <b>Arguments</b></td><td>
-<b>Examples</b></td></tr>
+<b>Example</b></td></tr>
 <tr>
 <td>
 <b>16.2 to 16.4</b></td><td>
