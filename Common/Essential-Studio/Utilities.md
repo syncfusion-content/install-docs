@@ -318,13 +318,21 @@ Syncfusion UWP controls will be automatically configured in Visual Studio toolbo
 
 #### For WPF, Windows Forms and ASP.NET Web Forms platforms:
 
-1. Open the Syncfusion Control Panel.
+1. To launch Toolbox configuration utility, follow either one of the options below:
 
-2. Click Add On and Utilities > Toolbox Installer.
+   **Option 1:**  
+   Choose **Syncfusion menu** in **Visual Studio**. Then, select corresponding platform menu and click **Toolbox Configuration…**
+
+   ![Toolbox Installer via Syncfusion menu](Utilities_images/Syncfusion_Menu_Toolbox.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**   
+   To open the Syncfusion Control Panel, click **Add On and Utilities > Toolbox Installer**.
    
    ![Add On and Utilities](Utilities_images/Toolbox-Configuration_img1.png)
 
-3. Toolbox Installer will be opened.
+2. Toolbox Installer will be opened.
 
    ![Toolbox Installer](Utilities_images/Toolbox-Configuration_img2.png)
 
@@ -341,7 +349,7 @@ Syncfusion UWP controls will be automatically configured in Visual Studio toolbo
    
     N> You can also configure Syncfusion controls from a lower version Framework assembly to higher version of Visual Studio.
    
-4. An Information message is displayed indicating the successful configuration of Toolbox. Click OK.
+3. An Information message is displayed indicating the successful configuration of Toolbox. Click OK.
 
    ![Toolbox Installer](Utilities_images/Toolbox-Configuration_img3.png)
    
