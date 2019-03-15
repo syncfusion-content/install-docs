@@ -137,7 +137,7 @@ Follow the steps below to install through Command Line in Silent mode.
    <table>
    <tr>
    <td>
-   <b>Syncfusion Essential Studio Versions</b></td><td>
+   <b>Essential Studio Versions</b></td><td>
    <b>Arguments</b></td><td>
    <b>Example</b></td></tr>
    <tr>
