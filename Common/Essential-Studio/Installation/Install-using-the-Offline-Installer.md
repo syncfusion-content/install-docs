@@ -138,7 +138,7 @@ Follow the steps below to install through Command Line in Silent mode.
    <td>
    <b>Syncfusion Essential Studio Versions</b></td><td>
    <b>Arguments</b></td><td>
-   <b>Examples</b></td></tr>
+   <b>Example</b></td></tr>
    <tr>
    <td>
    <b>16.2 to 16.4</b></td><td>
@@ -159,11 +159,9 @@ Follow the steps below to install through Command Line in Silent mode.
    </tr>
    </table>
 
-   N> We have provided Advanced Options in silent installation from 13.2.0.x.
-7. Setup is installed.
-
    N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the Unlock Key for that version. The platform should be replaced with ASP.NET Web Forms, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
-   
+
+7. Setup is installed.
 
 ### Command Line Uninstallation
 
@@ -188,8 +186,7 @@ Syncfusion Essential Studio supports uninstalling the setup through Command Line
    **Arguments:** “Setup file path\SyncfusionEssentialStudio(platform)_(version).exe” /uninstall true 
 
    **Example:** “D:\Temp\SyncfusionEssentialStudio(platform)_12.1.0.43.exe" /uninstall true
-    
-   
+
 8. Setup is uninstalled.
 
    N> x.x.x.x needs to be replaced with the Essential Studio version installed in your machine and the Product Unlock Key needs to be replaced with the unlock key for that version. Platform should be replaced with ASP.NET Web Forms, ASP.NET MVC, Windows Forms, WPF, JavaScript, Xamarin, PHP, JSP or UWP.
