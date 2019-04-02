@@ -44,63 +44,76 @@ I> You can install the Essential Studio Offline Installer using Login and Unlock
  
 The following procedure illustrates how to install Essential Studio Offline Installer setup. 
 
-1.  Double-click the Syncfusion Essential Studio Offline Installer setup file. The Setup Wizard opens and extracts the package automatically.
+1.Double-click the Syncfusion Essential Studio Offline Installer setup file. The Setup Wizard opens and extracts the package automatically.
 
-    ![Setup extraction wizard](Offline-ES/Step-by-Step-Installation_img1.png)
+![Setup extraction wizard](Offline-ES/Step-by-Step-Installation_img1.png)
 
     
-    N> The Setup wizard extracts the syncfusionessentialstudiowebinstaller_{version}.exe dialog, displaying the unzip operation of the package.
+N> The Setup wizard extracts the syncfusionessentialstudiowebinstaller_{version}.exe dialog, displaying the unzip operation of the package.
     
-2. Welcome wizard of the Syncfusion Offline Installer will be displayed. Click Proceed.
+2.Welcome wizard of the Syncfusion Offline Installer will be displayed. Click Proceed.
 
-   ![Welcome wizard](Offline-ES/Step-by-Step-Installation_img2.png)
+![Welcome wizard](Offline-ES/Step-by-Step-Installation_img2.png)
 
   
-3.  Platform Selection wizard will be displayed. Here you can select the required platforms to be installed. Click Next.
+3.Platform Selection wizard will be displayed. Here you can select the required platforms to be installed. Click Next.
 
-    ![Platform Selection wizard](Offline-ES/Step-by-Step-Installation_img3.png)
+![Platform Selection wizard](Offline-ES/Step-by-Step-Installation_img3.png)
 	
-	I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
+I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
 	
-	![Additional Software Required alert](Offline-ES/Step-by-Step-Installation_img4.png)
+![Additional Software Required alert](Offline-ES/Step-by-Step-Installation_img4.png)
 	
-	N> You can check the Estimated size of the Download and Installation by clicking the **Download Size and Installation Size** link.
+N> You can check the Estimated size of the Download and Installation by clicking the **Download Size and Installation Size** link.
 	
-	![ES download and installation size](Offline-ES/Step-by-Step-Installation_img5.png)
+![ES download and installation size](Offline-ES/Step-by-Step-Installation_img5.png)
 
-4.  Configuration wizard will be displayed. Here you can change the Install and samples location. Also, you can change the Additional settings for the individual platform. To install using the default configuration, click Next.
+4.Configuration wizard will be displayed. Here you can change the Install and samples location. Also, you can change the Additional settings for the individual platform. To install using the default configuration, click Next.
 
-    ![Configuration wizard](Offline-ES/Step-by-Step-Installation_img6.png)
+![Configuration wizard](Offline-ES/Step-by-Step-Installation_img6.png)
 	
    
-    N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
+N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
 	   **Default Install location:** {ProgramFilesFolder}\Syncfusion\{Platform}\{version}
 	   **Default Samples location:** C:\Users\Public\Documents\Syncfusion\{platform}\{version}
 	   However, you can change the locations by clicking browse button.
 
 	
 	
-    * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
-    * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
-    * Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
-    * Select the **Configure Syncfusion Extensions in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
+* Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
+* Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
+* Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
+* Select the **Configure Syncfusion Extensions in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
 
 
-5.  After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click Next.
+5.After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click Next.
 
-6. Login wizard will be displayed. You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on **Create an Account**. Else if you forgot your password, click on **Forgot Password** to create new password. Click Install.
+6.Login wizard will be displayed. You are provided with two options to unlock the Syncfusion setup.
 
-    ![Login wizard](Offline-ES/Step-by-Step-Installation_img7.png)
+   
+   * Login To Install
+   
+   * Use Unlock Key
 
-7. Download and Installation progress will be displayed.
+**Login To Install** 
 
-    ![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img8.png)
+ You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on **Create an Account**. Else if you forgot your password, click on **Forgot Password** to create new password. Click Install.
 
-8. Once the Installation is complete, **Installation Summary** wizard will be displayed. Here you can check the list of platforms which are installed successfully and failed. Click Finish to exit the Installation Summary wizard. 
+**Use Unlock Key**
+   
+You should use the Syncfusion License key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-the-syncfusion-support-account).
 
-    ![ES Installation Summary](Offline-ES/Step-by-Step-Installation_img9.png)
+![Login wizard](Offline-ES/Step-by-Step-Installation_img7.png)
+
+7.Download and Installation progress will be displayed.
+
+![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img8.png)
+
+8.Once the Installation is complete, **Installation Summary** wizard will be displayed. Here you can check the list of platforms which are installed successfully and failed. Click Finish to exit the Installation Summary wizard. 
+
+![ES Installation Summary](Offline-ES/Step-by-Step-Installation_img9.png)
 	
-	* Click **Getting Started** link to goto the UG documentation of the corresponding platform.
+* Click **Getting Started** link to goto the UG documentation of the corresponding platform.
 	
-	* Click **Launch Control Panel** to open the Syncfusion Control Panel.
+* Click **Launch Control Panel** to open the Syncfusion Control Panel.
 
