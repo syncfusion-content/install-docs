@@ -91,9 +91,9 @@ N> From the 2018 Volume 2 release, Syncfusion has changed the install and sample
 6.Login wizard will be displayed. You are provided with two options to unlock the Syncfusion setup.
 
    
-   * **Login To Install**   
+   * Login To Install
    
-   * **Use Unlock Key**
+   * Use Unlock Key
 
 **Login To Install** 
 
@@ -101,7 +101,7 @@ N> From the 2018 Volume 2 release, Syncfusion has changed the install and sample
 
 **Use Unlock Key**
    
-You should use the Syncfusion License/Trial key. Trial key is valid for 30 days and the installer won't accept the expired trial key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-the-syncfusion-support-account).
+You should use the Syncfusion License key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-the-syncfusion-support-account).
 
 ![Login wizard](Offline-ES/Step-by-Step-Installation_img7.png)
 
