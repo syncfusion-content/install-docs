@@ -107,7 +107,7 @@ You should use the Syncfusion License key. Licensed customer can generate key fr
 
 7.Download and Installation progress will be displayed.
 
-![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img8.PNG)
+![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img8.png)
 
 8.Once the Installation is complete, **Installation Summary** wizard will be displayed. Here you can check the list of platforms which are installed successfully and failed. Click Finish to exit the Installation Summary wizard. 
 
