@@ -1,6 +1,6 @@
 ---
 title : Download
-description : Download
+description : This page explains about how to download the Syncfusion Essential Studio installer based on licensed and trial customer
 platform: common
 documentation: ug
 --- 
