@@ -106,7 +106,7 @@ The following procedure illustrates how to install Essential Studio. 
 6. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing.
 
 
-7. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Syncfusion Control Panel](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ) is launched automatically.
+7. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Syncfusion Control Panel](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) is launched automatically.
 
 
 ## Command Line 
