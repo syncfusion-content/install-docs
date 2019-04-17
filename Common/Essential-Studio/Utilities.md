@@ -82,10 +82,10 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 This section allows you to access the following. 
 
 1. **Add-ons** - This lists the add-on utilities that help you to utilize the additional product services from Syncfusion. 
-2. [Utilities](http://help.syncfusion.com/common/essential-studio/utilities#dashboard ) - This accordion set displays the common utilities.
-   * [Toolbox Configuration](http://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion controls for various .NET Frameworks in combination with compatible Visual Studio versions.
-   * [Assembly Manager](http://help.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
-   * [License Manager](http://help.syncfusion.com/common/essential-studio/utilities#license-manager )- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.   
+2. [Utilities](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) - This accordion set displays the common utilities.
+   * [Toolbox Configuration](https://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion controls for various .NET Frameworks in combination with compatible Visual Studio versions.
+   * [Assembly Manager](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
+   * [License Manager](https://help.syncfusion.com/common/essential-studio/utilities#license-manager )- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.   
    * [Project Migration](https://help.syncfusion.com/common/essential-studio/utilities#project-migration )- This allows to migrate the project references to the given Essential Studio version.
    * [Extension Installer](https://help.syncfusion.com/common/essential-studio/utilities#vsix-installer )- This allows to configure the Syncfusion Visual Studio extensions in Visual Studio.
    * [NuGet Manager](https://help.syncfusion.com/common/essential-studio/utilities#nuget-manager )- This allows to configure the Syncfusion NuGet sources to NuGet Package Manager.
@@ -98,8 +98,8 @@ Other information available in the Syncfusion Control Panel includes:
 
   ![Syncfusion Control Panel](Utilities_images/Dashboard_img16.png)
 
-* [Sales FAQ](http://www.syncfusion.com/sales/faq) - Clicking this link directs you to the FAQ page that lists common sales-related queries and other sales contact information.
-* [Contact Support](http://www.syncfusion.com/Account/Logon?ReturnUrl=%2fsupport%2fdirecttrac) - Clicking this link directs you to the Direct-Trac Login page to contact the Support Team.
+* [Sales FAQ](https://www.syncfusion.com/sales/faq) - Clicking this link directs you to the FAQ page that lists common sales-related queries and other sales contact information.
+* [Contact Support](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fsupport%2fdirecttrac) - Clicking this link directs you to the Direct-Trac Login page to contact the Support Team.
 * Check for updates - Shows the latest version of Syncfusion Essential Studio if available.
 * License Agreement - Shows the License Agreement for the current version of Essential Studio.
 
