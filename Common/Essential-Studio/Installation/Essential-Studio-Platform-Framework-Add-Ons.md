@@ -79,4 +79,4 @@ Now, you can find the Framework 2.0, 3.5 and 4.5.1 assemblies from the Syncfusio
 
 ## Toolbox Configuration
 
-After installing the Syncfusion Platform Framework Add-On setup, you can configure the Framework 2.0, 3.5 and 4.5.1 controls in Visual Studio toolbox using [Syncfusion Toolbox Installer](https://help.syncfusion.com/common/essential-studio/utilities#for-wpf-windows-forms-and-aspnet-platforms)
+After installing the Syncfusion Platform Framework Add-On setup, you can configure the Framework 2.0, 3.5 and 4.5.1 controls in Visual Studio toolbox using [Syncfusion Toolbox Installer](https://help.syncfusion.com/common/essential-studio/utilities#for-wpf-windows-forms-and-aspnet-web-forms-platforms)
