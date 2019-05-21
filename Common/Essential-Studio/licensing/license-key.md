@@ -19,7 +19,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 # Syncfusion Licensing Overview
 
-We have introduced a new licensing system starting with version 16.2.0.x release of Essential Studio. These changes apply to all evaluators and only to paid customers who use NuGet packages. Starting with v16.2.0.x, if you reference Syncfusion assemblies from evaluation builds or from the NuGet feed, you also have to include a license key in your projects. Please note that this license key is different from the setup unlock key that you might have used in the past, and needs to be separately generated from Syncfusion website. A below licensing error will show if this license key is missing,
+We have introduced a new licensing system starting with version 16.2.0.x release of Essential Studio. These changes apply to all evaluators and only to paid customers who use NuGet packages from [nuget.org](https://www.nuget.org/). Starting with v16.2.0.x, if you reference Syncfusion assemblies from evaluation builds or from the NuGet feed, you also have to include a license key in your projects. Please note that this license key is different from the setup unlock key that you might have used in the past, and needs to be separately generated from Syncfusion website. A below licensing error will show if this license key is missing,
 
 <div id="license">
 
@@ -43,7 +43,7 @@ License keys can be generated from the [License & Downloads](https://syncfusion.
 
 ![Get License Key](licensing-images/generate-license.png)
 
-Kindly follow the [KB](https://www.syncfusion.com/kb/8976/how-to-generate-license-key-for-licensed-products) to generate the license key for required version and platform.
+As Syncfusion license key is **version and platform specific**, kindly follow the [KB](https://www.syncfusion.com/kb/8976/how-to-generate-license-key-for-licensed-products) to generate the license key for required version and platform. Also, refer to the [KB](https://www.syncfusion.com/kb/8951/which-version-syncfusion-license-key-should-i-use-in-my-application) to know which version Syncfusion license key should use in the application.
 
 ## How to register the Syncfusion license key
 
