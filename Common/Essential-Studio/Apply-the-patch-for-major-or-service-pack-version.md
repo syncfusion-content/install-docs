@@ -68,7 +68,7 @@ In the patch assembly, the **File Version** and **Product Version** will be diff
    
 ![Patch Assembly](Patches_images/Installing-a-Patch-Setup_img8.png)
    
-**File Version of the assembly shipped in patch:**
+**Product Version of the assembly shipped in patch:**
    
 ![Patch Assembly](Patches_images/Installing-a-Patch-Setup_img9.png)
 
