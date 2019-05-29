@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I don't have Syncfusion license key, where can I get? | Syncfusion
+title: I don't have Syncfusion license key, where can I get?
 description: This section provides information about upgrading from Trial version of Essential Studio to Licensed version
 platform: common
 control: Essential Studio
