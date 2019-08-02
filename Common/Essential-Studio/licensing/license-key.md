@@ -246,7 +246,8 @@ public App()
 {% endhighlight %}
 {% endtabs %}
 
-N> Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinandroid) to register Syncfusion license key in Xamarin.Forms.Android
+N> If you are developing an application using Prism or Gorilla Player SDK, it is must to register the Syncfusion license key in Xamarin.Forms.Android, Xamarin.Forms.iOS, and Xamarin.Forms.UWP.
+   Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinandroid) to register Syncfusion license key in Xamarin.Forms.Android
    Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#xamarinios) to register Syncfusion license key in Xamarin.Forms.iOS
    Refer [this link](https://help.syncfusion.com/common/essential-studio/licensing/license-key#uwp) to register Syncfusion license key in Xamarin.Forms.UWP
 
