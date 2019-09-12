@@ -150,7 +150,7 @@ The following procedure illustrates how to uninstall Essential Studio Platform f
     ![Uninstallation Summary](WebInstaller/Step-by-Step-Installation_img14.png)
 	
 	
-## Install and Uninstallation
+## Installation and Uninstallation
 
 The following procedure illustrates how to install/uninstall Essential Studio Platform from Web Installer setup. 
 
