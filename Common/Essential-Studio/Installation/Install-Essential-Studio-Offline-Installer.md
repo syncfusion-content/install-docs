@@ -58,7 +58,7 @@ N> The Setup wizard extracts the syncfusionessentialstudiosetup_{version}.exe d
 ![Welcome wizard](Offline-ES/Step-by-Step-Installation_img2.png)
 
   
-3.Platform Selection wizard will be displayed. Here you can select the required platforms to be installed/uninstalled. Select the plaforms to be installed from the **Available** tab and platforms to be uninstalled from the **Installed** tab. Click Next.
+3.Platform Selection wizard will be displayed. Here you can select the required platforms to be installed/uninstalled. Select the platforms to be installed from the **Available** tab and platforms to be uninstalled from the **Installed** tab. Click Next.
 
      **Available**
 	
@@ -78,12 +78,12 @@ I> If the required software of the selected platform was not already installed, 
 	
 	N> You can check the Estimated size of the Download and Installation by clicking the **Download Size and Installation Size** link.
 	
-	![Downaload and Installation size](Offline-ES/Step-by-Step-Installation_img6.png)
+	![Downaload and Installation size](Offline-ES/Step-by-Step-Installation_img7.png)
 	
 
 5.  Configuration wizard will be displayed. Here you can change the Download, Install and samples location. Also, you can change the Additional settings by platform basis. To install using the default configuration, click Next.
 
-    ![Install and samples location](Offline-ES/Step-by-Step-Installation_img7.png)
+    ![Install and samples location](Offline-ES/Step-by-Step-Installation_img8.png)
 	
 	I> From version 17.3 (2019 Vol 3), Syncfusion provides option to provide custom download location.
 	
@@ -115,21 +115,21 @@ N> From the 2018 Volume 2 release, Syncfusion has changed the install and sample
 
  You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on **Create an Account**. Else if you forgot your password, click on **Forgot Password** to create new password. Click Install.
 
-![Login wizard](Offline-ES/Step-by-Step-Installation_img8.png)
+![Login wizard](Offline-ES/Step-by-Step-Installation_img9.png)
 
 **Use Unlock Key**
    
 You should use the Syncfusion License key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-the-syncfusion-support-account).
 
-![Install using Key](Offline-ES/Step-by-Step-Installation_img9.png)
+![Install using Key](Offline-ES/Step-by-Step-Installation_img10.png)
 
 8.Download, Installation and Uninstallation progress will be displayed.
 
-![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img10.png)
+![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img11.png)
 
 9.Once the Installation/Uninstallation is complete, **Summary** wizard will be displayed. Here you can check the list of platforms which are installed/uninstalled successfully and failed. Click Finish to exit the Summary wizard. 
 
-![ES Installation Summary](Offline-ES/Step-by-Step-Installation_img11.png)
+![ES Installation Summary](Offline-ES/Step-by-Step-Installation_img12.png)
 	
 * Click **Launch Control Panel** to open the Syncfusion Control Panel.
 
