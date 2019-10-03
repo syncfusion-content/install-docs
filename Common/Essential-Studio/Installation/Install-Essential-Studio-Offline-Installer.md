@@ -73,7 +73,7 @@ I> If the required software of the selected platform was not already installed, 
 	
 ![Additional Software Required alert](Offline-ES/Step-by-Step-Installation_img5.png)
 	
-4. Confirmation wizard will be displayed. Here you can view and modify the list of platforms that will be installed/uninstalled.
+4.Confirmation wizard will be displayed. Here you can view and modify the list of platforms that will be installed/uninstalled.
 
 ![Confirmation for install/uninstall](Offline-ES/Step-by-Step-Installation_img6.png)
 	
@@ -82,17 +82,17 @@ N> You can check the Estimated size of the Download and Installation by clicking
 ![Downaload and Installation size](Offline-ES/Step-by-Step-Installation_img7.png)
 	
 
-5.  Configuration wizard will be displayed. Here you can change the Download, Install and samples location. Also, you can change the Additional settings by platform basis. To install using the default configuration, click Next.
+5.Configuration wizard will be displayed. Here you can change the Download, Install and samples location. Also, you can change the Additional settings by platform basis. To install using the default configuration, click Next.
 
 ![Install and samples location](Offline-ES/Step-by-Step-Installation_img8.png)
 	
 I> From version 17.3 (2019 Vol 3), Syncfusion provides option to provide custom download location.
 	
    
-    N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
-	   **Default Install location:** {ProgramFilesFolder}\Syncfusion\{Platform}\{version}
-	   **Default Samples location:** C:\Users\Public\Documents\Syncfusion\{platform}\{version}
-	   However, you can change the locations by clicking browse button.
+N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
+   **Default Install location:** {ProgramFilesFolder}\Syncfusion\{Platform}\{version}
+   **Default Samples location:** C:\Users\Public\Documents\Syncfusion\{platform}\{version}
+   However, you can change the locations by clicking browse button.
 
 	
 	
