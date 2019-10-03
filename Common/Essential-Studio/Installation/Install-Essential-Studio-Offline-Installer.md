@@ -27,6 +27,7 @@ I> You can install the Essential Studio Offline Installer using Login and Unlock
 **Mobile**
 
 * Xamarin
+* Flutter
 
 **Desktop**
 
@@ -60,7 +61,7 @@ N> The Setup wizard extracts the syncfusionessentialstudiosetup_{version}.exe d
   
 3.Platform Selection wizard will be displayed. Here you can select the required platforms to be installed/uninstalled. Select the platforms to be installed from the **Available** tab and platforms to be uninstalled from the **Installed** tab. Click Next.
 
-     **Available**
+    **Available**
 	
     ![Platform Selection wizard Available](Offline-ES/Step-by-Step-Installation_img3.png)
 	
@@ -68,9 +69,9 @@ N> The Setup wizard extracts the syncfusionessentialstudiosetup_{version}.exe d
 	
     ![Platform Selection wizard Installed](Offline-ES/Step-by-Step-Installation_img4.png)
 	
-I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
+    I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
 	
-![Additional Software Required alert](Offline-ES/Step-by-Step-Installation_img5.png)
+    ![Additional Software Required alert](Offline-ES/Step-by-Step-Installation_img5.png)
 	
 4. Confirmation wizard will be displayed. Here you can view and modify the list of platforms that will be installed/uninstalled.
 
@@ -88,7 +89,7 @@ I> If the required software of the selected platform was not already installed, 
 	I> From version 17.3 (2019 Vol 3), Syncfusion provides option to provide custom download location.
 	
    
-N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
+    N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
 	   **Default Install location:** {ProgramFilesFolder}\Syncfusion\{Platform}\{version}
 	   **Default Samples location:** C:\Users\Public\Documents\Syncfusion\{platform}\{version}
 	   However, you can change the locations by clicking browse button.

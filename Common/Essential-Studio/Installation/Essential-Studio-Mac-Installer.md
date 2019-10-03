@@ -16,6 +16,7 @@ Syncfusion provides the Mac installer for the following Essential Studio platfor
 * ASP.NET Core (Essential JS 2)
 * JavaScript (Essential JS 2)
 * Xamarin
+* Flutter
 * ASP.NET Core (Essential JS 1)
 * JavaScript (Essential JS 1)
 * PHP

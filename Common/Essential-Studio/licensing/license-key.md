@@ -314,6 +314,17 @@ public override bool FinishedLaunching(UIApplication application, NSDictionary l
 {% endhighlight %}
 {% endtabs %}
 
+### Flutter
+
+Register the license key in the **main method** of your example.
+
+[Dart]
+void main() {
+//Register Syncfusion license
+SyncfusionLicense.registerLicense("YOUR LICENSE KEY");
+return runApp(MyApp());
+}
+
 ## Registering key in a User control that contains Syncfusion controls
 We recommend registering the license key at application level as shown in the previous sections
 
