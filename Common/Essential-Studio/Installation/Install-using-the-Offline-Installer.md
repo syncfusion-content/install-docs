@@ -17,6 +17,7 @@ Syncfusion provides separate platform setups for all the Essential Studio platfo
 * ASP.NET Core (Essential JS 2)
 * JavaScript (Essential JS 2)
 * Xamarin
+* Flutter
 * Windows Forms 
 * WPF
 * Universal Windows Platform
