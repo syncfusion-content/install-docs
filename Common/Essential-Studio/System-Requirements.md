@@ -271,6 +271,29 @@ The following topic describes the system requirements required by Syncfusion Xam
 
 * Microsoft Visual Studio 2015/2017/2019
 
+## Flutter
+
+The following topic describes the system requirements required by Syncfusion Flutter platform.
+
+### Operating Systems
+
+* Windows 7 SP1
+* Windows 8, 8.1
+* Windows 10
+* Android API level 16 & later
+* iOS 8 & later
+
+### Hardware Environment
+
+* Processor: x86 or x64
+* RAM : 512 MB (minimum), 1 GB (recommended)
+* Hard disk: up to 3 GB of available space may be required
+
+### Development Environment
+
+* Android SDK 16 & later
+* Android studio/ VS code
+
 ## ASP.NET Web Forms
 
 The following topic describes the system requirements required by Syncfusion ASP.NET Web Forms platform.

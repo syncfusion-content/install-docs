@@ -25,6 +25,7 @@ Starting with the version 17.3 (2019 Vol 3), Syncfusion provides updated version
 **Mobile**
 
 * Xamarin
+* Flutter
 
 **Desktop**
 
