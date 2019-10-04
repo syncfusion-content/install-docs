@@ -88,7 +88,7 @@ This section allows you to access the following. 
    * [License Manager](https://help.syncfusion.com/common/essential-studio/utilities#license-manager )- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.   
    * [Project Migration](https://help.syncfusion.com/common/essential-studio/utilities#project-migration )- This allows to migrate the project references to the given Essential Studio version.
    * [Extension Installer](https://help.syncfusion.com/common/essential-studio/utilities#vsix-installer )- This allows to configure the Syncfusion Visual Studio extensions in Visual Studio.
-   * [NuGet Manager](https://help.syncfusion.com/common/essential-studio/utilities#nuget-manager )- This allows to configure the Syncfusion NuGet sources to NuGet Package Manager.
+   
 
 ### Other Information
 
@@ -489,46 +489,6 @@ The following steps illustrate how to configure Syncfusion extensions in Visual 
 
    ![VSIX Installer](Utilities_images/VSIXInstaller_img3.png)
 
-## NuGet Manager
 
-Syncfusion NuGet Package Manager is the utility that allows you to add, remove and update the Syncfusion NuGet sources (available platforms) to NuGet Package Manager of Visual Studio. 
-
-### Add Syncfusion NuGet Package Sources
-
-The following steps directs you to add the Syncfusion NuGet Package sources from Syncfusion NuGet Manager.
-
-1.	Open Syncfusion Control Panel.
-
-2.	Choose Add On and Utilities Tab and click NuGet Manager.
-
-    ![Add On and Utilities](Utilities_images/NuGetManager_img1.png)
-
-3.	Syncfusion NuGet Manager Window will be opened.
-
-    ![NuGet Manager](Utilities_images/NuGetManager_img2.png)
-
-4.	Select the required platforms needed to be configured from **Select platforms to add** (Left side of the window) column and click Add» button.
-    
-    ![NuGet Manager](Utilities_images/NuGetManager_img3.png)
-
-5.	Now selected platforms will be added under **Selected platforms to remove** (Right side of the window) column. Click “Configure” button to add the required Syncfusion Package sources to NuGet Package Manager.
-
-    ![NuGet Manager](Utilities_images/NuGetManager_img4.png)
-	
-6.	Once Syncfusion NuGet Manager added the Syncfusion NuGet sources, the changes will be reflected in package sources of your Visual Studio.
-
-    ![NuGet Manager](Utilities_images/NuGetManager_img5.png)
-
-### Remove Syncfusion NuGet Package sources
-
-1.	If any configured Syncfusion NuGet Package sources are no longer required, Select the unwanted platforms from **Select platforms to remove** (Right side of the window) column and click «Remove button.
-
-    ![NuGet Manager](Utilities_images/NuGetManager_img6.png)
-
-2.	Now selected platforms will be added under **Selected platforms to add** (Left side of the window) column. Click “Configure” button to remove the required Syncfusion Package sources to NuGet Package Manager.
-
-3.	Once Syncfusion NuGet Manager removed the Syncfusion NuGet sources, the changes will be reflected in NuGet.config file of your machine and updated the same in available package sources of your Visual Studio.
-
-	
 	
 
