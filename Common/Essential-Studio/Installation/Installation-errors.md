@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installation-faq | common | Syncfusion
-description: Learn what are the Syncfusion Installation errors
+description: Learn about the Syncfusion Installation errors and steps to resolve it
 platform: common
 control: Essential Studio
 documentation: ug
