@@ -316,15 +316,17 @@ public override bool FinishedLaunching(UIApplication application, NSDictionary l
 
 ### Flutter
 
-Register the license key in the **main method** of your example.
+Register the license key in the **main method** of your example and import the ‘syncfusion_flutter_core/core.dart' library.
 
-[Dart]
 {% tabs %}
-{% highlight c# %}
-void main() {
-//Register Syncfusion license
-SyncfusionLicense.registerLicense("YOUR LICENSE KEY");
-return runApp(MyApp());
+{% highlight Dart %}
+// Refer the core package
+import 'package:syncfusion_flutter_core/core.dart';
+
+void main() { 
+// Register Syncfusion license 
+SyncfusionLicense.registerLicense("YOUR LICENSE KEY"); 
+return runApp(MyApp()); 
 }
 {% endhighlight %}
 {% endtabs %}
