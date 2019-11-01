@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample Browser Access Denied for Non-Admin User | Common | Syncfusion
-description: how to overcome sample browser access denied error for non-admin user?
+description: provides information about how to overcome sample browser access denied error for non-admin user?
 platform: common
 control: Essential Studio
 documentation: ug

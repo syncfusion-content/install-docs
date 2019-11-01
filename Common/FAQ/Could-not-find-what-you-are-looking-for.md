@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Couldn't Find What You are Looking For | Common | Syncfusion
-description: couldn't find what you are looking for
+description: provides answers to the questions which has been asked by many customers
 platform: common
 control: Essential Studio
 documentation: ug

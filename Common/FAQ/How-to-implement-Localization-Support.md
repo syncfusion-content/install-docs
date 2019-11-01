@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Localization Support | Common | Syncfusion
-description: how to implement localization support?
+description: provides information about how to implement localization support and customize the application?
 platform: common
 control: Essential Studio
 documentation: ug

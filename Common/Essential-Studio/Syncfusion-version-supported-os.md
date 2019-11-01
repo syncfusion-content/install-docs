@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Version Supported OS | Common | Syncfusion
-description: syncfusion supported os
+description: provides information about syncfusion supported os for each platform
 platform: common
 control: Essential Studio
 documentation: ug

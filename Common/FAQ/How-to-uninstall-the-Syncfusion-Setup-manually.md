@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uninstall Syncfusion Setup Manually | Common | Syncfusion
-description: how to uninstall the syncfusion setup manually?
+description: provides information about how to uninstall the syncfusion setup manually?
 platform: common
 control: Essential Studio
 documentation: ug
