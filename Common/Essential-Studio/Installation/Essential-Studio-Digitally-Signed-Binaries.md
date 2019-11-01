@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Studio Digitally Signed Binaries  | common | Syncfusion
+title: Essential Studio Digitally Signed Binaries  | Common | Syncfusion
 description: essential studio digitally signed binaries
 platform: common
 control: Essential Studio

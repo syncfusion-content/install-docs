@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syncfusion Version Supported OS | common | Syncfusion
+title: Syncfusion Version Supported OS | Common | Syncfusion
 description: syncfusion supported os
 platform: common
 control: Essential Studio

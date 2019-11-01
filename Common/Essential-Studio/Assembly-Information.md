@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assembly Version Format | common | Syncfusion
+title: Assembly Version Format | Common | Syncfusion
 description: assembly version format 
 platform: common
 control: Essential Studio

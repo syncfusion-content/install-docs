@@ -1,6 +1,6 @@
 ---
 layout: post
-title: System Requirements | common | Syncfusion
+title: System Requirements | Common | Syncfusion
 description: system requirements 
 platform: common
 control: Essential Studio

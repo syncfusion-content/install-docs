@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Source Code | common | Syncfusion
+title: Source Code | Common | Syncfusion
 description: source code 
 platform: common
 control: Essential Studio

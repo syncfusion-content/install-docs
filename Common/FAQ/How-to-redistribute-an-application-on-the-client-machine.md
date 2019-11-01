@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-to-redistribute-an-application-on-the-client-m
+title: Redistribute Application on Client Machine | Common | Syncfusion
 description: how to redistribute an application on the client machine?
 platform: common
 control: Essential Studio

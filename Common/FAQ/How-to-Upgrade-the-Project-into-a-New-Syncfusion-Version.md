@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-to-Upgrade-the-Project-into-a-New-Syncfusion-V
+title: Upgrade Projects to New Syncfusion Version | Common | Syncfusion
 description: how to upgrade the project into a new syncfusion version? 
 platform: common
 control: Essential Studio

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-to-overcome-Sample-Browser-Access-Denied-error
+title: Sample Browser Access Denied for Non-Admin User | Common | Syncfusion
 description: how to overcome sample browser access denied error for non-admin user?
 platform: common
 control: Essential Studio

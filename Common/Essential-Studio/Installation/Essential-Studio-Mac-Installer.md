@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Studio Mac Installer | common | Syncfusion
+title: Essential Studio Mac Installer | Common | Syncfusion
 description: essential studio mac installer
 platform: common
 control: Essential Studio

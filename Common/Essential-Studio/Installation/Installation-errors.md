@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation-faq | common | Syncfusion
+title: Installation-FAQ | Common | Syncfusion
 description: essential studio mac installer
 platform: common
 control: Essential Studio

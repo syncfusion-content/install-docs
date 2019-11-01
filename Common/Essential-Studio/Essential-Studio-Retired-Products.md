@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Studio Retired Products | common | Syncfusion
+title: Essential Studio Retired Products | Common | Syncfusion
 description: essential studio retired products
 platform: common
 control: Essential Studio

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-to-implement-Localization-Support
+title: Localization Support | Common | Syncfusion
 description: how to implement localization support?
 platform: common
 control: Essential Studio

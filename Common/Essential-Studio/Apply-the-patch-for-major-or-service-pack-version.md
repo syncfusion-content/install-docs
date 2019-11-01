@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apply the patch for major\service pack version | common | Syncfusion
+title: Apply the Patch for Major\Service Pack Version | Common | Syncfusion
 description: apply the patch for major or service pack version
 platform: common
 control: Essential Studio

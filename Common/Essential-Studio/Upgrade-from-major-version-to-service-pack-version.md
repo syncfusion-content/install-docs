@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upgrade from major version to service pack version| common | Syncfusion
+title: Upgrade from Major Version to Service Pack Version| Common | Syncfusion
 description: upgrade from major version to service pack version
 platform: common
 control: Essential Studio

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Studio Platform Framework Add-Ons  | common | Syncfusion
+title: Essential Studio Platform Framework Add-Ons  | Common | Syncfusion
 description: add-ons for .net framework 2.0,3.5 and 4.5.1
 platform: common
 control: Essential Studio

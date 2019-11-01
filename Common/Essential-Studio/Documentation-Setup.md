@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Documentation Setup | common | Syncfusion
+title: Documentation Setup | Common | Syncfusion
 description: documentation setup  
 platform: common
 control: Essential Studio

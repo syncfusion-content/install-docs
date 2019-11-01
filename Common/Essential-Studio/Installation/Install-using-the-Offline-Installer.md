@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Studio Offline Installer | common | Syncfusion
+title: Essential Studio Offline Installer | Common | Syncfusion
 description: This section provides information regarding the Syncfusion Offline installer and steps for installing it
 platform: common
 control: Essential Studio

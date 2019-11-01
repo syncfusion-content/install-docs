@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Studio Enterprise Binaries  | common | Syncfusion
+title: Essential Studio Enterprise Binaries  | Common | Syncfusion
 description: essential studio enterprise binaries
 platform: common
 control: Essential Studio

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terminology | common | Syncfusion
+title: Terminology | Common | Syncfusion
 description: terminology
 platform: common
 control: Essential Studio
