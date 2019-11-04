@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Documentation Setup | Common | Syncfusion
-description: provides information about the syncfusion documentation setup  both online and offline
+description: this section provides the information about the syncfusion documentation setup  both online and offline
 platform: common
 control: Essential Studio
 documentation: ug

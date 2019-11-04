@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Major Version to Service Pack Version| Common | Syncfusion
-description: provides information about upgrading from major version to service pack version
+description: this section provides the information about upgrading the projects from major version to service pack version
 platform: common
 control: Essential Studio
 documentation: ug

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terminology | Common | Syncfusion
-description: provides information about the images, menus and dialog boxes used in the documentation
+description: this section provides the information about the images, menus and dialog boxes used in the documentation
 platform: common
 control: Essential Studio
 documentation: ug

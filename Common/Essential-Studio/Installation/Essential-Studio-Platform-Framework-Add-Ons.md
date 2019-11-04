@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Studio Platform Framework Add-Ons  | Common | Syncfusion
-description: provides information about add-ons for .net framework 2.0,3.5 and 4.5.1 and steps for installation
+description: provides information about syncfusion add-ons for .net framework 2.0,3.5 and 4.5.1 and steps for installation
 platform: common
 control: Essential Studio
 documentation: ug
