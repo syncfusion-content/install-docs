@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install Essential Studio Offline | Common | Syncfusion
-description: provides information about syncfusion offline installer and steps for installation
+description: this section provides the information about syncfusion offline installer and steps for installing it
 platform: common
 control: Essential Studio
 documentation: ug

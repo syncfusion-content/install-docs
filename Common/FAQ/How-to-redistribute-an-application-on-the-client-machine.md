@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redistribute Application on Client Machine | Common | Syncfusion
-description: provides information about how to redistribute an application on the client machine?
+description: this section provides the information about how to redistribute an application on the client machine?
 platform: common
 control: Essential Studio
 documentation: ug

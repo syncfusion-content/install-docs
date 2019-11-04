@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Localization Support | Common | Syncfusion
-description: provides information about how to implement localization support and customize the application?
+description: this section provides the information about how to implement localization support and customize the application?
 platform: common
 control: Essential Studio
 documentation: ug
@@ -40,7 +40,7 @@ The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localizatio
 
     The following illustrates customization from English to French.
 
-    ![](WPF_images/WPF_img2.jpeg)
+    ![Customization from English to French](WPF_images/WPF_img2.jpeg)
 
 6.  Generate the localized satellite assembly using the modified .csv file and install in the application. 
 7.  Open Command Prompt, and navigate to the en-US directory. 
@@ -80,7 +80,7 @@ At the end of this process, the application should contain the following to achi
 
 The following image illustrates Calendar control in the French language.
 
-![](WPF_images/WPF_img4.jpeg)
+![Calendar control](WPF_images/WPF_img4.jpeg)
 
  N> * Localized strings are not displayed in your application until the created satellite assembly is signed. Send in your newly created assemblies for signing. Your assemblies are signed and sent immediately.
  * It is not required to install satellite assemblies in the GAC or Assemblies folder.
@@ -170,13 +170,13 @@ this.RootVisual = new MainPage();
 
 The following screenshots illustrate the Ribbon Control with various culture options:
 
-![](Silverlight_images/Silverlight_img1.jpeg)
+![Ribbon Control](Silverlight_images/Silverlight_img1.jpeg)
 
-![](Silverlight_images/Silverlight_img2.jpeg)
+![Ribbon Control-Silverlight](Silverlight_images/Silverlight_img2.jpeg)
 
-![](Silverlight_images/Silverlight_img3.jpeg)
+![Ribbon Control-Silverlight](Silverlight_images/Silverlight_img3.jpeg)
 
-![](Silverlight_images/Silverlight_img4.jpeg)
+![Ribbon Control-Silverlight](Silverlight_images/Silverlight_img4.jpeg)
 
 
 ## Windows and ASP.NET

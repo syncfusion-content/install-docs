@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrade Projects to New Syncfusion Version | Common | Syncfusion
-description: how to upgrade the project into a new syncfusion version? 
+description: this section provides how to upgrade the projects from existing version to a new syncfusion version?
 platform: common
 control: Essential Studio
 documentation: ug
@@ -34,7 +34,7 @@ You can upgrade the project in two methods, based on the procedure used in your 
 3. Set the SpecificVersion to False.
 4. Recompile your project; the latest assemblies from GAC refer to your project automatically. 
    
-   ![](Upgrading-the-Projects-Manually_images/Upgrading-the-Projects-Manually_img1.png)
+   ![Manual Upgradation](Upgrading-the-Projects-Manually_images/Upgrading-the-Projects-Manually_img1.png)
 
 ### Switching the Framework Version While Upgrading the Project
 

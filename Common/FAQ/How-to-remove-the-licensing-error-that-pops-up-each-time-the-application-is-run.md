@@ -42,20 +42,20 @@ The following steps help you to embed the License.licx file as an embedded resou
 5. In the Solution Explorer, click the License file node and then open the Properties window.
 6. Set the Build Action property to Embedded Resource.
    
-   ![](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img1.png)
+   ![Embedded Resource](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img1.png)
 
 
 
 7. A Licensing Error message opens. 
    
-   ![](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img2.jpeg)
+   ![Licensing Error](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img2.jpeg)
 
 
 8. Click Fix It.
 
 9. The Syncfusion Licensing Enabler dialog box opens. 
    
-   ![](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img3.jpeg)
+   ![Syncfusion Licensing Enabler dialog](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img3.jpeg)
 
 
 
@@ -63,7 +63,7 @@ The following steps help you to embed the License.licx file as an embedded resou
 
 11. The File Modification Detected dialog box opens. 
     
-	![](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img4.jpeg)
+	![File Modification](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img4.jpeg)
 
 
 
@@ -71,7 +71,7 @@ The following steps help you to embed the License.licx file as an embedded resou
 
     This message appears because the .exe.licenses file shown in the following screenshot has been modified to include the Syncfusion licensing information. To embed this information into the output EXE, you must rebuild the application. Verify whether this file has the Syncfusion version information you have the license to. If the file has information for any other version, every time you run the application, the Licensing Error message will appear.  
     
-	![](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img5.jpeg)
+	![Licensing Message](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img5.jpeg)
 
 
 
@@ -88,13 +88,13 @@ The following steps are provided to resolve the licensing issues for the Syncfus
 
 1. Ensure that the Unlock Key for the respective version, has been installed properly in the registry using the License Manager utility from the Dashboard.
    
-   ![](Resolving-the-licensing-issues-for-the-Syncfusion-_images/Resolving-the-licensing-issues_img1.png)
+   ![Unlock Key](Resolving-the-licensing-issues-for-the-Syncfusion-_images/Resolving-the-licensing-issues_img1.png)
 
 
 
 2. Open your Visual Studio Project file in a text editor and ensure that only one Syncfusion.Core reference entry exists in your project.
    
-   ![](Resolving-the-licensing-issues-for-the-Syncfusion-_images/Resolving-the-licensing-issues_img2.png)
+   ![Syncfusion.Core reference](Resolving-the-licensing-issues-for-the-Syncfusion-_images/Resolving-the-licensing-issues_img2.png)
 
 
 
@@ -104,7 +104,7 @@ The following steps are provided to resolve the licensing issues for the Syncfus
 
 5. Set the Copy as Local and set the Specific Version property to True for all Syncfusion referenced assemblies.
    
-   ![](Resolving-the-licensing-issues-for-the-Syncfusion-_images/Resolving-the-licensing-issues_img3.png)
+   ![Copy Local](Resolving-the-licensing-issues-for-the-Syncfusion-_images/Resolving-the-licensing-issues_img3.png)
 
 
 
