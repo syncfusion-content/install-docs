@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Terminology | common | Syncfusion
-description: terminology
+title: Terminology | Common | Syncfusion
+description: this section provides the information about the images, menus and dialog boxes used in the documentation
 platform: common
 control: Essential Studio
 documentation: ug
@@ -58,14 +58,14 @@ Represents an example.</td></tr>
 <tr>
 <td>
 Tip</td><td>
-{{ ' ![](Terminology_images/Terminology_img2.png)' | markdownify }}
+{{ ' ![Tip image](Terminology_images/Terminology_img2.png)' | markdownify }}
 
 </td><td>
 Represents useful hints that help you in using the controls/features.</td></tr>
 <tr>
 <td>
 Additional Information</td><td>
-{{ '![](Terminology_images/Terminology_img3.png)' | markdownify }}
+{{ '![ Additional Information](Terminology_images/Terminology_img3.png)' | markdownify }}
 
 </td><td>
 Represents additional information on the topic.</td></tr>

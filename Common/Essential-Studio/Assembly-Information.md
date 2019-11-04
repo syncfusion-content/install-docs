@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Assembly Version Format | common | Syncfusion
-description: assembly version format 
+title: Assembly Version Format | Common | Syncfusion
+description: this section provides the information about the syncfusion assembly version format for all the platforms
 platform: common
 control: Essential Studio
 documentation: ug

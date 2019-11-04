@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install using the Online Installer  | common | Syncfusion
+title: Install using the Online Installer  | Common | Syncfusion
 description: This section provides information regarding the Syncfusion Online installer and steps for installing it
 platform: common
 control: Essential Studio

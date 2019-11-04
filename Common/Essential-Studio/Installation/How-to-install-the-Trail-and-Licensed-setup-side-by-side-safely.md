@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Install Trial and Licensed setup side by side safely | Syncfusion
-description: how to install the trial and licensed setup side by side safely?
+title: Install Trial and Licensed Setup Side by Side | Common | Syncfusion
+description: this section provides information about how to install the trial and licensed setup side by side safely?
 platform: common
 control: Essential Studio
 documentation: ug
