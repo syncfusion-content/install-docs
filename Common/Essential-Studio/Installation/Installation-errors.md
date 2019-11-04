@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Installation-faq | common | Syncfusion
-description: essential studio mac installer
+title: Installation-FAQ | Common | Syncfusion
+description: this section provides information about the essential studio installation errors and steps for resolving it
 platform: common
 control: Essential Studio
 documentation: ug

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-to-configure-the-Toolbox-of-Visual-Studio-Manually
+title: Visual Studio Toolbox Manualy | Common | Syncfusion
 description: This section provides information about manual configuration of Syncfusion controls in Visual Studio 
 platform: common
 control: Essential Studio
@@ -38,14 +38,14 @@ The following are the steps to add the Syncfusion controls in the user-customize
 
 1. Open Visual Studio and create a new tab named Syncfusion in the toolbox.
 
-   ![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img2.png)
+   ![Create tab](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img2.png)
 
 2. Right-click and select Choose Items.
 
-   ![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img3.png)
+   ![Choose assemblies](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img3.png)
 
 3. The Choose Toolbox Items window opens.
 
-   ![](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img4.png)
+   ![Choose Toolbox Items window](Manually-Configuring-VS-Toolbox_images/Manually-Configuring-VS-Toolbox_img4.png)
 
 4. Select all the Syncfusion assemblies and then click OK. Assemblies are copied to the newly created Syncfusion Toolbox tab. 

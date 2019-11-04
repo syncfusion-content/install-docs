@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Studio Overview | common | Syncfusion
+title: Essential Studio Overview | Common | Syncfusion
 description: This section provides information about Syncfusion Essential Studio and its components for better understanding of the product
 platform: common
 control: Essential Studio

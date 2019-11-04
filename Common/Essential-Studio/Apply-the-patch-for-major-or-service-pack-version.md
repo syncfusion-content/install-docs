@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Apply the patch for major\service pack version | common | Syncfusion
-description: apply the patch for major or service pack version
+title: Apply the Patch for Major\Service Pack Version | Common | Syncfusion
+description: this section provides the information about how to apply the patch for major or service pack version
 platform: common
 control: Essential Studio
 documentation: ug

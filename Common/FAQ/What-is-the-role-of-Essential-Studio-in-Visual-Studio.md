@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What-is-the-role-of-Syncfusion-Essential-Studio-in-Visual-Studio
+title: Role of Essential Studio in Visual Studio | Common | Syncfusion
 description: This section illustrates the role of Syncfusion Essential Studio in Visual Studio and its difference from Visual Studio
 platform: common
 control: Essential Studio

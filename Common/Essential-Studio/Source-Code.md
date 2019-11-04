@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Source Code | common | Syncfusion
-description: source code 
+title: Source Code | Common | Syncfusion
+description: this section provides information about the essential studio source code add on setup and steps for installation
 platform: common
 control: Essential Studio
 documentation: ug

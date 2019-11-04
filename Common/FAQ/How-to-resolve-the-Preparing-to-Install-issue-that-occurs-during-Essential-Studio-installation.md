@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How-to-resolve-the-Preparing-to-Install-issue-that
+title: Preparing To Install | Common | Syncfusion
 description: how to resolve the "preparing to install" issue that occurs during essential studio setup installation?
 platform: common
 control: Essential Studio
