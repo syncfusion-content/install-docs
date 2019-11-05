@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Installation-faq | common | Syncfusion
-description: This section provides information regarding the Syncfusion installer errors and steps for resolving it
+title: Installation Errors in Essential Studio | Syncfusion
+description: this section provides information about the essential studio installation errors and steps for resolving it
 platform: common
 control: Essential Studio
 documentation: ug
@@ -16,9 +16,9 @@ This article lists the common Installation errors, reasons and solution for thos
 * [Not a Valid license holder?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#not-a-valid-license-holder)
 * [Unable to find a license or trial?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#unable-to-find-a-license-or-trial)
 * [Could not install the setup due to another installation?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-another-installation)
-* [Could not install the setup due to controlled folder access?](http://172.16.0.76/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-controlled-folder-access)
+* [Could not install the setup due to controlled folder access?](http://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-controlled-folder-access)
 
-### Could not unlock the Licensed setup with Trial key?
+### Could not the unlock Licensed setup with Trial key?
 
 #### Problem
 
@@ -139,5 +139,6 @@ This alert will be shown when Controlled folder access settings has been enabled
 #### Suggested solution.
 
 Choose some other location to install the setup or disable the controlled folder access in your machine and then try installing the setup.
+
 
 
