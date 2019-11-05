@@ -1,7 +1,7 @@
 ---
 layout: post
-title: System Requirements | common | Syncfusion
-description: system requirements 
+title: System Requirements | Common | Syncfusion
+description: this section provides the information about the system requirements for each platform with supported browsers
 platform: common
 control: Essential Studio
 documentation: ug

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Essential Studio Enterprise Binaries  | common | Syncfusion
-description: essential studio enterprise binaries
+title: Essential Studio Enterprise Binaries  | Common | Syncfusion
+description: this section provides information about essential studio enterprise binaries and steps for installation
 platform: common
 control: Essential Studio
 documentation: ug

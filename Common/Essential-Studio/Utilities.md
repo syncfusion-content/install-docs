@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Studio utilities | common | Syncfusion
+title: Essential Studio Utilities | Common | Syncfusion
 description: This section provides information regarding all the Syncfusion Essential Studio utilities and its usage
 platform: common
 control: Essential Studio
