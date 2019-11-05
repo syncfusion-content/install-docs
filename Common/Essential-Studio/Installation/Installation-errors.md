@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation-FAQ | Common | Syncfusion
+title: Installation Errors in Essential Studio | Syncfusion
 description: this section provides information about the essential studio installation errors and steps for resolving it
 platform: common
 control: Essential Studio
@@ -16,6 +16,7 @@ This article lists the common Installation errors, reasons and solution for thos
 * [Not a Valid license holder?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#not-a-valid-license-holder)
 * [Unable to find a license or trial?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#unable-to-find-a-license-or-trial)
 * [Could not install the setup due to another installation?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-another-installation)
+* [Could not install the setup due to controlled folder access?](http://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-controlled-folder-access)
 
 ### Could not the unlock Licensed setup with Trial key?
 
@@ -114,5 +115,30 @@ Open the Task Manager and kill the msiexec process and then continue the Syncfus
 3. Select the msiexec.exe and click **End task**.
 
 ![Task Manager](Errors/Installation_Errors_img5.png)
+
+### Could not install the setup due to controlled folder access?
+
+#### Problem
+
+##### Offline:
+
+**Error Message:** Controlled folder access seems to be enabled in your machine. The provided install or samples location (e.g., Public Documents) is protected by the controlled folder access settings.
+
+![Warning Message](Errors/Installation_Errors_img7.png)
+
+##### Online:
+
+**Error Message:** Controlled folder access seems to be enabled in your machine. The provided install, samples, or download location (e.g., Public Documents) is protected by the controlled folder access settings.
+
+![Warning Message](Errors/Installation_Errors_img8.png)
+
+#### Reason
+
+This alert will be shown when Controlled folder access settings has been enabled in your machine. 
+
+#### Suggested solution.
+
+Choose some other location to install the setup or disable the controlled folder access in your machine and then try installing the setup.
+
 
 
