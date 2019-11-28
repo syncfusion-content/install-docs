@@ -134,7 +134,7 @@ Follow the given steps to install through Command Line in Silent mode.
 
    **Example:** “D:\Temp\syncfusionessentialwebkit_13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
-7. Webkit is installed.
+7. WebKit is installed.
     
 	N> * x.x.x.x needs to be replaced with the WebKit version installed on your machine.* Above steps applicable from the version 13.2.0.x.
    
@@ -154,7 +154,7 @@ Syncfusion WebKit Installer supports uninstalling through Command Line in Silent
 
     **Example:** “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
 
-8. Webkit is uninstalled.
+8. WebKit is uninstalled.
     
 	N> * x.x.x.x need to be replaced with the WebKit version installed in your machine.* Above steps applicable from the version 13.2.0.x.	
 

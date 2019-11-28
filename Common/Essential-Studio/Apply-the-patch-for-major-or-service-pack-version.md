@@ -83,7 +83,7 @@ The patch can also be installed through Command Line. Follow the given steps to 
 1. Open Command Prompt with administrative privileges, that is, in the Admin mode.
 2. Navigate to the patch file’s location and pass the following argument:
    
-   **Argument:** {patchinstaller.exe} [/silent or /verysilent]
+   **Argument:** {patch installer.exe} [/silent or /verysilent]
 
    **Example:**
    SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /verysilent  
