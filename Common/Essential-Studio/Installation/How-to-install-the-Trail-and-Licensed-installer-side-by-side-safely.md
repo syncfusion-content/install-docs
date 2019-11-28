@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install Trial and Licensed Installer Side by Side | Common | Syncfusion
+title: Install Trial and Licensed Installer | Common | Syncfusion
 description: this section provides information about how to install the trial and licensed installer side by side safely?
 platform: common
 control: Essential Studio

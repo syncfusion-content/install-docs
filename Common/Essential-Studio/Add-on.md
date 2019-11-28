@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syncfusion Add-On
-description: add-on
+title: Install Essential Studio Add-On | Common | Syncfusion
+description: this section provides the information about available syncfusion add-ons and steps for installing it
 platform: common
 control: Essential Studio
 documentation: ug
