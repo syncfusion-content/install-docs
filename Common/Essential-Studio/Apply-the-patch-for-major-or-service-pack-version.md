@@ -9,19 +9,19 @@ documentation: ug
 
 # Patches
 
-Syncfusion provides patch setup for major version or service pack version, either to add new features or to fix issues. You have to install the patches in the order you have received.
+Syncfusion provides patch installer for major version or service pack version, either to add new features or to fix issues. You have to install the patches in the order you have received.
 
 
-## Installing a Patch Setup
+## Installing the Patch installer
 
 The following procedure illustrates how to install a patch.
 
 
-I> Before installing the patch, ensure that corresponding Essential Studio version or platforms setup has been installed in your machine.
+I> Before installing the patch, ensure that corresponding Essential Studio version platform has been installed in your machine.
 
 
 
-1. Double-click the Syncfusion Essential Studio patch setup file. The Syncfusion Essential Studio Service Pack opens.
+1. Double-click the Syncfusion Essential Studio patch installer. The Syncfusion Essential Studio Service Pack opens.
    
    ![Welcome Wizard](Patches_images/Installing-a-Patch-Setup_img2.png)
 
@@ -83,7 +83,7 @@ The patch can also be installed through Command Line. Follow the given steps to 
 1. Open Command Prompt with administrative privileges, that is, in the Admin mode.
 2. Navigate to the patch file’s location and pass the following argument:
    
-   **Argument:** {patchsetup.exe} [/silent or /verysilent]
+   **Argument:** {patchinstaller.exe} [/silent or /verysilent]
 
    **Example:**
    SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /verysilent  
@@ -92,7 +92,7 @@ The patch can also be installed through Command Line. Follow the given steps to 
    ![Command Prompt](Patches_images/Command-Line-Installation_img1.png)
    
   
-    N> /silent – Displays the progress dialog alone during the patch setup installation.
+    N> /silent – Displays the progress dialog alone during the patch installation.
 	/verysilent – It will be installed in background.
 
 

@@ -72,7 +72,7 @@ The Essential CAB Enabling Kit offers the following workspaces and UI Elements.
 
 ### Framework Support
 
-Essential CAB setup supports Visual Studio Framework versions V2.0, V3.5, V4.0, V4.5, and V4.5.1.
+Essential CAB supports Visual Studio Framework versions V2.0, V3.5, V4.0, V4.5, and V4.5.1.
 
 ## WebKit HTML converter
 
@@ -80,11 +80,11 @@ Syncfusion introduces WebKit HTML converter from the version 13.1.0.21 of Essent
 
 ### Step-by-Step Installation
 
-The following are the steps to install the WebKit Setup.
+The following are the steps to install the WebKit installer.
 
-1. Double-click the Syncfusion WebKit Installer Setup file. The Setup Wizard opens and extracts the package automatically. 
+1. Double-click the Syncfusion WebKit Installer. The installer Wizard opens and extracts the package automatically. 
 
-   ![Setup Extraction Wizard](Add-on_images/Step-by-Step-Installation_img1.png)
+   ![Installer Extraction Wizard](Add-on_images/Step-by-Step-Installation_img1.png)
 
    
 
@@ -114,47 +114,47 @@ The following are the steps to install the WebKit Setup.
 
 ### Command Line 
 
-The Syncfusion WebKit Installer supports installing the setup through Command Line Install and Uninstall. The following sections illustrate this ability. 
+The Syncfusion WebKit Installer supports Command Line Install and Uninstall. The following sections illustrate this ability. 
 
 
 #### Command Line Installation
 
 Follow the given steps to install through Command Line in Silent mode.
 
-1. Double-click the Syncfusion WebKit Installer Setup file. The Self-ExtractorWizard opens and extracts the package automatically.
+1. Double-click the Syncfusion WebKit Installer. The Self-Extractor Wizard opens and extracts the package automatically.
 2. The syncfusionessentialwebkit _(version).exe file is extracted into the Temp folder. 
 3. Run %temp%. The Temp folder opens. The syncfusionessentialwebkit _(version).exe file is available in one of the folders.
 4. Copy the syncfusionessentialwebkit _(version).exe file in local drive. Example: D:\temp
 5. Cancel the wizard.
 6. Open Command Prompt in administrator mode and pass the following arguments:
 
-   **Arguments:** “Setup file path\syncfusionessentialwebkit _(version).exe” /Install silent [/log “{Log file path}”] [/InstallPath:{Location to install}]
+   **Arguments:** “Installer file path\syncfusionessentialwebkit _(version).exe” /Install silent [/log “{Log file path}”] [/InstallPath:{Location to install}]
 
    N> [..] – Arguments inside the square brackets are optional.
 
-   **Example:** “D:\Temp\syncfusionessentialwebkit _13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
+   **Example:** “D:\Temp\syncfusionessentialwebkit_13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
-7. Setup is installed.
+7. Webkit is installed.
     
 	N> * x.x.x.x needs to be replaced with the WebKit version installed on your machine.* Above steps applicable from the version 13.2.0.x.
    
 #### Command Line Uninstallation
 
-Syncfusion WebKit Installer supports uninstalling the setup through Command Line inSilent mode. The following steps help you uninstall the setup. 
+Syncfusion WebKit Installer supports uninstalling through Command Line in Silent mode. The following steps help you uninstall the Webkit. 
 
-1. When you do not have the extracted setup (syncfusionessentialwebkit _(version).exe) then follow the steps from 2 to 7.
-2. Double-click the Syncfusion Essential Studio Setup file. The Self-ExtractorWizard opens and extracts the package automatically.
+1. When you do not have the extracted installer (syncfusionessentialwebkit _(version).exe) then follow the steps from 2 to 7.
+2. Double-click the Syncfusion Essential Studio installer. The Self-ExtractorWizard opens and extracts the package automatically.
 3. The syncfusionessentialwebkit _(version).exe file gets extracted into the Temp folder.
 4. Run %temp%. The Temp folder opens. The syncfusionessentialwebkit _(version).exe file is available in one of the folders.
 5. Copy the syncfusionessentialwebkit _(version).exe file in local drive. Example: D:\temp
 6. Cancel the wizard.
 7. Open the Command Prompt in administrator mode and pass the following arguments: 
 
-   **Arguments:** “Setup file path\ syncfusionessentialwebkit _(version).exe” /uninstall silent 
+   **Arguments:** “Installer file path\ syncfusionessentialwebkit _(version).exe” /uninstall silent 
 
     **Example:** “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
 
-8. Setup is uninstalled.
+8. Webkit is uninstalled.
     
 	N> * x.x.x.x need to be replaced with the WebKit version installed in your machine.* Above steps applicable from the version 13.2.0.x.	
 
@@ -165,9 +165,9 @@ Electron (Previously known as Atom Shell) is used create a cross platform deskto
 
 ### Step-by-Step Installation
 
-The following are the steps to install the Electron Setup.
+The following are the steps to install the Electron installer.
 
-1. Double-click the Syncfusion Electron Setup file. The Setup Wizard opens and extracts the package automatically. 
+1. Double-click the Syncfusion Electron installer. The installer Wizard opens and extracts the package automatically. 
 
    ![Setup Extraction Wizard](Add-on_images/Electron-Setup_img1.png)
    

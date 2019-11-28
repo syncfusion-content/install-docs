@@ -13,7 +13,7 @@ Provided here are the online and offline samples.
 
 ##  Offline Demos
 
-The Offline Samples are provided in the Syncfusion Essential Studio setup. The offline samples will run from IIS or Local server. The offline samples are configured in IIS 7.0 and IIS 7.5 installed machines, otherwise the samples will run from the local server.
+The Offline Samples are provided in the Syncfusion Essential Studio installer. The offline samples will run from IIS or Local server. The offline samples are configured in IIS 7.0 and IIS 7.5 installed machines, otherwise the samples will run from the local server.
 
 You can run the samples from the Syncfusion Control Panel's **Run Offline** button for each platform. 
 
