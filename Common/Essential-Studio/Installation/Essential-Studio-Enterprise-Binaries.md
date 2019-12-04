@@ -10,15 +10,15 @@ documentation: ug
 # Essential Studio Enterprise - Binaries
 
 
-Syncfusion provides the Essential Studio - Binaries Setup to configure the Syncfusion controls in a build machine, in which Syncfusion Essential Studio is not installed. This installs Essential Studio assemblies into the target folder. For information, see [Essential Studio - Binaries](http://www.syncfusion.com/support/kb/7653). 
+Syncfusion provides the Essential Studio - Binaries installer to configure the Syncfusion controls in a build machine, in which Syncfusion Essential Studio is not installed. This installs Essential Studio assemblies into the target folder. For information, see [Essential Studio - Binaries](http://www.syncfusion.com/support/kb/7653). 
 
-I> Syncfusion has stopped providing the Essential Studio - Binaries setup from 2018 Volume 2 release. However, you can download and install the previous versions.
+I> Syncfusion has stopped providing the Essential Studio - Binaries installer from 2018 Volume 2 release. However, you can download and install the previous versions.
 
-The following procedure illustrates how to install Essential Studio - Binaries setup.
+The following procedure illustrates how to install Essential Studio - Binaries installer.
 
-1.  Double-click the Syncfusion Essential Studio - Binaries Setup file. The Setup Wizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Essential Studio - Binaries installer file. The installer Wizard opens and extracts the package automatically.
 
-    ![Setup Extraction Wizard](Digitally-Signed-Binaries-images/Binaries-Install-Setup_img1.png)
+    ![Installer Extraction Wizard](Digitally-Signed-Binaries-images/Binaries-Install-Setup_img1.png)
 
 2.  Once the unzip operation is complete, the License registration screen opens.
 
@@ -46,5 +46,5 @@ The following procedure illustrates how to install Essential Studio - Binaries�
     
     ![Installation Complete](Digitally-Signed-Binaries-images/Binaries-Install-Setup_img9.png)
 
-8. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing. Click Finish to exit the Setup Wizard. Essential Studio - Binaries setup will be installed.
+8. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing. Click Finish to exit the installer Wizard. Essential Studio - Binaries installer is installed in your machine.
 

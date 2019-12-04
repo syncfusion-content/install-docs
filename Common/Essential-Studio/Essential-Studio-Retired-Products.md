@@ -54,4 +54,4 @@ ASP.NET MVC Classic</td><td>
 16.2.0.41</td></tr>
 </table>
 
-N> If you are using the above platforms, use the earlier versions. WinRT and Windows Phone platform setup can be installed in Windows version 8 and later.
+N> If you are using the above platforms, use the earlier versions. WinRT and Windows Phone platform installer can be installed in Windows version 8 and later.

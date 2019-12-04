@@ -12,17 +12,18 @@ documentation: ug
 
 ## Overview
 
-Syncfusion started providing the Offline Essential Studio setup only for Licensed customers from 2018 Volume 2 release. The Essential Studio Enterprise Edition Installer includes the following platforms. You can download the latest version Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
+Syncfusion started providing the Offline Essential Studio installer only for Licensed customers from 2018 Volume 2 release. The Essential Studio Enterprise Edition Installer includes the following platforms. You can download the latest version Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
 
 Starting with the version 17.3 (2019 Vol 3), Syncfusion provides updated version of Offline Installer which allows both installation and uninstallation the platforms for that specific version.
 
 I> You can install the Essential Studio Offline Installer using Login and Unlock key.
 
-**Web (Essential JS 2)**
+**Web**
 
 * ASP.NET MVC
 * ASP.NET Core
 * JavaScript
+* Blazor
 
 **Mobile**
 
@@ -45,14 +46,14 @@ I> You can install the Essential Studio Offline Installer using Login and Unlock
 * JSP
  
  
-The following procedure illustrates how to install Essential Studio Offline Installer setup. 
+The following procedure illustrates how to install Essential Studio Offline Installer installer. 
 
-1.Double-click the Syncfusion Essential Studio Offline Installer setup file. The Setup Wizard opens and extracts the package automatically.
+1.Double-click the Syncfusion Essential Studio Offline Installer file. The installer Wizard opens and extracts the package automatically.
 
-![Setup extraction wizard](Offline-ES/Step-by-Step-Installation_img1.png)
+![Installer extraction wizard](Offline-ES/Step-by-Step-Installation_img1.png)
 
     
-N> The Setup wizard extracts the syncfusionessentialstudiosetup_{version}.exe dialog, displaying the unzip operation of the package.
+N> The installer wizard extracts the syncfusionessentialstudiosetup_{version}.exe dialog, displaying the unzip operation of the package.
     
 2.Welcome wizard of the Syncfusion Offline Installer will be displayed. Click Next.
 
@@ -98,14 +99,14 @@ N> From the 2018 Volume 2 release, Syncfusion has changed the install and sample
 	
 * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
 * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
-* Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during setup installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
+* Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
 * Select the **Configure Syncfusion Extensions in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
 * Select the **Create Desktop Shortcut** checkbox to create the desktop shortcut for Syncfusion Control Panel.
 
 
 6.After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click Next.
 
-7.Login wizard will be displayed. You are provided with two options to unlock the Syncfusion setup.
+7.Login wizard will be displayed. You are provided with two options to unlock the Syncfusion Essential Studio Offline installer.
 
    
    * Login To Install

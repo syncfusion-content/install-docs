@@ -43,7 +43,7 @@ Syncfusion provides lots of online and local samples for better understanding of
    * **Run Local Demos** - To run the locally installed samples.
    * **Run Online Demos** - To view online samples.
    * **Explore Demos** - To open local installed location.
-   * **Explore Source** - To view the source, when you have installed the source add-on setup.
+   * **Explore Source** - To view the source, when you have installed the source add-on.
    * **User Guide** - To view the user guide documentation for the respective products.
    * **API Reference** - To view the online documentation help contents for the respective products.
    * **Release Notes** - To view the “Release Notes” content.
@@ -73,7 +73,7 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 ### Purpose of Recheck button
 
-**Recheck** option in Syncfusion Control Panel is used to update the recently installed software information in your machine. If you have installed any required software for Essential Studio platforms after installing the Syncfusion setup, those software information will not be updated in the Syncfusion Control Panel. In this case, you can just click the Recheck button in Syncfusion Control Panel which will update the recently installed software in your machine. 
+**Recheck** option in Syncfusion Control Panel is used to update the recently installed software information in your machine. If you have installed any required software for Essential Studio platforms after installing the Syncfusion installer, those software information will not be updated in the Syncfusion Control Panel. In this case, you can just click the Recheck button in Syncfusion Control Panel which will update the recently installed software in your machine. 
 
 ![Syncfusion Control Panel](Utilities_images/Dashboard_img15.png)
 
@@ -314,7 +314,7 @@ I> Syncfusion has started providing Toolbox support for Xamarin platform from v1
 
 #### For UWP:
 
-Syncfusion UWP controls will be automatically configured in Visual Studio toolbox while installing the Syncfusion UWP setup.
+Syncfusion UWP controls will be automatically configured in Visual Studio toolbox while installing the Syncfusion UWP installer.
 
 #### For WPF, Windows Forms and ASP.NET Web Forms platforms:
 
