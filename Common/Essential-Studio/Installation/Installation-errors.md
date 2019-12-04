@@ -18,7 +18,7 @@ This article lists the common Installation errors, reasons and solution for thos
 * [Could not install the setup due to another installation?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-another-installation)
 * [Could not install the setup due to controlled folder access?](http://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-the-setup-due-to-controlled-folder-access)
 
-### Could not the unlock Licensed setup with Trial key?
+### Could not unlock the Licensed setup with Trial key?
 
 #### Problem
 
