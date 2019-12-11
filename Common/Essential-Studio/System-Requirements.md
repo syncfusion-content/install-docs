@@ -9,9 +9,9 @@ documentation: ug
 
 # System Requirements 
 
-## ASP.NET MVC (Essential JS2)
+## ASP.NET MVC
 
-The following topic describes the system requirements required by Syncfusion ASP.NET MVC (Essential JS2) platform.
+The following topic describes the system requirements required by Syncfusion ASP.NET MVC platform.
 
 ### Operating Systems
 
@@ -37,7 +37,7 @@ The following topic describes the system requirements required by Syncfusion ASP
 
 #### Browser support
 
-Syncfusion Essential JS 2 Component support modern browsers. This include the below versions.
+Syncfusion Essential JS Component support modern browsers. This include the below versions.
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ Syncfusion Essential JS 2 Component support modern browsers. This include the be
 
 #### Required Polyfills
 
-The below polyfills are required to run Essential JS 2 components in each browser. 
+The below polyfills are required to run Essential JS components in each browser. 
 
 <table>
 <tr>
@@ -81,9 +81,9 @@ The below polyfills are required to run Essential JS 2 components in each browse
 </tr>
 </table>
 
-## ASP.NET Core (Essential JS2)
+## ASP.NET Core
 
-The following topic describes the system requirements required by Syncfusion ASP.NET Core (Essential JS2) platform.
+The following topic describes the system requirements required by Syncfusion ASP.NET Core platform.
 
 ### Operating Systems
 
@@ -108,7 +108,7 @@ The following topic describes the system requirements required by Syncfusion ASP
 
 #### Browser support
 
-Syncfusion Essential JS 2 Component support modern browsers. This include the below versions.
+Syncfusion Essential JS Component support modern browsers. This include the below versions.
 
 <table>
 <tr>
@@ -136,7 +136,7 @@ Syncfusion Essential JS 2 Component support modern browsers. This include the be
 
 #### Required Polyfills
 
-The below polyfills are required to run Essential JS 2 components in each browser. 
+The below polyfills are required to run Essential JS components in each browser. 
 
 <table>
 <tr>
@@ -152,9 +152,9 @@ The below polyfills are required to run Essential JS 2 components in each browse
 </tr>
 </table>
 
-## JavaScript (Essential JS2)
+## JavaScript
 
-The following topic describes the system requirements required by Syncfusion JavaScript (Essential JS2) platform.
+The following topic describes the system requirements required by Syncfusion JavaScript platform.
 
 ### Operating Systems
 
@@ -178,6 +178,105 @@ The following topic describes the system requirements required by Syncfusion Jav
 * Any Text Editor
 * NotePad
 * Visual Studio Code (optional text-editor)
+
+## Blazor
+
+The following topic describes the system requirements required by Syncfusion Blazor platform.
+
+### Operating Systems
+
+* Windows
+* Mac OS
+* Linux
+
+### Hardware Environment
+
+* Processor: x86 or x64
+* RAM : 512 MB (minimum), 1 GB (recommended)
+* Hard disk: up to 3 GB of available space may be required
+
+### Development Environment
+
+* Microsoft Visual Studio 2019
+* .NET Core 3.1
+
+### Browser support and Required Polyfills
+
+#### Browser support
+
+Syncfusion Blazor Component support modern browsers. This include the below versions.
+
+#### Blazor WebAssembly
+
+<table>
+<tr>
+<th>Chrome</th>
+<th>Firefox</th>
+<th>Opera</th>
+<th>Edge</th>
+<th>Safari</th>
+<th>iOS</th>
+<th>Android</th>
+<th>Microsoft Internet Explorer</th>
+</tr>
+<tr>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>Not Supported</td>
+</tr></table>
+
+N> Microsoft Internet Explorer doesn’t support WebAssembly. So, Blazor WebAssembly doesn’t support Internet Explorer
+
+#### Blazor Server
+
+<table>
+<tr>
+<th>Chrome</th>
+<th>Firefox</th>
+<th>Opera</th>
+<th>Edge</th>
+<th>Safari</th>
+<th>iOS</th>
+<th>Android</th>
+<th>Microsoft Internet Explorer</th>
+</tr>
+<tr>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>Latest</td>
+<td>11+</td>
+</tr></table>
+
+N> Additional polyfills are required. Refer this [documentation](https://ej2.syncfusion.com/blazor/documentation/common/how-to/render-blazor-server-app-in-ie/) to add the polyfills in Blazor server application.
+
+#### Required Polyfills
+
+The below polyfills are required to run Essential Blazor components in each browser. 
+
+<table>
+<tr>
+<th>Browser</th>
+<th>Polyfills</th></tr>
+<tr>
+<td>Chrome(latest), Firefox(latest), Opera(latest), Edge, Safari 9+</td>
+<td>NONE</td>
+</tr>
+<tr>
+<td>IE 11</td>
+<td>[Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill)</td>
+</tr>
+</table>
+
+For further reference, refer the [documentation](https://ej2.syncfusion.com/blazor/documentation/browser/).
 
 
 ## Windows Forms
