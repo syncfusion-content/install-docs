@@ -272,7 +272,7 @@ The below polyfills are required to run Essential Blazor components in each brow
 </tr>
 <tr>
 <td>IE 11</td>
-<td>[Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill)</td>
+<td>[Blazor.Polyfills](https://github.com/Daddoon/Blazor.Polyfills)</td>
 </tr>
 </table>
 
