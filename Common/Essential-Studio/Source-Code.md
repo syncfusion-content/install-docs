@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Source Code | Common | Syncfusion
-description: this section provides information about the essential studio source code add on setup and steps for installation
+description: this section provides information about the essential studio source code add on installer and steps for installation
 platform: common
 control: Essential Studio
 documentation: ug
@@ -13,17 +13,17 @@ documentation: ug
 ## Overview
 
 
-Syncfusion provides Source Code Add On setup in which you can modify the Syncfusion source and make use of the customized assemblies. All the Essential Studio sources will be packed in this setup and you can easily build the customized source. Source License is required for downloading and installing the Source Code Add-on setup.
+Syncfusion provides Source Code Add On installer in which you can modify the Syncfusion source and make use of the customized assemblies. All the Essential Studio sources will be packed in this installer and you can easily build the customized source. Source License is required for downloading and installing the Source Code Add-on installer.
 
 ## Step-by-Step Installation
 
-The following steps show how you can install the Essential Studio Source Code Add-on Setup.
+The following steps show how you can install the Essential Studio Source Code Add-on installer.
 
-1. Double-click the Syncfusion Essential Studio Source code add-on installer setup file. The Setup Wizard opens and extracts the package automatically..
+1. Double-click the Syncfusion Essential Studio Source code add-on installer. The installer Wizard opens and extracts the package automatically..
    
-   ![Setup Extraction Wizard](Source-code_images/Step-by-Step-Installation_img1.png)
+   ![Installer Extraction Wizard](Source-code_images/Step-by-Step-Installation_img1.png)
 
-    N> The Setup extracts the syncfusionessentialsourcecodeaddon(version).exe dialog, displaying the unzip operation of the package.
+    N> The installer extracts the syncfusionessentialsourcecodeaddon(version).exe dialog, displaying the unzip operation of the package.
 	
    
 
@@ -136,12 +136,12 @@ N> The Build operation is performed and the status is updated in the text area, 
 
 ## Assembly Manager
 
-   Assembly Manager shipped in the Source Code Add On setup is used to **Install\Remove** the **Debug\Release** assemblies from GAC location and has its unique features. You can launch the Assembly Manager from the below Source Code Add On installed location.
+   Assembly Manager shipped in the Source Code Add On is used to **Install\Remove** the **Debug\Release** assemblies from GAC location and has its unique features. You can launch the Assembly Manager from the below Source Code Add On installed location.
    
    **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Assembly Manager\AssemblyManagerWindows.exe 
    
 
-   * Pre-built Assemblies - These are the assemblies shipped with Essential Studio. You can **only remove** the pre-built assemblies from the Assembly Manager shipped in Source Code Add-on setup.
+   * Pre-built Assemblies - These are the assemblies shipped with Essential Studio. You can **only remove** the pre-built assemblies from the Assembly Manager shipped in Source Code Add-on.
 
    * Debug and Release Assemblies - This mode triggers the Assembly Manager to install custom assemblies built from the source code using Build Manager. The Debug\Release option will be enabled based on the **Assembly Type** selected in Build Manager during compilation.
    

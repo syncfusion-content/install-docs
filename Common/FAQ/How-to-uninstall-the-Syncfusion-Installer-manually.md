@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Uninstall Syncfusion Setup Manually | Common | Syncfusion
-description: this section provides the information about how to uninstall the syncfusion essential studio setup manually?
+title: Uninstall Syncfusion Installer Manually | Common | Syncfusion
+description: this section provides the information about how to uninstall the syncfusion essential studio installer manually?
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# How to uninstall the Syncfusion Setup manually?
+# How to uninstall the Syncfusion Installer manually?
 
-Sometimes, installation may crash due to the machine getting switched off during installation or for other reasons. In such cases, the Uninstall utility is not available. The following are the steps to uninstall the setup manually:
+Sometimes, installation may crash due to the machine getting switched off during installation or for other reasons. In such cases, the Uninstall utility is not available. The following are the steps to uninstall manually:
 
 1. Download and install the **Windows Installer Cleanup** utility from the following link:  [Windows Installer Cleanup](http://files2.syncfusion.com/Installs/Support/KB/msicuu2.exe).
 2. Remove Syncfusion’s product-related installers, for the version you are trying to uninstall, using the Windows Installer Cleanup utility.
@@ -32,4 +32,4 @@ Sometimes, installation may crash due to the machine getting switched off during
 
    N> Sample locations mentioned above is default for corresponding OS. When you have installed samples in any other location, remove it from that location.
 
-4. The setup is uninstalled. You can install it again.
+4. Essential Studio is uninstalled. You can install it again.

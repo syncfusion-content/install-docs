@@ -13,8 +13,8 @@ documentation: ug
 
 Syncfusion provides the Mac installer for the following Essential Studio platforms.
 
-* ASP.NET Core (Essential JS 2)
-* JavaScript (Essential JS 2)
+* ASP.NET Core
+* JavaScript
 * Xamarin
 * Flutter
 * ASP.NET Core (Essential JS 1)
@@ -23,11 +23,11 @@ Syncfusion provides the Mac installer for the following Essential Studio platfor
 * Electron
 * WebKit HTML Converter
 
-## How to download Mac setups?
+## How to download Mac installer?
 
-1. Refer [this](https://help.syncfusion.com/common/essential-studio/download) link to download trial\licensed setup based on your license.
+1. Refer [this](https://help.syncfusion.com/common/essential-studio/download) link to download trial\licensed installer based on your license.
 
-2. In the downloads page, click the "Mac" button and download the required Mac setup.
+2. In the downloads page, click the "Mac" button and download the required Mac installer.
 
    ![Download Page](Mac-Installer_images/Mac_Download.png)  
 
@@ -35,7 +35,7 @@ Syncfusion provides the Mac installer for the following Essential Studio platfor
 
 The following procedure illustrates how to install Essential Studio Mac installer. 
 
-1. Double-click the Syncfusion Essential Studio Mac Setup(.pkg) file. The Setup Wizard opens. Click Continue.
+1. Double-click the Syncfusion Essential Studio Mac installer(.pkg) file. The installer Wizard opens. Click Continue.
 
    ![Welcome wizard](Mac-Installer_images/Mac_Installer1.png)
    

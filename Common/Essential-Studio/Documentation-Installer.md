@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Documentation Setup | Common | Syncfusion
-description: this section provides the information about the syncfusion documentation setup  both online and offline
+title: Documentation Installer | Common | Syncfusion
+description: this section provides the information about the syncfusion documentation installer  both online and offline
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Documentation Setup  
+# Documentation Installer  
 
 Documentation is provided for both User Guide and Class Reference.
 
@@ -39,7 +39,7 @@ API Reference can be accessed from the Syncfusion Control Panel > Documentation
 
 You can access the API reference documentation in any of the below two ways.
 
-* **Visual Studio Help Viewer Compatible** - You can download the API reference setup and install it in Offline.
+* **Visual Studio Help Viewer Compatible** - You can download the API reference installer and install it in Offline.
 <style>
 #license {
     font-size: .88em!important;
@@ -62,4 +62,4 @@ Visual Studio Help Viewer Compatible is available for the following platforms
 
 * **View On Web**  - You can view the API reference for the corresponding platform online.
 
-I> For accessing the API Reference offline, you need to install the **Help Viewer** setup for the corresponding version Visual Studio.
+I> For accessing the API Reference offline, you need to install the **Help Viewer** for the corresponding version Visual Studio.

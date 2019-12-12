@@ -9,7 +9,7 @@ documentation: ug
 
 # What is the role of Essential Studio in Visual Studio?
 
-Syncfusion Essential Studio is not a plug-in for Visual Studio or an IDE like Visual Studio. Syncfusion Essential Studio is a .NET based product which offers 800+ controls and frameworks which can be used in Visual Studio for developing stunning applications. The Essential Studio setup includes the samples for all the controls which provides an overview of how Syncfusion controls looks like and how it works. The platforms that comes with Syncfusion Essential Studio are as follows.
+Syncfusion Essential Studio is not a plug-in for Visual Studio or an IDE like Visual Studio. Syncfusion Essential Studio is a .NET based product which offers 800+ controls and frameworks which can be used in Visual Studio for developing stunning applications. The Essential Studio includes the samples for all the controls which provides an overview of how Syncfusion controls looks like and how it works. The platforms that comes with Syncfusion Essential Studio are as follows.
 
 * ASP.NET 
 * ASP.NET Core (Essential JS 1)
@@ -41,11 +41,11 @@ Apart from the installer for Windows, Syncfusion also provides the installer for
 7. ASP.NET Core (Essential JS 2)
 8. JavaScript (Essential JS 2)
 
-Download and install the latest Essential Studio setup from [here](https://www.syncfusion.com/downloads/latest-version).
+Download and install the latest Essential Studio from [here](https://www.syncfusion.com/downloads/latest-version).
 
-Refer [this](https://help.syncfusion.com/common/essential-studio/installation/install-using-the-offline-installer#step-by-step-installation) link for the step by step installation of Syncfusion Essential Studio setup. 
+Refer [this](https://help.syncfusion.com/common/essential-studio/installation/install-using-the-offline-installer#step-by-step-installation) link for the step by step installation of Syncfusion Essential Studio. 
 
-After installing the Essential Studio setup, refer [this](https://help.syncfusion.com/) link for using the Syncfusion controls in Visual Studio for various platforms.  
+After installing the Essential Studio, refer [this](https://help.syncfusion.com/) link for using the Syncfusion controls in Visual Studio for various platforms.  
 
-Also, refer [this](http://www.syncfusion.com/downloads/support/directtrac/185893/ze/Essential_Studio_WhitePaper-1896020245) document for the general questions which pop ups to your mind while installing the Syncfusion Essential Studio setup.
+Also, refer [this](http://www.syncfusion.com/downloads/support/directtrac/185893/ze/Essential_Studio_WhitePaper-1896020245) document for the general questions which pop ups to your mind while installing the Syncfusion Essential Studio.
 
