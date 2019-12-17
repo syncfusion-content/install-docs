@@ -272,11 +272,11 @@ The below polyfills are required to run Essential Blazor components in each brow
 </tr>
 <tr>
 <td>IE 11</td>
-<td>[Blazor.Polyfills](https://github.com/Daddoon/Blazor.Polyfills)</td>
+<td>{{'[Blazor.Polyfills](https://github.com/Daddoon/Blazor.Polyfills)'| markdownify }}</td>
 </tr>
 </table>
 
-For further reference, refer the [documentation](https://ej2.syncfusion.com/blazor/documentation/browser/).
+For more information, refer the [documentation](https://ej2.syncfusion.com/blazor/documentation/browser/).
 
 
 ## Windows Forms
