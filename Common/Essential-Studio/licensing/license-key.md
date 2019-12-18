@@ -197,6 +197,45 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 {% endhighlight %}
 {% endtabs %} 
 
+### Blazor
+
+Register the license key in Configure method of **Startup.cs**
+
+{% tabs %}
+{% highlight c# %}
+// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+{
+    //Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	
+    if (env.IsDevelopment())
+    {
+        app.UseDeveloperExceptionPage();
+    }
+    else
+    {
+        app.UseExceptionHandler("/Error");
+        // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+        app.UseHsts();
+    }
+
+    app.UseHttpsRedirection();
+    app.UseStaticFiles();
+
+    app.UseRouting();
+
+
+    app.UseEndpoints(endpoints =>
+    {
+         endpoints.MapBlazorHub();
+         endpoints.MapFallbackToPage("/_Host");
+    });
+}
+
+{% endhighlight %}
+{% endtabs %} 
+
 ### UWP
 
 Register the license key in **App.xaml.cs** constructor before InitializeComponent() in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor. In Visual Basic, register the licensing code in **App.xaml.vb** file before OnLaunched event.
