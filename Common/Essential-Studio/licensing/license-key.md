@@ -197,6 +197,27 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 {% endhighlight %}
 {% endtabs %} 
 
+### Blazor
+
+Register the license key in Configure method of **Startup.cs**
+
+{% tabs %}
+{% highlight c# %}
+// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	
+	loggerFactory.AddConsole(Configuration.GetSection("Logging"));
+	loggerFactory.AddDebug();
+
+	...
+	
+}
+{% endhighlight %}
+{% endtabs %} 
+
 ### UWP
 
 Register the license key in **App.xaml.cs** constructor before InitializeComponent() in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor. In Visual Basic, register the licensing code in **App.xaml.vb** file before OnLaunched event.
