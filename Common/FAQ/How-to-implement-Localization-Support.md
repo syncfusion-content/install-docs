@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Localization Support | Common | Syncfusion
+title: Implement Localization Support | Common | Syncfusion
 description: this section provides the information about how to implement localization support and customize the application?
 platform: common
 control: Essential Studio

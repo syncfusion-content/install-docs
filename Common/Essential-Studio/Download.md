@@ -1,6 +1,6 @@
 ---
-title : Steps to Download Essential Studio | Common | Syncfusion
-description : This page explains about how to download the Syncfusion Essential Studio installer based on licensed and trial customer
+title : Download installer of Essential Studio | Syncfusion
+description : Learn here about how to Download the Syncfusion Essential Studio Installer and more details.
 platform: common
 documentation: ug
 --- 

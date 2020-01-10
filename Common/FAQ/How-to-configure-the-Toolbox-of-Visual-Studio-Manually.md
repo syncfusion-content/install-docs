@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Visual Studio Toolbox Manualy | Common | Syncfusion
-description: This section provides information about manual configuration of Syncfusion controls in Visual Studio 
+title: Installer FAQ – Configure Visual Studio toolbar | Syncfusion
+description: Learn here information about manual configuration of Syncfusion controls in Visual Studio and more details.
 platform: common
 control: Essential Studio
 documentation: ug

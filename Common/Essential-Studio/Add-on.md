@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Install Essential Studio Add-On | Common | Syncfusion
-description: this section provides the information about available syncfusion add-ons and steps for installing it
+title: Add-On Installer of Essential Studio | Syncfusion
+description: Learn here about the Add-On Installer of Syncfusion Essential Studio and more details.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Add-On
+# Add-On Installer of Syncfusion Essential Studio 
 
 ## QTP Add-on
 

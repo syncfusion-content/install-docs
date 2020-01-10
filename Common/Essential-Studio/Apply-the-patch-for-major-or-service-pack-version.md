@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Apply the Patch for Major\Service Pack Version | Common | Syncfusion
-description: this section provides the information about how to apply the patch for major or service pack version
+title: Apply the Patch for Major\Service Pack Version | Syncfusion
+description: Learn here about how to apply the patch for major or service pack version of Syncfusion Essential Studio.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Patches
+# Apply the Patch for Major or Service Pack Version
 
 Syncfusion provides patch installer for major version or service pack version, either to add new features or to fix issues. You have to install the patches in the order you have received.
 

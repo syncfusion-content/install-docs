@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Essential Studio Digitally Signed Binaries  | Common | Syncfusion
-description: this section provides the  information about essential studio digitally signed binaries and steps for installation
+title: Essential Studio Digitally Signed Binaries | Syncfusion
+description: Learn here about the syncfusion essential studio digitally signed binaries and more details for installation
 platform: common
 control: Essential Studio
 documentation: ug
 ---
-
 
 # Essential Studio - Digitally Signed Binaries
 

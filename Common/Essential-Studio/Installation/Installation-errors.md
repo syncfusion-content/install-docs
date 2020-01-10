@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Installation Errors in Essential Studio | Syncfusion
-description: this section provides information about the essential studio installation errors and steps for resolving it
+title: Installation Errors of Essential Studio | Syncfusion
+description: Learn here some information about the essential studio installation errors and steps for resolving it
 platform: common
 control: Essential Studio
 documentation: ug

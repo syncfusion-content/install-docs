@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Documentation Installer | Common | Syncfusion
-description: this section provides the information about the syncfusion documentation installer  both online and offline
+title: Documentation Installer of Essential Studio | Syncfusion
+description: Learn here about the Documentation Installer of Syncfusion Essential Studio and more details.
 platform: common
 control: Essential Studio
 documentation: ug

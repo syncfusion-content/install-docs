@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syncfusion Licensing Overview | Syncfusion
-description: Overview of Syncfusion license key, how to generate the license key, how to register the license key
+title: About Essential Studio Licensing | Syncfusion
+description: Learn here about introduction of Syncfusion Essential Studio Installer, its features and more details.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -17,7 +17,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 </style>
 
 
-# Syncfusion Licensing Overview
+# Syncfusion Essential Studio Licensing Overview
 
 We have introduced a new licensing system starting with version 16.2.0.x release of Essential Studio. These changes apply to all evaluators and only to paid customers who use NuGet packages from [nuget.org](https://www.nuget.org/). Starting with v16.2.0.x, if you reference Syncfusion assemblies from evaluation installer or from the NuGet feed, you also have to include a license key in your projects. Please note that this license key is different from the installer unlock key that you might have used in the past, and needs to be separately generated from Syncfusion website. A below licensing error will show if this license key is missing,
 
