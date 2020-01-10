@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installer FAQ - Redistribute Application | Syncfusion
-description: Learn here some information about how to redistribute an application on the client machine
+description: Learn here information about how to redistribute an application on the client machine and more details.
 platform: common
 control: Essential Studio
 documentation: ug

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terminology of Essential Studio | Syncfusion
-description: Learn here about the terminology of Syncfusion Essential Studio and more details.
+description: Learn here some information about the terminology of Syncfusion Essential Studio and it's more details.
 platform: common
 control: Essential Studio
 documentation: ug

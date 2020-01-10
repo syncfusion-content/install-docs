@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrading versions of Essential Studio | Syncfusion
-description: Learn here about upgrading from older Essential Studio version to a newer version
+description: Learn here information about upgrading from older Essential Studio version to a newer version and more details
 platform: common
 control: Essential Studio
 documentation: ug

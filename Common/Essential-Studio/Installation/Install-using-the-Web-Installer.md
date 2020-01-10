@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install and deploy – Using Web Installer | Syncfusion
-description: Learn more about installation and deployment of Syncfusion Essential studio using Web Installer.
+description: Learn more some information about installation and deployment of Syncfusion Essential studio using Web Installer.
 platform: common
 control: Essential Studio
 documentation: ug

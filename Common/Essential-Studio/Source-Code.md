@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Source Code Add-on Installer of Essential Studio | Syncfusion
-description: Learn here about the Essential Studio Source Code Add on installer and steps for installation
+description: Learn here some information about the Essential Studio Source Code Add on installer and steps for installation
 platform: common
 control: Essential Studio
 documentation: ug

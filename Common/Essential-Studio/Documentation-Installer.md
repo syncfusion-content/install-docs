@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Documentation Installer of Essential Studio | Syncfusion
-description: Learn here about the Documentation Installer of Syncfusion Essential Studio and more details.
+description: Learn here some information about the Documentation Installer of Syncfusion Essential Studio and more details.
 platform: common
 control: Essential Studio
 documentation: ug

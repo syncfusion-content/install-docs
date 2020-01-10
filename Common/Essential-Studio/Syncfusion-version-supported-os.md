@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Version Supported OS of Essential Studio
-description: Learn here about syncfusion supported operating systems for each platform and more details.
+description: Learn here some information about syncfusion supported operating systems for each platform and more details.
 platform: common
 control: Essential Studio
 documentation: ug
