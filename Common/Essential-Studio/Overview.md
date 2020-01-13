@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Essential Studio Overview | Common | Syncfusion
-description: This section provides information about Syncfusion Essential Studio and its components for better understanding of the product
+title: About Essential Studio Installer | Syncfusion
+description: Learn here about introduction of Syncfusion Essential Studio Installer, its features and more details.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio
+# Syncfusion Essential Studio Installer Overview
 
 Welcome to the Syncfusion Essential Studio product documentation. The following content is to help you get started with Essential Studio.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: License Key Errors | Syncfusion 
-description: How to fix Syncfusion license key related errors
+title: License Key Errors of Essential Studio | Syncfusion 
+description: Learn here some information about how to fix Syncfusion license key related errors and more details.
 platform: common
 control: Essential Studio
 documentation: ug

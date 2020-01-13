@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Essential Studio Enterprise Binaries  | Common | Syncfusion
-description: this section provides information about essential studio enterprise binaries and steps for installation
+title: Essential Studio Enterprise Binaries Installer | Syncfusion
+description: Learn here some information about essential studio enterprise binaries and more details for installation.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -10,7 +10,7 @@ documentation: ug
 # Essential Studio Enterprise - Binaries
 
 
-Syncfusion provides the Essential Studio - Binaries installer to configure the Syncfusion controls in a build machine, in which Syncfusion Essential Studio is not installed. This installs Essential Studio assemblies into the target folder. For information, see [Essential Studio - Binaries](http://www.syncfusion.com/support/kb/7653). 
+Syncfusion provides the Essential Studio - Binaries installer to configure the Syncfusion controls in a build machine, in which Syncfusion Essential Studio is not installed. This installs Essential Studio assemblies into the target folder. For information, see [Essential Studio - Binaries](http://www.syncfusion.com/support/kb/7653). 
 
 I> Syncfusion has stopped providing the Essential Studio - Binaries installer from 2018 Volume 2 release. However, you can download and install the previous versions.
 
