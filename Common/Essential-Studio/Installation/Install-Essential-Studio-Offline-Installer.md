@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio Offline Installer
+# Essential Studio Enterprise Offline Installer
 
 
 ## Overview
