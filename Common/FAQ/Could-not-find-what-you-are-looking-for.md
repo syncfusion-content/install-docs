@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installer FAQ - Most provided answers to Customers | Syncfusion
-description: Learn here about the list of queries raised by most of the customers and steps for resolving those issues
+description: Learn here about the list of queries raised by most of the customers and steps for resolving those issues.
 platform: common
 control: Essential Studio
 documentation: ug

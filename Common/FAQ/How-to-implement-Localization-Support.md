@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Implement Localization Support of Essential Studio | Syncfusion
-description: Learn here about the information of how to implement localization support and customize the application
+description: Learn here about the information of how to implement localization support and customize the application.
 platform: common
 control: Essential Studio
 documentation: ug

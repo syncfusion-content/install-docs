@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Studio Enterprise Binaries Installer | Syncfusion
-description: Learn here some information about essential studio enterprise binaries and more details for installation
+description: Learn here some information about essential studio enterprise binaries and more details for installation.
 platform: common
 control: Essential Studio
 documentation: ug

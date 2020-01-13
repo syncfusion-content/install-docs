@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installer FAQ - Sample Browser Access Denied | Syncfusion
-description: Learn here some information about how to overcome sample browser access denied error for non-admin user
+description: Learn here some information about how to overcome sample browser access denied error for non-admin user.
 platform: common
 control: Essential Studio
 documentation: ug

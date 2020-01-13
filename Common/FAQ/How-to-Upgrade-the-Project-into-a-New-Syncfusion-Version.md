@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Installer FAQ - Upgrade Projects to new Version | Syncfusion
-description: Learn here about the information of how to upgrade the projects from existing version to a new syncfusion version
+title: Installer FAQ - Upgrade Projects to New Version | Syncfusion
+description: Learn here about the information of how to upgrade the projects from existing version to a new syncfusion version.
 platform: common
 control: Essential Studio
 documentation: ug
