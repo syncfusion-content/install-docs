@@ -1,5 +1,5 @@
 ---
-title : Download installer of Essential Studio | Syncfusion
+title : Steps to Download Essential Studio Installer | Syncfusion
 description : Learn here about how to Download the Syncfusion Essential Studio Installer and more details.
 platform: common
 documentation: ug

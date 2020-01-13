@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terminology of Essential Studio | Syncfusion
-description: Learn here some information about the terminology of Syncfusion Essential Studio and it's more details.
+description: Learn here some information about the terminology such as images, menus and dialog boxes used in the documentation.
 platform: common
 control: Essential Studio
 documentation: ug

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add-On Installer of Essential Studio | Syncfusion
+title: Add-on of Essential Studio Installer | Syncfusion
 description: Learn here some information about the Add-On Installer of Syncfusion Essential Studio and more details.
 platform: common
 control: Essential Studio
