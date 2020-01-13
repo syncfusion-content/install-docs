@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Install using the Online Installer  | Common | Syncfusion
-description: This section provides information regarding the Syncfusion Online installer and steps for installing it
+title: Install and deploy – Using Web Installer | Syncfusion
+description: Learn more some information about installation and deployment of Syncfusion Essential studio using Web Installer.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio Platform Web Installer
+# Installation and deployment of Essential Studio using Platform Web Installer
 
 
 ## Overview

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Terminology | Common | Syncfusion
-description: this section provides the information about the images, menus and dialog boxes used in the documentation
+title: Terminology of Essential Studio | Syncfusion
+description: Learn here some information about the terminology such as images, menus and dialog boxes used in the documentation.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Terminology
+# Terminology of Syncfusion Essential Studio 
 
 The Terminology section covers documentation conventions used in this manual. 
 

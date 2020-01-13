@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Essential Studio Retired Products | Common | Syncfusion
-description: this section provides the information about the syncfusion essential studio retired products and its version
+title: Retired products of Essential Studio | Syncfusion
+description: Learn some information about the syncfusion essential studio retired products and its version details.
 platform: common
 control: Essential Studio
 documentation: ug

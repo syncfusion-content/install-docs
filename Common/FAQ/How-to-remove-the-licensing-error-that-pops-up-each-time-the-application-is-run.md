@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Steps to Remove Licensing Error | Common | Syncfusion
-description: provides information about how to remove the licensing error that pops up each time the application is run?
+title: Installer FAQ - Steps to Remove Licensing Error | Syncfusion
+description: Learn here information about how to remove the licensing error that pops up each time the application is run.
 platform: common
 control: Essential Studio
 documentation: ug

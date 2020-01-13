@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Register Syncfusion license key in your application | Syncfusion
-description: Recommended places to register the Syncfusion license key in your application
+title: Licensing FAQ – Get the license key | Syncfusion
+description: Learn here some information about recommended places to register the Syncfusion license key in your application.
 platform: common
 control: Essential Studio
 documentation: ug
