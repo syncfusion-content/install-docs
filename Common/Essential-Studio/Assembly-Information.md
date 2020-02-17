@@ -155,11 +155,11 @@ Following are the supported Framework versions of the Essential Studio assemblie
 </tr>
 <tr>
 <td>Xamarin</td>
-<td>netstandard 2.0</td>
+<td>netstandard 2.0. Find the platform specific version [here](https://help.syncfusion.com/xamarin/installation-and-upgrade/system-requirements#supported-platforms)</td>
 </tr>
 <tr>
 <td>UWP</td>
-<td>Target Framework v4.6 and Target Platform version UAP 10.0.16299</td>
+<td>Target Platform version UAP 10.0.16299 and above</td>
 </tr>
 <tr>
 <td>WPF</td>
@@ -183,7 +183,7 @@ Following are the supported Framework versions of the Essential Studio assemblie
 </tr>
 <tr>
 <td>ASP.NET Core (Essential JS 1)</td>
-<td>netstandard 1.2 to 2.0 and netcoreapp 1.0 to 2.1</td>
+<td>netstandard 1.2 to 2.0 and netcoreapp 2.1 to 3.1</td>
 </tr>
 <tr>
 <td>JavaScript (Essential JS 1)</td>
