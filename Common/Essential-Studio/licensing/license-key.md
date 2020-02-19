@@ -199,6 +199,8 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### Blazor
 
+#### **For Server side application**
+
 Register the license key in Configure method of **Startup.cs**
 
 {% tabs %}
@@ -232,6 +234,26 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
          endpoints.MapFallbackToPage("/_Host");
     });
 }
+
+{% endhighlight %}
+{% endtabs %} 
+
+#### **For Client side application**
+
+Register the license key in main method of **Program.cs**
+
+{% tabs %}
+{% highlight c# %}
+using Syncfusion.EJ2.Blazor;
+public static async Task Main(string[] args) 
+{ 
+    //Register Syncfusion license 
+    Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");  
+    var builder = WebAssemblyHostBuilder.CreateDefault(args); 
+    builder.RootComponents.Add<App>("app");                               
+    builder.Services.AddSyncfusionBlazor(); 
+    await builder.Build().RunAsync(); 
+} 
 
 {% endhighlight %}
 {% endtabs %} 
