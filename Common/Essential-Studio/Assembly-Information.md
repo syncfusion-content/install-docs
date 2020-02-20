@@ -155,7 +155,7 @@ Following are the supported Framework versions of the Essential Studio assemblie
 </tr>
 <tr>
 <td>Xamarin</td>
-<td>netstandard 2.0. Find the platform specific version [here](https://help.syncfusion.com/xamarin/installation-and-upgrade/system-requirements#supported-platforms)</td>
+<td>netstandard 2.0. Find the platform specific version {{'[here](https://help.syncfusion.com/xamarin/installation-and-upgrade/system-requirements#supported-platforms)'| markdownify }}</td>
 </tr>
 <tr>
 <td>UWP</td>
