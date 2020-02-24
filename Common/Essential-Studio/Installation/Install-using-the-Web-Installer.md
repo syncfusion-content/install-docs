@@ -121,9 +121,43 @@ The following procedure illustrates how to install Essential Studio Platform Onl
     ![Installation Summary](WebInstaller/Step-by-Step-Installation_img11.png)
 	
 	* Click **Launch Control Panel** to open the Syncfusion Control Panel.
+	
+10. You can find the installed information from the windows control panel.
+
+    ![Control Panel](WebInstaller/Step-by-Step-Installation_img19.png)
+	
+	N> Starting with the version v18.1 (2020 Volume 1 release), Syncfusion started providing separate control panel entry for Web Installer. 
 
 
 ## Uninstallation
+
+Starting from 2020 Volume 1 release (v18.1), Syncfusion provides option for uninstalling the web installer from the control panel. So, you can uninstall from control panel or using the installer itself.
+
+### Uninstalling from Control Panel
+
+1. Open the Control Panel.
+
+2. Web Installer entry will be present like **Syncfusion Essential Studio {version}**. Double click that entry.
+
+   ![Control Panel](WebInstaller/Step-by-Step-Installation_img19.png)
+
+3. Web Installer will be launched and here you can select the list of platforms to be uninstalled in that version.
+
+   ![Platform Selection wizard Installed](WebInstaller/Step-by-Step-Installation_img4.png)
+	
+4. Confirmation wizard will be displayed. Here, you can view and modify the list of platforms that will be uninstalled. Click Uninstall.
+
+    ![Confirmation for uninstall](WebInstaller/Step-by-Step-Installation_img12.png)
+	
+5. Uninstallation progress will be displayed.
+  
+    ![Progress for uninstall](WebInstaller/Step-by-Step-Installation_img13.png)
+	
+6. Once the Uninstallation is complete, **Summary** wizard will be displayed. Here you can check the list of platforms which are uninstalled successfully and failed. Click Finish to exit the Summary wizard. 
+
+    ![Uninstallation Summary](WebInstaller/Step-by-Step-Installation_img14.png)
+
+### Uninstalling from Installer 
 
 Till version 17.2, Syncfusion Web Installer had option for installation alone. Starting with the version 17.3 (2019 Vol 3), Syncfusion provides option for uninstalling the platforms of the same version from the Web Installer application itself. Select the list of the platforms to be uninstalled and Web Installer will uninstall those platforms one by one.
 
