@@ -392,6 +392,37 @@ return runApp(MyApp());
 {% endhighlight %}
 {% endtabs %}
 
+### JavaScript (Essential JS 1 and Essential JS 2)
+
+Syncfusion License keys are not required for script files (.js files). For the following platforms, you can use the script files without registering the license keys.
+
+#### **JavaScript (Essential JS 2)**
+
+* Angular
+
+* React
+
+* Vue
+
+* JavaScript (ES5)
+
+* TypeScript & JavaScript (ES6)
+
+#### **JavaScript (Essential JS 1)**
+
+* AngularJS
+
+* Angular
+
+* Aurelia
+
+* ReactJS
+
+* TypeScript
+
+* EmberJS
+
+
 ## Registering key in a User control that contains Syncfusion controls
 We recommend registering the license key at application level as shown in the previous sections
 

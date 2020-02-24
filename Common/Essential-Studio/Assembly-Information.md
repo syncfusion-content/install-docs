@@ -143,3 +143,50 @@ The following Essential Studio platforms do not have assembly support.
 * JavaScript (Essential JS 2)
 * PHP (Essential JS 1)
 * JSP (Essential JS 1)
+
+## Supported Framework version for Essential Studio Assemblies
+
+Following are the supported Framework versions of the Essential Studio assemblies
+
+<table>
+<tr>
+<th>Essential Studio platform</th>
+<th>Supported Framework version</th>
+</tr>
+<tr>
+<td>Xamarin</td>
+<td>netstandard 2.0. Find the platform specific version {{'[here](https://help.syncfusion.com/xamarin/installation-and-upgrade/system-requirements#supported-platforms)'| markdownify }}</td>
+</tr>
+<tr>
+<td>UWP</td>
+<td>Target Platform version UAP 10.0.16299 and above</td>
+</tr>
+<tr>
+<td>WPF</td>
+<td>.NET Framework 3.5 to 4.6 and .NET Core 3.0</td>
+</tr>
+<tr>
+<td>Windows Forms</td>
+<td>.NET Framework 2.0 to 4.6 and .NET Core 3.0</td>
+</tr>
+<tr>
+<td>ASP.NET MVC (Essential JS 2)</td>
+<td>MVC 4 and MVC 5</td>
+</tr>
+<tr>
+<td>ASP.NET Web Forms</td>
+<td>.NET Framework 3.5 to 4.6</td>
+</tr>
+<tr>
+<td>ASP.NET MVC (Essential JS 1)</td>
+<td>MVC 3, MVC 4 and MVC 5</td>
+</tr>
+<tr>
+<td>ASP.NET Core (Essential JS 1)</td>
+<td>netstandard 1.2 to 2.0 and netcoreapp 2.1 to 3.1</td>
+</tr>
+<tr>
+<td>JavaScript (Essential JS 1)</td>
+<td>.NET Framework 3.5 to 4.6</td>
+</tr>
+</table>
