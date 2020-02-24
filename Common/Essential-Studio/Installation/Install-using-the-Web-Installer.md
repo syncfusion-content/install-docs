@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Installation and deployment of Essential Studio using Platform Web Installer
+# Installation and deployment of Essential Studio using Web Installer
 
 
 ## Overview
