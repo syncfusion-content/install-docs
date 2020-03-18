@@ -7,12 +7,12 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Installation and deployment of Essential Studio using Platform Web Installer
+# Installation and deployment of Essential Studio using Web Installer
 
 
 ## Overview
 
-Starting with version 16.2 (2018 Vol 2), Syncfusion provides Web Installer for Essential Studio platforms. This reduces the burden of downloading the installer of larger size. You can just download and launch the online installer which will be of smaller size and it will downloads and installs the Essential Studio products you have selected. The Essential Studio Web Installer includes the following platforms. You can download the latest version Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
+Starting with version 16.2 (2018 Vol 2), Syncfusion provides Web Installer for Essential Studio platforms. This reduces the burden of downloading the installer of larger size. You can just download and launch the web installer which will be of smaller size and it will downloads and installs the Essential Studio products you have selected. The Essential Studio Web Installer includes the following platforms. You can download the latest version Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
 
 Starting with the version 17.3 (2019 Vol 3), Syncfusion provides updated version of Web Installer which allows both installation and uninstallation of the platforms for that specific version.
 
@@ -52,16 +52,16 @@ Starting with the version 17.3 (2019 Vol 3), Syncfusion provides updated version
  
 ## Installation
 
-The following procedure illustrates how to install Essential Studio Platform Online installer. 
+The following procedure illustrates how to install Essential Studio Platform Web installer. 
 
-1.  Double-click the Syncfusion Essential Studio Platform Online Installer. The installer wizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Essential Studio Platform Web Installer. The installer wizard opens and extracts the package automatically.
 
     ![Installer Extraction Wizard](WebInstaller/Step-by-Step-Installation_img1.png)
 
     
     N> The installer wizard extracts the syncfusion{platform}webinstaller_{version}.exe dialog, displaying the unzip operation of the package.
     
-2. Welcome wizard of the Syncfusion Online Installer will be displayed. Click Next.
+2. Welcome wizard of the Syncfusion Web Installer will be displayed. Click Next.
 
    ![Welcome wizard](WebInstaller/Step-by-Step-Installation_img2.png)
 
@@ -121,19 +121,53 @@ The following procedure illustrates how to install Essential Studio Platform Onl
     ![Installation Summary](WebInstaller/Step-by-Step-Installation_img11.png)
 	
 	* Click **Launch Control Panel** to open the Syncfusion Control Panel.
+	
+10. You can find the Essential Studio installed information from the windows control panel.
+
+    ![Control Panel](WebInstaller/Step-by-Step-Installation_img19.png)
+	
+	N> Starting with the version v18.1 (2020 Volume 1 release), Syncfusion started providing separate entry in windows control panel for Essential Studio. 
 
 
 ## Uninstallation
 
-Till version 17.2, Syncfusion Web Installer had option for installation alone. Starting with the version 17.3 (2019 Vol 3), Syncfusion provides option for uninstalling the platforms of the same version from the Web Installer application itself. Select the list of the platforms to be uninstalled and Web Installer will uninstall those platforms one by one.
+Starting from 2020 Volume 1 release (v18.1), Syncfusion provides option for uninstalling the Essential Studio from the windows control panel. So, you can uninstall the corresponding version Essential Studio from windows control panel or using the web installer application itself.
+
+### Uninstalling from Windows Control Panel
+
+1. Open the Windows Control Panel.
+
+2. Syncfusion Essential Studio entry will be present like **Syncfusion Essential Studio {version}**. Double click that entry.
+
+   ![Control Panel](WebInstaller/Step-by-Step-Installation_img19.png)
+
+3. Web Installer will be launched and here you can select the list of platforms to be uninstalled in that version.
+
+   ![Platform Selection wizard Installed](WebInstaller/Step-by-Step-Installation_img4.png)
+	
+4. Confirmation wizard will be displayed. Here, you can view and modify the list of platforms that will be uninstalled. Click Uninstall.
+
+    ![Confirmation for uninstall](WebInstaller/Step-by-Step-Installation_img12.png)
+	
+5. Uninstallation progress will be displayed.
+  
+    ![Progress for uninstall](WebInstaller/Step-by-Step-Installation_img13.png)
+	
+6. Once the Uninstallation is complete, **Summary** wizard will be displayed. Here you can check the list of platforms which are uninstalled successfully and failed. Click Finish to exit the Summary wizard. 
+
+    ![Uninstallation Summary](WebInstaller/Step-by-Step-Installation_img14.png)
+
+### Uninstalling from the Web installer application
+
+Starting with the version 17.3 (2019 Vol 3), Syncfusion provides option for uninstalling the platforms of the same version from the Web Installer application itself. Select the list of the platforms to be uninstalled and Web Installer will uninstall those platforms one by one.
 
 The following procedure illustrates how to uninstall Essential Studio Platform from Web Installer. 
 
-1.  Double-click the Syncfusion Essential Studio Platform Online Installer. The installer Wizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Essential Studio Platform Web Installer. The installer Wizard opens and extracts the package automatically.
 
     ![Installer Extraction Wizard uninstall](WebInstaller/Step-by-Step-Installation_img1.png)
 	
-2. Welcome wizard of the Syncfusion Online Installer will be displayed. Click Next.
+2. Welcome wizard of the Syncfusion Web Installer will be displayed. Click Next.
 
    ![Welcome wizard uninstall](WebInstaller/Step-by-Step-Installation_img2.png)
    
@@ -156,15 +190,15 @@ The following procedure illustrates how to uninstall Essential Studio Platform f
 	
 ## Installation and Uninstallation
 
-Till version 17.2, Syncfusion Web Installer had option for installation alone. Starting with the version 17.3 (2019 Vol 3), Syncfusion provides option for both install and uninstall the platforms of the same version from the Web Installer application itself.
+Till version 17.2, Syncfusion Web Installer had option for installation alone. Starting with the version 17.3 (2019 Vol 3), Syncfusion provides option for both installing and uninstalling the platforms of the same version from the Web Installer application itself.
 
 The following procedure illustrates how to install/uninstall Essential Studio Platform from Web Installer. 
 
-1.  Double-click the Syncfusion Essential Studio Platform Online Installer. The installer Wizard opens and extracts the package automatically.
+1.  Double-click the Syncfusion Essential Studio Platform Web Installer. The installer Wizard opens and extracts the package automatically.
 
     ![Installer Extraction Wizard Install/Uninstall](WebInstaller/Step-by-Step-Installation_img1.png)
 	
-2. Welcome wizard of the Syncfusion Online Installer will be displayed. Click Next.
+2. Welcome wizard of the Syncfusion Web Installer will be displayed. Click Next.
 
    ![Welcome wizard for Install/Uninstall](WebInstaller/Step-by-Step-Installation_img2.png)
    
