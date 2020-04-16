@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# System Requirements   
+# System Requirements of Essential Studio
 
 ## ASP.NET MVC
 
