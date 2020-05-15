@@ -244,7 +244,7 @@ Register the license key in main method of **Program.cs**
 
 {% tabs %}
 {% highlight c# %}
-using Syncfusion.EJ2.Blazor;
+using Syncfusion.Blazor;
 public static async Task Main(string[] args) 
 { 
     //Register Syncfusion license 
