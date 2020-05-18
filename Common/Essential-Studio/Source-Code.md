@@ -17,7 +17,7 @@ Syncfusion provides Source Code Add On installer in which you can modify the Syn
 
 ## Supported Platforms
 
-Syncfusion provides the sources for below platforms in the source add-on setup.
+Syncfusion provides sources for the following platforms in the source add-on setup.
 
 **Web**
 
