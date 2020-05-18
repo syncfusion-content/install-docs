@@ -37,10 +37,6 @@ Syncfusion provides the sources for below platforms in the source add-on setup.
 * WPF
 * Universal Windows Platform
 
-**FileFormats**
-
-* Read and Write Excel, Word, PDF and PowerPoint files
-
 **Web (Essential JS 1)**
 
 * ASP.NET Web Forms
