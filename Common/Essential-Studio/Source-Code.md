@@ -15,6 +15,36 @@ documentation: ug
 
 Syncfusion provides Source Code Add On installer in which you can modify the Syncfusion source and make use of the customized assemblies. All the Essential Studio sources will be packed in this installer and you can easily build the customized source. Source License is required for downloading and installing the Source Code Add-on installer.
 
+## Supported Platforms
+
+Syncfusion provides sources for the following platforms in the source add-on setup.
+
+**Web**
+
+* ASP.NET MVC
+* ASP.NET Core
+* JavaScript
+* Blazor
+
+**Mobile**
+
+* Xamarin
+* Flutter
+
+**Desktop**
+
+* Windows Forms
+* WPF
+* Universal Windows Platform
+
+**Web (Essential JS 1)**
+
+* ASP.NET Web Forms
+* ASP.NET MVC
+* ASP.NET Core
+* JavaScript
+* PHP
+
 ## Step-by-Step Installation
 
 The following steps show how you can install the Essential Studio Source Code Add-on installer.
