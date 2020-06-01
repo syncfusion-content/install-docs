@@ -371,7 +371,6 @@ The following topic describes the system requirements required by Syncfusion Xam
 ### Development Environment
 
 * Microsoft Visual Studio 2015/2017/2019
-* .NET Core 3.1
 
 ## Flutter
 
