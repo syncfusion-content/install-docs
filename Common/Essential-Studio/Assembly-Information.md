@@ -40,7 +40,8 @@ The assembly version format differs for each platform. Refer the following table
 <b>4.5</b></td><td>
 <b>4.5.1</b></td><td>
 <b>4.6</b></td><td>
-<b>netcoreapp3.0</b></td></tr>
+<b>netcoreapp3.1</b></td>
+<b>net 5.0</b></td><td></tr>
 <tr>
 <td>
 <b>Windows Forms</b></td><td>
@@ -50,7 +51,8 @@ The assembly version format differs for each platform. Refer the following table
 17.1450.0.x</td><td>
 17.1451.0.x</td><td>
 17.1460.0.x</td><td>
-17.1300.0.x</td></tr>
+17.1300.0.x</td><td>
+17.1500.0.x</td></tr>
 <tr>
 <td>
 <b>WPF</b></td><td>
@@ -60,7 +62,8 @@ NA</td><td>
 17.1450.0.X</td><td>
 17.1451.0.X</td><td>
 17.1460.0.x</td><td>
-17.1300.0.x</td></tr>
+17.1300.0.x</td><td>
+17.1500.0.x</td></tr>
 <tr>
 <td>
 <b>UWP</b></td><td>
@@ -70,6 +73,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 17.1460.0.x</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -80,6 +84,7 @@ NA</td><td>
 NA</td><td>
 17.1451.0.x</td><td>
 NA</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -88,6 +93,7 @@ NA</td><td>
 NA</td><td>
 MVC 4 - 17.1400.0.x</td><td>
 MVC 5 - 17.1500.0.x</td><td>
+NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td></tr>
@@ -100,6 +106,7 @@ NA</td><td>
 17.1450.0.x</td><td>
 17.1451.0.x</td><td>
 17.1460.0.x</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -108,6 +115,7 @@ NA</td><td>
 NA</td><td>
 <li>MVC 3 - 17.1300.0.x</li><li>MVC 4 - 17.1400.0.x</li></td><td>
 MVC 5 - 17.1500.0.x</td><td>
+NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td></tr>
@@ -120,6 +128,7 @@ NA</td><td>
 17.1450.0.X</td><td>
 17.1451.0.X</td><td>
 17.1460.0.X</td><td>
+NA</td><td>
 NA</td></tr>
 </table>
 
@@ -163,11 +172,11 @@ Following are the supported Framework versions of the Essential Studio assemblie
 </tr>
 <tr>
 <td>WPF</td>
-<td>.NET Framework 3.5 to 4.6 and .NET Core 3.1</td>
+<td>.NET Framework 3.5 to 4.6, .NET Core 3.1 and .NET 5.0</td>
 </tr>
 <tr>
 <td>Windows Forms</td>
-<td>.NET Framework 2.0 to 4.6 and .NET Core 3.1</td>
+<td>.NET Framework 2.0 to 4.6, .NET Core 3.1 and .NET 5.0</td>
 </tr>
 <tr>
 <td>ASP.NET MVC (Essential JS 2)</td>
