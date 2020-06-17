@@ -51,7 +51,7 @@ The assembly version format differs for each platform. Refer the following table
 17.1450.0.x</td><td>
 17.1451.0.x</td><td>
 17.1460.0.x</td><td>
-17.1300.0.x</td><td>
+17.1310.0.x</td><td>
 17.1500.0.x</td></tr>
 <tr>
 <td>
@@ -62,7 +62,7 @@ NA</td><td>
 17.1450.0.X</td><td>
 17.1451.0.X</td><td>
 17.1460.0.x</td><td>
-17.1300.0.x</td><td>
+17.1310.0.x</td><td>
 17.1500.0.x</td></tr>
 <tr>
 <td>
