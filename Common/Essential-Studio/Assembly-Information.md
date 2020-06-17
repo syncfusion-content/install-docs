@@ -40,8 +40,8 @@ The assembly version format differs for each platform. Refer the following table
 <b>4.5</b></td><td>
 <b>4.5.1</b></td><td>
 <b>4.6</b></td><td>
-<b>netcoreapp3.1</b></td>
-<b>net 5.0</b></td><td></tr>
+<b>netcoreapp3.1</b></td><td>
+<b>net 5.0</b></td></tr>
 <tr>
 <td>
 <b>Windows Forms</b></td><td>
