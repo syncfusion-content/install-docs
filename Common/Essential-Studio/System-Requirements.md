@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# System Requirements 
+# System Requirements for Syncfusion ASP.NET MVC platform.
 
 ## ASP.NET MVC
 
