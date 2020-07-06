@@ -163,11 +163,11 @@ Following are the supported Framework versions of the Essential Studio assemblie
 </tr>
 <tr>
 <td>WPF</td>
-<td>.NET Framework 3.5 to 4.6 and .NET Core 3.1</td>
+<td>.NET Framework 3.5 to 4.6 and .NET Core 3.0</td>
 </tr>
 <tr>
 <td>Windows Forms</td>
-<td>.NET Framework 2.0 to 4.6 and .NET Core 3.1</td>
+<td>.NET Framework 2.0 to 4.6 and .NET Core 3.0</td>
 </tr>
 <tr>
 <td>ASP.NET MVC (Essential JS 2)</td>
