@@ -9,7 +9,7 @@ documentation: ug
 
 # Terminology of Syncfusion Essential Studio 
 
-The Terminology section covers documentation conventions used in this manual. 
+The Terminology section covers documetion conventions used in this maual.  
 
 
 
