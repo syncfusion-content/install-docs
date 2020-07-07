@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Studio Mac Installer | Syncfusion
-description: Learn here about some information of essential studio mac installer and more details for installation.
+description: Learn here about some information of essential studio mac installer and more details for installation
 platform: common
 control: Essential Studio
 documentation: ug
@@ -14,14 +14,15 @@ documentation: ug
 Syncfusion provides the Mac installer for the following Essential Studio platforms.
 
 * ASP.NET Core
-* JavaScript
-* Xamarin
-* Flutter
 * ASP.NET Core (Essential JS 1)
+* Blazor
+* Electron
+* Flutter
+* JavaScript
 * JavaScript (Essential JS 1)
 * PHP
-* Electron
 * WebKit HTML Converter
+* Xamarin
 
 ## How to download Mac installer?
 

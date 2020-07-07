@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# System Requirements for Syncfusion ASP.NET MVC platform.
+# System Requirements of Essential Studio
 
 ## ASP.NET MVC
 
@@ -102,7 +102,7 @@ The following topic describes the system requirements required by Syncfusion ASP
 ### Development Environment
 
 * Microsoft Visual Studio 2015/2017/2019
-* .NET Core 2.0
+* .NET Core 3.1
 
 ### Browser support and Required Polyfills
 
@@ -302,6 +302,8 @@ The following topic describes the system requirements required by Syncfusion Win
 
 * Microsoft Visual Studio 2005/2008/2010/2012/2013/2015/2017/2019
 * .NET Framework 2.0/3.5/4.0/4.5/4.5.1/4.6
+* .NET Core 3.1
+* .NET 5.0
 
 ## WPF
 
@@ -326,6 +328,8 @@ The following topic describes the system requirements required by Syncfusion WPF
 
 * Microsoft Visual Studio 2008/2010/2012/2013/2015/2017/2019
 * .NET Framework 2.0/3.5/4.0/4.5/4.5.1/4.6
+* .NET Core 3.1
+* .NET 5.0
 
 ## Universal Windows Platform
 
@@ -467,8 +471,9 @@ The following topic describes the system requirements required by Syncfusion ASP
 
 ### Development Environment
 
-* Microsoft Visual Studio 2015 Update 3 (minimum) , 2017 version latest (15.6.4), 2019. 
+* Microsoft Visual Studio 2015 Update 3 (minimum) , 2017 version latest (15.6.4), 2019 version latest (16.5). 
 * .NET Framework :  Minimum .NET 4.5.1 upto .NET 4.7 .
+* .NET Core 3.1
 * Command Line (Optional. Necessary for command line deployment)
 * Visual Studio Code (optional text-editor)
 * SQL Server 2008 Express (optional)

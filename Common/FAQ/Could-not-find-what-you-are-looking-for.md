@@ -9,7 +9,7 @@ documentation: ug
 
 # Most provided answers to the customers
 
-Following KB's contains the answers to the questions which has been asked by many customers. knfjnfjnf
+Following KB's contains the answers to the questions which has been asked by many customers.
 
 <table>
 <tr>
