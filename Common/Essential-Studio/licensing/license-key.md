@@ -392,7 +392,7 @@ return runApp(MyApp());
 {% endhighlight %}
 {% endtabs %}
 
-N> License key registration is not required, if you are using v18.3.0.x or later.
+N> License key registration is not required for Flutter, if you are using v18.3.0.x or later.
 
 ### JavaScript (Essential JS 1 and Essential JS 2)
 
