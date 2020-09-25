@@ -57,6 +57,7 @@ Visual Studio Help Viewer Compatible is available for the following platforms
 	  <li><b>WPF</b> </li>
 	  <li><b>ASP.NET Core</b> </li>
 	  <li><b>UWP</b> </li>
+	  <li><b>WinUI</b> </li>
 	  <li><b>Xamarin</b> </li>	  
 </div>
 

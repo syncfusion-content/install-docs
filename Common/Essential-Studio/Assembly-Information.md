@@ -26,7 +26,7 @@ In the License installer, licensed Syncfusion assemblies will be shipped and **L
 
 ## Assembly Version Format
 
-The assembly version format differs for each platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP and Xamarin platforms.
+The assembly version format differs for each platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP, WinUI and Xamarin platforms.
 
 
 
@@ -70,6 +70,16 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 17.1460.0.x</td><td>
+NA</td></tr>
+<tr>
+<td>
+<b>WinUI</b></td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+17.1300.0.x</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -159,6 +169,10 @@ Following are the supported Framework versions of the Essential Studio assemblie
 </tr>
 <tr>
 <td>UWP</td>
+<td>Target Platform version UAP 10.0.16299 and above</td>
+</tr>
+<tr>
+<td>WinUI</td>
 <td>Target Platform version UAP 10.0.16299 and above</td>
 </tr>
 <tr>
