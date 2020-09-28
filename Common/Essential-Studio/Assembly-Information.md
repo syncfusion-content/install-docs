@@ -87,7 +87,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-17.1460.0.x</td><td>
+18.3460.0.x</td><td>
 NA</td><td>
 NA</td><td>
 NA</td></tr>
@@ -98,7 +98,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-17.1451.0.x</td><td>
+18.3451.0.x</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -108,8 +108,8 @@ NA</td></tr>
 <b>ASP.NET MVC (Essential JS 2)</b></td><td>
 NA</td><td>
 NA</td><td>
-MVC 4 - 17.1400.0.x</td><td>
-MVC 5 - 17.1500.0.x</td><td>
+MVC 4 - 18.3400.0.x</td><td>
+MVC 5 - 18.3500.0.x</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -119,11 +119,11 @@ NA</td></tr>
 <td>
 <b>ASP.NET Web Forms (Essential JS 1)</b></td><td>
 NA</td><td>
-17.1350.0.x</td><td>
-17.1400.0.x</td><td>
-17.1450.0.x</td><td>
-17.1451.0.x</td><td>
-17.1460.0.x</td><td>
+18.3350.0.x</td><td>
+18.3400.0.x</td><td>
+18.3450.0.x</td><td>
+18.3451.0.x</td><td>
+18.3460.0.x</td><td>
 NA</td><td>
 NA</td><td>
 NA</td></tr>
@@ -132,8 +132,8 @@ NA</td></tr>
 <b>ASP.NET MVC (Essential JS 1)</b></td><td>
 NA</td><td>
 NA</td><td>
-<li>MVC 3 - 17.1300.0.x</li><li>MVC 4 - 17.1400.0.x</li></td><td>
-MVC 5 - 17.1500.0.x</td><td>
+<li>MVC 3 - 18.3300.0.x</li><li>MVC 4 - 18.3400.0.x</li></td><td>
+MVC 5 - 18.3500.0.x</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -143,11 +143,11 @@ NA</td></tr>
 <td>
 <b>JavaScript (Essential JS 1)</b></td><td>
 NA</td><td>
-17.1350.0.x</td><td>
-17.1400.0.X</td><td>
-17.1450.0.X</td><td>
-17.1451.0.X</td><td>
-17.1460.0.X</td><td>
+18.3350.0.x</td><td>
+18.3400.0.X</td><td>
+18.3450.0.X</td><td>
+18.3451.0.X</td><td>
+18.3460.0.X</td><td>
 NA</td><td>
 NA</td><td>
 NA</td></tr>
@@ -163,9 +163,9 @@ NA</td></tr>
 <b>netstandard 2.0</b></td></tr>
 <tr>
 <td>
-17.1120.0.x</td><td>
-17.1140.0.x</td><td>
-17.1200.0.x</td></tr>
+18.3120.0.x</td><td>
+18.3140.0.x</td><td>
+18.3200.0.x</td></tr>
 </table>
 
 The following Essential Studio platforms do not have assembly support.
