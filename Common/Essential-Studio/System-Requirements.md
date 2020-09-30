@@ -362,7 +362,7 @@ The following topic describes the system requirements required by Syncfusion Win
 
 ### Development Environment
 
-* Microsoft Visual Studio 2015/2017/2019
+* Microsoft Visual Studio 2019 v16.6 or later
 * Windows 10 SDK
 
 ## Xamarin
