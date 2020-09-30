@@ -35,6 +35,7 @@ I> You can install the Essential Studio Offline Installer using Login and Unlock
 * Windows Forms
 * WPF
 * Universal Windows Platform
+* WinUI
 
 **Web (Essential JS 1)**
 

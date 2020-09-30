@@ -30,6 +30,7 @@ Syncfusion provides separate platform installers for all the Essential Studio pl
 * Windows Forms
 * WPF
 * Universal Windows Platform
+* WinUI
 
 **FileFormats**
 
