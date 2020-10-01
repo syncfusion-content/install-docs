@@ -193,7 +193,7 @@ Following are the supported Framework versions of the Essential Studio assemblie
 </tr>
 <tr>
 <td>WinUI</td>
-<td>Target Platform version UAP 10.0.16299 and above</td>
+<td>Target Platform version UAP 10.0.17134 and above</td>
 </tr>
 <tr>
 <td>WPF</td>
