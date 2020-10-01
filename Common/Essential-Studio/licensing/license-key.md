@@ -392,6 +392,8 @@ return runApp(MyApp());
 {% endhighlight %}
 {% endtabs %}
 
+N> License key registration is not required for Flutter, if you are using v18.3.0.x or later.
+
 ### JavaScript (Essential JS 1 and Essential JS 2)
 
 Syncfusion License keys are not required for script files (.js files). For the following platforms, you can use the script files without registering the license keys.
