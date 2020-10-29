@@ -9,7 +9,6 @@ documentation: ug
 
 # Utilities
 
-
 ## Syncfusion Control Panel
 
 This section provides details on the structure and composition of the Syncfusion Control Panel. It also elaborates on navigating the Syncfusion Control Panel to access various utilities, add ons and product samples.
