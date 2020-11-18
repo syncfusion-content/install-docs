@@ -304,7 +304,7 @@ Syncfusion provides toolbox support for WPF, Windows Forms, ASP.NET Web Forms, U
 
 N> Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
 
-### Configuring Toolbox for .NET Framework
+### Configuring Toolbox
 
 #### For Xamarin:
 
