@@ -304,7 +304,7 @@ Syncfusion provides toolbox support for WPF, Windows Forms, ASP.NET Web Forms, U
 
 N> Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
 
-### Configuring Toolbox for .NET Framework
+### Configuring Toolbox
 
 #### For Xamarin:
 
@@ -358,7 +358,7 @@ Syncfusion UWP controls will be automatically configured in Visual Studio toolbo
    
 ### Configuring Toolbox for .NET Core
 
-To configure the Syncfusion toolbox in the WPF or WinForms .NET Core application, the Syncfusion NuGet packages should be installed in the .NET Core application. After installing the Syncfusion NuGet packages in .NET Core application, the corresponding NuGet packages Syncfusion components will be configured in Visual Studio toolbox. 
+To configure the Syncfusion toolbox in the WPF .NET Core application, the Syncfusion NuGet packages should be installed in the .NET Core application. After installing the Syncfusion NuGet packages in .NET Core application, the corresponding NuGet packages Syncfusion components will be configured in Visual Studio toolbox. 
 
 Please refer the documentation [link](https://help.syncfusion.com/wpf/visual-studio-integration/nuget-packages#using-components-from-nuget), to learn more about how to use the Syncfusion components using the Syncfusion NuGet packages in .NET Core application.
 
