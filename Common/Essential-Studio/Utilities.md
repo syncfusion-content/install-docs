@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Utilities
+# Utilities         
 
 
 ## Syncfusion Control Panel
