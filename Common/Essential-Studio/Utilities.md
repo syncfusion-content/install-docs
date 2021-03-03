@@ -323,7 +323,7 @@ Syncfusion controls will be automatically configured in Visual Studio toolbox wh
 1. To launch Toolbox configuration utility, follow either one of the options below:
 
    **Option 1:**   
-   To open the Syncfusion Control Panel, click **Add On and Utilities > Toolbox Installer**.
+   Open the Syncfusion Control Panel, click **Add On and Utilities > Toolbox Installer**.
    
    ![Add On and Utilities](Utilities_images/Toolbox-Configuration_img1.png)
    
