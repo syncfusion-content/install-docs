@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Utilities
+# Syncfusion Utilities
 
 
 ## Syncfusion Control Panel
@@ -318,19 +318,21 @@ Syncfusion UWP controls will be automatically configured in Visual Studio toolbo
 
 #### For WPF, Windows Forms and ASP.NET Web Forms platforms:
 
+Syncfusion controls will be automatically configured in the Visual Studio toolbox, while installing the Syncfusion installer, if the <b>“Configure Syncfusion Controls in Visual Studio”</b> checkbox is selected from installer UI.
+
 1. To launch Toolbox configuration utility, follow either one of the options below:
 
-   **Option 1:**  
+   **Option 1:**   
+   Open the Syncfusion Control Panel, click **Add On and Utilities > Toolbox Installer**.
+   
+   ![Add On and Utilities](Utilities_images/Toolbox-Configuration_img1.png)
+   
+   **Option 2:**  
    Choose **Syncfusion menu** in **Visual Studio**. Then, select corresponding platform menu and click **Toolbox Configuration…**
 
    ![Toolbox Installer via Syncfusion menu](Utilities_images/Syncfusion_Menu_Toolbox.png)
 
    N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
-
-   **Option 2:**   
-   To open the Syncfusion Control Panel, click **Add On and Utilities > Toolbox Installer**.
-   
-   ![Add On and Utilities](Utilities_images/Toolbox-Configuration_img1.png)
 
 2. Toolbox Installer will be opened.
 
