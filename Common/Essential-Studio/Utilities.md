@@ -358,7 +358,14 @@ Syncfusion controls will be automatically configured in the Visual Studio toolbo
    
    N> * You must reset the toolbox, when the installed controls are not reflected properly in the Toolbox. * This tool configures only the controls that are located under {Installed Location}\Assemblies\{Framework version}.
    
-### Configuring Toolbox for .NET Core
+### Toolbox population in .NET 5.0 WPF projects
+
+Syncfusion started providing .NET 5.0 Toolbox support for WPF .NET Core projects in Visual Studio 2019. Syncfusion controls will be automatically configured in the Visual Studio 2019 toolbox for WPF .NET 5.0 project, while installing the Syncfusion WPF installer.
+
+N> * Syncfusion included .NET 5.0 Toolbox support for WPF .NET Core projects from <b>2021 Volume 1</b> release version 19.1.*</b> only. * If the TargetFramework changed from .NET Core 3.1 to .NET 5.0 in WPF.NET Core project, Visual Studio must be restarted to get the Syncfusion controls in Visual Studio Toolbox.
+
+
+### Configuring Toolbox for .NET Core 3.1 projects
 
 To configure the Syncfusion toolbox in the WPF .NET Core application, the Syncfusion NuGet packages should be installed in the .NET Core application. After installing the Syncfusion NuGet packages in .NET Core application, the corresponding NuGet packages Syncfusion components will be configured in Visual Studio toolbox. 
 
