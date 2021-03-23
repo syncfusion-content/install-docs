@@ -399,7 +399,7 @@ N> License key registration is not required for Flutter, if you are using v18.3.
 Import ‘syncfusion.licensing' package and register the license key in the **main method** of your console application.
 
 {% tabs %}
-{% highlight Java %}
+{% highlight JAVA %}
 // Refer the licensing package
 import com.syncfusion.licensing.*;
 
