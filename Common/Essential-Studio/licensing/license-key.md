@@ -394,6 +394,24 @@ return runApp(MyApp());
 
 N> License key registration is not required for Flutter, if you are using v18.3.0.x or later.
 
+### Java
+
+Import ‘syncfusion.licensing' package and register the license key in the **main method** of your console application.
+
+{% tabs %}
+{% highlight JAVA %}
+// Refer the licensing package
+import com.syncfusion.licensing.*;
+
+static void main() { 
+// Register Syncfusion license 
+SyncfusionLicenseProvider.registerLicense("YOUR LICENSE KEY"); 
+}
+{% endhighlight %}
+{% endtabs %}
+
+N> License key registration is not required for Java before v19.1.
+
 ### JavaScript (Essential JS 1 and Essential JS 2)
 
 Syncfusion License keys are not required for script files (.js files). For the following platforms, you can use the script files without registering the license keys.
