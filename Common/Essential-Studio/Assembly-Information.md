@@ -53,7 +53,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-NA</td><td>
+19.1500.0.x</td><td>
 18.3300.0.x</td></tr>
 <tr>
 <td>
