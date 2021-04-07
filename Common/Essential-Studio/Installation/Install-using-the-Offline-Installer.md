@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-Syncfusion provides separate platform installers for all the Essential Studio platforms. You can download the latest version platforms Installer [here](https://www.syncfusion.com/downloads/latest-version) .
+Syncfusion provides separate platform installers for all the Essential Studio platforms. You can download the latest version platforms installer [here](https://www.syncfusion.com/downloads/latest-version).
 
 **Web**
 
@@ -30,7 +30,7 @@ Syncfusion provides separate platform installers for all the Essential Studio pl
 * Windows Forms
 * WPF
 * Universal Windows Platform
-* WinUI
+* WinUI (Preview)
 
 **FileFormats**
 
@@ -89,7 +89,7 @@ The following procedure illustrates how to install Essential Studio. 
 3. After reading the License Terms and Conditions, check the **I agree to the License Terms and Conditions** check box.
 
 
-4. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. To install in the displayed default location, click Install
+4. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. If there is no previous version installed for current platform, click Install to install in the displayed default location.
 
 
     ![Advanced options](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img4.png)
@@ -110,20 +110,39 @@ The following procedure illustrates how to install Essential Studio. 
 	* Select the **Create Desktop Shortcut** checkbox to create the desktop shortcut for Syncfusion Control Panel.
 
 
-5.  Click Install.
+5. If any previous version installed for current platform, Click Next in the same Advanced Options screen to select the versions to be uninstalled.
+
+
+    ![Advanced options](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img7.png)
+
+	
+	N> From the 2021 Volume 1 release, Syncfusion has provided option to uninstall the previous versions from 18.1 while installing the new version.
+	
+	   
+6.  Click Proceed.
+
+    ![Uninstalling wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img10.png)
+
+
+    N> If any version is selected to uninstall, pop up screen will appear for confirmation, if continue is selected, the Progress screen will display the uninstall progress and install progress respectively. If none of the version is selected to uninstall, install progress alone will be progressed.
+
+
+    ![Uninstalling wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img8.png)
 
 
     ![Installing wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img5.png)
 
-     N> The Completed screen is displayed once the package is installed.
 
-    ![Installation completed](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img6.png)
-
-
-6. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing.
+     N> The Completed screen is displayed once the package is installed. If any version is selected to uninstall, The completed screen will display both install and uninstall status.
 
 
-7. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Syncfusion Control Panel](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) is launched automatically.
+    ![Installation completed](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img9.png)
+
+
+7. Click the **Launcher Control Panel** link to launch the [Syncfusion Control Panel](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) after installing.
+
+
+8. Click Finish. Essential Studio is installed in your system.
 
 
 ## Command Line 
