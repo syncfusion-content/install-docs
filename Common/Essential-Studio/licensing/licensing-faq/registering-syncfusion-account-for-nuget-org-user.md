@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Registering Syncfusion account if directly using packages from NuGet.org
+# Registering Syncfusion account for direct NuGet.org user
 
 If you have directly obtained Syncfusion assemblies from [NuGet.org](http://nuget.org/) and do not have a Syncfusion account, follow the steps to obtain a free 30-day trial license key:
 
