@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Difference between licensed and trial Installer | Syncfusion
-description: Learn here about the Difference between Syncfusion Essential Studio Licensed Installer and Trial Installer.
+title: difference between Syncfusion Installers | Syncfusion
+description: Learn here about the Difference between Syncfusion Licensed Installer and Trial Installer.
 platform: common
 documentation: ug
 --- 
