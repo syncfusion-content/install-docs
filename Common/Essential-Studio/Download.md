@@ -1,4 +1,5 @@
 ---
+layout: post
 title : Steps to Download Essential Studio Installer | Syncfusion
 description : Learn here about how to download the Syncfusion Essential Studio Installer based on licensed and trial customer.
 platform: common
