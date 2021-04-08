@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion introduces WebKit HTML converter from the version 13.1.0.21 of Essential Studio that supports HTML to PDF conversion by using the WebKit rendering engine. This converter works on both x86 and x64 environments and can be easily integrated into any application on .NET platforms such as Windows Forms, WPF, ASP.NET Web Forms, and ASP. NET MVC to convert URLs, HTML string, images, and SVG to PDF.
 
-## Step-by-Step Instalation
+## Step-by-Step Installation
 
 The following are the steps to install the WebKit installer.
 

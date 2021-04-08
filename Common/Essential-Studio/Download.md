@@ -5,11 +5,12 @@ platform: common
 documentation: ug
 --- 
 
-# Download Installer
+# Download Sycnfusion Essential Studio Installer
 
 Starting with v16.2.0.41 (2018 Vol 2), Syncfusion provides two separate installers.
--	Trial Installer for evaluation customers
--	Licensed Installer for paid customers
+
+   -	Trial Installer for evaluation customers
+   -	Licensed Installer for paid customers
 
 You can download the Syncfusion installer from [Syncfusion.com](https://www.syncfusion.com/) website 
 
