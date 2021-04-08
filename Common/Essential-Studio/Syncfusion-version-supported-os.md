@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Syncfusion Version Supported OS
+# Supported OS details for Essential Studio versions
 
 The tables in this topic provide the details about what are all Syncfusion versions supported for the corresponding Operating Systems.
 
