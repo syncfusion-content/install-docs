@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-Syncfusion provides separate platform installers for all the Essential Studio platforms. You can download the latest version platforms installer [here](https://www.syncfusion.com/downloads/latest-version).
+Syncfusion provides separate platform installers for all the Essential Studio platforms. You can download the latest version platforms Installer [here](https://www.syncfusion.com/downloads/latest-version) .
 
 **Web**
 
@@ -30,7 +30,7 @@ Syncfusion provides separate platform installers for all the Essential Studio pl
 * Windows Forms
 * WPF
 * Universal Windows Platform
-* WinUI (Preview)
+* WinUI(Preview)
 
 **FileFormats**
 
@@ -45,21 +45,18 @@ Syncfusion provides separate platform installers for all the Essential Studio pl
 * PHP
 * JSP
 
-N> From the 2018 Volume 2 release, Syncfusion provides the support for uninstalling the particular platform alone. 
-
-
-   N> Universal Windows Platform can be installed in Windows 8.1 and later.
+N> From the 2018 Volume 2 release, from Windows Control Panel, you can uninstall the respective platform alone. 
 
 
 ## Step-by-Step Installation
 
-The following procedure illustrates how to install Essential Studio. 
+The following procedure illustrates how to install individual platform offline installer. 
 
-1. Double-click the Syncfusion Essential Studio Platform installer file. The installer Wizard opens and extracts the package automatically.
+1. Double-click the Syncfusion Essential Studio Platform installer file. The installer Wizard opens and extracts the package automatically.
 
    ![Installer extraction wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img1.png)
 
-   N> The installer wizard extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
+   N> The installer wizard extracts the syncfusionessential(platform)_(version).exe dialog, displaying the unzip operation of the package.
 
 2. You are provided with two options to unlock the Syncfusion installer.
 
@@ -68,12 +65,12 @@ The following procedure illustrates how to install Essential Studio. 
    
    * **Use Unlock Key**
    
-   N> While installing the Syncfusion installer, by default **Login To Install** screen will be displayed. You can provide the email ID and password registered with Syncfusion for unlocking the Essential Studio installer and your license will be configured. TO unlock the installer with License Key, you can select the **Use Unlock Key** option in the Installer and you will be prompt to enter the license key.
+   N> While installing the Syncfusion installer, by default **Login To Install** screen will be displayed. You can provide the email ID and password registered with Syncfusion for unlocking the Essential Studio installer and your license will be configured. To unlock the installer with License Key, you can select the **Use Unlock Key** option in the Installer and you will be prompt to enter the license key.
    
    
    **Login To Install**
    
-   You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
+   You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to create a new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
    ![Login credentials](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)   
 
@@ -89,60 +86,35 @@ The following procedure illustrates how to install Essential Studio. 
 3. After reading the License Terms and Conditions, check the **I agree to the License Terms and Conditions** check box.
 
 
-4. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. If there is no previous version installed for current platform, click Install to install in the displayed default location.
+4. Click Next. Select the Installation, Samples Folder and Advanced Options screen opens. To install in the displayed default location, click Install
 
 
     ![Advanced options](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img4.png)
-
-	
-    N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
-	   **Default Install location:** {ProgramFilesFolder}\Syncfusion\{Platform}\{version}
-	   **Default Samples location:** C:\Users\Public\Documents\Syncfusion\{platform}\{version}
-	   However, you can change the locations by clicking browse button.
-
    
-
-    * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
+   
+    * Select the **Install Demos** check box to install Syncfusion demos, or leave the check box clear, when you do not want to install Syncfusion samples.
     * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
     * Select the **Uninstall the previously installed Syncfusion assemblies from GAC** check box to uninstall the previously installed Syncfusion assemblies from GAC, or clear this check box to maintain the previously installed assemblies.
     * Select the **Configure Syncfusion controls in Visual Studio Toolbox** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
     * Select the **Install Syncfusion Extensions** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
 	* Select the **Create Desktop Shortcut** checkbox to create the desktop shortcut for Syncfusion Control Panel.
+	* Select the **Create StartMenu Shortcut** checkbox to create the start menu shortcut for Syncfusion Control Panel.
 
 
-5. If any previous version installed for current platform, Click Next in the same Advanced Options screen to select the versions to be uninstalled.
-
-
-    ![Advanced options](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img7.png)
-
-	
-	N> From the 2021 Volume 1 release, Syncfusion has provided option to uninstall the previous versions from 18.1 while installing the new version.
-	
-	   
-6.  Click Proceed.
-
-    ![Uninstalling wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img10.png)
-
-
-    N> If any version is selected to uninstall, pop up screen will appear for confirmation, if continue is selected, the Progress screen will display the uninstall progress and install progress respectively. If none of the version is selected to uninstall, install progress alone will be progressed.
-
-
-    ![Uninstalling wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img8.png)
+5.  Click Install.
 
 
     ![Installing wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img5.png)
 
+     N> The Completed screen will be displayed once the package is installed.
 
-     N> The Completed screen is displayed once the package is installed. If any version is selected to uninstall, The completed screen will display both install and uninstall status.
-
-
-    ![Installation completed](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img9.png)
+    ![Installation completed](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img6.png)
 
 
-7. Click the **Launcher Control Panel** link to launch the [Syncfusion Control Panel](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) after installing.
+6. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing.
 
 
-8. Click Finish. Essential Studio is installed in your system.
+7. Click Finish. Essential Studio is installed in your system and the Syncfusion Essential Studio [Syncfusion Control Panel](https://help.syncfusion.com/common/essential-studio/utilities#syncfusion-control-panel) is launched automatically.
 
 
 ## Command Line 

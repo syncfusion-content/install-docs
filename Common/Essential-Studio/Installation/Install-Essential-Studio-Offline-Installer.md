@@ -35,7 +35,7 @@ I> You can install the Essential Studio Offline Installer using Login and Unlock
 * Windows Forms
 * WPF
 * Universal Windows Platform
-* WinUI
+* WinUI(Preview)
 
 **Web (Essential JS 1)**
 
@@ -47,14 +47,14 @@ I> You can install the Essential Studio Offline Installer using Login and Unlock
 * JSP
  
  
-The following procedure illustrates how to install Essential Studio Offline Installer installer. 
+The following procedure illustrates how to install Essential Studio Enterprise Edition Installer. 
 
-1.Double-click the Syncfusion Essential Studio Offline Installer file. The installer Wizard opens and extracts the package automatically.
+1.Double-click the Syncfusion Essential Studio Enterprise Installer. The installer Wizard opens and extracts the package automatically.
 
 ![Installer extraction wizard](Offline-ES/Step-by-Step-Installation_img1.png)
 
     
-N> The installer wizard extracts the syncfusionessentialstudiosetup_{version}.exe dialog, displaying the unzip operation of the package.
+N> The installer wizard extracts the syncfusionessentialstudiosetup_{version}.exe dialog, displaying the unzip operation of the package.
     
 2.Welcome wizard of the Syncfusion Offline Installer will be displayed. Click Next.
 
@@ -68,7 +68,9 @@ N> The installer wizard extracts the syncfusionessentialstudiosetup_{version}.e
 ![Platform Selection wizard Available](Offline-ES/Step-by-Step-Installation_img3.png)
 	
 **Installed**
-	
+
+From here, you can select the already installed platforms to uninstall it.	
+
 ![Platform Selection wizard Installed](Offline-ES/Step-by-Step-Installation_img4.png)
 	
 I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
@@ -88,21 +90,13 @@ N> You can check the Estimated size of the Download and Installation by clicking
 
 ![Install and samples location](Offline-ES/Step-by-Step-Installation_img8.png)
 	
-I> From version 17.3 (2019 Vol 3), Syncfusion provides option to provide custom download location.
-	
-   
-N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
-   **Default Install location:** {ProgramFilesFolder}\Syncfusion\{Platform}\{version}
-   **Default Samples location:** C:\Users\Public\Documents\Syncfusion\{platform}\{version}
-   However, you can change the locations by clicking browse button.
-
-	
 	
 * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
 * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
 * Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
 * Select the **Configure Syncfusion Extensions in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
 * Select the **Create Desktop Shortcut** checkbox to create the desktop shortcut for Syncfusion Control Panel.
+* Select the **Create StartMenu Shortcut** checkbox to create the start menu shortcut for Syncfusion Control Panel.
 
 
 6.After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click Next.
@@ -122,7 +116,7 @@ N> From the 2018 Volume 2 release, Syncfusion has changed the install and sample
 
 **Use Unlock Key**
    
-You should use the Syncfusion License key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-the-syncfusion-support-account).
+You should use the Syncfusion Unlock key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-the-syncfusion-support-account).
 
 ![Install using Key](Offline-ES/Step-by-Step-Installation_img10.png)
 

@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Apply the Patch for Major or Service Pack Version
+# Applying the Patches
 
 Syncfusion provides patch installer for major version or service pack version, either to add new features or to fix issues. You have to install the patches in the order you have received.
 

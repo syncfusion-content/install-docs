@@ -11,11 +11,17 @@ documentation: ug
 
 ## Assembly Description
 
-Starting with version 16.2.0.41 (2018 Vol 2), Syncfusion provides separate installer for Paying (Licensed installer) and Evaluation (Trial installer) customers. In the trial installer, License Enforced Syncfusion assemblies will be shipped and this information will be present in the File Description as **License Required (LR)**.
+We are having two different type of assembly description to differentiate our trial and licensed assemblies.
+
+###Trial Installer
+
+In the trial installer, License Enforced Syncfusion assemblies will be shipped and this information will be present in the File Description as **License Required (LR).**
 
 **Example:** Syncfusion.SfBarcode.XForms (LR)
 
 ![Assembly Details](Documentation-Setup_images/Assembly-Description_img1.png)
+
+###Licensed Installer
 
 In the License installer, licensed Syncfusion assemblies will be shipped and **LR** information will not be shown in the File description.
 
