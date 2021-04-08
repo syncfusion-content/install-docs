@@ -6,7 +6,7 @@ platform: common
 documentation: ug
 --- 
 
-# Download Sycnfusion Essential Studio Installer
+# Download Syncfusion Essential Studio Installer
 
 Starting with v16.2.0.41 (2018 Vol 2), Syncfusion provides two separate installers.
 
