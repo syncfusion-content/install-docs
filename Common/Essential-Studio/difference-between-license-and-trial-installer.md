@@ -1,7 +1,7 @@
 ---
 layout: post
-title : Difference between Essential Studio Licensed Installer and Trial Installer | Syncfusion
-description : Learn here about the Difference between Essential Studio Licensed Installer and Trial Installer.
+title: Difference between Essential Studio Licensed Installer and Trial Installer | Syncfusion
+description: Learn here about the Difference between Essential Studio Licensed Installer and Trial Installer.
 platform: common
 documentation: ug
 --- 
