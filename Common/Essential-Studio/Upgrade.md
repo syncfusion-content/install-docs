@@ -7,7 +7,9 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Upgrade from one version to another version.
+# Upgrade Essential Studio
+
+## Upgrade from one version to another version.
 
 You can upgrade to the latest version by downloading and installing the platforms you require from [this](https://www.syncfusion.com/downloads/latest-version) link. After upgrading to the latest version, instead of upgrading your projects manually, you can use the Syncfusion Project Migration for migrating your projects. 
 
@@ -34,13 +36,13 @@ WPF, Windows Forms and UWP</td><td>
 {{'[https://help.syncfusion.com/common/essential-studio/utilities#project-migration](https://help.syncfusion.com/common/essential-studio/utilities#project-migration)' | markdownify }} </td></tr>
 </table>
 
-# Upgrade from beta version to major version
+## Upgrade from beta version to major version
 
 Syncfusion started providing beta release before a new major Volume release from 2018 volume 3. You can download and install the beta release installer here.
 
 You can uninstall the beta release setup before installing the major Volume release. As Syncfusion installer works independently, you can directly install the latest major Volume release which contains all the new features.
 
-# Upgrade from major version to service pack version
+## Upgrade from major version to service pack version
 
 Syncfusion provides a new Volume release once in every three months which has exciting new features. For that Volume release , there may be one or two Service Pack releases. The issues in the Volume release will be addressed in the Service Pack releases. You can download and install the latest Service Pack installer [here](https://www.syncfusion.com/downloads/latest-version). 
 
