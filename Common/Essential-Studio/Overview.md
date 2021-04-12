@@ -9,7 +9,7 @@ documentation: ug
 
 # Syncfusion Essential Studio Installer Overview
 
-Welcome to the Syncfusion Essential Studio product’s user guide documentation. This will help you to get started with Essential Studio.
+Welcome to the Syncfusion Essential Studio product's user guide documentation. This will help you to get started with Essential Studio.
 
 ![Essential Studio UG](Terminology_images/Essential-Studio_img1.png)
 
@@ -26,7 +26,7 @@ Web
  -	[ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls)
  -	[ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls)
  -	[JavaScript](https://www.syncfusion.com/javascript-ui-controls)
- -	[Angular] (https://www.syncfusion.com/angular-ui-components)
+ -	[Angular](https://www.syncfusion.com/angular-ui-components)
  -	[Vue](https://www.syncfusion.com/vue-ui-components)
  -	[React](https://www.syncfusion.com/react-ui-components)
 
