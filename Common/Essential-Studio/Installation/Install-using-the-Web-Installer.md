@@ -33,7 +33,7 @@ Starting with the version 17.3 (2019 Vol 3), Syncfusion provides updated version
 * Windows Forms
 * WPF
 * Universal Windows Platform
-* WinUI (Preview)
+* WinUI(Preview)
 
 **FileFormats**
 
@@ -60,7 +60,7 @@ The following procedure illustrates how to install Essential Studio Platform Web
     ![Installer Extraction Wizard](WebInstaller/Step-by-Step-Installation_img1.png)
 
     
-    N> The installer wizard extracts the syncfusion{platform}webinstaller_{version}.exe dialog, displaying the unzip operation of the package.
+    N> The installer wizard extracts the syncfusionessential{platform}webinstaller_{version}.exe dialog, displaying the unzip operation of the package.
     
 2. Welcome wizard of the Syncfusion Web Installer will be displayed. Click Next.
 
@@ -114,6 +114,7 @@ The following procedure illustrates how to install Essential Studio Platform Web
     * Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
     * Select the **Configure Syncfusion Extensions controls in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
 	* Select the **Create Desktop Shortcut** checkbox to create the desktop shortcut for Syncfusion Control Panel.
+	* Select the **Create StartMenu Shortcut** checkbox to create the start menu shortcut for Syncfusion Control Panel.
 
 
 8. After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click Next.
