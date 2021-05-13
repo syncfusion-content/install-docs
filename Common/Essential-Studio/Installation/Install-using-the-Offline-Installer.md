@@ -30,7 +30,7 @@ Syncfusion provides separate platform installers for all the Essential Studio pl
 * Windows Forms
 * WPF
 * Universal Windows Platform
-* WinUI(Preview)
+* WinUI (Preview)
 
 **FileFormats**
 
@@ -53,13 +53,13 @@ N> From the 2018 Volume 2 release, Syncfusion provides the support for uninstall
 
 ## Step-by-Step Installation
 
-The following procedure illustrates how to install individual platform offline installer. 
+The following procedure illustrates how to install Essential Studio. 
 
-1. Double-click the Syncfusion Essential Studio Platform installer file. The installer Wizard opens and extracts the package automatically.
+1. Double-click the Syncfusion Essential Studio Platform installer file. The installer Wizard opens and extracts the package automatically.
 
    ![Installer extraction wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img1.png)
 
-   N> The installer wizard extracts the syncfusionessential(platform)_(version).exe dialog, displaying the unzip operation of the package.
+   N> The installer wizard extracts the syncfusionessentialstudio_(version).exe dialog, displaying the unzip operation of the package.
 
 2. You are provided with two options to unlock the Syncfusion installer.
 
@@ -68,12 +68,12 @@ The following procedure illustrates how to install individual platform offline i
    
    * **Use Unlock Key**
    
-   N> While installing the Syncfusion installer, by default **Login To Install** screen will be displayed. You can provide the email ID and password registered with Syncfusion for unlocking the Essential Studio installer and your license will be configured. To unlock the installer with License Key, you can select the **Use Unlock Key** option in the Installer and you will be prompt to enter the license key.
+   N> While installing the Syncfusion installer, by default **Login To Install** screen will be displayed. You can provide the email ID and password registered with Syncfusion for unlocking the Essential Studio installer and your license will be configured. TO unlock the installer with License Key, you can select the **Use Unlock Key** option in the Installer and you will be prompt to enter the license key.
    
    
    **Login To Install**
    
-   You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to create a new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
+   You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on Sign Up to a create new account. Else if you forgot your password, click on Reset Password to create new password. Here Email address and Password is validated and the Platform Selection window opens.
 
    ![Login credentials](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img2.png)   
 
@@ -102,13 +102,12 @@ The following procedure illustrates how to install individual platform offline i
 
    
 
-    * Select the **Install Demos** check box to install Syncfusion demos, or leave the check box clear, when you do not want to install Syncfusion samples.
+    * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
     * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
     * Select the **Uninstall the previously installed Syncfusion assemblies from GAC** check box to uninstall the previously installed Syncfusion assemblies from GAC, or clear this check box to maintain the previously installed assemblies.
     * Select the **Configure Syncfusion controls in Visual Studio Toolbox** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
     * Select the **Install Syncfusion Extensions** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
 	* Select the **Create Desktop Shortcut** checkbox to create the desktop shortcut for Syncfusion Control Panel.
-	* Select the **Create StartMenu Shortcut** checkbox to create the start menu shortcut for Syncfusion Control Panel.
 
 
 5. If any previous version installed for current platform, Click Next in the same Advanced Options screen to select the versions to be uninstalled.

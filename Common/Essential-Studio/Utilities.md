@@ -77,18 +77,12 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 ![Syncfusion Control Panel](Utilities_images/Dashboard_img15.png)
 
-### Accessing utilities from Syncfusion Control Panel
+### Other Utilities
 
 This section allows you to access the following. 
 
 1. **Add-ons** - This lists the add-on utilities that help you to utilize the additional product services from Syncfusion. 
-   
-   ![Syncfusion Control Panel](Utilities_images/Add-ons.png)
-   
-2. [Utilities](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) - This section displays the utilities that are available for the corresponding product.
-
-   ![Syncfusion Control Panel](Utilities_images/utilities.png)
-   
+2. [Utilities](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) - This accordion set displays the common utilities.
    * [Toolbox Configuration](https://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion controls for various .NET Frameworks in combination with compatible Visual Studio versions.
    * [Assembly Manager](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion Essential Studio assemblies in the GAC and in the Assemblies folders.
    * [License Manager](https://help.syncfusion.com/common/essential-studio/utilities#license-manager )- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.   
@@ -96,45 +90,19 @@ This section allows you to access the following. 
    * [Extension Installer](https://help.syncfusion.com/common/essential-studio/utilities#vsix-installer )- This allows to configure the Syncfusion Visual Studio extensions in Visual Studio.
    
 
-### License Information
+### Other Information
 
-You can view your license details in the Syncfusion Control Panel. License information which includes, whether the setup is installed with Licensed or Trial. Syncfusion Trial expires in 30 days.
+Other information available in the Syncfusion Control Panel includes:
 
 * Messages- This section allows you to view the License information, like whether the user is Licensed or Trial. Syncfusion Trial expires in 30 days.
 
   ![Syncfusion Control Panel](Utilities_images/Dashboard_img16.png)
-
-### General resources
 
 * [Sales FAQ](https://www.syncfusion.com/sales/faq) - Clicking this link directs you to the FAQ page that lists common sales-related queries and other sales contact information.
 * [Contact Support](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fsupport%2fdirecttrac) - Clicking this link directs you to the Direct-Trac Login page to contact the Support Team.
 * Check for updates - Shows the latest version of Syncfusion Essential Studio if available.
 * License Agreement - Shows the License Agreement for the current version of Essential Studio.
 
-### Documentation
-
-You can access the respective products user guide, online and offline class reference documents from here.
-
-  ![Syncfusion Control Panel](Utilities_images/documentation.png)
-
-### User Guide
-
-PDF Download – Downloads the respective product and versions user guide documents in PDF format.
-
-View on Web – You can also view the online user guide documents on clicking this button
-
-### API Reference
-
-   -	Visual Studio Help Viewer – You can download the offline class reference document and integrate it your Visual Studio Help Viewer
-   -	View on Web – You can also view the online API Class Reference document for the respective product and version.
-   
-### Other products
-
-You can also get a quick glimpse of our other available products here, download, and install it and have a try.
-
-  ![Syncfusion Control Panel](Utilities_images/other-products.png)
-  
-If you have installed any other products in the same version, then you can open the respective products Syncfusion Control Panel from here too.
 
 
 ## Assembly Manager
@@ -197,8 +165,7 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    * 2.0 - Selecting **2.0** ensures installation of 2.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2005 SDK is installed, the 2.0 assemblies have to be deployed.
    * All – Selecting **All** ensures installation of all Frameworks installed in the machine, and assemblies into the GAC and assemblies folder.
 
-   N> * From 2018 Volume 4, Syncfusion has removed the .NET Framework 2.0, 3.5, 4.5.1 and MVC3 assemblies from installer. Refer to [this](https://help.syncfusion.com/common/essential-studio/installation/essential-studio-platform-framework-add-ons) topic to enable 2.0,3.5 and 4.5.1 checkboxes.  
-   * By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed.
+   N> By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed.
 
 7. Click Perform Action. It starts processing.
 
@@ -212,13 +179,68 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
 
    ![Assembly Manager](Utilities_images/Assembly-Manager_img9.png)
 
+
+### Assembly Manager Console usage
+
+You can also install the Syncfusion assemblies in GAC using the console version of Assembly Manager by passing the arguments. In order to do so, follow the below steps.
+
+1. Open the command prompt in admin mode.
+
+2. Navigate to the Assembly Manager location and pass the following arguments for AssemblyManagerConsole.exe.
+
+**1. Installing particular version**
+/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions} /platform:"{platform}"
+
+**Example**
+/version:14.4.0.15 /compilemode:prebuilt /action:install /framework:46,451,45,40,35,20 /platform:"WPF"
+
+   ![Assembly Manager Console](Utilities_images/Assembly-Manager_img10.png)
+   
+
+**2. Removing particular version**
+/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions} /platform:"{platform}"
+
+**Example**
+/version:14.4.0.15 /compilemode:prebuilt /action:remove /framework:46,451,45,40 /platform:"WPF"
+
+**3. Removing all versions**
+/version:{version} /compilemode:prebuilt /action:{action} /framework:{frameworkversions} /platform:"{platform}"
+
+**Example**
+/version:14.4.0.15 /compilemode:prebuilt /action:removeall /framework:46,451,45,40 /platform:"WPF"  
+
+
+
+### Syncfusion Assemblies
+
+The Syncfusion assemblies are installed in the following two locations: 
+
+* Assemblies folder
+* Global Assembly Cache (GAC)
+
+**The Assemblies folder**
+
+In the Assemblies folder, the assemblies are available in the following installation location:
+
+ **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Assemblies
+
+ N> * The sub-folder 3.5 is used with .NET 3.5 and the sub-folder 2.0 is used with .NET 2.0. In most cases, [System Drive]:\ is C:\.
+ * In 2.0 and 3.5 GAC, the assemblies are available in {System Drive:}\WINDOWS\assembly. 
+ * In 4.0, 4.5, 4.5.1 and 4.6 GAC, the assemblies are available in {System Drive:}\WINDOWS\ Microsoft.NET\assembly\GAC_MSIL.
+
+
+Essential Studio ships the pre-built 2.0, 3.5, 4.0, 4.5, 4.5.1 and 4.6 .NET Framework versions of the Syncfusion assemblies. These assemblies are located in the PreCompiledAssemblies location.        
+
+**Location**: {ProgramFilesFolder}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\PreCompiledAssemblies\x.x.x.x\{Framework}
+
+When you work with multiple target environments, you can see that each appropriate version is installed in the GAC, for side-by-side usage.
+
+Working with Syncfusion assemblies that have been built and tested with specific .NET Framework versions, greatly increases the overall reliability. It also allows Syncfusion controls to take advantage of features that may be available in specific environments. For instance .NET 2.0 variants of the control offer features specific to the .NET 2.0 environment.
+
    
 ## License Manager
 
-The License Manager helps to manage license key information, such as the validity of a Syncfusion key used on your system.
-
-N> * License Manager is used only to view the license information, adding\removing the unlock key.
-* Syncfusion License key should not be used here. Refer this KB article to know more about the difference between the Syncfusion Unlock Key and the Syncfusion License Key
+The License Manager helps to manage license key information, such as the validity of a Syncfusion key used on your system. 
 
 ### Launching License Manager
 
@@ -298,13 +320,19 @@ Syncfusion UWP controls will be automatically configured in Visual Studio toolbo
 
 Syncfusion controls will be automatically configured in the Visual Studio toolbox, while installing the Syncfusion installer, if the <b>“Configure Syncfusion Controls in Visual Studio”</b> checkbox is selected from installer UI.
 
-To launch Toolbox configuration utility, follow the steps given below:
+1. To launch Toolbox configuration utility, follow either one of the options below:
 
-   
-1. Open the Syncfusion Control Panel, click **Add On and Utilities > Toolbox Installer**.
+   **Option 1:**   
+   Open the Syncfusion Control Panel, click **Add On and Utilities > Toolbox Installer**.
    
    ![Add On and Utilities](Utilities_images/Toolbox-Configuration_img1.png)
    
+   **Option 2:**  
+   Choose **Syncfusion menu** in **Visual Studio**. Then, select corresponding platform menu and click **Toolbox Configuration…**
+
+   ![Toolbox Installer via Syncfusion menu](Utilities_images/Syncfusion_Menu_Toolbox.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
 
 2. Toolbox Installer will be opened.
 
@@ -454,76 +482,30 @@ The following screenshot illustrates this.
 
 ![Project Migration Console](Utilities_images/Command-Line_img1.png)
 
-## Configuring Extension
+## VSIX Installer
 
-Syncfusion provides VSIX Installer for configuring the Syncfusion extensions in Visual Studio. On installing the Syncfusion platform installer, all the required extensions for the corresponding product will be configured in the supported Visual Studio.
+Syncfusion provides VSIX Installer for configuring the Syncfusion extensions in Visual Studio. 
 
-You can also use the utility from the following location in command line to configure the available extensions,
+The following steps illustrate how to configure Syncfusion extensions in Visual Studio.
 
-**Location :** {Program Files Folder}\Syncfusion\Essential Studio\WPF\19.1.0.54\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe
+1. Open the SyncfusionVSIXInstallerWindows.exe from the following location.
 
-**Command Line Parameters**
+    <div id="license">
+    <b>Location:</b> {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{Platform}\{version}\Utilities\Extensions\VISX Installer\	
+	<b>Example:</b> C:\Program Files (x86)\Syncfusion\Essential Studio\WPF\15.2.0.40\Utilities\Extensions\VSIX Installer
+	</div>
+	
+   ![VSIX Installer](Utilities_images/VSIXInstaller_img1.png)	
+   
+2. Select the Syncfusion extensions to configure in Visual Studio and click the Configure button.
 
-**Arguments:** {InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"{platform}"
+   ![VSIX Installer](Utilities_images/VSIXInstaller_img2.png)
+   
+3. Now, the selected Syncfusion extensions will be configured in Visual Studio.  
 
-<table>
-<tr>
-<td><b>Platform</b></td>
-<td><b>Parameter</b></td>
-</tr>
-<tr>
-<td>All the Essential Studio platforms</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Windows,WPF,ASP.NET,ASP.NET MVC,ASP.NET Core,Universal Windows,ASP.NET MVC - EJ2,ASP.NET CORE - EJ2,Xamarin"</td>
-</tr>
-<tr>
-<td>WPF</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"WPF"</td>
-</tr>
-<tr>
-<td>Windows Forms</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Windows"</td>
-</tr>
-<tr>
-<td>ASP.NET Web Forms (Essential JS 1)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET"</td>
-</tr>
-<tr>
-<td>ASP.NET MVC (Essential JS 1)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET MVC"</td>
-</tr>
-<tr>
-<td>ASP.NET Core (Essential JS 1)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET Core"</td>
-</tr>
-<tr>
-<td>UWP</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Universal Windows"</td>
-</tr>
-<tr>
-<td>ASP.NET MVC (Essential JS 2)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET MVC - EJ2"</td>
-</tr>
-<tr>
-<td>ASP.NET Core (Essential JS 2)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET CORE - EJ2"</td>
-</tr>
-<tr>
-<td>JavaScript (Essential JS 2)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"JavaScript - EJ2"</td>
-</tr>
-<tr>
-<td>Blazor</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Blazor"</td>
-</tr>
-<tr>
-<td>Xamarin</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Xamarin"</td>
-</tr>
-<tr>
-<td>FileFormats</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"FileFormats"</td>
-</tr>
-</table>
+4. Once the action is completed, a confirmation message is displayed. Click OK.
+
+   ![VSIX Installer](Utilities_images/VSIXInstaller_img3.png)
 
 
 	

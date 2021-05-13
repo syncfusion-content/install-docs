@@ -1,19 +1,14 @@
 ---
-layout: post
-title: Steps to Download Essential Studio Installer | Syncfusion
-description: Learn here about how to download the Syncfusion Essential Studio Installer based on licensed and trial customer.
+title : Steps to Download Essential Studio Installer | Syncfusion
+description : Learn here about how to download the Syncfusion Essential Studio Installer based on licensed and trial customer.
 platform: common
 documentation: ug
 --- 
 
-# Download Syncfusion Essential Studio Installer
+# Download Installer
 
-Starting with v16.2.0.41 (2018 Vol 2), Syncfusion provides two separate installers.
+You can download the installer from [Syncfusion.com](https://www.syncfusion.com) website. 
 
-   -	Trial Installer for evaluation customers
-   -	Licensed Installer for paid customers
-
-You can download the Syncfusion installer from [Syncfusion.com](https://www.syncfusion.com/) website 
 
 ## Download the Trial Version
 
@@ -22,9 +17,10 @@ There are two ways to download our 30-day trial.
 ### Free Trial Page
 
 1. You can evaluate our 30-day free trial from [Free Trial](https://www.syncfusion.com/downloads) page.
-2. Once you fill the required form or made the login using your Syncfusion registered account, you can download the trial installer in the confirmation page.
-3. Once you downloaded the trial installer, you can unlock the installer using the unlock key or using the Syncfusion registered login credential.
-4. You can download the trial installer using the [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) page under your registered account at any time before the trial expire. (Refer the below screenshot).
+2. Once you fill the required form or made the login using the your Syncfusion registered account you can download the trial installer in the confirmation page.
+3. You can download the latest version trial installer. 
+4. You can unlock the installer using the unlock key, also you can unlock the installer using the Syncfusion registered login credential.
+5. You can download the trial installer using the [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) page under your registered account at any time before the trial expire. (Refer the below screenshot).
  
 ![Trial Downloads](download-images/Download_img1.png)
 
@@ -33,13 +29,13 @@ There are two ways to download our 30-day trial.
 2. You should login using your Syncfusion account to access this page.
 3. You can start your trail by clicking on the required product. 
 
-N> If you already using the trial products and it’s not expired, you couldn’t start the trial again for same product.
+N> If you already using the trail products and it’s not expired, you couldn’t start the trial again for same product.
 
 4. After you started the trial, you can download the latest version trial installer using the [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) page. 
 5. In [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) page, you can find your current active trial products. Trials, which you done in both Free Trial Page and Start trial pages are listed here.
 6. Use the Download (element 1 in below screenshot) button to download the installer of respective product.
 7. Online installer can be downloaded from this page.
-8. Unlock key is not required to unlock the online installer.
+8. No need of unlock key to unlock the online installer.
 9. You can unlock the installer using the Syncfusion registered login credential.
 
 ![License Downloads](download-images/Download_img2.png)

@@ -11,8 +11,7 @@ documentation: ug
 
 Syncfusion provides Digitally Signed Binaries installer. It signs the Syncfusion assemblies with a .pfx file. For information, see [Digitally Signed Binaries ](http://www.syncfusion.com/support/kb/7671). 
 
-I>* Essential Studio Digitally Signed Binaries can be installed only by the customers who holds the valid license.
-* Trial users will not be able to access this.
+I> Essential Studio Digitally Signed Binaries can be installed only by the customers who holds the valid license
 
 The following steps illustrate how to install Digitally Signed Binaries installer.
 
@@ -20,7 +19,7 @@ The following steps illustrate how to install Digitally Signed Binaries install
    
     ![Installer Extraction Wizard](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img1.png)
 
-2.  Once the unzip operation is complete, the Unlock key registration screen opens.
+2.  Once the unzip operation is complete, the License registration screen opens.
 
     ![Product key](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img2.png)
 
@@ -42,8 +41,8 @@ The following steps illustrate how to install Digitally Signed Binaries install
 
     ![Installation progress](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img5.png)
 
-    N> The Completed screen will be displayed once the selected package is installed.
+    N> The Completed screen is displayed once the selected package is installed.
     
     ![Installation Complete](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img6.png)
 
-8. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing. Click Finish to exit the installer Wizard. Digitally Signed Binaries is installed.
+8. Select the **Run Syncfusion Control Panel** check box to launch the Syncfusion Control Panel after installing. Click Finish to exit the installer Wizard. Digitally Signed Binaries will be installed.
