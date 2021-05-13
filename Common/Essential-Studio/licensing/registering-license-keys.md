@@ -366,7 +366,7 @@ return runApp(MyApp());
 
 N> License key registration is not required for Flutter, if you are using v18.3.0.x or later.
 
-### Java
+## Java
 
 Import ‘syncfusion.licensing' package and register the license key in the **main method** of your console application.
 
