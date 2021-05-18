@@ -204,7 +204,7 @@ The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6
 
 ### Using CDN
 
-To add ES6 Promise polyfill using CDN, include this in your HTML file.
+To add ES6 Promise polyfills using CDN, include this in your HTML file.
 
 {% tabs %}
 

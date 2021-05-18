@@ -11,7 +11,7 @@ documentation: ug
 
 Welcome to the Syncfusion Essential Studio product’s user guide documentation. This will help you to get started with Essential Studio.
 
-![Essential Studio UG](Terminology_images/Essential-Studio_img1.png)
+![Essential Studio UG](Documentation_images/Essential-Studio_img1.png)
 
 Essential Studio User Guide
 {:.caption}

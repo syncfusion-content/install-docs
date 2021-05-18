@@ -54,7 +54,7 @@ The steps below show how to install the Essential Studio Product installer.
 
 1.  Open the Syncfusion Product offline installer file from downloaded location by double-clicking it. The Installer Wizard automatically opens and extracts the package
 
-    ![Installer extraction wizard](ES-Installer-for-Individual-ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img1.png)
+    ![Installer extraction wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img1.png)
 
     N> The Installer wizard extracts the syncfusionessential(product)_(version).exe dialog, which displays the package's unzip operation.
 
