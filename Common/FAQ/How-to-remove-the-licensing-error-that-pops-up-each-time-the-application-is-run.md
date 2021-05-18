@@ -116,3 +116,7 @@ The following steps are provided to resolve the licensing issues for the Syncfus
 Syncfusion has removed the Syncfusion.Core dependency for all the Essential Studio products from v13.2.0.29. So, it is not required to refer the Syncfusion.Core assembly in your project, when you are using Syncfusion v13.2.0.29 or later versions. If Syncfusion.Core assembly already added in your projects, then it should be removed.
 
 Also, Syncfusion has removed run-time licensing for all Essential Studio products from the version 8.2.0.x. So, it is not required to embed the license.licx file in your project, if you are using v8.2 or later. Remove the license.licx file from your project, if it has been already added.
+
+## Resolving licensing error from the Syncfusion versions from v16.2 and later
+
+Refer to this [topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors) to resolve licensing error from v16.2 and later.

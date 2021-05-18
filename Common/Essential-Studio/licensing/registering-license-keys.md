@@ -29,7 +29,10 @@ Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY
 
 N> Place the license key between double quotes.  Also, ensure that Syncfusion.Licensing.dll is referenced in your project where the license key is being registered.
 
-Recommended place to register the license in the various platforms (ASP.NET Core, Xamarin, etc.) is covered in the following section.
+## Where to register the Syncfusion License Key?
+
+Below are the recommended place to register the license key in the various platforms (ASP.NET Core, Xamarin, etc.) 
+
 
 ## Windows Forms
 

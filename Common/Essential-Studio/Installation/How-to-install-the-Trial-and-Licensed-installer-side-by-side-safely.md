@@ -10,7 +10,7 @@ documentation: ug
 
 # How to install the Trial and Licensed installer side by side safely?
 
-You can install both Licensed and Trial installer side by side for different Essential Studio platforms. The following alert message will be shown if you install the combination of License and Trial platform installer. However, you can continue the installation. The alert message will be shown for the following platforms.
+You can install both Licensed and Trial installer side by side for different Essential Studio products. The following alert message will be shown if you install the combination of License and Trial platform installer. However, you can continue the installation. The alert message will be shown for the following products.
 
 * ASP.NET Web Forms
 * ASP.NET MVC
@@ -19,11 +19,11 @@ You can install both Licensed and Trial installer side by side for different Ess
 * WPF
 * File Formats  
 
-**Online Installer**
+<em>**Online Installer**</em>
 
 ![License Conflict Alert](Errors/Side-by-side_img2.png)
 
-**Offline Installer**
+<em>**Offline Installer**</em>
 
 ![Alert Message](Errors/Side-by-side_img1.png)
 
@@ -40,5 +40,5 @@ Assemblies will conflict as both Licensed and Trial assemblies will be present i
 
 ### Suggested solution
 
-Run the [Assembly Manager](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) for the licensed platform you are using for development to avoid licensing issues while running samples and using Syncfusion controls.
+To avoid licensing issues while running demos or using Syncfusion controls, launch the [Assembly Manager](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) for the licensed product you're using for development and install the licensed assemblies in GAC.
 

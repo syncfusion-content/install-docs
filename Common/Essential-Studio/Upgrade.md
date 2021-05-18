@@ -7,44 +7,31 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Upgrade Essential Studio
+# Upgrading Essential Studio Products
 
-## Upgrade from one version to another version.
+Syncfusion releases new volumes once every three months, with exciting new features. There will be one Service Pack release for this volume releases. Service Pack releases are provided to address major bug fixes in the volume releases.
 
-You can upgrade to the latest version by downloading and installing the platforms you require from [this](https://www.syncfusion.com/downloads/latest-version) link. After upgrading to the latest version, instead of upgrading your projects manually, you can use the Syncfusion Project Migration for migrating your projects. 
+You can upgrade to our latest version from any installed Syncfusion version.
 
-<table>
-<tr>
-<th>
-Platform</th><th>
-Project Migration link</th></tr>
-<tr>
-<td>
-ASP.NET Web Forms</td><td>
-{{'[https://help.syncfusion.com/extension/aspnet-extension/project-migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration)' | markdownify }} </td></tr>
-<tr>
-<td>
-ASP.NET MVC</td><td>
-{{'[https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration](https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration)' | markdownify }} </td></tr>
-<tr>
-<td>
-ASP.NET Core</td><td>
-{{'[https://help.syncfusion.com/extension/aspnetcore-extension/project-migration](https://help.syncfusion.com/extension/aspnetcore-extension/project-migration)' | markdownify }} </td></tr>
-<tr>
-<td>
-WPF, Windows Forms and UWP</td><td>
-{{'[https://help.syncfusion.com/common/essential-studio/utilities#project-migration](https://help.syncfusion.com/common/essential-studio/utilities#project-migration)' | markdownify }} </td></tr>
-</table>
+See our “[**Upgrade Guide**](https://help.syncfusion.com/upgrade-guide)” to learn more about the “Breaking Changes, Bug Fixes, Features and Knows Issues” between your current version and the latest version you are trying to upgrade.
 
-## Upgrade from beta version to major version
+## Upgrading to the latest version
 
-Syncfusion started providing beta release before a new major Volume release from 2018 volume 3. You can download and install the beta release installer here.
+The most recent version of Syncfusion Products can be downloaded and installed by clicking on the "Latest Version: {Version}" link at the top of the Syncfusion Products Control Panel.
 
-You can uninstall the beta release setup before installing the major Volume release. As Syncfusion installer works independently, you can directly install the latest major Volume release which contains all the new features.
+![Control Panel](Upgrade-images/upgrade-control-panel.png)
 
-## Upgrade from major version to service pack version
-
-Syncfusion provides a new Volume release once in every three months which has exciting new features. For that Volume release , there may be one or two Service Pack releases. The issues in the Volume release will be addressed in the Service Pack releases. You can download and install the latest Service Pack installer [here](https://www.syncfusion.com/downloads/latest-version). 
+You can also upgrade to the latest version just by downloading and installing the products you require from [this](https://www.syncfusion.com/downloads/latest-version) link. The existing installed versions are not required to be uninstalled. 
 
 
-It is not required to install the Volume release before installing the Service Pack release. As Volume and Service Packs releases works independently, you can directly install the latest Service Pack which contains major issue fixes.
+It is not required to install the Volume release before installing the Service Pack release. As releases for Volume and Service Packs work independently, you can install the latest version with major bug fixes directly.
+
+
+## Upgrade from trial version to license version
+
+To upgrade from trial version, there are two possible solutions.
+
+* Uninstall the trial version and install the fully licensed build from the [License & Downloads](https://www.syncfusion.com/account/downloads) section of our website.  
+* If you are using Syncfusion controls from [nuget.org]((https://www.nuget.org/packages?q=syncfusion)), replace the currently used trial license key with a paid license key that can be generated from the [License & Downloads](https://www.syncfusion.com/account/downloads) section of our website. Refer to [this](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-register-the-syncfusion-license-key) topic for more information regarding registering the license in the application.
+
+N> License registration is not required if you reference Syncfusion assemblies from Licensed installer. These licensing changes applicable to all evaluators who refers the Syncfusion assemblies from evaluation installer and those who use Syncfusion NuGet packages from [nuget.org](https://www.nuget.org/).

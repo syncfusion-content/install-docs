@@ -9,33 +9,33 @@ documentation: ug
 
 # WebKit HTML converter
 
-Syncfusion introduces WebKit HTML converter from the version 13.1.0.21 of Essential Studio that supports HTML to PDF conversion by using the WebKit rendering engine. This converter works on both x86 and x64 environments and can be easily integrated into any application on .NET platforms such as Windows Forms, WPF, ASP.NET Web Forms, and ASP. NET MVC to convert URLs, HTML string, images, and SVG to PDF.
+Syncfusion introduces the WebKit HTML converter in Essential Studio 13.1.0.21, which supports HTML to PDF conversion by using the advanced Qt WebKit rendering engine. This converter can easily be integrated into any.NET application such as Windows Forms, WPF, ASP.NET, ASP.NET MVC, and ASP.NET Core to convert URLs, HTML strings, SVG, and MHTML to PDF, as well as HTML to MHTML, HTML to SVG, and HTML to image.
 
 ## Step-by-Step Installation
 
-The following are the steps to install the WebKit installer.
+The steps for installing the HTML Converter installer are as follows.
 
-1. Double-click the Syncfusion WebKit Installer. The installer Wizard opens and extracts the package automatically. 
+1. Run the Syncfusion HTML Converter Installer by double-clicking it. The installer Wizard automatically opens and extracts the package.
 
    ![Installer Extraction Wizard](Add-on_images/Step-by-Step-Installation_img1.png)
 
    
 
-   N> No key is required for Syncfusion WebKit HTML Converter.
+   N> Syncfusion WebKit HTML Converter does not require a key.
 
-2. Once the unzip operation is complete, License Agreement screen opens.
+2. The License Agreement screen appears, when the unzip operation is finished.
 
    ![License Agreement](Add-on_images/Step-by-Step-Installation_img5.png)
 
 3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
 
-4. Click Next. Installation location will be displayed.
+4. Click the Next button. The installation location screen will appear.
 
    ![Installation location](Add-on_images/Step-by-Step-Installation_img6.png)
 
-   N> You can also browse and choose a location by clicking Browse.
+   N> By clicking **Browse**, you can also browse and select a location.
 
-5. To install in the displayed default location, click Install.
+5. Click Install, To install in the displayed default location, .
 
    ![Installation progress](Add-on_images/Step-by-Step-Installation_img8.png)
    
@@ -43,17 +43,17 @@ The following are the steps to install the WebKit installer.
    
    ![Installation Complete](Add-on_images/Step-by-Step-Installation_img10.png)
 
-6. Click Finish. WebKit is installed in your system.
+6. Click Finish. WebKit is installed in your machine.
 
 ## Command Line 
 
-The Syncfusion WebKit Installer supports Command Line Install and Uninstall. The following sections illustrate this ability. 
+Command Line Install and Uninstall are supported by the Syncfusion WebKit Installer. The following section demonstrate this ability.
 
 #### Command Line Installation
 
 Follow the given steps to install through Command Line in Silent mode.
 
-1. Double-click the Syncfusion WebKit Installer. The Self-Extractor Wizard opens and extracts the package automatically.
+1. Double-click the Syncfusion WebKit Installer to launch it. The Self-Extractor Wizard automatically opens and extracts the package.
 2. The syncfusionessentialwebkit _(version).exe file is extracted into the Temp folder. 
 3. Run %temp%. The Temp folder opens. The syncfusionessentialwebkit _(version).exe file is available in one of the folders.
 4. Copy the syncfusionessentialwebkit _(version).exe file in local drive. Example: D:\temp
@@ -72,7 +72,7 @@ Follow the given steps to install through Command Line in Silent mode.
    
 ### Command Line Uninstallation
 
-Syncfusion WebKit Installer supports uninstalling through Command Line in Silent mode. The following steps help you uninstall the Webkit. 
+Uninstalling Syncfusion WebKit Installer via Command Line in Silent mode is possible. The steps below will assist you in uninstalling the Webkit.
 
 1. When you do not have the extracted installer (syncfusionessentialwebkit _(version).exe) then follow the steps from 2 to 7.
 2. Double-click the Syncfusion Essential Studio installer. The Self-ExtractorWizard opens and extracts the package automatically.

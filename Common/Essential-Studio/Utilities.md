@@ -9,10 +9,11 @@ documentation: ug
 
 # Syncfusion Utilities
 
+Syncfusion provides various utilities to configure and control the default configured items during the installation. Find below some of the major utilities and its usage in detail.
 
 ## Syncfusion Control Panel
 
-This section provides details on the structure and composition of the Syncfusion Control Panel. It also elaborates on navigating the Syncfusion Control Panel to access various utilities, add ons and product samples.
+This section describes the structure and components of the Syncfusion Control Panel. It also goes over how to use the Syncfusion Control Panel to gain access to various utilities, add-ons, and product samples.
 
 <style>
 #license {
@@ -32,7 +33,7 @@ From the 2018 Volume 2 release, each Essential Studio platform has separate Sync
 
 ### Accessing Product Samples
 
-Syncfusion provides lots of online and local samples for better understanding of the controls. You can access them using the following steps. 
+Syncfusion provides online and local demos for better understanding of the controls. You can access to them by following the steps below. 
 
 1. Open the Syncfusion Control Panel.
 
@@ -73,7 +74,7 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 ### Purpose of Recheck button
 
-**Recheck** option in Syncfusion Control Panel is used to update the recently installed software information in your machine. If you have installed any required software for Essential Studio platforms after installing the Syncfusion installer, those software information will not be updated in the Syncfusion Control Panel. In this case, you can just click the Recheck button in Syncfusion Control Panel which will update the recently installed software in your machine. 
+The **Recheck** option rechecks the prerequisites list and refreshes the currently installed software list
 
 ![Syncfusion Control Panel](Utilities_images/Dashboard_img15.png)
 
@@ -215,10 +216,10 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    
 ## License Manager
 
-The License Manager helps to manage license key information, such as the validity of a Syncfusion key used on your system.
+The License Manager helps to manage unlock key information, such as the validity of a Syncfusion unlock key used in your system.
 
 N> * License Manager is used only to view the license information, adding\removing the unlock key.
-* Syncfusion License key should not be used here. Refer this KB article to know more about the difference between the Syncfusion Unlock Key and the Syncfusion License Key
+* Syncfusion License key should not be used here. Refer [this](https://www.syncfusion.com/kb/8950/difference-between-the-unlock-key-and-licensing-key) KB article to know more about the difference between the Syncfusion Unlock Key and the Syncfusion License Key
 
 ### Launching License Manager
 
@@ -352,11 +353,11 @@ Please refer the documentation [link](https://help.syncfusion.com/wpf/visual-stu
 
 Multi-Target Manager helps to manage multiple .NET Frameworks in your Visual Studio 2008 project that is, switching between multiple Frameworks.
 
- N> This is not essential for VS 2010 because Common Language Runtime (CLR) differs for both 3.5 and 4.0 Frameworks. VS 2010 selects the required .NET Framework assembly for the corresponding projects. 3.5 and 4.0 are the only Frameworks configured; the MultiTarget Manager utility allows you to work on Framework 2.0 with VS 2010.
+N> This is not essential for VS 2010 because Common Language Runtime (CLR) differs for both 3.5 and 4.0 Frameworks. VS 2010 selects the required .NET Framework assembly for the corresponding projects. 3.5 and 4.0 are the only Frameworks configured; the MultiTarget Manager utility allows you to work on Framework 2.0 with VS 2010.
 
 ### When to Use Multi-Target Manager?
 
-When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Frameworks, then, by default, the target Framework is set to 3.5, and the following registry entry AssemblyFoldersEx is also set to 3.5 assembly. You can use the Multi-Target Manager to change the target Framework to 2.0. 
+When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Frameworks, then, by default, the target Framework is set to 3.5, and the following registry entry AssemblyFoldersEx is also set to 3.5 assembly. You can use the Multi-Target Manager to change the target Framework to 2.0. 
 
 **Registry Location:** HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essential {platform} 3.5
 
@@ -407,7 +408,7 @@ The following steps illustrate how to migrate a project.
 
 2. Select the project to be upgraded in the **Select Project Folder** field.
 
-    N> If you have multiple projects in the same folder, you can select/deselect the projects of your choice. You can also select multiple projects location by using the **Select Folder List** option.
+   N> If you have multiple projects in the same folder, you can select/deselect the projects of your choice. You can also select multiple projects location by using the **Select Folder List** option.
 
 3. Select a folder to store a backup in the **Select backup folder** field. 
 
@@ -417,7 +418,7 @@ The following steps illustrate how to migrate a project.
 
 6. When you refer the Syncfusion assemblies from Hint path instead of GAC location then, copy the latest assemblies to that location manually or select the Remove hint path from projects check box, to remove the hint from the project. If you are migrating UWP project and you are using the UWP assemblies in your projects instead of SDK, don't enable the **Remove hint path from projects** option. 
 
-    N> If you have referred the Syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC for Windows Forms and WPF platforms if the assemblies are installed in GAC
+   N> If you have referred the Syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC for Windows Forms and WPF platforms if the assemblies are installed in GAC
 
 7. Click Perform Action. The utility upgrades the selected projects to the newer version. 
 
@@ -453,77 +454,6 @@ The following steps illustrate how to run the Project Migration tool through com
 The following screenshot illustrates this.
 
 ![Project Migration Console](Utilities_images/Command-Line_img1.png)
-
-## Configuring Extension
-
-Syncfusion provides VSIX Installer for configuring the Syncfusion extensions in Visual Studio. On installing the Syncfusion platform installer, all the required extensions for the corresponding product will be configured in the supported Visual Studio.
-
-You can also use the utility from the following location in command line to configure the available extensions,
-
-**Location :** {Program Files Folder}\Syncfusion\Essential Studio\WPF\19.1.0.54\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe
-
-**Command Line Parameters**
-
-**Arguments:** {InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"{platform}"
-
-<table>
-<tr>
-<td><b>Platform</b></td>
-<td><b>Parameter</b></td>
-</tr>
-<tr>
-<td>All the Essential Studio platforms</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Windows,WPF,ASP.NET,ASP.NET MVC,ASP.NET Core,Universal Windows,ASP.NET MVC - EJ2,ASP.NET CORE - EJ2,Xamarin"</td>
-</tr>
-<tr>
-<td>WPF</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"WPF"</td>
-</tr>
-<tr>
-<td>Windows Forms</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Windows"</td>
-</tr>
-<tr>
-<td>ASP.NET Web Forms (Essential JS 1)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET"</td>
-</tr>
-<tr>
-<td>ASP.NET MVC (Essential JS 1)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET MVC"</td>
-</tr>
-<tr>
-<td>ASP.NET Core (Essential JS 1)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET Core"</td>
-</tr>
-<tr>
-<td>UWP</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Universal Windows"</td>
-</tr>
-<tr>
-<td>ASP.NET MVC (Essential JS 2)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET MVC - EJ2"</td>
-</tr>
-<tr>
-<td>ASP.NET Core (Essential JS 2)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"ASP.NET CORE - EJ2"</td>
-</tr>
-<tr>
-<td>JavaScript (Essential JS 2)</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"JavaScript - EJ2"</td>
-</tr>
-<tr>
-<td>Blazor</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Blazor"</td>
-</tr>
-<tr>
-<td>Xamarin</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"Xamarin"</td>
-</tr>
-<tr>
-<td>FileFormats</td>
-<td>{InstallPath}\Utilities\Extensions\VSIX Installer\SyncfusionVSIXInstallerConsole.exe /action:install /isinstaller:true /platform:"FileFormats"</td>
-</tr>
-</table>
 
 
 	

@@ -9,57 +9,57 @@ documentation: ug
 
 # Applying the Patches
 
-Syncfusion provides patch installer for major version or service pack version, either to add new features or to fix issues. You have to install the patches in the order you have received.
+Syncfusion provides patch installer for major versions or service pack versions, either to add new features or to fix issues. You must install the patches in the order you have received.
 
 
 ## Installing the Patch installer
 
-The following procedure illustrates how to install a patch.
+The steps below show how to install a patch installer.
 
 
 I> Before installing the patch, ensure that corresponding Essential Studio version platform has been installed in your machine.
 
 
 
-1. Double-click the Syncfusion Essential Studio patch installer. The Syncfusion Essential Studio Service Pack opens.
+1.  Run the Syncfusion Essential Studio patch installer by double-clicking it. The Syncfusion Essential Studio Service Pack welcome wizard appears.
    
-   ![Welcome Wizard](Patches_images/Installing-a-Patch-Setup_img2.png)
+    ![Welcome Wizard](Patches_images/Installing-a-Patch-Setup_img2.png)
 
 
 
 
-2. Click Next. The Assembly Manager screen opens.
+2.  Click Next. The confirmation to the Run Assembly Manager screen opens.
    
-   ![Assembly Manager](Patches_images/Installing-a-Patch-Setup_img3.png)
+    ![Assembly Manager](Patches_images/Installing-a-Patch-Setup_img3.png)
 
 
 
 
-3. Select the Run Assembly Manager check box to install the assemblies in GAC.
+3.  Select the Run Assembly Manager check box to install the assemblies in GAC.
 
-4. Click Next. The Ready To Install screen opens.
+4.  Click Next. The Ready To Install screen opens.
    
-   ![Ready To Install](Patches_images/Installing-a-Patch-Setup_img4.png)
+    ![Ready To Install](Patches_images/Installing-a-Patch-Setup_img4.png)
 
 
 
 
-5. Click Install to continue installing.
+5.  Click Install. Installation process begins.
    
-   ![Installation Progress](Patches_images/Installing-a-Patch-Setup_img5.png)
+    ![Installation Progress](Patches_images/Installing-a-Patch-Setup_img5.png)
 
-   N> The patch is installed on your computer, and a dialog box appears when the installation is complete.
+    N> The patch is installed on your computer, and a dialog box appears when the installation is complete.
 
 
 
     ![Finish Wizard](Patches_images/Installing-a-Patch-Setup_img7.png)
 
 
-6. Click Finish. 
+6.  Click Finish. 
 
-   The new assemblies are placed in the Pre-Compiled Assemblies folder. These new assemblies can be referenced in your project.
+    The new assemblies are placed in the Pre-Compiled Assemblies folder. These new assemblies can be referenced in your project.
    
-   
+	
 ## Patch Assembly Version Format
    
 In the patch assembly, the **File Version** and **Product Version** will be different. Product Version will be the release version and File Version will be the increment of the release version's **revision** number. For each patch, the File Version will be a different one. You can differentiate between the build and patch assemblies by File Version. 
@@ -80,16 +80,16 @@ In the patch assembly, the **File Version** and **Product Version** will be diff
 
 The patch can also be installed through Command Line. Follow the given steps to run the Patch Installer via Command Line. 
 
-1. Open Command Prompt with administrative privileges, that is, in the Admin mode.
-2. Navigate to the patch file’s location and pass the following argument:
+1.  Open Command Prompt with administrative privileges, that is, in the Admin mode.
+2.  Navigate to the patch file’s location and pass the following argument:
    
-   **Argument:** {patch installer.exe} [/silent or /verysilent]
+    **Argument:** {patch installer.exe} [/silent or /verysilent]
 
-   **Example:**
-   SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /verysilent  
-   SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /silent         
+    **Example:**
+    SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /verysilent  
+    SyncfusionPatch_12.4.0.24_234640_5192015083205629_139538.exe /silent         
    
-   ![Command Prompt](Patches_images/Command-Line-Installation_img1.png)
+    ![Command Prompt](Patches_images/Command-Line-Installation_img1.png)
    
   
     N> /silent – Displays the progress dialog alone during the patch installation.
@@ -98,7 +98,7 @@ The patch can also be installed through Command Line. Follow the given steps to 
 
 ## Reverting a Patch
 
-The Patch installation takes a backup of the Release Assemblies and stores them in the Backup Assemblies folder. The patch assemblies are also stored in the Patch folder. You can revert back when needed. 
+The Patch installation creates a backup of the Release Assemblies in the Backup Assemblies folder. The Patch folder also contains the patch assemblies. You have the option of reverting if necessary. 
 
 **Reverting back to Release Assemblies:** 
 
