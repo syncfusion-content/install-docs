@@ -33,4 +33,4 @@ Essential Test Studio supports the following Windows-based controls.
 * Navigation Package
 * Notification Package
 
-N> Before installing this add-on, you must first instal the same version of Syncfusion Essential Studio and Mercury QuickTestProfessional.
+N> Before installing this add-on, you must first install the same version of Syncfusion Essential Studio and Mercury QuickTestProfessional.

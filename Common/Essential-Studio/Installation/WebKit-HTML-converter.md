@@ -72,7 +72,7 @@ Follow the given steps to install through Command Line in Silent mode.
    
 ### Command Line Uninstallation
 
-Uninstalling Syncfusion WebKit Installer via Command Line in Silent mode is possible. The steps below will assist you in uninstalling the Webkit.
+Uninstalling Syncfusion WebKit Installer via Command Line in Silent mode is possible. The steps below will assist you in uninstalling the WebKit.
 
 1. When you do not have the extracted installer (syncfusionessentialwebkit _(version).exe) then follow the steps from 2 to 7.
 2. Double-click the Syncfusion Essential Studio installer. The Self-ExtractorWizard opens and extracts the package automatically.

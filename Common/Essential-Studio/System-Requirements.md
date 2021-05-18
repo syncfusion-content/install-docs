@@ -47,7 +47,7 @@ By using the following IDEs, you can develop ASP.NET MVC Applications
 
 The tools listed below are required to run the Syncfusion ASP.NET MVC UI application.
 
-* .Net Framework 4.5 or above.
+* .NET Framework 4.5 or above.
 * ASP.NET MVC 4 or ASP.NET MVC 5
 
 ### Browser support and Required Polyfills
@@ -98,7 +98,7 @@ The following polyfills are required to run Essential JS 2 components in each br
 </tr>
 </table>
 
-The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6 Promise polyfill.
+The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6 Promise polyfills.
 
 ### Using CDN
 
@@ -200,7 +200,7 @@ The following polyfills are required to run Essential JS 2 components in each br
 </tr>
 </table>
 
-The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6 Promise polyfill.
+The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6 Promise polyfills.
 
 ### Using CDN
 
@@ -300,11 +300,11 @@ The following polyfills are required to run Essential JS 2 components in each br
 </tr>
 </table>
 
-The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6 Promise polyfill.
+The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6 Promise polyfills.
 
 ### Using CDN
 
-To add ES6 Promise polyfill using CDN, include this in your HTML file.
+To add ES6 Promise polyfills using CDN, include this in your HTML file.
 
 {% tabs %}
 
@@ -319,7 +319,7 @@ To add ES6 Promise polyfill using CDN, include this in your HTML file.
 
 ### Node.js
 
-ES6 Promise polyfill can also be installed in node.js
+ES6 Promise polyfills can also be installed in Node.js
 
 **To install:**
 
@@ -431,24 +431,6 @@ Microsoft Internet Explorer doesn’t support WebAssembly. So, Blazor WebAssembl
 <div id="note">
 Additional polyfills are required. Refer this [documentation](https://ej2.syncfusion.com/blazor/documentation/common/how-to/render-blazor-server-app-in-ie/) to add the polyfills in Blazor server application.
 </div>
-
-#### Required Polyfills
-
-The below polyfills are required to run Essential Blazor components in each browser. 
-
-<table>
-<tr>
-<th>Browser</th>
-<th>Polyfills</th></tr>
-<tr>
-<td>Chrome(latest), Firefox(latest), Opera(latest), Edge, Safari 9+</td>
-<td>NONE</td>
-</tr>
-<tr>
-<td>IE 11</td>
-<td>{{'[Blazor.Polyfills](https://github.com/Daddoon/Blazor.Polyfills)'| markdownify }}</td>
-</tr>
-</table>
 
 {% seealso %}
 

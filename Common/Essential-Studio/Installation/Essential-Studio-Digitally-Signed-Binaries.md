@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion's installer includes Digitally Signed Binaries. It uses a.pfx file to sign the Syncfusion assemblies. See [Digitally Signed Binaries](http://www.syncfusion.com/support/kb/7671) for more information. 
 
-I>* Only customers with a valid licence can install Essential Studio Digitally Signed Binaries
+I>* Only customers with a valid license can install Essential Studio Digitally Signed Binaries
 * Trial users will not be able to access this.
 
 The steps below show how to install Digitally Signed Binaries installer.

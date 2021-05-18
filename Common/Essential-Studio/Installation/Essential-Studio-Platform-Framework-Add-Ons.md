@@ -47,7 +47,7 @@ To install the above framework add-ons, the corresponding Essential Studio pla
 
 ## Step-by-Step Installation
 
-The steps below show how to instal the Syncfusion Platform Framework Add-On installer.
+The steps below show how to install the Syncfusion Platform Framework Add-On installer.
 
 1.	Open the Syncfusion Platform Framework Add-On installer file by double-clicking it. The welcome wizard will appear. Click Next button.
 
