@@ -89,11 +89,10 @@ The steps below show how to install Essential Studio Enterprise Edition Installe
 
 6.  The Confirmation Wizard will appear with the list of products to be installed/uninstalled. You can view and modify the list of products that will be installed and uninstalled from this page.
 
-    ![Confirmation for install/uninstall](Offline-ES/Step-by-Step-Installation_img6.png)
+    ![Confirmation for install/uninstall](Offline-ES/Step-by-Step-Installation_img7.png)
 	
     N> By clicking the **Download Size and Installation Size** links, you can determine the approximate size of the download and installation.
 	
-    ![Downaload and Installation size](Offline-ES/Step-by-Step-Installation_img7.png)
    
 7.  Configuration wizard will be displayed. Here you can change the Install and samples location. Also, you can change the Additional settings by platform basis. To install using the default configuration, click Next.
 

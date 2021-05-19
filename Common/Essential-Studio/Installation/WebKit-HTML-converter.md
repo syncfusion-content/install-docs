@@ -9,7 +9,7 @@ documentation: ug
 
 # WebKit HTML converter
 
-Syncfusion introduces the WebKit HTML converter in Essential Studio 13.1.0.21, which supports HTML to PDF conversion by using the advanced Qt WebKit rendering engine. This converter can easily be integrated into any.NET application such as Windows Forms, WPF, ASP.NET, ASP.NET MVC, and ASP.NET Core to convert URLs, HTML strings, SVG, and MHTML to PDF, as well as HTML to MHTML, HTML to SVG, and HTML to image.
+Syncfusion introduces the HTML converter in Essential Studio 13.1.0.21, which supports HTML to PDF conversion by using the advanced Qt WebKit rendering engine. This converter can easily be integrated into any.NET application such as Windows Forms, WPF, ASP.NET, ASP.NET MVC, and ASP.NET Core to convert URLs, HTML strings, SVG, and MHTML to PDF, as well as HTML to MHTML, HTML to SVG, and HTML to image.
 
 ## Step-by-Step Installation
 
@@ -21,7 +21,7 @@ The steps for installing the HTML Converter installer are as follows.
 
    
 
-   N> Syncfusion WebKit HTML Converter does not require a key.
+   N> Syncfusion HTML Converter does not require a key.
 
 2. The License Agreement screen appears, when the unzip operation is finished.
 
@@ -39,21 +39,21 @@ The steps for installing the HTML Converter installer are as follows.
 
    ![Installation progress](Add-on_images/Step-by-Step-Installation_img8.png)
    
-   N> The Completed screen will be displayed once the WebKit is installed.
+   N> The Completed screen will be displayed once the  HTML converter is installed.
    
    ![Installation Complete](Add-on_images/Step-by-Step-Installation_img10.png)
 
-6. Click Finish. WebKit is installed in your machine.
+6. Click Finish.  HTML converter is installed in your machine.
 
 ## Command Line 
 
-Command Line Install and Uninstall are supported by the Syncfusion WebKit Installer. The following section demonstrate this ability.
+Command Line Install and Uninstall are supported by the Syncfusion  HTML converter Installer. The following section demonstrate this ability.
 
 #### Command Line Installation
 
 Follow the given steps to install through Command Line in Silent mode.
 
-1. Double-click the Syncfusion WebKit Installer to launch it. The Self-Extractor Wizard automatically opens and extracts the package.
+1. Double-click the Syncfusion  HTML converter Installer to launch it. The Self-Extractor Wizard automatically opens and extracts the package.
 2. The syncfusionessentialwebkit _(version).exe file is extracted into the Temp folder. 
 3. Run %temp%. The Temp folder opens. The syncfusionessentialwebkit _(version).exe file is available in one of the folders.
 4. Copy the syncfusionessentialwebkit _(version).exe file in local drive. Example: D:\temp
@@ -66,13 +66,13 @@ Follow the given steps to install through Command Line in Silent mode.
 
    **Example:** “D:\Temp\syncfusionessentialwebkit_13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
-7. WebKit is installed.
+7.  HTML converter is installed.
     
-	N> * x.x.x.x needs to be replaced with the WebKit version installed on your machine.* Above steps applicable from the version 13.2.0.x.
+	N> * x.x.x.x needs to be replaced with the HTML Converter version installed on your machine.* Above steps applicable from the version 13.2.0.x.
    
 ### Command Line Uninstallation
 
-Uninstalling Syncfusion WebKit Installer via Command Line in Silent mode is possible. The steps below will assist you in uninstalling the WebKit.
+Uninstalling Syncfusion  HTML converter Installer via Command Line in Silent mode is possible. The steps below will assist you in uninstalling the  HTML converter.
 
 1. When you do not have the extracted installer (syncfusionessentialwebkit _(version).exe) then follow the steps from 2 to 7.
 2. Double-click the Syncfusion Essential Studio installer. The Self-ExtractorWizard opens and extracts the package automatically.
@@ -82,10 +82,10 @@ Uninstalling Syncfusion WebKit Installer via Command Line in Silent mode is poss
 6. Cancel the wizard.
 7. Open the Command Prompt in administrator mode and pass the following arguments: 
 
-   **Arguments:** “Installer file path\ syncfusionessentialwebkit _(version).exe” /uninstall silent 
+   **Arguments:** “Installer file path\ syncfusionessentialhtmlconverter_(version).exe” /uninstall silent 
 
     **Example:** “D:\Temp\ syncfusionessentialwebkit _13.2.0.30.exe" /uninstall silent
 
-8. WebKit is uninstalled.
+8.  HTML Converter is uninstalled.
     
-	N> * x.x.x.x need to be replaced with the WebKit version installed in your machine.* Above steps applicable from the version 13.2.0.x.		
+	N> * x.x.x.x need to be replaced with the HTML Converter version installed in your machine.* Above steps applicable from the version 13.2.0.x.		

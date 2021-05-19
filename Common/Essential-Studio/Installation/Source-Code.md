@@ -57,7 +57,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
 	
    
 
-2.  After reading the License terms and Privacy Policy, enter the Source Unlock Key in the corresponding text box and check the **I agree to the License Terms and Privacy Policy** check box.
+2.  After reading the License terms and Privacy Policy, enter the [Source Unlock Key](https://www.syncfusion.com/kb/10442/who-can-access-source-license) in the corresponding text box and check the **I agree to the License Terms and Privacy Policy** check box.
    
     ![Product key](Source-code_images/Step-by-Step-Installation_img2.png)
    

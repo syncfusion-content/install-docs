@@ -40,7 +40,7 @@ In addition to the Windows installer, Syncfusion provides the Mac installer for 
 * JavaScript
 * JavaScript (Essential JS 1)
 * PHP
-* WebKit HTML Converter
+* HTML Converter
 * Xamarin
 
 Download and install the most recent Essential Studio version from [here](https://www.syncfusion.com/downloads/latest-version).

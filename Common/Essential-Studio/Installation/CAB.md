@@ -44,4 +44,4 @@ The Essential CAB Enabling Kit includes the workspaces and UI Elements listed be
 
 ## Framework Support
 
-Essential CAB is compatible with Visual Studio Framework versions 2.0, 3.5, 4.0, 4.5, and 4.5.1.
+Essential CAB is compatible with Visual Studio Framework versions 2.0, 3.5, 4.0, 4.5, 4.5.1 and 4.6
