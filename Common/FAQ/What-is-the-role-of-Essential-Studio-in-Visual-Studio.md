@@ -47,5 +47,5 @@ Download and install the most recent Essential Studio version from [here](https:
 
 Refer [this](https://help.syncfusion.com/common/essential-studio/installation/install-using-the-offline-installer#step-by-step-installation) link for the step by step installation of Syncfusion Essential Studio.
 
-After installing the Essential Studio, refer [this](https://help.syncfusion.com/) link for using the Syncfusion controls in Visual Studio for various platforms.
+After installing the Essential Studio, refer [this](https://help.syncfusion.com) link for using the Syncfusion controls in Visual Studio for various platforms.
 
