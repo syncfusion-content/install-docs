@@ -64,7 +64,7 @@ Follow the given steps to install through Command Line in Silent mode.
 
    N> [..] – Arguments inside the square brackets are optional.
 
-   **Example:** “D:\Temp\syncfusionessentialhtmlconverter13.2.0.30.exe” /Install silent /log “C:\Temp\Essentialhtmlconverter.log” /InstallPath:C:\Syncfusion\x.x.x.x 
+   **Example:** “D:\Temp\syncfusionessentialhtmlconverter13.2.0.30.exe” /Install silent /log “C:\Temp\EssentialWebkit.log” /InstallPath:C:\Syncfusion\x.x.x.x 
 
 7.  HTML converter is installed.
     
