@@ -10,9 +10,9 @@ documentation: ug
 
 # QTP Add-on installer
 
-Syncfusion supports Quick Test Professional software with the help of Essential Test Studio, termed as QTP add-on, specially designed to meet the requirements of professionals who need to test your controls. Essential Test Studio contains Custom Libraries that helps Quick Test Professional record and replay the scripts of the application containing the Syncfusion controls. These custom libraries are built with the help of Quick Test Professional .NET Add-in extensibility. For more details, refer to Mercury Quick Test Professional Help.  
+Syncfusion supports Quick Test Professional software through Essential Test Studio, a QTP add-on that is specifically designed to meet the needs of professionals who need to test your controls. Essential Test Studio includes Custom Libraries, which allow Quick Test Professional to record and replay scripts from applications that contain Syncfusion controls. Quick Test Professional.NET Add-in extensibility is used to create these custom libraries. More information can be found at Mercury Quick Test Professional Help.  
 
- Essential Test Studio supports the following Windows-based controls. 
+Essential Test Studio supports the following Windows-based controls.
 
 ## Essential Grid
 
@@ -33,4 +33,4 @@ Syncfusion supports Quick Test Professional software with the help of Essential 
 * Navigation Package
 * Notification Package
 
- N> You need to install Syncfusion Essential Studio of the same version and Mercury QuickTestProfessional, before installing this add-on.
+N> Before installing this add-on, you must first install the same version of Syncfusion Essential Studio and Mercury QuickTestProfessional.

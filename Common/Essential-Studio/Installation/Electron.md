@@ -9,32 +9,32 @@ documentation: ug
 
 # Electron Add-on installer
 
-Electron (Previously known as Atom Shell) is used create a cross platform desktop application for different OS like Linux, Windows and OS X by using JavaScript and able to access platform specific native API’s.
+Electron (formerly Atom Shell) is used to create a cross-platform desktop application for different operating systems such as Linux, Windows, and OS X by using JavaScript and being able to access platform specific native APIs.
 
 ## Step-by-Step Installation
 
-The following are the steps to install the Electron installer.
+The steps below show how to install the Electron installer.
 
-1. Double-click the Syncfusion Electron installer. The installer Wizard opens and extracts the package automatically. 
+1. Double-click the Syncfusion Electron installer to launch it. The installer Wizard automatically opens and extracts the package.
 
    ![Setup Extraction Wizard](Add-on_images/Electron-Setup_img1.png)
    
 
-   N> No key is required for Syncfusion Electron.
+   N> Syncfusion Electron does not require a key..
 
-2. Once the unzip operation is complete, License Agreement screen opens.
+2. The License Agreement screen appears, when the unzip operation is finished.
 
    ![License Agreement](Add-on_images/Electron-Setup_img2.png)
 
 3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
 
-4. Click Next. Installation location will be displayed.
+4. Click the Next button. The installation location screen will appear.
 
    ![Installation location](Add-on_images/Electron-Setup_img3.png)
 
-   N> You can also browse and choose a location by clicking Browse.
+   N> By clicking **Browse**, you can also browse and select a location.
 
-5. To install in the displayed default location, click Install.
+5. Click Install, To install in the displayed default location.
 
    ![Installation progress](Add-on_images/Electron-Setup_img4.png)
    
@@ -42,4 +42,4 @@ The following are the steps to install the Electron installer.
    
    ![Installation Complete](Add-on_images/Electron-Setup_img5.png)
 
-6. Click Finish. Electron is installed in your system.
+6. Click Finish. Electron is installed in your machine.

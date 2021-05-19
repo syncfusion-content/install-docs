@@ -10,8 +10,8 @@ documentation: ug
 
 Starting with v16.2.0.41 (2018 Vol 2), Syncfusion provides two separate installers.
 
-   -	Trial Installer for evaluation customers,
-   -	Licensed Installer for paid customers.
+   -	Trial Installer
+   -	Licensed Installer
 
 ## Trial Installer
 
@@ -19,4 +19,4 @@ This trial installer is for evaluation purpose, and the components you use from 
 
 ## Licensed Installer
 
-If you are a paid customer, then from your account’s [download](https://www.syncfusion.com/account/downloads) section, you can download and use the licensed version of our components. You can use our licensed components as long as you are holding our paid license.
+If you are a paid customer, then from your account’s [download](https://www.syncfusion.com/account/downloads) section, you can download and use the licensed version of our components. You can use our licensed components as long as you have a paid license.

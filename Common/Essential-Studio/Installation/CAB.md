@@ -10,9 +10,9 @@ documentation: ug
 
 # CAB Add-on installer
 
-The Syncfusion Essential CAB Enabling Kit provides extensible support for working with CAB easily. It helps developers enhance the look and feel of their applications, as well as speed up the development process with customizable UI's. The workspaces are components or controls that encapsulate visual effects and layout strategies without affecting the business logic. 
+The Syncfusion Essential CAB Enabling Kit extends support for working with CAB. It enables developers to improve the look and feel of their applications while also speeding up the development process through the use of customizable user interfaces. Workspaces are components or controls that encapsulate visual effects and layout strategies while not interfering with the business logic.
 
-The Essential CAB Enabling Kit offers the following workspaces and UI Elements.
+The Essential CAB Enabling Kit includes the workspaces and UI Elements listed below.
 
 ## Workspaces
 
@@ -44,4 +44,4 @@ The Essential CAB Enabling Kit offers the following workspaces and UI Elements.
 
 ## Framework Support
 
-Essential CAB supports Visual Studio Framework versions V2.0, V3.5, V4.0, V4.5, and V4.5.1.
+Essential CAB is compatible with Visual Studio Framework versions 2.0, 3.5, 4.0, 4.5, 4.5.1 and 4.6
