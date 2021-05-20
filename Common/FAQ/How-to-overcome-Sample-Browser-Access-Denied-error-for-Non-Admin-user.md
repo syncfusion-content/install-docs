@@ -9,7 +9,7 @@ documentation: ug
 
 # How to overcome Sample Browser Access Denied error for Non-Admin User?
 
-When an Administrator installs Essential Studio in a machine, a non-admin user cannot run the Sample Browser from the Dashboard, as this action tries to access the Admin folder where the samples are installed. The following message box is displayed.
+When an Administrator installs Essential Studio on a machine, a non-admin user cannot launch the Sample Browser from the Syncfusion Control Panel because this action attempts to access the Admin folder, where the samples are installed. The message box shown below appears.
 
 ![Access Denied](How-to-overcome-Sample-Browser-Access-Denied-error_images/How-to-overcome-Sample-Browser-Access-Denied-error_img1.png)
 

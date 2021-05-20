@@ -30,7 +30,7 @@ You can access the User Guide documentation in any of the below two ways.
 
 ## API Reference
 
-Syncfusion API reference provides a clear understanding to the users for accessing the classes, methods, properties etc... from the Syncfusion assemblies
+Syncfusion API reference provides a clear understanding for accessing the classes, methods, properties etc. from the Syncfusion assemblies
 
 API Reference can be accessed from the Syncfusion Control Panel > Documentation >
 

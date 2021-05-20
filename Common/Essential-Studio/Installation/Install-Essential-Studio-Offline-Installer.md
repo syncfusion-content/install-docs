@@ -7,16 +7,16 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio Enterprise Offline Installer
+# Essential Studio Enterprise Edition Installer
 
 
 ## Overview
 
-Syncfusion started providing the Offline Essential Studio installer only for Licensed customers from 2018 Volume 2 release. The Essential Studio Enterprise Edition Installer includes the following platforms. You can download the latest version Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version) . 
+Syncfusion provides the Essential Studio Enterprise Edition installer to licensed customers. The Essential Studio Enterprise Edition Installer includes the platforms listed below. You can get the most recent version of Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version).
 
-Starting with the version 17.3 (2019 Vol 3), Syncfusion provides updated version of Offline Installer which allows both installation and uninstallation the platforms for that specific version.
+The Syncfusion Essential Studio Enterprise Edition installer supports both the installation and uninstallation of the platforms for that version.
 
-I> You can install the Essential Studio Offline Installer using Login and Unlock key.
+I> The Essential Studio Enterprise Edition Installer can be installed with either the Login or Unlock key.
 
 **Web**
 
@@ -35,7 +35,7 @@ I> You can install the Essential Studio Offline Installer using Login and Unlock
 * Windows Forms
 * WPF
 * Universal Windows Platform
-* WinUI
+* WinUI(Preview)
 
 **Web (Essential JS 1)**
 
@@ -47,92 +47,93 @@ I> You can install the Essential Studio Offline Installer using Login and Unlock
 * JSP
  
  
-The following procedure illustrates how to install Essential Studio Offline Installer installer. 
+The steps below show how to install Essential Studio Enterprise Edition Installer.
 
-1.Double-click the Syncfusion Essential Studio Offline Installer file. The installer Wizard opens and extracts the package automatically.
+1.  Open the Syncfusion Essential Studio Enterprise Edition Installer file from downloaded location by double-clicking it. The Installer Wizard automatically opens and extracts the package.
 
-![Installer extraction wizard](Offline-ES/Step-by-Step-Installation_img1.png)
+    ![Installer extraction wizard](Offline-ES/Step-by-Step-Installation_img1.png)
 
     
-N> The installer wizard extracts the syncfusionessentialstudiosetup_{version}.exe dialog, displaying the unzip operation of the package.
+    N> The installer wizard extracts the syncfusionessentialstudiosetup_{version}.exe dialog, displaying the unzip operation of the package.
     
-2.Welcome wizard of the Syncfusion Offline Installer will be displayed. Click Next.
+2.  The Syncfusion Offline Installer’s welcome wizard will be displayed. Click the Next button.
 
-![Welcome wizard](Offline-ES/Step-by-Step-Installation_img2.png)
+    ![Welcome wizard](Offline-ES/Step-by-Step-Installation_img2.png)
 
   
-3.Platform Selection wizard will be displayed. Here you can select the required platforms to be installed/uninstalled. Select the platforms to be installed from the **Available** tab and platforms to be uninstalled from the **Installed** tab. Click Next.
+3.  The Platform Selection Wizard will appear. From the **Available** tab, select the products to be installed. Select the **Install All** checkbox to install all products.
 
-**Available**
+    <em>**Available**</em>
 	
-![Platform Selection wizard Available](Offline-ES/Step-by-Step-Installation_img3.png)
-	
-**Installed**
-	
-![Platform Selection wizard Installed](Offline-ES/Step-by-Step-Installation_img4.png)
-	
-I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
-	
-![Additional Software Required alert](Offline-ES/Step-by-Step-Installation_img5.png)
-	
-4.Confirmation wizard will be displayed. Here you can view and modify the list of platforms that will be installed/uninstalled.
+    ![Platform Selection wizard Available](Offline-ES/Step-by-Step-Installation_img3.png)
 
-![Confirmation for install/uninstall](Offline-ES/Step-by-Step-Installation_img6.png)
+    If you have multiple products installed in the same version, they will be listed under the **Installed** tab. You can also select which products to uninstall from the same version. Click the Next button.
 	
-N> You can check the Estimated size of the Download and Installation by clicking the **Download Size and Installation Size** link.
-	
-![Downaload and Installation size](Offline-ES/Step-by-Step-Installation_img7.png)
-	
+    <em>**Installed**</em>
 
-5.Configuration wizard will be displayed. Here you can change the Download, Install and samples location. Also, you can change the Additional settings by platform basis. To install using the default configuration, click Next.
+    From here, you can select the already installed platforms to uninstall it.	
 
-![Install and samples location](Offline-ES/Step-by-Step-Installation_img8.png)
+    ![Platform Selection wizard Installed](Offline-ES/Step-by-Step-Installation_img4.png)
 	
-I> From version 17.3 (2019 Vol 3), Syncfusion provides option to provide custom download location.
+    I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed.
+	
+    <em>**Required Software**</em>
+	
+    ![Additional Software Required alert](Offline-ES/Step-by-Step-Installation_img5.png)
+	
+4.  If previous version(s) for the selected products are installed, the Uninstall previous version wizard will be displayed. You can see the list of previously installed versions for the products you’ve chosen here. To remove all versions, check the Uninstall All checkbox. Click the Next button
+
+    N> From the 2021 Volume 1 release, Syncfusion has provided option to uninstall the previous versions from 18.1 while installing the new version.
+   
+5.  Pop up screen will be displayed to get the confirmation to uninstall selected previous versions.
+
+6.  The Confirmation Wizard will appear with the list of products to be installed/uninstalled. You can view and modify the list of products that will be installed and uninstalled from this page.
+
+    ![Confirmation for install/uninstall](Offline-ES/Step-by-Step-Installation_img7.png)
+	
+    N> By clicking the **Download Size and Installation Size** links, you can determine the approximate size of the download and installation.
 	
    
-N> From the 2018 Volume 2 release, Syncfusion has changed the install and samples location 
-   **Default Install location:** {ProgramFilesFolder}\Syncfusion\{Platform}\{version}
-   **Default Samples location:** C:\Users\Public\Documents\Syncfusion\{platform}\{version}
-   However, you can change the locations by clicking browse button.
+7.  Configuration wizard will be displayed. Here you can change the Install and samples location. Also, you can change the Additional settings by platform basis. To install using the default configuration, click Next.
 
+    ![Install and samples location](Offline-ES/Step-by-Step-Installation_img8.png)
 	
+    **Additional settings**
+   
+    * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box unchecked, if you do not want to install Syncfusion samples.
+    * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC or clear this check box when you do not want to install the latest assemblies in GAC.
+    * Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
+    * Select the **Configure Syncfusion Extensions in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
+    * Check the **Create Desktop Shortcut** checkbox to add a desktop shortcut for Syncfusion Control Panel
+    * Check the **Create Start Menu Shortcut** checkbox to add a shortcut to the start menu for Syncfusion Control Panel
+
+8.  After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click the Next button.
+
+9.  The Login wizard will be displayed. You have two options for unlocking the Syncfusion Essential Studio Enterprise Edition installer.
+
+    * Login To Install
+   
+    * Use Unlock Key
+
+    **Login To Install** 
+
+    You should enter your Syncfusion Direct-Trac login credentials. If you don’t have Syncfusion Direct-Trac login credentials, then you can click on Create an Account. Else if you forgot your password, click on Forgot Password to create new password. Click Install.
+
+    ![Login wizard](Offline-ES/Step-by-Step-Installation_img9.png)
+
+    **Use Unlock Key**
+   
+    You should use the Syncfusion Unlock key. Licensed customer can generate the unlock key from here.
+
+    ![Install using Key](Offline-ES/Step-by-Step-Installation_img10.png)
+
+10. The download and installation\uninstallation progress will be displayed as shown below.
+
+    ![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img11.png)
+
+11. When the installation is finished, the **Summary** wizard will appear. Here you can see the list of products that have been installed successfully and those that have failed. To close the Summary wizard, click Finish
+
+    ![ES Installation Summary](Offline-ES/Step-by-Step-Installation_img12.png)
 	
-* Select the **Install Demos** check box to install Syncfusion samples, or leave the check box clear, when you do not want to install Syncfusion samples.
-* Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC, or clear this check box when you do not want to install the latest assemblies in GAC.
-* Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox, or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
-* Select the **Configure Syncfusion Extensions in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
-* Select the **Create Desktop Shortcut** checkbox to create the desktop shortcut for Syncfusion Control Panel.
-
-
-6.After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click Next.
-
-7.Login wizard will be displayed. You are provided with two options to unlock the Syncfusion Essential Studio Offline installer.
-
-   
-   * Login To Install
-   
-   * Use Unlock Key
-
-**Login To Install** 
-
- You should enter your Syncfusion Direct-Trac login credentials. If you don't have Syncfusion Direct-Trac login credentials, then you can click on **Create an Account**. Else if you forgot your password, click on **Forgot Password** to create new password. Click Install.
-
-![Login wizard](Offline-ES/Step-by-Step-Installation_img9.png)
-
-**Use Unlock Key**
-   
-You should use the Syncfusion License key. Licensed customer can generate key from [here](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-the-syncfusion-support-account).
-
-![Install using Key](Offline-ES/Step-by-Step-Installation_img10.png)
-
-8.Download, Installation and Uninstallation progress will be displayed.
-
-![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img11.png)
-
-9.Once the Installation/Uninstallation is complete, **Summary** wizard will be displayed. Here you can check the list of platforms which are installed/uninstalled successfully and failed. Click Finish to exit the Summary wizard. 
-
-![ES Installation Summary](Offline-ES/Step-by-Step-Installation_img12.png)
-	
-* Click **Launch Control Panel** to open the Syncfusion Control Panel.
+    * To open the Syncfusion Control Panel, click **Launch Control Panel**   
 
