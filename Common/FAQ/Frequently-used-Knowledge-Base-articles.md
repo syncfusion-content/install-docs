@@ -7,9 +7,9 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Most provided answers to the customers
+# Frequently used Knowledge Base articles
 
-Following KB's contains the answers to the questions which has been asked by many customers.
+Following KB articles contains the answers to the most common issues\questions which may arise during the development.
 
 <table>
 <tr>

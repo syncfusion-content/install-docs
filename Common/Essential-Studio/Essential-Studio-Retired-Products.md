@@ -9,7 +9,7 @@ documentation: ug
 
 # Essential Studio Retired Products
 
-Syncfusion has stopped providing the following platforms. Find the below Syncfusion version for each platform from which we have stopped.
+Syncfusion has stopped providing the following platforms. Find below the Syncfusion version for each platform from which we have stopped.
 
 <table>
 <tr>
@@ -54,4 +54,4 @@ ASP.NET MVC Classic</td><td>
 16.2.0.41</td></tr>
 </table>
 
-N> If you are using the above platforms, use the earlier versions. WinRT and Windows Phone platform installer can be installed in Windows version 8 and later.
+N> If you are using the above platforms, use the earlier versions.
