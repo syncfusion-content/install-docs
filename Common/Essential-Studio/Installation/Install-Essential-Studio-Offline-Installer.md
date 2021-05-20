@@ -111,9 +111,9 @@ The steps below show how to install Essential Studio Enterprise Edition Installe
 
 9.  The Login wizard will be displayed. You have two options for unlocking the Syncfusion Essential Studio Enterprise Edition installer.
 
-    * Login To Install
+       * Login To Install
    
-    * Use Unlock Key
+       * Use Unlock Key
 
     **Login To Install** 
 
