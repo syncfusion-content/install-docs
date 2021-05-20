@@ -11,11 +11,17 @@ documentation: ug
 
 ## Assembly Description
 
-Starting with version 16.2.0.41 (2018 Vol 2), Syncfusion provides separate installer for Paying (Licensed installer) and Evaluation (Trial installer) customers. In the trial installer, License Enforced Syncfusion assemblies will be shipped and this information will be present in the File Description as **License Required (LR)**.
+We have two types of assembly descriptions to distinguish between trial and licensed assemblies.
+
+### Trial Installer
+
+In the trial installer, License Enforced Syncfusion assemblies will be shipped and this information will be present in the File Description as **License Required (LR).**
 
 **Example:** Syncfusion.SfBarcode.XForms (LR)
 
 ![Assembly Details](Documentation-Setup_images/Assembly-Description_img1.png)
+
+### Licensed Installer
 
 In the License installer, licensed Syncfusion assemblies will be shipped and **LR** information will not be shown in the File description.
 
@@ -26,7 +32,7 @@ In the License installer, licensed Syncfusion assemblies will be shipped and **L
 
 ## Assembly Version Format
 
-The assembly version format differs for each platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP, WinUI and Xamarin platforms.
+The assembly version format differs for each of the Essential Studio platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP, WinUI and Xamarin platforms.
 
 
 
