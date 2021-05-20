@@ -11,10 +11,6 @@ documentation: ug
 
 You can refer to the [Download](https://help.syncfusion.com/common/essential-studio/download) section to learn how to get the trial or licensed installer
 
-
-## Installation and deployment of Essential Studio using Web Installer
-
-
 ### Overview
 
 Syncfusion provides Web Installer for Essential Studio products. This installer alleviates the burden of downloading a larger installer. You can simply download and run the online installer, which will be smaller in size and will download and install the Essential Studio products you have chosen. You can get the most recent version of Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version).
@@ -56,7 +52,7 @@ Syncfusion Web Installer also allows both installation and uninstallation of the
 N> Universal Windows Platform will be installed in Windows 8.1 and later.  
 
  
-### Installation
+## Installation
 
 The steps below show how to install Essential Studio Product Web installer.
 
@@ -146,7 +142,7 @@ The steps below show how to install Essential Studio Product Web installer.
     ![Control Panel](WebInstaller/Step-by-Step-Installation_img19.png)
 
 
-### Uninstallation
+## Uninstallation
 
 Syncfusion installer can be uninstalled in two ways.
 
