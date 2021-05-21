@@ -110,23 +110,23 @@ The steps below show how to install Essential Studio Enterprise Edition Installe
 8.  After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click the Next button.
 
 9.  The Login wizard will be displayed. You have two options for unlocking the Syncfusion Essential Studio Enterprise Edition installer.
-
-       * Login To Install
-   
-       * Use Unlock Key
-
-    **Login To Install** 
-
+    
+    * Login To Install
+    
+	* Use Unlock Key
+    
+    <b>Login To Install</b>
+    
     You should enter your Syncfusion Direct-Trac login credentials. If you don’t have Syncfusion Direct-Trac login credentials, then you can click on Create an Account. Else if you forgot your password, click on Forgot Password to create new password. Click Install.
-
+    
     ![Login wizard](Offline-ES/Step-by-Step-Installation_img9.png)
-
-    **Use Unlock Key**
+    
+    <b>Use Unlock Key</b>
    
     You should use the Syncfusion Unlock key. Licensed customer can generate the unlock key from here.
-
+    
     ![Install using Key](Offline-ES/Step-by-Step-Installation_img10.png)
-
+    
 10. The download and installation\uninstallation progress will be displayed as shown below.
 
     ![Download and Installation progress](Offline-ES/Step-by-Step-Installation_img11.png)
