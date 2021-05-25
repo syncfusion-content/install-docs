@@ -11,14 +11,13 @@ documentation: ug
 
 This article lists the common Installation errors, reasons and solution for those errors.
 
-* [Could not unlock Licensed installer with Trial key?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-unlock-the-licensed-installer-with-trial-key)
-* [Licensed Expired! What to do?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#licensed-expired-what-to-do)
-* [Not a Valid license holder?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#not-a-valid-license-holder)
-* [Unable to find a license or trial?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#unable-to-find-a-license-or-trial)
-* [Could not install due to another installation?](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-due-to-another-installation)
-* [Could not install due to controlled folder access?](http://help.syncfusion.com/common/essential-studio/installation/installation-errors#could-not-install-due-to-controlled-folder-access)
+* [Unlocking the license installer using the trial key](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#unlocking-the-license-installer-using-the-trial-key)
+* [License has expired](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#license-has-expired)
+* [Unable to find a valid license or trial](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#unable-to-find-a-valid-license-or-trial)
+* [Unable to install because of another installation](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#unable-to-install-because-of-another-installation)
+* [Unable to install due to controlled folder access](https://help.syncfusion.com/common/essential-studio/installation/installation-errors#unable-to-install-due-to-controlled-folder-access)
 
-## Could not unlock Licensed installer with Trial key?
+## Unlocking the license installer using the trial key
 
 ### Problem
 
@@ -35,7 +34,7 @@ You are trying to unlock the licensed installer with a Trial key.
 Licensed installer can be unlocked only by License key. So, use the License key to unlock the Licensed installer. Refer [this](http://syncfusion.com/kb/2326) topic to generate the license key.
 
 
-## Licensed Expired! What to do?
+## License has expired
 
 ### Problem
 
@@ -54,7 +53,7 @@ This error message will be shown when your license has been expired.
 Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>. Also, you can continue the 30 days trial after your license has been expired.
 
 
-## Not a Valid license holder?
+## Unable to find a valid license or trial
 
 ### Problem
 
@@ -92,7 +91,7 @@ This is due to one of the following reasons:
 
 Please check your subscription [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>. Also, you can continue the 30 days trial.
 
-## Could not install the installer due to another installation?
+## Unable to install because of another installation
 
 ### Problem
 
@@ -116,7 +115,7 @@ Open the Task Manager and kill the msiexec process and then continue the Syncfus
 
 ![Task Manager](Errors/Installation_Errors_img5.png)
 
-## Could not install due to controlled folder access?
+## Unable to install due to controlled folder access
 
 ### Problem
 
