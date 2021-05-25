@@ -57,39 +57,34 @@ Renew the subscription [here](https://www.syncfusion.com/sales/products) or cont
 
 ### Problem
 
-**Error Message:** Sorry, we are unable to find a valid license for Essential Studio for {platform} under your account.
+**Error Message:** Sorry, we are unable to find a valid license or trial for Essential Studio for {Platform} under your account.
+
+<em>**Offline installer**</em>
 
 ![Alert Message](Errors/Installation_Errors_img3.PNG)
 
-### Reason
-
-The possible reasons for this error are:
-
-* When your trial expired
-* When you don't have License or trial
-
-### Suggested solution.
-
-Renew the subscription [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>.
-
-## Unable to find a license or trial?
-
-### Problem
-
-**Error Message:** Sorry, we are unable to find a license or trial for Essential Studio for {platform} under your account.
+<em>**Online installer**</em>
 
 ![Warning Message](Errors/Installation_Errors_img6.PNG)
 
 ### Reason
 
-This is due to one of the following reasons:
+The following are possible causes of this error:
 
-* You are not the license holder of your license. 
-* Your account administrator has not assigned a license to your account yet. Please contact your account administrator to have a license assigned to you or contact us via email at <clientrelations@syncfusion.com>.
+* When your trial period expired
+* When you don't have a license or an active trial
+* You are not the license holder of your license 
+* Your account administrator has not yet assigned you a license.
 
-### Suggested solution.
+### Suggested solution
 
-Please check your subscription [here](https://www.syncfusion.com/sales/products) or contact our sales team at <salessupport@syncfusion.com>. Also, you can continue the 30 days trial.
+You can choose from the options listed below. 
+
+1. You can get a new license [here](https://www.syncfusion.com/sales/products). 
+2. Contact your account administrator. 
+3. Send an email to  <clientrelations@syncfusion.com> to request a license. 
+4. You can reach out to our sales team by emailing  <salessupport@syncfusion.com>.
+
 
 ## Unable to install because of another installation
 
