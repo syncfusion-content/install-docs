@@ -94,7 +94,7 @@ Build Manager enables you to build and debug assemblies written in Syncfusion so
 
 **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
 
-   ![Build Manager](Utilities_images/Build-Manager_img2.png)
+   ![Build Manager](Source-code_images/Build-Manager_img2.png)
    
 
 The output assemblies of the Build Manager will be placed in the below location.
@@ -171,7 +171,7 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    * Debug and Release Assemblies - This mode instructs the Assembly Manager to install custom assemblies created from source code using Build Manager. The Debug\Release option will be enabled during compilation based on the **Assembly Type** selected in Build Manager.
    
-   ![Assembly Manager](Utilities_images/Build-Manager_img3.png)
+   ![Assembly Manager](Source-code_images/Build-Manager_img3.png)
 
    Refer to [this](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) link for more information on Assembly Manager's functionalities.
    
