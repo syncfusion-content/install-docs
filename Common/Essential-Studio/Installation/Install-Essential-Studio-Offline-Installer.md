@@ -117,7 +117,7 @@ The steps below show how to install Essential Studio Enterprise Edition Installe
 
     **Login To Install** 
 
-    You should enter your Syncfusion Direct-Trac login credentials. If you don’t have Syncfusion Direct-Trac login credentials, then you can click on Create an Account. Else if you forgot your password, click on Forgot Password to create new password. Click Install.
+    You should enter your Syncfusion Direct-Trac login credentials. If you don’t have Syncfusion Direct-Trac login credentials, then you can click on Create an Account. Else if you forgot your password, click on Forgot Password to create new password. Click Install.
 
     ![Login wizard](Offline-ES/Step-by-Step-Installation_img9.png)
 
