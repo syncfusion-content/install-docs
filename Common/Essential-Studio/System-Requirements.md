@@ -42,6 +42,7 @@ By using the following IDEs, you can develop ASP.NET MVC Applications
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/)
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
+* [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 
 ### Frameworks & SDK
 
@@ -137,7 +138,9 @@ To get started with an ASP.NET Core application, the following software must be 
 
 By using the following IDEs, you can develop ASP.NET Core Applications
 
-* [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/) / [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
+* [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/) 
+* [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
+* [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Frameworks & SDK
@@ -357,6 +360,7 @@ To get started with the Blazor application, the following software must be insta
 
 By using the following IDEs, you can develop Blazor applications
 * [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
+* [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 * [Visual Studio Code](https://code.visualstudio.com/download)
 
 ### Framework & SDK
@@ -462,7 +466,7 @@ The system requirements for using our Syncfusion Windows Forms platform are as f
 
 ### Development Environment
 
-* Microsoft Visual Studio 2008/2010/2012/2013/2015/2017/2019
+* Microsoft Visual Studio 2008/2010/2012/2013/2015/2017/2019/2022
 * .NET Framework 2.0/3.5/4.0/4.5/4.5.1/4.6
 * Lower Syncfusion .NET frameworks can be used in applications because they are compatible with .NET 4.7, .NET 4.7.1, .NET 4.7.2, and .NET 4.8. For example, in the application, the Syncfusion 4.6 .NET framework assembly can be referred to as 4.7 or higher target versions.
 * .NET Core supported from [2019 Volume 1 release](https://help.syncfusion.com/windowsforms/release-notes) (17.1.0.32).
@@ -488,7 +492,7 @@ The system requirements for using our Syncfusion WPF platform are as follows.
 
 ### Development Environment
 
-* Microsoft Visual Studio 2008/2010/2012/2013/2015/2017/2019
+* Microsoft Visual Studio 2008/2010/2012/2013/2015/2017/2019/2022
 * .NET Framework 2.0/3.5/4.0/4.5/4.5.1/4.6
 * .NET Core 3.1
 * .NET 5.0
@@ -511,7 +515,7 @@ The following topic describes the system requirements required by Syncfusion Uni
 
 The following IDEs can be used for development that are [compatible](https://www.visualstudio.com/en-us/products/visual-studio-2015-compatibility-vs.aspx) with Microsoft Windows, both 32bit and 64 bit Operating System in Windows 10 and Windows 8.1 with Windows 10 toolkit
 
-* Microsoft Visual Studio 2015/2017/2019
+* Microsoft Visual Studio 2015/2017/2019/2022
 * Windows 10 SDK
 
 ### Framework
@@ -532,6 +536,7 @@ The system requirements for using our Syncfusion WinUI platform are as follows.
 ### Development Environment
 
 * [Visual Studio 2019, version 16.10 Preview](https://visualstudio.microsoft.com/vs/preview/) (or later) with following components. 
+* [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 * <b>Universal Windows Platform development</b> of the <b>Workloads</b> tab of the installation dialog.  
 * <b>Windows 10 SDK (10.0.19041.0)</b> on <b>Individual components</b> tab of the installation dialog. 
 * [Project Reunion 0.5 extension](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftProjectReunion)
@@ -541,7 +546,7 @@ N> Visual Studio 2019, version 16.9 also supports Project Reunion and it does no
 
 {% seealso %}
 
-[How to set up your WinUI Project Reunion development environment](https://docs.microsoft.com/en-us/windows/apps/project-reunion/get-started-with-project-reunion#set-up-your-development-environment) in Microsoft Docs.
+[How to set up your WinUI Project Reunion development environment](https://docs.microsoft.com/en-us/windows/apps/windows-app-sdk/set-up-your-development-environment?tabs=visual-studio-2019) in Microsoft Docs.
 
 {% endseealso %}
 
@@ -929,7 +934,7 @@ The system requirements for using our Syncfusion ASP.NET Web Forms platform are 
 
 ### Development Environment
 
-* Microsoft Visual Studio 2010/ 2012/2013/2015/2017/2019
+* Microsoft Visual Studio 2010/ 2012/2013/2015/2017/2019/2022
 * .NET Framework 4.0/4.5/4.5.1/4.6
 * Microsoft SQL Server 2005 or higher
 * Web browsers with **JavaScript** enabled
@@ -979,7 +984,7 @@ The system requirements for using our Syncfusion ASP.NET MVC platform are as fol
 
 ### Development Environment
 
-* Microsoft Visual Studio 2010/2012/2013/2015/2017/2019
+* Microsoft Visual Studio 2010/2012/2013/2015/2017/2019/2022
 * .NET Framework 3.5/4.0/4.5/4.5.1/4.6
 * MVC Version: MVC3/MVC4/MVC5
 * Microsoft SQL Server 2005 or higher
@@ -1059,7 +1064,7 @@ The system requirements for using our Syncfusion ASP.NET Core platform are as fo
 
 ### Development Environment
 
-* Microsoft Visual Studio 2015 Update 3 (minimum) , 2017 version latest (15.6.4), 2019. 
+* Microsoft Visual Studio 2015 Update 3 (minimum) , 2017 version latest (15.6.4), 2019, 2022. 
 * .NET Framework :  Minimum .NET 4.5.1 upto .NET 4.7 .
 * Command Line (Optional. Necessary for command line deployment)
 * Visual Studio Code (optional text-editor)
