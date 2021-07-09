@@ -78,7 +78,7 @@ The steps below show how to install Essential Studio Product Web installer.
 	
 	<em>**Installed**</em>
 	
-	![Platform Selection wizard Installed](WebInstaller/Step-by-Step-Installation_img3.png)
+	![Platform Selection wizard Installed](WebInstaller/Step-by-Step-Installation_img4.png)
 	
 	I> If the required software of the selected platform was not already installed, **Additional Software Required** alert will be displayed. However, you can continue the installation and install the required software later.
 	
