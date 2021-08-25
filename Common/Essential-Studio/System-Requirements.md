@@ -566,7 +566,7 @@ The system requirements for using our Syncfusion MAUI platform are as follows.
 
 ### Development Environment
 
-* [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
+* Microsoft Visual Studio 2022 Preview 3.1 or later
 * MAUI Workloads.
 
 ## Xamarin
