@@ -16,7 +16,7 @@ Welcome to the Syncfusion Essential Studio product’s user guide documentation.
 Essential Studio User Guide
 {:.caption}
 
-Syncfusion Essential Studio is a complete suite with 1,600+ UI components and frameworks that can be used for all your desktop, web, and mobile application development needs. Essential Studio consists of .NET libraries and UI controls that provide complete support for building modern Windows Forms, WPF, UWP, ASP.NET Web Forms, ASP.NET MVC, ASP.NET Core, Blazor, PHP, JSP, JavaScript, Angular, React, Vue, Flutter, WinUI and Xamarin applications. The packages can be used in any .NET environment including C#, VB.NET, and managed C++.
+Syncfusion Essential Studio is a complete suite with 1,600+ UI components and frameworks that can be used for all your desktop, web, and mobile application development needs. Essential Studio consists of .NET libraries and UI controls that provide complete support for building modern Windows Forms, WPF, UWP, ASP.NET Web Forms, ASP.NET MVC, ASP.NET Core, Blazor, PHP, JSP, JavaScript, Angular, React, Vue, Flutter, WinUI, MAUI and Xamarin applications. The packages can be used in any .NET environment including C#, VB.NET, and managed C++.
 
 The platforms supported by Syncfusion Essential Studio are listed below.
 
