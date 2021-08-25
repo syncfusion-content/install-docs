@@ -32,7 +32,7 @@ In the License installer, licensed Syncfusion assemblies will be shipped and **L
 
 ## Assembly Version Format
 
-The assembly version format differs for each of the Essential Studio platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP, WinUI and Xamarin platforms.
+The assembly version format differs for each of the Essential Studio platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP, WinUI, MAUI and Xamarin platforms.
 
 
 
@@ -48,7 +48,21 @@ The assembly version format differs for each of the Essential Studio platform. R
 <b>4.6</b></td><td>
 <b>netcoreapp3.1</b></td><td>
 <b>net 5.0</b></td><td>
+<b>net 6.0</b></td><td>
 <b>uap10.0</b></td></tr>
+<tr>
+<td>
+<b>MAUI</b></td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+NA</td><td>
+19.3600.0.x</td><td>
+NA</td></tr>
 <tr>
 <td>
 <b>WinUI</b></td><td>
@@ -60,6 +74,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 19.1500.0.x</td><td>
+NA</td><td>
 18.3300.0.x</td></tr>
 <tr>
 <td>
@@ -72,6 +87,7 @@ NA</td><td>
 18.3460.0.x</td><td>
 18.3310.0.x</td><td>
 18.3500.0.x</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -84,6 +100,7 @@ NA</td><td>
 18.3460.0.x</td><td>
 18.3310.0.x</td><td>
 18.3500.0.x</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -94,6 +111,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 18.3460.0.x</td><td>
+NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td></tr>
@@ -108,6 +126,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -116,6 +135,7 @@ NA</td><td>
 NA</td><td>
 MVC 4 - 18.3400.0.x</td><td>
 MVC 5 - 18.3500.0.x</td><td>
+NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -132,6 +152,7 @@ NA</td><td>
 18.3460.0.x</td><td>
 NA</td><td>
 NA</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -140,6 +161,7 @@ NA</td><td>
 NA</td><td>
 <li>MVC 3 - 18.3300.0.x</li><li>MVC 4 - 18.3400.0.x</li></td><td>
 MVC 5 - 18.3500.0.x</td><td>
+NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -154,6 +176,7 @@ NA</td><td>
 18.3450.0.X</td><td>
 18.3451.0.X</td><td>
 18.3460.0.X</td><td>
+NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td></tr>
@@ -192,6 +215,10 @@ Following are the supported Framework versions of the Essential Studio assemblie
 <tr>
 <td>Xamarin</td>
 <td>netstandard 2.0. Find the platform specific version {{'[here](https://help.syncfusion.com/xamarin/installation-and-upgrade/system-requirements#supported-platforms)'| markdownify }}</td>
+</tr>
+<tr>
+<td>MAUI</td>
+<td>.NET 6.0</td>
 </tr>
 <tr>
 <td>UWP</td>

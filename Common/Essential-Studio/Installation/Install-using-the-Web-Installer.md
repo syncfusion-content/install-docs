@@ -28,6 +28,7 @@ Syncfusion Web Installer also allows both installation and uninstallation of the
 
 * Xamarin
 * Flutter
+* MAUI(Preview)
 
 **Desktop**
 

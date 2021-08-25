@@ -550,6 +550,25 @@ N> Visual Studio 2019, version 16.9 also supports Project Reunion and it does no
 
 {% endseealso %}
 
+## MAUI
+
+The system requirements for using our Syncfusion MAUI platform are as follows.
+
+### Operating Systems
+
+* Windows 10, version 1909 or higher.
+
+### Hardware Environment
+
+* Processor: x86 or x64
+* RAM : 512 MB (minimum), 1 GB (recommended)
+* Hard disk: up to 3 GB of available space may be required
+
+### Development Environment
+
+* [Visual Studio 2022, version 3.1 Preview](https://visualstudio.microsoft.com/vs/preview/) (or later) with following components. 
+* <b>MAUI Platform development</b> of the <b>[Workloads](https://docs.microsoft.com/en-us/dotnet/maui/get-started/installation)</b>
+
 ## Xamarin
 
 The system requirements for using our Syncfusion Xamarin platform are as follows.
