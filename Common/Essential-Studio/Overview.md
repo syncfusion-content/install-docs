@@ -34,13 +34,14 @@ Mobile
 
  -	[Flutter](https://www.syncfusion.com/flutter-widgets)
  -	[Xamarin](https://www.syncfusion.com/xamarin-ui-controls)
+ -	[MAUI (Preview)](https://www.syncfusion.com/maui-controls)
 
 Desktop
  
  -	[WinForms](https://www.syncfusion.com/winforms-ui-controls)
  -	[WPF](https://www.syncfusion.com/wpf-controls)
  -	[Universal Windows](https://www.syncfusion.com/uwp-ui-controls)
- -	[WinUI (Preview)](https://www.syncfusion.com/winui-controls)
+ -	[WinUI](https://www.syncfusion.com/winui-controls)
 
 FileFormats
 

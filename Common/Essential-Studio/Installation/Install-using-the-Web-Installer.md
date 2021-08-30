@@ -35,7 +35,7 @@ Syncfusion Web Installer also allows both installation and uninstallation of the
 * Windows Forms
 * WPF
 * Universal Windows Platform
-* WinUI(Preview)
+* WinUI
 
 **FileFormats**
 

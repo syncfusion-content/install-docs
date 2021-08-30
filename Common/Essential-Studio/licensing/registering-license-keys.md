@@ -264,6 +264,12 @@ End Sub
 
 {% endtabs %}
 
+## WinUI
+
+There is no need to generate and register any Syncfusion license keys to use Syncfusion WinUI controls in your WinUI projects.
+
+The Syncfusion WinUI controls can be used without registering the license keys.
+
 ## Xamarin.Forms
 
 Register the license key in **App.xaml.cs** constructor before InitializeComponent(). If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
@@ -349,6 +355,12 @@ public override bool FinishedLaunching(UIApplication application, NSDictionary l
 } 
 {% endhighlight %}
 {% endtabs %}
+
+## MAUI
+
+There is no need to generate and register any Syncfusion license keys to use Syncfusion MAUI controls in your MAUI projects.
+
+The Syncfusion MAUI controls can be used without registering the license keys.
 
 ## Flutter
 
