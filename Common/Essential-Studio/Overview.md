@@ -34,7 +34,7 @@ Mobile
 
  -	[Flutter](https://www.syncfusion.com/flutter-widgets)
  -	[Xamarin](https://www.syncfusion.com/xamarin-ui-controls)
- -	[MAUI (Preview)](https://www.syncfusion.com/maui-controls)
+ -	[MAUI (Preview)](https://www.syncfusion.com/xamarin-ui-controls)
 
 Desktop
  
