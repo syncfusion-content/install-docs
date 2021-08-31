@@ -36,6 +36,7 @@ Syncfusion provides sources for the following platforms in the source add-on set
 * Windows Forms
 * WPF
 * Universal Windows Platform
+* WinUI
 
 **Web (Essential JS 1)**
 

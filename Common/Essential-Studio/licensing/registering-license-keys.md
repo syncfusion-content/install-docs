@@ -266,9 +266,20 @@ End Sub
 
 ## WinUI
 
-There is no need to generate and register any Syncfusion license keys to use Syncfusion WinUI controls in your WinUI projects.
+Register the license key in App constructor of **App.xaml.cs** in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
+{% tabs %}
+{% highlight c# %}
+public partial class App : Application
+{
+	public App()
+	{
+		//Register Syncfusion license
+		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	}	
+} 
+{% endhighlight %}
 
-The Syncfusion WinUI controls can be used without registering the license keys.
+{% endtabs %}
 
 ## Xamarin.Forms
 
