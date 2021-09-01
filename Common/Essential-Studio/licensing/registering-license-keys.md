@@ -367,11 +367,11 @@ public override bool FinishedLaunching(UIApplication application, NSDictionary l
 {% endhighlight %}
 {% endtabs %}
 
-## MAUI
+## .NET MAUI
 
-There is no need to generate and register any Syncfusion license keys to use Syncfusion MAUI controls in your MAUI projects.
+There is no need to generate and register any Syncfusion license keys to use Syncfusion .NET MAUI controls in your .NET MAUI projects.
 
-The Syncfusion MAUI controls can be used without registering the license keys.
+The Syncfusion .NET MAUI controls can be used without registering the license keys.
 
 ## Flutter
 

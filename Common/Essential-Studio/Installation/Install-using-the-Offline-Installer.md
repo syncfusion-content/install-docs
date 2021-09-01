@@ -24,7 +24,7 @@ Syncfusion provides separate installers for all the Essential Studio products. Y
 
 * Xamarin
 * Flutter
-* MAUI(Preview)
+* .NET MAUI(Preview)
 
 **Desktop**
 
