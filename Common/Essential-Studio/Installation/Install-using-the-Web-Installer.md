@@ -28,14 +28,14 @@ Syncfusion Web Installer also allows both installation and uninstallation of the
 
 * Xamarin
 * Flutter
-* MAUI(Preview)
+* .NET MAUI(Preview)
 
 **Desktop**
 
 * Windows Forms
 * WPF
 * Universal Windows Platform
-* WinUI(Preview)
+* WinUI
 
 **FileFormats**
 

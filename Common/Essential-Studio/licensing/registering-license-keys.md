@@ -264,6 +264,23 @@ End Sub
 
 {% endtabs %}
 
+## WinUI
+
+Register the license key in App constructor of **App.xaml.cs** in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
+{% tabs %}
+{% highlight c# %}
+public partial class App : Application
+{
+	public App()
+	{
+		//Register Syncfusion license
+		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	}	
+} 
+{% endhighlight %}
+
+{% endtabs %}
+
 ## Xamarin.Forms
 
 Register the license key in **App.xaml.cs** constructor before InitializeComponent(). If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
@@ -349,6 +366,12 @@ public override bool FinishedLaunching(UIApplication application, NSDictionary l
 } 
 {% endhighlight %}
 {% endtabs %}
+
+## .NET MAUI
+
+There is no need to generate and register any Syncfusion license keys to use Syncfusion .NET MAUI controls in your .NET MAUI projects.
+
+The Syncfusion .NET MAUI controls can be used without registering the license keys.
 
 ## Flutter
 

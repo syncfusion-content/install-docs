@@ -16,7 +16,7 @@ Welcome to the Syncfusion Essential Studio product’s user guide documentation.
 Essential Studio User Guide
 {:.caption}
 
-Syncfusion Essential Studio is a complete suite with 1,600+ UI components and frameworks that can be used for all your desktop, web, and mobile application development needs. Essential Studio consists of .NET libraries and UI controls that provide complete support for building modern Windows Forms, WPF, UWP, ASP.NET Web Forms, ASP.NET MVC, ASP.NET Core, Blazor, PHP, JSP, JavaScript, Angular, React, Vue, Flutter, WinUI, MAUI and Xamarin applications. The packages can be used in any .NET environment including C#, VB.NET, and managed C++.
+Syncfusion Essential Studio is a complete suite with 1,600+ UI components and frameworks that can be used for all your desktop, web, and mobile application development needs. Essential Studio consists of .NET libraries and UI controls that provide complete support for building modern Windows Forms, WPF, UWP, ASP.NET Web Forms, ASP.NET MVC, ASP.NET Core, Blazor, PHP, JSP, JavaScript, Angular, React, Vue, Flutter, WinUI, .NET MAUI and Xamarin applications. The packages can be used in any .NET environment including C#, VB.NET, and managed C++.
 
 The platforms supported by Syncfusion Essential Studio are listed below.
 
@@ -34,13 +34,14 @@ Mobile
 
  -	[Flutter](https://www.syncfusion.com/flutter-widgets)
  -	[Xamarin](https://www.syncfusion.com/xamarin-ui-controls)
+ -	[.NET MAUI (Preview)](https://www.syncfusion.com/xamarin-ui-controls)
 
 Desktop
  
  -	[WinForms](https://www.syncfusion.com/winforms-ui-controls)
  -	[WPF](https://www.syncfusion.com/wpf-controls)
  -	[Universal Windows](https://www.syncfusion.com/uwp-ui-controls)
- -	[WinUI (Preview)](https://www.syncfusion.com/winui-controls)
+ -	[WinUI](https://www.syncfusion.com/winui-controls)
 
 FileFormats
 

@@ -32,7 +32,7 @@ In the License installer, licensed Syncfusion assemblies will be shipped and **L
 
 ## Assembly Version Format
 
-The assembly version format differs for each of the Essential Studio platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP, WinUI, MAUI and Xamarin platforms.
+The assembly version format differs for each of the Essential Studio platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP, WinUI, .NET MAUI and Xamarin platforms.
 
 
 
@@ -52,7 +52,7 @@ The assembly version format differs for each of the Essential Studio platform. R
 <b>uap10.0</b></td></tr>
 <tr>
 <td>
-<b>MAUI</b></td><td>
+<b>.NET MAUI</b></td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -217,7 +217,7 @@ Following are the supported Framework versions of the Essential Studio assemblie
 <td>netstandard 2.0. Find the platform specific version {{'[here](https://help.syncfusion.com/xamarin/installation-and-upgrade/system-requirements#supported-platforms)'| markdownify }}</td>
 </tr>
 <tr>
-<td>MAUI</td>
+<td>.NET MAUI</td>
 <td>.NET 6.0</td>
 </tr>
 <tr>

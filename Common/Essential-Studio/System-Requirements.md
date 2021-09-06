@@ -550,9 +550,9 @@ N> Visual Studio 2019, version 16.9 also supports Project Reunion and it does no
 
 {% endseealso %}
 
-## MAUI
+## .NET MAUI
 
-The system requirements for using our Syncfusion MAUI platform are as follows.
+The system requirements for using our Syncfusion .NET MAUI platform are as follows.
 
 ### Operating Systems
 
@@ -567,7 +567,7 @@ The system requirements for using our Syncfusion MAUI platform are as follows.
 ### Development Environment
 
 * [Visual Studio 2022, version 3.1 Preview](https://visualstudio.microsoft.com/vs/preview/) (or later) with following components. 
-* <b>MAUI Platform development</b> of the <b>[Workloads](https://docs.microsoft.com/en-us/dotnet/maui/get-started/installation)</b>
+* <b>.NET MAUI Platform development</b> of the <b>[Workloads](https://docs.microsoft.com/en-us/dotnet/maui/get-started/installation)</b>
 
 ## Xamarin
 
