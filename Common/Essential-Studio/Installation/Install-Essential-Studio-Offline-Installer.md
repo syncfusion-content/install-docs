@@ -29,7 +29,6 @@ I> The Essential Studio Enterprise Edition Installer can be installed with eithe
 
 * Xamarin
 * Flutter
-* .NET MAUI(Preview)
 
 **Desktop**
 
