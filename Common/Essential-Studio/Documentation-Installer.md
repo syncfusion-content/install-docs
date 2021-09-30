@@ -59,6 +59,7 @@ Visual Studio Help Viewer Compatible is available for the following platforms
 	  <li><b>UWP</b> </li>
 	  <li><b>WinUI</b> </li>
 	  <li><b>Xamarin</b> </li>	  
+	  <li><b>.NET MAUI</b> </li>
 </div>
 
 * **View On Web**  - You can view the API reference for the corresponding platform online.

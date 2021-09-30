@@ -35,7 +35,7 @@ I> The Essential Studio Enterprise Edition Installer can be installed with eithe
 * Windows Forms
 * WPF
 * Universal Windows Platform
-* WinUI(Preview)
+* WinUI
 
 **Web (Essential JS 1)**
 
