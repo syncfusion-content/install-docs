@@ -176,7 +176,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### **For Server side application**
 
-Register the license key in Configure method of **Startup.cs**
+1. Register the license key in Configure method of **Startup.cs**
 
 {% tabs %}
 {% highlight c# %}
@@ -208,6 +208,25 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
          endpoints.MapBlazorHub();
          endpoints.MapFallbackToPage("/_Host");
     });
+}
+
+{% endhighlight %}
+{% endtabs %} 
+
+2. For Visual Studio 2022 and .NET 6, register the license key under app variable of **Program.cs**
+
+{% tabs %}
+{% highlight c# %}
+var app = builder.Build();
+//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    app.UseHsts();
 }
 
 {% endhighlight %}
