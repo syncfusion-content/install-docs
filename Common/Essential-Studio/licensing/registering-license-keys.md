@@ -176,7 +176,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ### **For Server side application**
 
-1. Register the license key in Configure method of **Startup.cs**
+Register the license key in Configure method of **Startup.cs**
 
 {% tabs %}
 {% highlight c# %}
@@ -213,7 +213,9 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 {% endhighlight %}
 {% endtabs %} 
 
-2. For Visual Studio 2022 and .NET 6, register the license key under app variable of **Program.cs**
+### **For Server side application using .NET 6.0**
+
+Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022 and.NET 6.0. 
 
 {% tabs %}
 {% highlight c# %}
