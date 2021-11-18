@@ -215,13 +215,13 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 
 ### **For Server side application using .NET 6.0**
 
-Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022 and.NET 6.0. 
+Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022 and .NET 6.0. 
 
 {% tabs %}
 {% highlight c# %}
 var app = builder.Build();
 //Register Syncfusion license
-	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
