@@ -24,7 +24,9 @@ String platform='Install';
 		   echo branchCommitDetails.split('\n')[0]
 		   echo branchCommitDetails.split('\n')[1]
 		   echo branchCommitDetails.split('\n')[2]
-		   
+		   def hasSummaryMatch = (branchCommitDetails ==~ /\d+ \"filename\":.*?)
+
+                    echo ("hasSummaryMatch = " + hasSummaryMatch)
             def ChangeFiles= branchCommitDetails.split('\n')[2];
 		   echo "File changes"
 		   echo ChangeFiles;
