@@ -28,6 +28,8 @@ String platform='Install';
 
             for (int i= 1; i < ChangeFiles.size();i++)
             {
+		    echo i
+		    echo ChangeFiles[i]
             def ChangeFile= ChangeFiles[i].split(',')[0].replace('"', '')
             Content += env.WORKSPACE + "\\Spell-Checker\\" + ChangeFile + "\r\n";
             }
