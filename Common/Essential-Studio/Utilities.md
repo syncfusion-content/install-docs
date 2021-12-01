@@ -320,6 +320,7 @@ To launch Toolbox configuration utility, follow the steps given below:
    * Install VS2015 – Configures Framework 4.6 Syncfusion controls in VS 2015 toolbox.
    * Install VS2017 – Configures Framework 4.6 Syncfusion controls in VS 2017 toolbox.
    * Install VS2019 – Configures Framework 4.6 Syncfusion controls in VS 2019 toolbox
+   * Install VS2022 – Configures Framework 4.6 Syncfusion controls in VS 2022 toolbox
    
     N> You can also configure Syncfusion controls from a lower version Framework assembly to higher version of Visual Studio.
    
@@ -331,7 +332,11 @@ To launch Toolbox configuration utility, follow the steps given below:
    N> * You must reset the toolbox, when the installed controls are not reflected properly in the Toolbox.
 
    * This tool configures only the controls that are located under {Installed Location}\Assemblies\{Framework version}.
-   
+
+### Configuring toolbox in Visual Studio 2022   
+
+From 2021 Volume 3, Syncfusion started providing toolbox support for .NET framework in Visual Studio 2022 Toolbox. After installing the Syncfusion product installer, Syncfusion controls will be automatically configured in the Visual Studio 2022 toolbox for WPF, Windows, and ASP.NET WebForms projects.
+
 ### Configuring toolbox for WPF .NET 5.0 projects
 
 From 2021 Volume 1, Syncfusion started providing toolbox support for WPF .NET 5.0 framework in Visual Studio 2019. Syncfusion controls will be automatically configured in the Visual Studio 2019 toolbox for WPF .NET 5.0 project, after installing the Syncfusion WPF installer.
