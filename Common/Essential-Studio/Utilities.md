@@ -329,7 +329,7 @@ To launch Toolbox configuration utility, follow the steps given below:
    ![Toolbox Installer](Utilities_images/Toolbox-Configuration_img3.png)
    
    
-   N> * You must reset the toolbox, when the installed controls are not reflected properly in the Toolbox.
+   N> * If your installed controls are not reflected properly in the Visual Studio Toolbox, you'll have to reset the Toolbox.
 
    * This tool configures only the controls that are located under {Installed Location}\Assemblies\{Framework version}.
 
