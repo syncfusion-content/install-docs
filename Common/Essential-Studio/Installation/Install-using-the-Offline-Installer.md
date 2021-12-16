@@ -52,7 +52,7 @@ N> Universal Windows Platform can be installed in Windows 8.1 and later.
 
 The steps below show how to install the Essential Studio Product installer.
 
-1.  Open the Syncfusion Product offline installer file from downloaded location by double-clicking it. The Installer Wizard automatically opens and extracts the package
+1.  Open the Syncfusion Product offline installer file from downloaded location by double-clicking it. The Installer Wizard automatically opens and extracts the package.
 
     ![Installer extraction wizard](ES-Installer-for-Individual-Platform_images/Step-by-Step-Installation_img1.png)
 
