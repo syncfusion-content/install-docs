@@ -49,7 +49,7 @@ The steps for installing the HTML Converter installer are as follows.
 
 Command Line Install and Uninstall are supported by the Syncfusion  HTML converter Installer. The following section demonstrate this ability.
 
-#### Command Line Installation
+### Command Line Installation
 
 Follow the given steps to install through Command Line in Silent mode.
 
