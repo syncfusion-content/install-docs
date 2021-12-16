@@ -45,7 +45,7 @@ The following error message will be shown if the trial key has expired after 30 
 
 If the application is registered with another platform's license key, the following error message will pop up when launching the application.
 
-**Error Message:**The included Syncfusion license is invalid (Platform mismatch). Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#platform-mismatch) for more information.
+**Error Message:** The included Syncfusion license is invalid (Platform mismatch). Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#platform-mismatch) for more information.
 
 ![License key not registered](licensing-images/platform-mismatch.png)
 
@@ -55,7 +55,7 @@ If the application is registered with another platform's license key, the follow
 
 If the application is registered with another version's license key, the following error message will pop up when launching the application.
 
-**Error Message:**The included Syncfusion license ({Registered Version}) is invalid for version {Required version}. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#version-mismatch) for more information.
+**Error Message:** The included Syncfusion license ({Registered Version}) is invalid for version {Required version}. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#version-mismatch) for more information.
 
 ![License key not registered](licensing-images/version-mismatch.png)
 
