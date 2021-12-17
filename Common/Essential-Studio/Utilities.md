@@ -333,11 +333,12 @@ To launch Toolbox configuration utility, follow the steps given below:
 
    * This tool configures only the controls that are located under {Installed Location}\Assemblies\{Framework version}.
 
-### Configuring toolbox for in Visual Studio 2022   
+### Configuring toolbox in Visual Studio 2022   
 
-From 2021 Volume 4, Syncfusion started providing toolbox support for .NET Framework and .NET 5.0\6.0 in Visual Studio 2022 Toolbox. After installing the Syncfusion product installer, Syncfusion controls will be automatically configured in the Visual Studio 2022 toolbox for WPF, Windows, and ASP.NET WebForms projects.
+From 2021 Volume 3, Syncfusion started providing toolbox support for .NET Framework and .NET 5.0\6.0 in Visual Studio 2022 Toolbox. After installing the Syncfusion product installer, Syncfusion controls will be automatically configured in the Visual Studio 2022 toolbox for WPF, Windows, and ASP.NET WebForms projects.
 
 N> * Syncfusion WPF .NET 5.0 controls will be compatible with .NET 6.0, on installing the Syncfusion WPF installer, our .NET 5.0 controls will be configured the toolbox for .NET 6.0 projects too.
+* Syncfusion only supports ASP.NET Web Forms Toolbox in.NET Frameworks.
 
 ### Configuring toolbox for WPF .NET 5.0\.NET 6.0 projects
 
@@ -346,6 +347,12 @@ From 2021 Volume 1, Syncfusion started providing toolbox support for WPF .NET 5.
 N> * Syncfusion included this toolbox support for .NET 5.0 WPF platform from 2021 Volume 1 release version v19.1.0.54 only.
 * After installing the WPF setup, if the project created with TargetFramework .NET Core 3.1 and changed to .NET 5.0, you need to restart Visual Studio to get the Syncfusion controls in Visual Studio Toolbox.
 * Visual Studio 2019 16.7 Preview 2 and later is required.
+
+## Configuring toolbox for Windows Forms .NET 5.0\6.0 projects from NuGet packages
+
+From 2021 Volume 3, Syncfusion started providing toolbox support for Windows Forms .NET 5.0\6.0 projects. Please install the respective Syncfusion WinForms NuGet packages in .NET 5.0\6.0 project to get the Syncfusion WinForms controls in the .NET 5.0\6.0 Toolbox. After installing the NuGet packages, our WinForms controls will be populated in the Visual Studio toolbox for .NET 5.0\6.0 WinForms project.
+
+Refer [this](https://help.syncfusion.com/windowsforms/add-syncfusion-controls) documentation link to find Syncfusion WinForms nuget packages for the appropriate controls.
 
 ### Configuring toolbox for .NET Core 3.1 projects
 
