@@ -140,7 +140,7 @@ You have enabled controlled folder access settings on your computer.
 #### Suggestion 1
 
 1.	We will ship our demos in the public documents folder by default. 
-2.	You have controlled folder access enabled on your machine, so our demos cannot be installed in the documents folder. If you need to install our demos in the Documents folder, follow the steps in this [link](https://support.microsoft.com/en-us/windows/allow-an-app-to-access-controlled-folders-b5b6627a-b008-2ca2-7931-7e51e912b034#:~:text=Select%20Start%20%3E%20Settings%20%3E%20Update%20%26,setting%20to%20On%20or%20Off.) and disable the controlled folder access.
+2.	You have controlled folder access enabled on your machine, so our demos cannot be installed in the documents folder. If you need to install our demos in the Documents folder, follow the steps in this [link](https://support.microsoft.com/en-us/windows/allow-an-app-to-access-controlled-folders-b5b6627a-b008-2ca2-7931-7e51e912b034) and disable the controlled folder access.
 3.	You can enable this option after the installing our Syncfusion setup
 
 #### Suggestion 2
