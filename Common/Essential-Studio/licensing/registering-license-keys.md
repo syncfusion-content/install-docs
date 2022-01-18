@@ -461,3 +461,5 @@ Syncfusion License keys are not required for script files (.js files). For the f
 
 * EmberJS
 
+N> If you use Syncfusion’s ASP.NET Core\MVC nuget packages along with JavaScript (.js) files in your project, you must hold the ASP.NET Core\MVC license and register the respective product's license key in your application.
+   If you are only using Syncfusion JavaScript (.js) files in your application, you do not need to register the Syncfusion license key.
