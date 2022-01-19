@@ -433,8 +433,9 @@ N> License key registration is not required for Java before v19.1.
 
 ## JavaScript (Essential JS 1 and Essential JS 2)
 
- * If you use Syncfusion’s ASP.NET Core\MVC nuget packages along with JavaScript (.js) files in your project, you must hold the ASP.NET Core\MVC license and register the respective product's license key in your application.
- * If you are only using Syncfusion JavaScript (.js) files in your application, you do not need to register the Syncfusion license key.
+You must have an active Syncfusion Essential JS license to use Syncfusion Essential JS2 or Essential JS1 (.js files). However, if you only use the Syncfusion Essential JavaScript product, you do not need to generate and register the Syncfusion License keys in your scripts (.js files).
+
+But, if you use Syncfusion's ASP.NET Core\ASP.NET MVC nuget packages along with Syncfusion JavaScript (.js) files in your project, you must have the ASP.NET Core\MVC license and register the respective product's license key in your application.
 
 For the following platforms, you can use the script files without registering the license keys.
 
