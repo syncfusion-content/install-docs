@@ -33,7 +33,7 @@ Syncfusion provides the Mac installer for the following Essential Studio product
    ![Download Page](Mac-Installer_images/Mac_Download.png)  
 
 
-## How to resolve the warning message in Catalina OS? 
+## How to resolve the warning message in Catalina OS or later? 
 
    While running Essential Studio Mac Installers on Catalina MacOS or later, the below alert will be displayed.
 
