@@ -26,11 +26,23 @@ Syncfusion provides the Mac installer for the following Essential Studio product
 
 ## How to download Mac installer?
 
-1. Mac installers can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. You can download trial\licensed Mac installer based on your license.
+1. Essential Studio Mac installers can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. You can download trial\licensed Mac installer based on your license.
 
-2. In the downloads page, click the "Mac" button and download the required Mac installer.
+2. In the downloads page, click the "Mac" button and download the required Essential Studio Mac installer.
 
    ![Download Page](Mac-Installer_images/Mac_Download.png)  
+
+
+## Steps to resolve the warning message in Catalina OS or later
+
+   While running Essential Studio Mac Installers on Catalina MacOS or later, the below alert will be displayed.
+
+   ![Alert Image](Mac-Installer_images/Mac_Catalina_MacOS_Alert.png)  
+     
+   If you receive this alert, follow the below steps for the easiest solution.   
+
+   1.	Right-click the downloaded pkg file.
+   2.	Select the "Open With" option and choose "Installer (Default)".
 
 ## Step-by-Step Installation
 
