@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Licensing FAQ – Is internet access for license validation | Syncfusion
+title: Licensing FAQ – Is internet access required for license validation | Syncfusion
 description: Learn here some information about whether syncfusion license validation needs internet conncetion.
 platform: common
 control: Essential Studio
