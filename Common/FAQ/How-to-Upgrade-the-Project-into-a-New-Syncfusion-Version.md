@@ -24,6 +24,12 @@ N> Only the following platforms are supported in this Project Migration tool.
 
 You can upgrade the project in two methods, based on the procedure used in your project, to reference the Syncfusion assemblies. They are:
 
+N> Only the following platforms are supported in this Project Migration tool.
+
+* Windows Forms
+* WPF
+* Universal Windows
+
 ### CopyLocal=True
 
 1. Set the SpecificVersion to False.
