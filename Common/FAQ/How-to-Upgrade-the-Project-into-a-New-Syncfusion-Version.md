@@ -14,7 +14,7 @@ documentation: ug
 
 To upgrade the project using the Project Migration Utility, refer to [Project Migration](http://help.syncfusion.com/common/essential-studio/utilities#project-migration).
 
-N> Only the following platforms are supported.
+N> Only the following platforms are supported in this Project Migration tool.
 
 * Windows Forms
 * WPF
