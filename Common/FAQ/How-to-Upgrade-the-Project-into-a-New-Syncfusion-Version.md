@@ -14,6 +14,12 @@ documentation: ug
 
 To upgrade the project using the Project Migration Utility, refer to [Project Migration](http://help.syncfusion.com/common/essential-studio/utilities#project-migration).
 
+N> Only the following platforms are supported in this Project Migration tool.
+
+* Windows Forms
+* WPF
+* Universal Windows
+
 ## Upgrading the Projects Manually
 
 You can upgrade the project in two methods, based on the procedure used in your project, to reference the Syncfusion assemblies. They are:
@@ -35,6 +41,13 @@ You can upgrade the project in two methods, based on the procedure used in your 
 4. Recompile your project; the latest assemblies from GAC refer to your project automatically. 
    
    ![Manual Upgradation](Upgrading-the-Projects-Manually_images/Upgrading-the-Projects-Manually_img1.png)
+
+N> This method is only applicable to the platforms listed below, which are supported by the Assembly manager.
+
+* ASP.NET Web Forms(Essential JS 1)
+* ASP.NET MVC(Essential JS 1)
+* WPF
+* Windows Forms
 
 ### Switching the Framework Version While Upgrading the Project
 
