@@ -16,9 +16,9 @@ To upgrade the project using the Project Migration Utility, refer to [Project Mi
 
 N> Only the following platforms are supported in this Project Migration tool.
 
-* Windows Forms
-* WPF
-* Universal Windows
+<li>Windows Forms</li>
+<li>WPF</li>
+<li>Universal Windows</li>
 
 ## Upgrading the Projects Manually
 
@@ -44,10 +44,10 @@ You can upgrade the project in two methods, based on the procedure used in your 
 
 N> This method is only applicable to the platforms listed below, which are supported by the Assembly manager.
 
-* ASP.NET Web Forms(Essential JS 1)
-* ASP.NET MVC(Essential JS 1)
-* WPF
-* Windows Forms
+<li>ASP.NET Web Forms(Essential JS 1)</li>
+<li>ASP.NET MVC(Essential JS 1)</li>
+<li>WPF</li>
+<li>Windows Forms</li>
 
 ### Switching the Framework Version While Upgrading the Project
 
