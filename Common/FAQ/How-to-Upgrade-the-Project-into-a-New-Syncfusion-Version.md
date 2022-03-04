@@ -44,12 +44,10 @@ You can upgrade the project in two methods, based on the procedure used in your 
 
 N> This method is only applicable to the platforms listed below, which are supported by the Assembly manager.
 
-* ASP.NET Web Forms
-* ASP.NET MVC
-* JavaScript(Essential JS 1)
+* ASP.NET Web Forms(Essential JS 1)
+* ASP.NET MVC(Essential JS 1)
 * WPF
 * Windows Forms
-* FileFormats
 
 ### Switching the Framework Version While Upgrading the Project
 
