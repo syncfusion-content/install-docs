@@ -10,15 +10,54 @@ documentation: ug
 # How to Upgrade the Project into a New Syncfusion Version? 
 
 
-## Upgrade the Project Using Project Migration Utility
+## Upgrade the Project Using Project Migration Tool
 
 To upgrade the project using the Project Migration Utility, refer to [Project Migration](http://help.syncfusion.com/common/essential-studio/utilities#project-migration).
 
-N> Only the following platforms are supported in this Project Migration tool.
-<br>
-* Windows Forms
-* WPF
-* Universal Windows
+Syncfusion provides project migration tool for the platforms listed below.
+
+<table>
+<tr>
+<th>Platform</th>
+<th>Guidelines for migrating the projects to latest Syncfusion version</th>
+</tr>
+<tr>
+<td>Blazor</td>
+<td><a href="https://help.syncfusion.com/extension/blazor-extension/visual-studio/upgrade-project" target="_top">Blazor Migration using Visual Studio</a><br><a href="https://help.syncfusion.com/extension/blazor-extension/visual-studio-code/upgrade-project" target="_top">Blazor Migration using Visual Studio Code</a></td>
+</tr>
+<tr>
+<td>ASP.NET Core (Essential JS 2)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/project-migration" target="_top">ASP.NET Core - JS 2 Migration</a></td>
+</tr>
+<tr>
+<td>ASP.NET MVC (Essential JS 2)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnetmvc-essentialjs2-extension/project-migration" target="_top">ASP.NET MVC - JS 2 Migration</a></td>
+</tr>
+<tr>
+<td>ASP.NET Core (Essential JS 1)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnetcore-extension/project-migration" target="_top">ASP.NET Core Migration</a></td>
+</tr>
+<tr>
+<td>ASP.NET MVC (Essential JS 1)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration" target="_top">ASP.NET MVC Migration</a></td>
+</tr>
+<tr>
+<td>ASP.NET Web Forms (Essential JS 1)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnet-extension/project-migration" target="_top">ASP.NET Migration</a></td>
+</tr>
+<tr>
+<td>Windows Forms</td>
+<td><a href="https://help.syncfusion.com/windowsforms/upgrade/upgrading-syncfusion-winforms-extensions" target="_top">Windows Forms Migration</a></td>
+</tr>
+<tr>
+<td>WPF</td>
+<td><a href="https://help.syncfusion.com/wpf/upgrade/upgrading-syncfusion-wpf-extensions" target="_top">WPF Migration</a></td>
+</tr>
+<tr>
+<td>Universal Windows</td>
+<td><a href="https://help.syncfusion.com/uwp/installation-and-upgrade/upgrade" target="_top">Universal Windows Migration</a></td>
+</tr>
+</table>
 
 ## Upgrading the Projects Manually
 
@@ -44,8 +83,8 @@ You can upgrade the project in two methods, based on the procedure used in your 
 
 N> This method is only applicable to the platforms listed below, which are supported by the Assembly manager.
 <br>
-* ASP.NET Web Forms(Essential JS 1)
-* ASP.NET MVC(Essential JS 1)
+* ASP.NET Web Forms (Essential JS 1)
+* ASP.NET MVC (Essential JS 1)
 * WPF
 * Windows Forms
 
