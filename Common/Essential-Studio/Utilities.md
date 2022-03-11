@@ -433,6 +433,29 @@ The following steps illustrate how to migrate a project.
 
 7. Click Perform Action. The utility upgrades the selected projects to the newer version. 
 
+### Command Line
+
+The following steps illustrate how to run the Project Migration tool through command line.
+
+1. Open the Command Prompt in administrator mode and navigate to the following location.
+
+   <div id="license">
+   <b>Location:</b> {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{version}\Utilities\Project Migration\
+   <b>Example:</b> C:\Program Files (x86)\Syncfusion\Essential Studio\{Platform}\16.1.0.24\Utilities\Project Migration\
+   </div>
+
+
+2. Run “ProjectMigrationConsole.exe” with the following arguments.
+
+   <div id="license">
+   <b>Arguments:</b> /source:"sourcepath" /studio:"Essential Studio version" /framework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /targetframework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /backup:"Backupfolderpath" /hintpath:"[False] / [True]" /sourcefolder:"sourcefolderpath" /isfolderbackedup:"[False] / [True]"
+   <b>Example:</b> /source:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1\SyncfusionWindowsFormsApplication1" /studio:"16.1.0.24" /framework:"v4.6" /targetframework:"v4.7" /backup:"C:\Syncfusion\backup\SyncfusionWindowsFormsApplication1_2018_02_27_022449\SyncfusionWindowsFormsApplication1" /hintpath:"False" /sourcefolder:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1" /isfolderbackedup:"False"
+   </div>
+
+The following screenshot illustrates this.
+
+![Project Migration Console](Utilities_images/Command-Line_img1.png)
+
 ### For Blazor, Web (Essential JS 2 and Essential JS 1) platforms
 
 For Blazor, Web (Essential JS 2 and Essential JS 1) platforms, follow the steps suggested in the following documentation link to migrate the projects to the latest version.
@@ -466,31 +489,4 @@ For Blazor, Web (Essential JS 2 and Essential JS 1) platforms, follow the steps 
 <td>ASP.NET Web Forms (Essential JS 1)</td>
 <td><a href="https://help.syncfusion.com/extension/aspnet-extension/project-migration" target="_top">ASP.NET Migration</a></td>
 </tr>
-</table> 
-
-### Command Line
-
-The following steps illustrate how to run the Project Migration tool through command line.
-
-1. Open the Command Prompt in administrator mode and navigate to the following location.
-
-   <div id="license">
-   <b>Location:</b> {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{version}\Utilities\Project Migration\
-   <b>Example:</b> C:\Program Files (x86)\Syncfusion\Essential Studio\{Platform}\16.1.0.24\Utilities\Project Migration\
-   </div>
-
-
-2. Run “ProjectMigrationConsole.exe” with the following arguments.
-
-   <div id="license">
-   <b>Arguments:</b> /source:"sourcepath" /studio:"Essential Studio version" /framework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /targetframework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /backup:"Backupfolderpath" /hintpath:"[False] / [True]" /sourcefolder:"sourcefolderpath" /isfolderbackedup:"[False] / [True]"
-   <b>Example:</b> /source:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1\SyncfusionWindowsFormsApplication1" /studio:"16.1.0.24" /framework:"v4.6" /targetframework:"v4.7" /backup:"C:\Syncfusion\backup\SyncfusionWindowsFormsApplication1_2018_02_27_022449\SyncfusionWindowsFormsApplication1" /hintpath:"False" /sourcefolder:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1" /isfolderbackedup:"False"
-   </div>
-
-The following screenshot illustrates this.
-
-![Project Migration Console](Utilities_images/Command-Line_img1.png)
-
-
-	
-
+</table>
