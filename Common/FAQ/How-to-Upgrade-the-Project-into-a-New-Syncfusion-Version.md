@@ -26,23 +26,23 @@ Syncfusion provides project migration tool for the platforms listed below.
 <td><a href="https://help.syncfusion.com/extension/blazor-extension/visual-studio/upgrade-project" target="_top">Blazor Migration using Visual Studio</a><br><a href="https://help.syncfusion.com/extension/blazor-extension/visual-studio-code/upgrade-project" target="_top">Blazor Migration using Visual Studio Code</a></td>
 </tr>
 <tr>
-<td>ASP.NET Core(Essential JS 2)</td>
+<td>ASP.NET Core (Essential JS 2)</td>
 <td><a href="https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/project-migration" target="_top">ASP.NET Core - JS 2 Migration</a></td>
 </tr>
 <tr>
-<td>ASP.NET MVC(Essential JS 2)</td>
+<td>ASP.NET MVC (Essential JS 2)</td>
 <td><a href="https://help.syncfusion.com/extension/aspnetmvc-essentialjs2-extension/project-migration" target="_top">ASP.NET MVC - JS 2 Migration</a></td>
 </tr>
 <tr>
-<td>ASP.NET Core(Essential JS 1)</td>
+<td>ASP.NET Core (Essential JS 1)</td>
 <td><a href="https://help.syncfusion.com/extension/aspnetcore-extension/project-migration" target="_top">ASP.NET Core Migration</a></td>
 </tr>
 <tr>
-<td>ASP.NET MVC(Essential JS 1)</td>
+<td>ASP.NET MVC (Essential JS 1)</td>
 <td><a href="https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration" target="_top">ASP.NET MVC Migration</a></td>
 </tr>
 <tr>
-<td>ASP.NET Web Forms(Essential JS 1)</td>
+<td>ASP.NET Web Forms (Essential JS 1)</td>
 <td><a href="https://help.syncfusion.com/extension/aspnet-extension/project-migration" target="_top">ASP.NET Migration</a></td>
 </tr>
 <tr>
@@ -83,8 +83,8 @@ You can upgrade the project in two methods, based on the procedure used in your 
 
 N> This method is only applicable to the platforms listed below, which are supported by the Assembly manager.
 <br>
-* ASP.NET Web Forms(Essential JS 1)
-* ASP.NET MVC(Essential JS 1)
+* ASP.NET Web Forms (Essential JS 1)
+* ASP.NET MVC (Essential JS 1)
 * WPF
 * Windows Forms
 
