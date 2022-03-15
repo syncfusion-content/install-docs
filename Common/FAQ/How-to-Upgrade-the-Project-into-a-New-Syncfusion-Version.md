@@ -47,15 +47,15 @@ Syncfusion provides project migration tool for the platforms listed below.
 </tr>
 <tr>
 <td>Windows Forms</td>
-<td><a href="https://help.syncfusion.com/windowsforms/upgrade/upgrading-syncfusion-winforms-extensions" target="_top">Windows Forms Migration</a></td>
+<td><a href="http://helpstaging.syncfusion.com:14038/common/essential-studio/utilities#for-desktop-platforms" target="_top">Windows Forms Migration</a></td>
 </tr>
 <tr>
 <td>WPF</td>
-<td><a href="https://help.syncfusion.com/wpf/upgrade/upgrading-syncfusion-wpf-extensions" target="_top">WPF Migration</a></td>
+<td><a href="http://helpstaging.syncfusion.com:14038/common/essential-studio/utilities#for-desktop-platforms" target="_top">WPF Migration</a></td>
 </tr>
 <tr>
 <td>Universal Windows</td>
-<td><a href="https://help.syncfusion.com/uwp/installation-and-upgrade/upgrade" target="_top">Universal Windows Migration</a></td>
+<td><a href="http://helpstaging.syncfusion.com:14038/common/essential-studio/utilities#for-desktop-platforms" target="_top">Universal Windows Migration</a></td>
 </tr>
 </table>
 
