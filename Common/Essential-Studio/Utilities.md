@@ -433,7 +433,7 @@ The following steps illustrate how to migrate a project.
 
 7. Click Perform Action. The utility upgrades the selected projects to the newer version. 
 
-### Command Line
+#### Command Line
 
 The following steps illustrate how to run the Project Migration tool through command line.
 
