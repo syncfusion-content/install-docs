@@ -21,21 +21,19 @@ The steps for installing the HTML Converter installer are as follows.
 
    
 
-   N> Syncfusion HTML Converter does not require a key.
+   N> The installer extracts the syncfusionessentialhtmlconverter_(version).exe dialogue, which displays the package's unzip operation.
 
-2. The License Agreement screen appears, when the unzip operation is finished.
+2. After reading the License terms and Privacy Policy, enter the [Essential Studio Unlock Key](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-syncfusion-support-account) in the corresponding text box and check the **I agree to the License Terms and Privacy Policy** check box.
 
    ![License Agreement](Add-on_images/Step-by-Step-Installation_img5.png)
 
-3. After reading the License Agreement, check the **I agree to the License Terms and Conditions** check box.
-
-4. Click the Next button. The installation location screen will appear.
+3. Click the Next button. The installation location screen will appear.
 
    ![Installation location](Add-on_images/Step-by-Step-Installation_img6.png)
 
    N> By clicking **Browse**, you can also browse and select a location.
 
-5. Click Install, To install in the displayed default location, .
+4. Click Install, To install in the displayed default location, .
 
    ![Installation progress](Add-on_images/Step-by-Step-Installation_img8.png)
    
@@ -43,7 +41,7 @@ The steps for installing the HTML Converter installer are as follows.
    
    ![Installation Complete](Add-on_images/Step-by-Step-Installation_img10.png)
 
-6. Click Finish.  HTML converter is installed in your machine.
+5. Click Finish.  HTML converter is installed in your machine.
 
 ## Command Line 
 
