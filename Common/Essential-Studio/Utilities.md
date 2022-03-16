@@ -399,6 +399,8 @@ When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Fram
 
 ## Project Migration
 
+### For Desktop platforms
+
 The Project Migration tool helps to upgrade the projects to the given Syncfusion Essential Studio Version.
 
 Syncfusion Project Migration tool supports from, Syncfusion Essential Studio Version 3.2.1.0 to the latest version and the supported platforms are Windows Forms, WPF and Universal Windows Platform.
@@ -406,8 +408,6 @@ Syncfusion Project Migration tool supports from, Syncfusion Essential Studio Ver
 N> Project Migration utility will change the Visual Studio Target Framework version and Syncfusion assembly version alone in the .csproj files.
 
 The following steps illustrate how to migrate a project.
-
-### Windows Forms, WPF and Universal Windows Platform
 
 1. Open the Project Migration Tool from the following location.
 
@@ -433,17 +433,7 @@ The following steps illustrate how to migrate a project.
 
 7. Click Perform Action. The utility upgrades the selected projects to the newer version. 
 
-### For Web platforms.
-
-For Web platforms, follow the steps suggested in the following documentation link to migrate the projects to the latest version. 
-
-ASP.NET Web Forms - [ASP.NET Migration](https://help.syncfusion.com/extension/aspnet-extension/project-migration) 
-
-ASP.NET MVC - [ASP.NET MVC Migration](https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration)
-
-ASP.NET Core - [ASP.NET Core Migration](https://help.syncfusion.com/extension/aspnetcore-extension/project-migration)
-
-### Command Line
+#### Command Line
 
 The following steps illustrate how to run the Project Migration tool through command line.
 
@@ -466,6 +456,37 @@ The following screenshot illustrates this.
 
 ![Project Migration Console](Utilities_images/Command-Line_img1.png)
 
+### For Blazor, Web (Essential JS 2 and Essential JS 1) platforms
 
-	
+For Blazor, Web (Essential JS 2 and Essential JS 1) platforms, follow the steps suggested in the following documentation link to migrate the projects to the latest version.
 
+<table>
+<tr>
+<th>Platform</th>
+<th>Guidelines for migrating the projects to latest Syncfusion version</th>
+</tr>
+<tr>
+<td>Blazor</td>
+<td><a href="https://help.syncfusion.com/extension/blazor-extension/visual-studio/upgrade-project" target="_top">Blazor Migration using Visual Studio</a><br><a href="https://help.syncfusion.com/extension/blazor-extension/visual-studio-code/upgrade-project" target="_top">Blazor Migration using Visual Studio Code</a></td>
+</tr>
+<tr>
+<td>ASP.NET Core (Essential JS 2)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/project-migration" target="_top">ASP.NET Core - JS 2 Migration</a></td>
+</tr>
+<tr>
+<td>ASP.NET MVC (Essential JS 2)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnetmvc-essentialjs2-extension/project-migration" target="_top">ASP.NET MVC - JS 2 Migration</a></td>
+</tr>
+<tr>
+<td>ASP.NET Core (Essential JS 1)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnetcore-extension/project-migration" target="_top">ASP.NET Core Migration</a></td>
+</tr>
+<tr>
+<td>ASP.NET MVC (Essential JS 1)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration" target="_top">ASP.NET MVC Migration</a></td>
+</tr>
+<tr>
+<td>ASP.NET Web Forms (Essential JS 1)</td>
+<td><a href="https://help.syncfusion.com/extension/aspnet-extension/project-migration" target="_top">ASP.NET Migration</a></td>
+</tr>
+</table>
