@@ -12,8 +12,6 @@ documentation: ug
 
 ## Upgrade the Project Using Project Migration Tool
 
-To upgrade the project using the Project Migration Utility, refer to [Project Migration](http://help.syncfusion.com/common/essential-studio/utilities#project-migration).
-
 Syncfusion provides project migration tool for the platforms listed below.
 
 <table>
@@ -47,15 +45,15 @@ Syncfusion provides project migration tool for the platforms listed below.
 </tr>
 <tr>
 <td>Windows Forms</td>
-<td><a href="http://helpstaging.syncfusion.com:14038/common/essential-studio/utilities#for-desktop-platforms" target="_top">Windows Forms Migration</a></td>
+<td><a href="https://help.syncfusion.com/common/essential-studio/utilities#for-desktop-platforms" target="_top">Windows Forms Migration</a></td>
 </tr>
 <tr>
 <td>WPF</td>
-<td><a href="http://helpstaging.syncfusion.com:14038/common/essential-studio/utilities#for-desktop-platforms" target="_top">WPF Migration</a></td>
+<td><a href="https://help.syncfusion.com/common/essential-studio/utilities#for-desktop-platforms" target="_top">WPF Migration</a></td>
 </tr>
 <tr>
 <td>Universal Windows</td>
-<td><a href="http://helpstaging.syncfusion.com:14038/common/essential-studio/utilities#for-desktop-platforms" target="_top">Universal Windows Migration</a></td>
+<td><a href="https://help.syncfusion.com/common/essential-studio/utilities#for-desktop-platforms" target="_top">Universal Windows Migration</a></td>
 </tr>
 </table>
 
@@ -81,7 +79,7 @@ You can upgrade the project in two methods, based on the procedure used in your 
    
    ![Manual Upgradation](Upgrading-the-Projects-Manually_images/Upgrading-the-Projects-Manually_img1.png)
 
-N> This method is only applicable to the platforms listed below, which are supported by the Assembly manager.
+N> This method is only applicable to the platforms listed below, for which the Syncfusion assemblies will be installed in GAC.
 <br>
 * ASP.NET Web Forms (Essential JS 1)
 * ASP.NET MVC (Essential JS 1)
