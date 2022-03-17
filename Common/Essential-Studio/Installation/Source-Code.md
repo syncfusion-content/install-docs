@@ -94,6 +94,8 @@ The steps below show how you can install the Essential Studio Source Code Add-on
    
 ## Build Manager
 
+**For Desktop and EJ1 Web Platforms**
+
 Build Manager enables you to build and debug assemblies written in Syncfusion source code. The Build Manager can be launched from the following location.
 
 
@@ -165,7 +167,7 @@ N> The Build operation is performed and the status is updated in the text area, 
 
 
 
-## Assembly Manager
+### Assembly Manager
 
    Assembly Manager, which is included in the Source Code Add On, is used to **InstallRemove** the **DebugRelease** assemblies from the GAC and has its own set of features. The Assembly Manager can be launched from the Source Code Add On installation location listed below.
    
@@ -180,9 +182,11 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    Refer to [this](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) link for more information on Assembly Manager's functionalities.
    
-## Blazor Build Manager
+**For Blazor**
 
-Blazor Build Manager enables you to build and generate Blazor NuGet packages along with dependency packages in Syncfusion source code. The Blazor Build Manager can be launched from the following location.
+### Blazor Build Manager Settings
+
+1. Blazor Build Manager enables you to build\compile and generate Syncfusion Blazor NuGet packages along with their dependent packages.
 
 
 **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Blazor Build Manager\BlazorBuildManager.exe
@@ -197,25 +201,30 @@ The output NuGet of the Blazor Build Manager will be placed in the below locatio
 
 The required setting can be selected in the Syncfusion Blazor Build Manager x.x.x.x.
 
-### Blazor Build Manager Settings
-
 This window contains the following sections. 
 
-**1. Product**
+**1. NuGet packages**
 
-   The Product group box has a drop-down checked List box. By default, Syncfusion.Blazor (Combined packages) is selected. You can change the default option by selecting required products from the drop-down list box. 
+   The NuGet packages group will allow selecting from the list of available Syncfusion Blazor NuGet packages to generate. 
 
-**2. Assembly Type**
+**2. Configuration**
 
-   This frame has two options: Debug and Release. Debug is selected by default. To choose the Release mode for assembly, select Release.
+   This frame has two options. You can switch between the Debug and Release modes of product configurations. Debug is selected by default. To choose the Release mode for assembly, select Release.
+   
+   **Debug:**
+   
+   * Building the Debug version of the assemblies allows you to step into the Syncfusion assemblies when debugging applications.
 
-   You can switch between the Debug and Release mode of product configurations. Building the Debug version of the assemblies allows you to step into the Syncfusion assemblies when debugging applications. 
+
+   **Release:**
+   
+   * Building the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packagesBuilding the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packages
 
 **3. Output**
 
-   This frame shows the output, that is, the status of the build operation, in a text area. 
+   This frame shows the output, that is, the status of the build operation, in the text area 
 
-   After selecting the required options in the above-mentioned frames, click Perform Build inside the output frame.
+   After selecting the required options in the above-mentioned frames, click Generate NuGet(s) inside the output frame.
 
 N> The Build operation is performed and the status is updated in the text area, inside the output frame. On completion of the Build operation, an information message is displayed stating that the Build operation has been completed. It also asks you to review the Build output and log files for additional information.
 
@@ -227,7 +236,6 @@ I> Blazor custom nuget packages will be present in the following output location
 
 ![Build Manager](Source-code_images/Nuget-Feed.png)
 
-Example: {<add key="blazor-nuget" value="C:\Program Files (x86)\Syncfusion\Essential Studio\Source Code Add On\20.1.0.38\Custom NuGet Packages\" />}
 
    
  
