@@ -10,6 +10,12 @@ documentation: ug
 
 # How to install the Trial and Licensed installer side by side safely?
 
+## From v20.1.0.* and later
+
+We only have one installer. All licensed and trial users can use the assemblies from installer\nuget, and also register your license key.
+
+## From v16.2.0.41 to v19.4.0.48
+
 You can install both Licensed and Trial installer side by side for different Essential Studio products. The following alert message will be shown if you install the combination of License and Trial platform installer. However, you can continue the installation. The alert message will be shown for the following products.
 
 * ASP.NET Web Forms

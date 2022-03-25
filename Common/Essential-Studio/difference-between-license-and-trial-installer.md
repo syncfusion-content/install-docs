@@ -8,6 +8,12 @@ documentation: ug
 
 # Difference between license installer and trial installer
 
+## From v20.1.0.* and later
+
+We only have one installer. All licensed and trial users can use the assemblies from installer\nuget, and also register your license key.
+
+## From v16.2.0.41 to v19.4.0.48
+
 Starting with v16.2.0.41 (2018 Vol 2), Syncfusion provides two separate installers.
 
    -	Trial Installer

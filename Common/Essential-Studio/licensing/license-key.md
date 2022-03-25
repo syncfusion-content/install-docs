@@ -19,6 +19,12 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 # Syncfusion Essential Studio Licensing Overview
 
+## From v20.1.0.* and later
+
+We only have one installer. All licensed and trial users can use the assemblies from installer\nuget, and also register your license key.
+
+## From v16.2.0.41 to v19.4.0.48
+
 We have introduced a new licensing system starting with version 16.2.0.x release of Essential Studio. These modifications apply to all evaluators and only to paid customers who use NuGet packages from [nuget.org](https://www.nuget.org/). Starting with v16.2.0.x, if you use the evaluation installer or the NuGet feed to reference Syncfusion assemblies, you must also include the corresponding platform and version license key in your projects.
 
 ### Difference between unlock key and license key

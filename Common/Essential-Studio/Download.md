@@ -8,7 +8,15 @@ documentation: ug
 
 # Download Syncfusion Essential Studio Installer
 
-The Syncfusion installer can be downloaded from the [Syncfusion](https://www.syncfusion.com/) website. You can either download the licensed installer or try our trial installer depending on your license.
+The Syncfusion installer can be downloaded from the [Syncfusion](https://www.syncfusion.com/) website. 
+
+## From v20.1.0.* and later
+
+We only have one installer. All licensed and trial users can use the assemblies from installer\nuget, and also register your license key.
+
+## From v16.2.0.41 to v19.4.0.48
+
+You can either download the licensed installer or try our trial installer depending on your license.
 
    -	Trial Installer
    -	Licensed Installer
