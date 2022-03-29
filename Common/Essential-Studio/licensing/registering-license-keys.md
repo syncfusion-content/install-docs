@@ -175,7 +175,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerF
 
 ## Blazor
 
-### For Server side application
+### Server side application
 
 Register the license key in Configure method of **Startup.cs**
 
@@ -214,7 +214,7 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 {% endhighlight %}
 {% endtabs %} 
 
-### For Server side application using .NET 6.0
+### Server side application using .NET 6.0
 
 Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022 and .NET 6.0. 
 
@@ -235,7 +235,7 @@ if (!app.Environment.IsDevelopment())
 {% endhighlight %}
 {% endtabs %} 
 
-### For Client side application
+### Client side application
 
 Register the license key in main method of **Program.cs**
 
@@ -438,9 +438,9 @@ Syncfusion license key should be registered, if your project using Syncfusion EJ
 
 The following code is used to register the license.
 
-### For Javascript es5
+### Javascript es5
 
-Register the license key by using  'registerLicense' method after the [Syncfusion JavaScript script](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start/#configure-syncfusion-javascript-es5-control-in-the-application-1) file reference as below.
+Register the license key by using **registerLicense** method after the [Syncfusion JavaScript script](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start/#configure-syncfusion-javascript-es5-control-in-the-application-1) file reference as below.
 
 {% tabs %}
 {% highlight JS %}
@@ -449,7 +449,7 @@ ej.base.registerLicense('License Key');
 {% endhighlight %}
 {% endtabs %}
 
-### For JavaScript es6 / TypeScript
+### JavaScript es6 / TypeScript
 
 Register the license key at the entry point of the project before using the Syncfusion controls.
 
@@ -462,9 +462,9 @@ ej.base.registerLicense('License key');
 {% endhighlight %}
 {% endtabs %}
 
-### For Angular Project
+### Angular
 
-Register the license key in the `main.ts` file of the Angular project.
+Register the license key in the **main.ts** file of the Angular project.
 
 {% tabs %}
 {% highlight JS %}
@@ -487,9 +487,9 @@ platformBrowserDynamic().bootstrapModule(AppModule)
 {% endhighlight %}
 {% endtabs %}
 
-### For ReactJS Project
+### ReactJS
 
-Register the license key in the `index.js` file of the React project.
+Register the license key in the **index.js** file of the React project.
 
 {% tabs %}
 {% highlight JS %}
@@ -512,9 +512,9 @@ ReactDOM.render(
 {% endhighlight %}
 {% endtabs %}
 
-### For VueJS Project
+### VueJS
 
-Register the license key in the `index.js` file of the Vue project.
+Register the license key in the **index.js** file of the Vue project.
 
 {% tabs %}
 {% highlight JS %}
@@ -530,7 +530,7 @@ createApp(App).mount('#app')
 
 ## JavaScript (Essential JS 1)
 
-You must have an active Syncfusion Essential JS license to use Syncfusion Essential JS1 (.js files). However, if you only use the Syncfusion Essential JavaScript product, you do not need to register the Syncfusion License keys in your scripts (.js files).
+You must have an active Syncfusion Essential JS license to use Syncfusion Essential JS1 (.js files). However, if you only use the Syncfusion Essential JS1 product, you do not need to register the Syncfusion License keys in your scripts (.js files).
 
 For the following platforms, you can use the script files without registering the license keys.
 
