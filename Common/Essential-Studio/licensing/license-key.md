@@ -19,13 +19,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 # Syncfusion Essential Studio Licensing Overview
 
-## From v20.1.0.* and later
-
-We only have one installer. All licensed and trial users can use the assemblies from installer\nuget, and also register your license key.
-
-## From v16.2.0.41 to v19.4.0.48
-
-We have introduced a new licensing system starting with version 16.2.0.x release of Essential Studio. These modifications apply to all evaluators and only to paid customers who use NuGet packages from [nuget.org](https://www.nuget.org/). Starting with v16.2.0.x, if you use the evaluation installer or the NuGet feed to reference Syncfusion assemblies, you must also include the corresponding platform and version license key in your projects.
+Starting with 2022 Volume 1 v20.1.0.47, all Syncfusion customers (evaluators and paid customers) who use Syncfusion installers or nuget packages from nuget.org must generate and register the corresponding platform and version license key in your projects.
 
 ### Difference between unlock key and license key
 
@@ -47,4 +41,4 @@ If you are using File-Format libraries, trial message will be displayed as water
 
 
 
-N> This licensing system is not applicable for JavaScript (Essential JS 1 & Essential JS 2) script files (.js files). So, there is no need to apply license key anywhere in scripts or themes.
+N> This licensing registeration is not applicable for JavaScript (Essential JS 1) script files (.js files). So, there is no need to apply license key anywhere in scripts or themes.
