@@ -10,7 +10,7 @@ documentation: ug
 
 # How to install the Trial and Licensed installer side by side safely?
 
-You can install both Licensed and Trial installer side by side for different Essential Studio products. The following alert message will be shown if you install the combination of License and Trial platform installer. However, you can continue the installation. The alert message will be shown for the following products.
+From v16.2.0.41 to v19.4.0.48, Syncfusion provided two type of installers, trial and licensed installers. For these versions, you can install both Licensed and Trial installer side by side for different Essential Studio products. The following alert message will be shown if you install the combination of License and Trial platform installer. However, you can continue the installation. The alert message will be shown for the following products.
 
 * ASP.NET Web Forms
 * ASP.NET MVC

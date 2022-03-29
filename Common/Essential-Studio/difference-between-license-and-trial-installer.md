@@ -8,6 +8,14 @@ documentation: ug
 
 # Difference between license installer and trial installer
 
+## From v20.1.0.47 or later
+
+Starting with 2022 Volume 1 v20.1.0.47, all Syncfusion customers (evaluators and paid customers) who use Syncfusion installers or nuget packages from nuget.org must generate and register the corresponding platform and version license key in your projects.
+
+For more information, please see [this](https://help.syncfusion.com/common/essential-studio/licensing/license-key) help topic.
+
+## From v16.2.0.41 to v19.4.0.48
+
 Starting with v16.2.0.41 (2018 Vol 2), Syncfusion provides two separate installers.
 
    -	Trial Installer
