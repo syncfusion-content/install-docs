@@ -70,8 +70,7 @@ You should initiate an evaluation if you have already obtained our components th
 
    ![License and downloads of Syncfusion Essential Studio](download-images/license-download.png)
 
-   N> Starting with 2022 Volume 1 v20.1.0.47, all Syncfusion customers (evaluators and paid customers) who use Syncfusion installers or nuget packages from [nuget.org](https://www.nuget.org/packages?q=Syncfusion) must generate and register the corresponding platform and version license key in your projects.
-   
+   N> Starting with 2022 Volume 1 v20.1.0.47, all Syncfusion customers (evaluators and paid customers) who use Syncfusion installers or nuget packages from [nuget.org](https://www.nuget.org/packages?q=Syncfusion) must generate and register the corresponding platform and version license key in your projects.<br>   
    For more information, please see [this](https://help.syncfusion.com/common/essential-studio/licensing/license-key) help topic.
    
 You can also refer to the [**Online installer**](https://help.syncfusion.com/common/essential-studio/installation/install-using-the-web-installer) and [**Offline installer**](https://help.syncfusion.com/common/essential-studio/installation/install-using-the-offline-installer) links for step-by-step installation guidelines.	

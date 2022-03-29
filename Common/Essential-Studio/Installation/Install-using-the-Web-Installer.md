@@ -9,7 +9,7 @@ documentation: ug
 
 # Install using the Web installer
 
-You can refer to the [Download](https://help.syncfusion.com/common/essential-studio/download) section to learn how to get the Syncfusion Web Installer
+You can refer to the [Download](https://help.syncfusion.com/common/essential-studio/download) section to learn how to get the Syncfusion Web Installer.
 
 ## Overview
 
