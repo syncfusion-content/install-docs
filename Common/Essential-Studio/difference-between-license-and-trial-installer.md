@@ -16,7 +16,7 @@ For more information, please see [this](https://help.syncfusion.com/common/essen
 
 ## From v16.2.0.41 to v19.4.0.48
 
-From v16.2.0.41 to v19.4.0.48, Syncfusion provides two separate installers.
+From v16.2.0.41 to v19.4.0.48, Syncfusion provided two separate installers.
 
    -	Trial Installer
    -	Licensed Installer
