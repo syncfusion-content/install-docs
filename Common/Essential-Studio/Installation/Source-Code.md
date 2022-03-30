@@ -15,11 +15,11 @@ documentation: ug
 
 Syncfusion provides a Source Code Add On installer that allows you to modify the Syncfusion source code and use customized assemblies and custom NuGet packages. This installer contains all of the Essential Studio sources, and you can easily build the customized source. The Source License is required in order to download and install the Source Code Add-on installer.
 
-N> From 2022 Volume 1 release Syncfusion included Blazor Build Manager utility to generate the Blazor NuGet packages along with dependency packages. This will allows you to generate Blazor custom NuGet packages.
+N> From 2022 Volume 1 release v20.1.0.47, Syncfusion has included the Blazor Build Manager utility to generate the Blazor NuGet packages along with dependency packages. This will allows you to generate the custom Blazor NuGet packages.
 
 ## Supported Platforms
 
-Syncfusion provides sources for the following platforms in the source add-on setup.
+Syncfusion provide sources for the following platforms in the source add-on setup.
 
 **Web**
 
@@ -83,9 +83,9 @@ The steps below show how you can install the Essential Studio Source Code Add-on
     N> The Completed screen will be displayed once the selected platform is installed.
 	
 
-6.  Select the **Run Build Manager (Desktop and EJ1 Web Platforms)** check box to launch the Build Manager once installation completed. Select the **Run Blazor Build Manager** check box to launch the Blazor Build Manager once installation completed. Select **Explore Source** check box to get into the source location.
+6.  Select the **Run Build Manager (Desktop and EJ1 Web Platforms)** check box to launch the Build Manager for Desktop and EJ1 Web Platforms once installation completedonce installation completed. Select the **Run Blazor Build Manager** check box to launch the Blazor Build Manager for Blazor once installation completed. Select **Explore Source** check box to get into the source location.
 
-    N> From 2022 Volume 1 release, Syncfusion provided new option to **Run Blazor Build Manager** check box to launch the Blazor Build Manager Utility.
+    N> From 2022 Volume 1 release v20.1.0.47, Syncfusion has provided a new option to **Run Blazor Build Manager** check box to launch the Blazor Build Manager Utility.
 
 7.  Click the Finish button. Essential Studio Source Code Add On is installed in your machine.
 
@@ -94,7 +94,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
    
 ## Build Manager
 
-**For Desktop and EJ1 Web Platforms**
+### For Desktop and EJ1 Web Platforms**
 
 Build Manager enables you to build and debug assemblies written in Syncfusion source code. The Build Manager can be launched from the following location.
 
@@ -111,7 +111,7 @@ The output assemblies of the Build Manager will be placed in the below location.
 
 The required setting can be selected in the Syncfusion Build Manager x.x.x.x window.
 
-### Build Manager Settings
+#### Build Manager Settings
 
 This window contains several sections. 
 
@@ -166,8 +166,7 @@ This window contains several sections. 
 N> The Build operation is performed and the status is updated in the text area, inside the output frame. On completion of the Build operation, an information message is displayed stating that the Build operation has been completed. It also asks you to review the Build output and log files for additional information.
 
 
-
-### Assembly Manager
+#### Assembly Manager
 
    Assembly Manager, which is included in the Source Code Add On, is used to **InstallRemove** the **DebugRelease** assemblies from the GAC and has its own set of features. The Assembly Manager can be launched from the Source Code Add On installation location listed below.
    
@@ -182,64 +181,52 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    Refer to [this](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) link for more information on Assembly Manager's functionalities.
    
-**For Blazor**
-
-### Blazor Build Manager Settings
+### Blazor Build Manager
 
 1. Blazor Build Manager enables you to build\compile and generate Syncfusion Blazor NuGet packages along with their dependent packages.
 
 
-**Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Blazor Build Manager\BlazorBuildManager.exe
+   **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Blazor Build Manager\BlazorBuildManager.exe
 
    ![Build Manager](Source-code_images/Blazor-Build-Manager_img.png)
    
 
-The output NuGet of the Blazor Build Manager will be placed in the below location.
+2. The output NuGet of the Blazor Build Manager will be placed in the below location.
 
-**Output Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Custom NuGet Packages\}
+   **Output Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Custom NuGet Packages\}
 
 
-The required setting can be selected in the Syncfusion Blazor Build Manager x.x.x.x.
+3. The required setting can be selected in the Syncfusion Blazor Build Manager x.x.x.x.
 
-This window contains the following sections. 
+   This window contains the following sections. 
 
-**1. NuGet packages**
+   **1. NuGet packages**
 
-   The NuGet packages group will allow selecting from the list of available Syncfusion Blazor NuGet packages to generate. 
+        The NuGet packages group will allow selecting from the list of available Syncfusion Blazor NuGet packages to generate. 
 
-**2. Configuration**
+   **2. Configuration**
 
-   This frame has two options. You can switch between the Debug and Release modes of product configurations. Debug is selected by default. To choose the Release mode for assembly, select Release.
+        This frame has two options. You can switch between the Debug and Release modes of product configurations. Debug is selected by default. To choose the Release mode for assembly, select Release.
    
    **Debug:**
    
-   * Building the Debug version of the assemblies allows you to step into the Syncfusion assemblies when debugging applications.
+        * Building the Debug version of the assemblies allows you to step into the Syncfusion assemblies when debugging applications.
 
 
    **Release:**
    
-   * Building the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packagesBuilding the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packages
+        * Building the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packages Building the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packages
 
-**3. Output**
+   **3. Output**
 
-   This frame shows the output, that is, the status of the build operation, in the text area 
+        This frame shows the output, that is, the status of the build operation, in the text area 
 
-   After selecting the required options in the above-mentioned frames, click Generate NuGet(s) inside the output frame.
+4. After selecting the required options in the above-mentioned frames, click Generate NuGet(s) inside the output frame.
 
-N> The Build operation is performed and the status is updated in the text area, inside the output frame. On completion of the Build operation, an information message is displayed stating that the Build operation has been completed. It also asks you to review the Build output and log files for additional information.
+   N> The Build operation is performed and the status is updated in the text area, inside the output frame. On completion of the Build operation, an information message is displayed stating that the Build operation has been completed. It also asks you to review the Build output and log files for additional information.
 
-I> Blazor custom nuget packages will be present in the following output location. You should use this location in your nuget.config feed to use these custom packages in your projects.
+   I> Blazor custom nuget packages will be present in the following output location. You should use this location in your nuget.config feed to use these custom packages in your projects.
 
-**Output Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Custom NuGet Packages\}
+   **NuGet Feed:** 
 
-**NuGet Feed:** 
-
-![Build Manager](Source-code_images/Nuget-Feed.png)
-
-
-   
- 
-
-
-
-
+   ![Build Manager](Source-code_images/Nuget-Feed.png)
