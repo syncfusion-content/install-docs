@@ -94,7 +94,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
    
 ## Build Manager
 
-### For Desktop and EJ1 Web Platforms**
+### For Desktop and EJ1 Web Platforms
 
 Build Manager enables you to build and debug assemblies written in Syncfusion source code. The Build Manager can be launched from the following location.
 
@@ -202,24 +202,24 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    **1. NuGet packages**
 
-        The NuGet packages group will allow selecting from the list of available Syncfusion Blazor NuGet packages to generate. 
+   The NuGet packages group will allow selecting from the list of available Syncfusion Blazor NuGet packages to generate. 
 
    **2. Configuration**
 
-        This frame has two options. You can switch between the Debug and Release modes of product configurations. Debug is selected by default. To choose the Release mode for assembly, select Release.
+   This frame has two options. You can switch between the Debug and Release modes of product configurations. Debug is selected by default. To choose the Release mode for assembly, select Release.
    
    **Debug:**
    
-        * Building the Debug version of the assemblies allows you to step into the Syncfusion assemblies when debugging applications.
+   * Building the Debug version of the assemblies allows you to step into the Syncfusion assemblies when debugging applications.
 
 
    **Release:**
    
-        * Building the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packages Building the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packages
+   * Building the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packages Building the Release version of the assemblies will build the Syncfusion Blazor assemblies in Release configuration and generate the NuGet packages
 
    **3. Output**
 
-        This frame shows the output, that is, the status of the build operation, in the text area 
+   This frame shows the output, that is, the status of the build operation, in the text area 
 
 4. After selecting the required options in the above-mentioned frames, click Generate NuGet(s) inside the output frame.
 
