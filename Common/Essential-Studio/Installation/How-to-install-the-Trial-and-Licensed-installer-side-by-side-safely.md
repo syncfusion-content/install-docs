@@ -18,7 +18,7 @@ From v16.2.0.41 to v19.4.0.48, Syncfusion provided two type of installers, trial
 * Windows Forms
 * WPF
 * File Formats  
-<br>
+
 <em>**Online Installer**</em>
 
 ![License Conflict Alert](Errors/Side-by-side_img2.png)

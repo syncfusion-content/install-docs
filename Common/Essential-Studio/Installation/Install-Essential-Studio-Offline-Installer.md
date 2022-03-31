@@ -16,7 +16,9 @@ Syncfusion provides the Essential Studio Enterprise Edition installer to license
 
 The Syncfusion Essential Studio Enterprise Edition installer supports both the installation and uninstallation of the platforms for that version.
 
-I> The Essential Studio Enterprise Edition Installer can be installed with either the Login or Unlock key.
+I> * The Essential Studio Enterprise Edition Installer can be installed with either the Login or Unlock key.
+* Starting with 2022 Volume 1 v20.1.0.47, all Syncfusion customers (evaluators and paid customers) who use Syncfusion installers or nuget packages from [nuget.org](https://www.nuget.org/packages?q=Syncfusion) must generate and register the corresponding platform and version license key in your projects.<br>
+For more information, please see [this](https://help.syncfusion.com/common/essential-studio/licensing/license-key) help topic.
 
 **Web**
 
