@@ -235,7 +235,7 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    N> The Build operation is performed and the status is updated in the text area, inside the output frame. On completion of the Build operation, an information message is displayed stating that the Build operation has been completed. It also asks you to review the Build output and log files for additional information.
 
-   I> Blazor custom nuget packages will be present in the following output location. You should use this location in your nuget.config feed to use these custom packages in your projects.
+   I> Blazor custom NuGet packages will be present in the following output location. You should use this location in your Nuget.config feed to use these packages in your projects.
 
    **NuGet Feed:** 
 
