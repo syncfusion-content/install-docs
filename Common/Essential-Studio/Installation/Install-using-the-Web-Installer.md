@@ -9,11 +9,14 @@ documentation: ug
 
 # Install using the Web installer
 
-You can refer to the [Download](https://help.syncfusion.com/common/essential-studio/download) section to learn how to get the trial or licensed installer
+You can refer to the [Download](https://help.syncfusion.com/common/essential-studio/download) section to learn how to get the Syncfusion Web Installer.
 
 ## Overview
 
 Syncfusion provides Web Installer for Essential Studio products. This installer alleviates the burden of downloading a larger installer. You can simply download and run the online installer, which will be smaller in size and will download and install the Essential Studio products you have chosen. You can get the most recent version of Essential Studio Web Installer [here](https://www.syncfusion.com/downloads/latest-version).
+
+I> Starting with 2022 Volume 1 v20.1.0.47, all Syncfusion customers (evaluators and paid customers) who use Syncfusion installers or nuget packages from [nuget.org](https://www.nuget.org/packages?q=Syncfusion) must generate and register the corresponding platform and version license key in your projects.<br>
+For more information, please see [this](https://help.syncfusion.com/common/essential-studio/licensing/license-key) help topic.
 
 Syncfusion Web Installer also allows both installation and uninstallation of the products for that specific version.
 	
@@ -123,9 +126,7 @@ The steps below show how to install Essential Studio Product Web installer.
 
 9.  The login wizard will appear. You must enter your Syncfusion email address and password. If you do not already have a Syncfusion account, you can create one by clicking on **Create an Account**. If you have forgotten your password, click **Forgot Password** to create a new one. Click the Install button.
 
-    ![Login wizard install](WebInstaller/Step-by-Step-Installation_img9.png)
-	
-	I> The products you have chosen will be installed based on your Syncfusion License (Trial or Licensed).
+    ![Login wizard install](WebInstaller/Step-by-Step-Installation_img9.png)	
 
 10. The download and installation\uninstallation progress will be displayed as shown below.
 
@@ -206,9 +207,7 @@ N> If the **Syncfusion Essential Studio for {Product} {version}** entry is selec
 
 7.	The login wizard will appear. You must enter your Syncfusion email address and password. If you do not already have a Syncfusion account, you can create one by clicking on **Create an Account**. If you have forgotten your password, click **Forgot Password** to create a new one. Click the Install button.
 
-    ![Login wizard install/uninstall](WebInstaller/Step-by-Step-Installation_img9.png)
-	
-	I> The products you have chosen will be installed based on your Syncfusion License (Trial or Licensed).
+    ![Login wizard install/uninstall](WebInstaller/Step-by-Step-Installation_img9.png)	
 
 8.	The download, installation, and uninstallation progresses will be shown.
 
