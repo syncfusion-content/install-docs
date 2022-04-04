@@ -434,7 +434,9 @@ N> License key registration is not required for Java before v19.1.
 
 ## JavaScript (Essential JS 2)
 
-Syncfusion license key should be registered, if your project using Syncfusion EJ2-JavaScript packages reference. The generated license key is a string that needs to be registered after any [Syncfusion JavaScript script reference](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start/#configure-syncfusion-javascript-es5-control-in-the-application-1). 
+Syncfusion license key should be registered, if your project using Syncfusion EJ2-JavaScript packages reference. The generated license key is a string that needs to be registered after any [Syncfusion JavaScript script reference](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start/#configure-syncfusion-javascript-es5-control-in-the-application-1).
+
+N> Only from 2022 Vol 1 v20.1.0.47, license key registration required for Essential JavaScript 2 products.
 
 The following code is used to register the license.
 
