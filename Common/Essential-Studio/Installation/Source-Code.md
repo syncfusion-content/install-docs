@@ -48,6 +48,16 @@ Syncfusion provide sources for the following platforms in the source add-on setu
 * JavaScript
 * PHP
 
+## How to download Source Add On installer?
+
+1. Essential Studio Source Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
+
+2. You can download Syncfusion Source Add On installer based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the source license.
+
+3. You can download Source Add On setup from the setup downloads page by clicking the **More Download Option** button.
+
+   ![Download Page](Source-code_images/SourceAddOn_Download.png)
+
 ## Step-by-Step Installation
 
 The steps below show how you can install the Essential Studio Source Code Add-on installer.
