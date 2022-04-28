@@ -50,9 +50,9 @@ Syncfusion provide sources for the following platforms in the source add-on setu
 
 ## How to download Source Add On installer?
 
-1. Syncfusion Essential Studio Source Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
+1. Essential Studio Source Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
 
-2. Syncfusion Source Add On installer based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the source license.
+2. Syncfusion Source Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the source license.
 
 3. Source Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
 
