@@ -39,6 +39,8 @@ Below are the recommended place to register the license key in the various platf
 
 Register the licensing code in static void main method before calling **Application.Run()** method in C#. In Visual Basic, register the licensing code in **Application.designer.vb** file constructor.
 
+If the **Application.Designer.vb** file is not included by default in the project, it will be generated in the **My Project** folder in your VB project directory.
+
 {% tabs %}
 {% highlight c# %}
 static void Main()
