@@ -42,3 +42,8 @@ If you are using File-Format libraries, trial message will be displayed as water
 
 
 N> This licensing registeration is not applicable for JavaScript (Essential JS 1) script files (.js files). So, there is no need to apply license key anywhere in scripts or themes.
+
+## See Also
+
+* [How to Generate Syncfusion Essential Studio License Key?](https://help.syncfusion.com/common/essential-studio/licensing/generating-license-keys)
+* [How to Register Syncfusion License Key in the Application?](https://help.syncfusion.com/common/essential-studio/licensing/registering-license-keys)
