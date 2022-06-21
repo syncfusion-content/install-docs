@@ -1,14 +1,14 @@
 ---
 layout: post
-title: About Essential Studio Licensing | Syncfusion
-description: Learn here about how to generate the license key for Syncfusion Essential Studio Products from Syncfusion website
+title: Overview of Syncfusion license generation - Syncfusion
+description: Learn here about how to generate Syncfusion license key for syncfusion application for license validation.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
 
-# How to generate Syncfusion license key
+# Generate Syncfusion License key
 
 License keys can be generated from the [License & Downloads](https://syncfusion.com/account/downloads) or [Trial & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) section from your Syncfusion account. 
 
