@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About Essential Studio Licensing | Syncfusion
-description: Learn here about how to register the license key for corresponding Syncfusion Essential Studio platforms
+title: Overview of Syncfusion license registration - Syncfusion
+description: Learn here about how to register Syncfusion license key for Syncfusion application for license validation.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -12,12 +12,12 @@ documentation: ug
     font-size: .88em!important;
 margin-top: 1.5em;     margin-bottom: 1.5em;
     background-color: #fbefca;
-    padding: 10px 17px 14px;
+    padding: 10px 17px 14px
 }
 </style>
 
 
-# How to register the Syncfusion license key
+# Register Syncfusion License key
 
 The generated license key is just a string that needs to be registered before any Syncfusion control is initiated. The following code is used to register the license.
 
