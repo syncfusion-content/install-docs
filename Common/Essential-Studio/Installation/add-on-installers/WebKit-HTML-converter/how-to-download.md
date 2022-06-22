@@ -1,13 +1,29 @@
 ---
 layout: post
-title: Add-on of Essential Studio Installer | Syncfusion
-description: Learn here some information about the Add-On of Syncfusion Essential Studio Installer and more details.
+title: Downloading Syncfusion Essential Studio WebKit HTML converter Add-on installer - Syncfusion
+description: Learn here about how to download the Syncfusion Essential Studio WebKit HTML converter Add-on installer from our Syncfusion website with license.
 platform: common
 control: Essential Studio
 documentation: ug
+
 ---
 
-# WebKit HTML converter
+# Downloading Syncfusion Essential Studio WebKit HTML converter Add-on installer
+
+
+## How to download WebKit HTML converter Add On installer?
+
+1. Essential Studio WebKit HTML converter Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
+
+2. Syncfusion WebKit HTML converter Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the WebKit HTML converter license.
+
+3. WebKit HTML converter Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
+
+   ![Download Page](images/WebKitAddOn_Download.png)
+
+
+
+# Installing Syncfusion Essential Studio WebKit HTML converter Add-on installer
 
 Syncfusion introduces the HTML converter in Essential Studio 13.1.0.21, which supports HTML to PDF conversion by using the advanced Qt WebKit rendering engine. This converter can easily be integrated into any.NET application such as Windows Forms, WPF, ASP.NET, ASP.NET MVC, and ASP.NET Core to convert URLs, HTML strings, SVG, and MHTML to PDF, as well as HTML to MHTML, HTML to SVG, and HTML to image.
 
@@ -17,7 +33,7 @@ The steps for installing the HTML Converter installer are as follows.
 
 1. Run the Syncfusion HTML Converter Installer by double-clicking it. The installer Wizard automatically opens and extracts the package.
 
-   ![Installer Extraction Wizard](Add-on_images/Step-by-Step-Installation_img1.png)
+   ![Installer Extraction Wizard](images/Step-by-Step-Installation_img1.png)
 
    
 
@@ -25,21 +41,21 @@ The steps for installing the HTML Converter installer are as follows.
 
 2. After reading the License terms and Privacy Policy, enter the [Essential Studio Unlock Key](https://www.syncfusion.com/kb/2326/how-to-generate-syncfusion-setup-unlock-key-from-syncfusion-support-account) in the corresponding text box and check the **I agree to the License Terms and Privacy Policy** check box.
 
-   ![License Agreement](Add-on_images/Step-by-Step-Installation_img5.png)
+   ![License Agreement](images/Step-by-Step-Installation_img5.png)
 
 3. Click the Next button. The installation location screen will appear.
 
-   ![Installation location](Add-on_images/Step-by-Step-Installation_img6.png)
+   ![Installation location](images/Step-by-Step-Installation_img6.png)
 
    N> By clicking **Browse**, you can also browse and select a location.
 
 4. Click Install, To install in the displayed default location, .
 
-   ![Installation progress](Add-on_images/Step-by-Step-Installation_img8.png)
+   ![Installation progress](images/Step-by-Step-Installation_img8.png)
    
    N> The Completed screen will be displayed once the  HTML converter is installed.
    
-   ![Installation Complete](Add-on_images/Step-by-Step-Installation_img10.png)
+   ![Installation Complete](images/Step-by-Step-Installation_img10.png)
 
 5. Click Finish.  HTML converter is installed in your machine.
 

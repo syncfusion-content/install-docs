@@ -1,14 +1,33 @@
 ---
 layout: post
-title: Add-on of Essential Studio Installer | Syncfusion
-description: Learn here some information about the Add-On of Syncfusion Essential Studio Installer and more details.
+title: Downloading Syncfusion Essential Studio QTP Add-on installer - Syncfusion
+description: Learn here about how to download the Syncfusion Essential Studio QTP Add-on installer from our Syncfusion website with license.
 platform: common
 control: Essential Studio
 documentation: ug
+
 ---
 
 
-# QTP Add-on installer
+# Downloading Syncfusion Essential Studio QTP Add-on installer
+
+
+## How to download QTP Add On installer?
+
+1. Essential Studio QTP Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
+
+2. Syncfusion QTP Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the QTP license.
+
+3. QTP Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
+
+   ![Download Page](images/QtpAddOn_Download.png)
+
+
+# Installing Syncfusion Essential Studio QTP Add-on installer
+
+
+## Overview
+
 
 Syncfusion supports Quick Test Professional software through Essential Test Studio, a QTP add-on that is specifically designed to meet the needs of professionals who need to test your controls. Essential Test Studio includes Custom Libraries, which allow Quick Test Professional to record and replay scripts from applications that contain Syncfusion controls. Quick Test Professional.NET Add-in extensibility is used to create these custom libraries. More information can be found at Mercury Quick Test Professional Help.  
 
@@ -34,3 +53,4 @@ Essential Test Studio supports the following Windows-based controls.
 * Notification Package
 
 N> Before installing this add-on, you must first install the same version of Syncfusion Essential Studio and Mercury QuickTestProfessional.
+

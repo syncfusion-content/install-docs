@@ -1,13 +1,28 @@
 ---
 layout: post
-title: Source Code Add-on Installer of Essential Studio | Syncfusion
-description: Learn here some information about the Essential Studio Source Code Add on installer and steps for installation.
+title: Downloading Syncfusion Essential Studio Source Code Add-on installer - Syncfusion
+description: Learn here about how to download the Syncfusion Essential Studio Source Code Add-on installer from our Syncfusion website with license.
 platform: common
 control: Essential Studio
 documentation: ug
+
 ---
 
-# Source Code Add-on installer
+# Downloading Syncfusion Essential Studio Source Code Add-on installer
+
+
+## How to download Source Add On installer?
+
+1. Essential Studio Source Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
+
+2. Syncfusion Source Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the source license.
+
+3. Source Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
+
+   ![Download Page](images/SourceAddOn_Download.png)
+
+
+# Installing Syncfusion Essential Studio Source Code Add-on installer
 
 
 ## Overview
@@ -48,15 +63,6 @@ Syncfusion provide sources for the following platforms in the source add-on setu
 * JavaScript
 * PHP
 
-## How to download Source Add On installer?
-
-1. Essential Studio Source Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
-
-2. Syncfusion Source Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the source license.
-
-3. Source Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
-
-   ![Download Page](Source-code_images/SourceAddOn_Download.png)
 
 ## Step-by-Step Installation
 
@@ -64,7 +70,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
 
 1. 	Run the Syncfusion Essential Studio Source code add-on installer from downloaded location by double-clicking it. The installer Wizard automatically opens and extracts the package.
    
-    ![Installer Extraction Wizard](Source-code_images/Step-by-Step-Installation_img1.png)
+    ![Installer Extraction Wizard](images/Step-by-Step-Installation_img1.png)
 
     N> The installer extracts the syncfusionessentialsourcecodeaddon(version).exe dialogue, which displays the package's unzip operation.
 	
@@ -72,23 +78,23 @@ The steps below show how you can install the Essential Studio Source Code Add-on
 
 2.  After reading the License terms and Privacy Policy, enter the [Source Unlock Key](https://www.syncfusion.com/kb/10442/who-can-access-source-license) in the corresponding text box and check the **I agree to the License Terms and Privacy Policy** check box.
    
-    ![Product key](Source-code_images/Step-by-Step-Installation_img2.png)
+    ![Product key](images/Step-by-Step-Installation_img2.png)
    
 
 
 3.  Click the Next button. The Platform selection wizard will appear. Choose the platforms that will be installed.
 
-    ![Platform Selection wizard](Source-code_images/Step-by-Step-Installation_img4.png)
+    ![Platform Selection wizard](images/Step-by-Step-Installation_img4.png)
    
 
 4.  Click the Next button. The installation location of the Source Code Add On will be displayed.
 
-    ![Install Location](Source-code_images/Step-by-Step-Installation_img5.png)
+    ![Install Location](images/Step-by-Step-Installation_img5.png)
 
 
 5.  Click the Install button. The Installation process begins. 
 
-    ![Install Progress](Source-code_images/Step-by-Step-Installation_img6.png)
+    ![Install Progress](images/Step-by-Step-Installation_img6.png)
 
     N> The Completed screen will be displayed once the selected platform is installed.
 	
@@ -99,7 +105,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
 
 7.  Click the Finish button. Essential Studio Source Code Add On is installed in your machine.
 
-    ![Installation Complete](Source-code_images/Step-by-Step-Installation_img7.png)
+    ![Installation Complete](images/Step-by-Step-Installation_img7.png)
   
    
 ## Build Manager
@@ -111,7 +117,7 @@ Build Manager enables you to build and debug assemblies written in Syncfusion so
 
 **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
 
-   ![Build Manager](Source-code_images/Build-Manager_img2.png)
+   ![Build Manager](images/Build-Manager_img2.png)
    
 
 The output assemblies of the Build Manager will be placed in the below location.
@@ -187,7 +193,7 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    * Debug and Release Assemblies - This mode instructs the Assembly Manager to install custom assemblies created from source code using Build Manager. The Debug\Release option will be enabled during compilation based on the **Assembly Type** selected in Build Manager.
    
-   ![Assembly Manager](Source-code_images/Build-Manager_img3.png)
+   ![Assembly Manager](images/Build-Manager_img3.png)
 
    Refer to [this](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) link for more information on Assembly Manager's functionalities.
    
@@ -198,7 +204,7 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Blazor Build Manager\BlazorBuildManager.exe
 
-   ![Build Manager](Source-code_images/Blazor-Build-Manager_img.png)
+   ![Build Manager](images/Blazor-Build-Manager_img.png)
    
 
 2. The output NuGet of the Blazor Build Manager will be placed in the below location.
@@ -239,4 +245,4 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    **NuGet Feed:** 
 
-   ![Build Manager](Source-code_images/Nuget-Feed.png)
+   ![Build Manager](images/Nuget-Feed.png)
