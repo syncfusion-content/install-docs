@@ -8,10 +8,11 @@ documentation: ug
 
 ---
 
-# Downloading Syncfusion Essential Studio Digitally Signed Binaries Add-On installer
+
+# Essential Studio - Digitally Signed Binaries
 
 
-## How to Download Syncfusion Essential Studio Digitally Signed Binaries Add-On installer
+## Downloading Syncfusion Essential Studio Digitally Signed Binaries Add-On installer
 
 1. The Digitally Signed Binaries Add On installer is available under your registered Syncfusion account in the [License and Downloads](https://www.syncfusion.com/account/downloads) page.
 
@@ -22,14 +23,14 @@ documentation: ug
 
    N> Syncfusion has started providing Digitally Signed Binaries Add On installer from 2018 Volume 4 release (v16.4.0.42)
 
-   ![Download](Images/Digitally-Signed-Assemblies-Setup_img7.png)
+   ![Download](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img7.png)
 
 3. The Syncfusion Digitally Signed Binaries Add-On installer can be found in the **Add-On** section.
 
-   ![Download](images/Digitally-Signed-Assemblies-Setup_img8.png)
+   ![Download](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img8.png)
 
 
-# Installing Syncfusion Essential Studio Digitally Signed Binaries Add-On installer
+## Installing Syncfusion Essential Studio Digitally Signed Binaries Add-On installer
 
 Syncfusion's installer includes Digitally Signed Binaries. It uses a.pfx file to sign the Syncfusion assemblies. See [Digitally Signed Binaries](http://www.syncfusion.com/support/kb/7671) for more information. 
 
@@ -40,17 +41,17 @@ The steps below show how to install Digitally Signed Binaries installer.
 
 1.  Open the Syncfusion Digitally Signed Binaries installer file by double-clicking it. The installer Wizard automatically opens and extracts the package
    
-    ![Installer Extraction Wizard](images/Digitally-Signed-Assemblies-Setup_img1.png)
+    ![Installer Extraction Wizard](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img1.png)
 
 2.  The Unlock key registration screen appears, when the unzip operation is finished, .
 
-    ![Product key](images/Digitally-Signed-Assemblies-Setup_img2.png)
+    ![Product key](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img2.png)
 
 3.  After reading the License Agreement, enter the Unlock Key in the corresponding text box and check the **I agree to the License Terms and Conditions** box.
 
 4.  Next, Click the Next button. The platform selection screen appears. Select the platforms on which you want to install the assemblies and then click Next.
 
-    ![Platform Selection](images/Digitally-Signed-Assemblies-Setup_img3.png)
+    ![Platform Selection](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img3.png)
 
 5.  The Installation Location wizard appears.
    
@@ -58,14 +59,14 @@ The steps below show how to install Digitally Signed Binaries installer.
 
 6.  Click Next to install in the default location.
 
-    ![Install Location](images/Digitally-Signed-Assemblies-Setup_img4.png)
+    ![Install Location](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img4.png)
    
 7.  Digitally Signed Binaries installation will begins.
 
-    ![Installation progress](images/Digitally-Signed-Assemblies-Setup_img5.png)
+    ![Installation progress](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img5.png)
 
     N> The Completed screen will be displayed once the selected package is installed.
     
-    ![Installation Complete](images/Digitally-Signed-Assemblies-Setup_img6.png)
+    ![Installation Complete](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img6.png)
 
 8.  After installation, check the **Run Syncfusion Control Panel** box to launch the Syncfusion Control Panel. To exit the installer Wizard, click Finish. Digitally Signed Binaries is installed in your machine.

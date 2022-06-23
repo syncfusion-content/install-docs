@@ -8,11 +8,10 @@ documentation: ug
 
 ---
 
+# QTP Add-on installer
 
-# Downloading Syncfusion Essential Studio QTP Add-on installer
 
-
-## How to download QTP Add On installer?
+## Downloading Syncfusion Essential Studio QTP Add-on installer
 
 1. Essential Studio QTP Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
 
@@ -20,10 +19,10 @@ documentation: ug
 
 3. QTP Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
 
-   ![Download Page](images/QtpAddOn_Download.png)
+   ![Download Page](QTP-images/QtpAddOn_Download.png)
 
 
-# Installing Syncfusion Essential Studio QTP Add-on installer
+## Installing Syncfusion Essential Studio QTP Add-on installer
 
 
 ## Overview

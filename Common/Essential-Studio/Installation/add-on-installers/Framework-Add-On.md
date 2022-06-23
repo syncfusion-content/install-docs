@@ -8,10 +8,11 @@ documentation: ug
 
 ---
 
-# Downloading Syncfusion Essential Studio Platform Framework Add-On installer
+
+# Essential Studio Platform Framework Add-Ons
 
 
-## How to Download Syncfusion Essential Studio Platform Framework Add-On installer
+## Downloading Syncfusion Essential Studio Platform Framework Add-On installer
 
 1. The Framework Add On installer is available under your registered Syncfusion account in the [License and Downloads](https://www.syncfusion.com/account/downloads) page.
 
@@ -22,15 +23,15 @@ documentation: ug
 
    N> Syncfusion has started providing Framework Add On installer from 2018 Volume 4 release (v16.4.0.42)
 
-   ![Download](images/FrameworkAddOn7.png)
+   ![Download](Framework-Add-On-images/FrameworkAddOn7.png)
 
 3. The Syncfusion Framework Add-On installer can be found in the **Add-On** section.
 
-   ![Download](images/FrameworkAddOn8.png)
+   ![Download](Framework-Add-On-images/FrameworkAddOn8.png)
 
 
 
-# Installing Syncfusion Essential Studio Platform Framework Add-On installer
+## Installing Syncfusion Essential Studio Platform Framework Add-On installer
 
 ## Overview
 
@@ -47,7 +48,7 @@ Starting with version 16.4.0.* (2018 Volume 4), Syncfusion has removed the .NET 
 
 To install the above framework add-ons, the corresponding Essential Studio platform in the same version must be installed. If this is not the case, a prerequisite alert will be displayed.
 
-![Framework Add On](images/FrameworkAddOn1.png)
+![Framework Add On](Framework-Add-On-images/FrameworkAddOn1.png)
 
 ## Step-by-Step Installation
 
@@ -55,25 +56,25 @@ The steps below show how to install the Syncfusion Platform Framework Add-On ins
 
 1.	Open the Syncfusion Platform Framework Add-On installer file by double-clicking it. The welcome wizard will appear. Click Next button.
 
-    ![Framework Add On](images/FrameworkAddOn2.png)
+    ![Framework Add On](Framework-Add-On-images/FrameworkAddOn2.png)
 
 2.  The Confirmation to Run the Assembly Manager Window will appear. Click the Next button.
 
     N> Uncheck the **Run Assembly Manager** checkbox and click Next if you do not want the assemblies to be installed in GAC.
 
-    ![Framework Add On](images/FrameworkAddOn3.png)
+    ![Framework Add On](Framework-Add-On-images/FrameworkAddOn3.png)
 
 3.  The **Ready To Install** wizard will appear. To proceed with the installation of the Syncfusion Framework Add-On installer, click **Install**.
 
-    ![Framework Add On](images/FrameworkAddOn4.png)
+    ![Framework Add On](Framework-Add-On-images/FrameworkAddOn4.png)
 
 4.  The installation of the Syncfusion Framework Add-On will begin.
 
-    ![Framework Add On](images/FrameworkAddOn5.png)
+    ![Framework Add On](Framework-Add-On-images/FrameworkAddOn5.png)
 
 5.  Completed screen will be displayed once the installation is completed. Click Finish to exit the installer.
   
-    ![Framework Add On](images/FrameworkAddOn6.png)
+    ![Framework Add On](Framework-Add-On-images/FrameworkAddOn6.png)
 	
     The Framework 2.0, 3.5, and 4.5.1 assemblies can now be found in the Syncfusion Essential Studio Product installation directory.
 

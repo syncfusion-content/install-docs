@@ -8,10 +8,11 @@ documentation: ug
 
 ---
 
-# Downloading Syncfusion Essential Studio Source Code Add-on installer
+
+# Source Code Add-on installer
 
 
-## How to download Source Add On installer?
+## Downloading Syncfusion Essential Studio Source Code Add-on installer
 
 1. Essential Studio Source Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
 
@@ -19,10 +20,10 @@ documentation: ug
 
 3. Source Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
 
-   ![Download Page](images/SourceAddOn_Download.png)
+   ![Download Page](Source-code-images/SourceAddOn_Download.png)
 
 
-# Installing Syncfusion Essential Studio Source Code Add-on installer
+## Installing Syncfusion Essential Studio Source Code Add-on installer
 
 
 ## Overview
@@ -70,7 +71,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
 
 1. 	Run the Syncfusion Essential Studio Source code add-on installer from downloaded location by double-clicking it. The installer Wizard automatically opens and extracts the package.
    
-    ![Installer Extraction Wizard](images/Step-by-Step-Installation_img1.png)
+    ![Installer Extraction Wizard](Source-code-images/Step-by-Step-Installation_img1.png)
 
     N> The installer extracts the syncfusionessentialsourcecodeaddon(version).exe dialogue, which displays the package's unzip operation.
 	
@@ -78,23 +79,23 @@ The steps below show how you can install the Essential Studio Source Code Add-on
 
 2.  After reading the License terms and Privacy Policy, enter the [Source Unlock Key](https://www.syncfusion.com/kb/10442/who-can-access-source-license) in the corresponding text box and check the **I agree to the License Terms and Privacy Policy** check box.
    
-    ![Product key](images/Step-by-Step-Installation_img2.png)
+    ![Product key](Source-code-images/Step-by-Step-Installation_img2.png)
    
 
 
 3.  Click the Next button. The Platform selection wizard will appear. Choose the platforms that will be installed.
 
-    ![Platform Selection wizard](images/Step-by-Step-Installation_img4.png)
+    ![Platform Selection wizard](Source-code-images/Step-by-Step-Installation_img4.png)
    
 
 4.  Click the Next button. The installation location of the Source Code Add On will be displayed.
 
-    ![Install Location](images/Step-by-Step-Installation_img5.png)
+    ![Install Location](Source-code-images/Step-by-Step-Installation_img5.png)
 
 
 5.  Click the Install button. The Installation process begins. 
 
-    ![Install Progress](images/Step-by-Step-Installation_img6.png)
+    ![Install Progress](Source-code-images/Step-by-Step-Installation_img6.png)
 
     N> The Completed screen will be displayed once the selected platform is installed.
 	
@@ -105,7 +106,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
 
 7.  Click the Finish button. Essential Studio Source Code Add On is installed in your machine.
 
-    ![Installation Complete](images/Step-by-Step-Installation_img7.png)
+    ![Installation Complete](Source-code-images/Step-by-Step-Installation_img7.png)
   
    
 ## Build Manager
@@ -117,7 +118,7 @@ Build Manager enables you to build and debug assemblies written in Syncfusion so
 
 **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
 
-   ![Build Manager](images/Build-Manager_img2.png)
+   ![Build Manager](Source-code-images/Build-Manager_img2.png)
    
 
 The output assemblies of the Build Manager will be placed in the below location.
@@ -193,7 +194,7 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    * Debug and Release Assemblies - This mode instructs the Assembly Manager to install custom assemblies created from source code using Build Manager. The Debug\Release option will be enabled during compilation based on the **Assembly Type** selected in Build Manager.
    
-   ![Assembly Manager](images/Build-Manager_img3.png)
+   ![Assembly Manager](Source-code-images/Build-Manager_img3.png)
 
    Refer to [this](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager) link for more information on Assembly Manager's functionalities.
    
@@ -204,7 +205,7 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Blazor Build Manager\BlazorBuildManager.exe
 
-   ![Build Manager](images/Blazor-Build-Manager_img.png)
+   ![Build Manager](Source-code-images/Blazor-Build-Manager_img.png)
    
 
 2. The output NuGet of the Blazor Build Manager will be placed in the below location.
@@ -245,4 +246,4 @@ N> The Build operation is performed and the status is updated in the text area, 
 
    **NuGet Feed:** 
 
-   ![Build Manager](images/Nuget-Feed.png)
+   ![Build Manager](Source-code-images/Nuget-Feed.png)

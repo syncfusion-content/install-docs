@@ -8,10 +8,11 @@ documentation: ug
 
 ---
 
-# Downloading Syncfusion Essential Studio CAB Add-on installer
+
+# CAB Add-on installer
 
 
-## How to download CAB Add On installer?
+## Downloading Syncfusion Essential Studio CAB Add-on installer
 
 1. Essential Studio CAB Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
 
@@ -19,10 +20,10 @@ documentation: ug
 
 3. CAB Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
 
-   ![Download Page](images/CabAddOn_Download.png)
+   ![Download Page](Cab-images/CabAddOn_Download.png)
 
 
-# Installing Syncfusion Essential Studio CAB Add-on installer
+## Installing Syncfusion Essential Studio CAB Add-on installer
 
 
 ## Overview
