@@ -10,11 +10,11 @@ documentation: ug
 
 1. Syncfusion provides the Essential Studio Enterprise Edition installer to licensed customers. 
 
-2. The Essential Studio Enterprise Edition Installer includes the platforms listed below. You can get the most recent version of Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version).
+2. You can get the most recent version of Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version).
 
     ![Enterprise License and downloads of Syncfusion Essential Studio](images/Enterprise-license-and-download.png)
 
-2. Click the More Download Options (in the above screenshot) button to get the Essential Studio Enterprise Edition installer installer which is available in EXE and ZIP format.
+2. Click the More Download Options (in the above screenshot) button to get the Essential Studio Enterprise Edition installer installer which is available in ZIP format.
 
    ![License and downloads of Syncfusion Essential Studio](images/start-trial-download-enterprise-edition-installer.png)
 

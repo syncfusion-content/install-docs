@@ -12,6 +12,8 @@ documentation: ug
 
 ## Overview
 
+The Essential Studio Enterprise Edition Installer includes the platforms listed below.
+
 The Syncfusion Essential Studio Enterprise Edition installer supports both the installation and uninstallation of the platforms for that version.
 
 I> * The Essential Studio Enterprise Edition Installer can be installed with either the Login or Unlock key.
