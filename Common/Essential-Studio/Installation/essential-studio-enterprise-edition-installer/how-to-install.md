@@ -12,8 +12,6 @@ documentation: ug
 
 ## Overview
 
-Syncfusion provides the Essential Studio Enterprise Edition installer to licensed customers. The Essential Studio Enterprise Edition Installer includes the platforms listed below. You can get the most recent version of Essential Studio Installer [here](https://www.syncfusion.com/downloads/latest-version).
-
 The Syncfusion Essential Studio Enterprise Edition installer supports both the installation and uninstallation of the platforms for that version.
 
 I> * The Essential Studio Enterprise Edition Installer can be installed with either the Login or Unlock key.
