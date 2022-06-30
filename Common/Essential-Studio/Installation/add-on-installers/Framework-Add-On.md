@@ -42,6 +42,7 @@ Starting with version 16.4.0.* (2018 Volume 4), Syncfusion has removed the .NET 
 * ASP.NET Web Forms
 * ASP.NET MVC
 * JavaScript
+* File Formats
 
 
 ## Prerequisites
