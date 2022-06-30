@@ -393,9 +393,22 @@ public override bool FinishedLaunching(UIApplication application, NSDictionary l
 
 ## .NET MAUI
 
-There is no need to generate and register any Syncfusion license keys to use Syncfusion .NET MAUI controls in your .NET MAUI projects.
+You can register the license key in **App.xaml.cs** constructor before InitializeComponent(). If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
 
-The Syncfusion .NET MAUI controls can be used without registering the license keys.
+{% tabs %}
+{% highlight c# %}
+public App()
+{
+	//Register Syncfusion license
+	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+	
+	InitializeComponent();
+	
+	MainPage = new AppShell();
+}
+
+{% endhighlight %}
+{% endtabs %}
 
 ## Flutter
 
