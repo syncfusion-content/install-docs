@@ -46,6 +46,7 @@ Syncfusion provide sources for the following platforms in the source add-on setu
 
 **Mobile**
 
+* .NET MAUI
 * Xamarin
 * Flutter
 
