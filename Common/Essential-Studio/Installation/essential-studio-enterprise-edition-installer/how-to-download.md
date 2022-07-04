@@ -20,4 +20,4 @@ documentation: ug
 
 
 
-You can also refer to the [**Enterprise Edition installer**](https://help.syncfusion.com/common/essential-studio/installation/install-essential-studio-offline-installer) links for step-by-step installation guidelines.	
+You can also refer to the [**Enterprise Edition installer**](https://help.syncfusion.com/common/essential-studio/installation/essential-studio-enterprise-edition-installer/how-to-install) links for step-by-step installation guidelines.	
