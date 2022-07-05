@@ -19,4 +19,4 @@ I> * Syncfusion license keys are **version and platform specific**, refer to the
 
 ## See Also
 
-* [How to Register Syncfusion License Key in the Application?](https://help.syncfusion.com/common/essential-studio/licensing/registering-license-keys)
+* [How to Register Syncfusion License Key in the Application?](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application)
