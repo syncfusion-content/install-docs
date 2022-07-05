@@ -29,7 +29,7 @@ Following licensing error will be shown if the license key is not registered in 
 
 <div id="license">
 
-This application was built using a trial version of Syncfusion Essential Studio. Please include a valid license to permanently remove this license validation message. You can also obtain a free 30 day evaluation license to temporarily remove this message during the evaluation period. Please refer to this <a href="/common/essential-studio/licensing/license-key">help topic</a> for more information 
+This application was built using a trial version of Syncfusion Essential Studio. Please include a valid license to permanently remove this license validation message. You can also obtain a free 30 day evaluation license to temporarily remove this message during the evaluation period. Please refer to this <a href="/common/essential-studio/licensing/overview">help topic</a> for more information 
 
 </div>
 
@@ -45,5 +45,5 @@ N> This licensing registeration is not applicable for JavaScript (Essential JS 1
 
 ## See Also
 
-* [How to Generate Syncfusion Essential Studio License Key?](https://help.syncfusion.com/common/essential-studio/licensing/generating-license-keys)
-* [How to Register Syncfusion License Key in the Application?](https://help.syncfusion.com/common/essential-studio/licensing/registering-license-keys)
+* [How to Generate Syncfusion Essential Studio License Key?](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate)
+* [How to Register Syncfusion License Key in the Application?](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application)
