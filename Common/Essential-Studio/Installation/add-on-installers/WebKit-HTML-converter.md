@@ -60,7 +60,7 @@ The steps for installing the HTML Converter installer are as follows.
 
 5. Click Finish.  HTML converter is installed in your machine.
 
-N> Starting with v20.1.0.x, if you reference Syncfusion HTML converter assemblies from trial setup or from the NuGet feed, include a license key in your projects. Refer to the [link](https://help.syncfusion.com/file-formats/licensing/licensing?utm_source=nuget&utm_medium=listing&utm_campaign=aspnetcore-htmltopdfconverter-nuget) to learn about generating and registering Syncfusion license key in your application to use the components without trail message.
+N> Starting with v20.1.0.x, if you reference Syncfusion HTML converter assemblies from trial setup or from the NuGet feed, include a license key in your projects. Refer to the [link](https://help.syncfusion.com/file-formats/licensing/overview) to learn about generating and registering Syncfusion license key in your application to use the components without trail message.
 
 ## Command Line 
 
