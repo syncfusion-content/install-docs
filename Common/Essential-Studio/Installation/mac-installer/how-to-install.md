@@ -23,6 +23,7 @@ Syncfusion provides the Mac installer for the following Essential Studio product
 * PHP
 * WebKit HTML Converter
 * Xamarin
+* .NET MAUI
 
 
 ## Steps to resolve the warning message in Catalina OS or later
