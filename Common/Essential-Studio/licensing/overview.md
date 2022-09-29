@@ -43,6 +43,40 @@ If you are using File-Format libraries, trial message will be displayed as water
 
 N> This licensing registeration is not applicable for JavaScript (Essential JS 1) script files (.js files). So, there is no need to apply license key anywhere in scripts or themes.
 
+## Registering license keys in server
+
+<table>
+<tr>
+<th>Source of Syncfusion assemblies</th>
+<th>Details</th>
+<th>License Key needs to be registered?</th>
+<th>Where to get license key from</th>
+</tr>
+<tr>
+<td>**NuGet package**</td>
+<td>If the Syncfusion assemblies used in the build server were obtained from Syncfusion NuGet packages, then no need to install any installer. We can directly use the required Syncfusion NuGet packages from [nuget.org](http://nuget.org/).
+
+But, if using NuGet packages from [nuget.org](http://nuget.org/), then we should register Syncfusion license key in the application.</td>
+<td>Yes</td>
+<td>Any developer license can be used to [generate license keys](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) for build environments also
+</td>
+</tr>
+<tr>
+<td>**Trial installer**</td>
+<td>If the Syncfusion assemblies used in build server were from trial installer, we should register the corresponding version and platforms license key in the application to avoid trial license warning.</td>
+<td>Yes</td>
+<td>Any developer trial license can be used to [generate license keys][generate license keys](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) for build environments also</td>
+</tr>
+<tr>
+<td>**Licensed installer**</td>
+<td>If the Syncfusion assemblies used in build server were obtained from licensed installer, then there is no need to register the license keys.
+
+You can [download]((https://help.syncfusion.com/common/essential-studio/installation/web-installer/how-to-download#download-the-license-version)) and [install](https://help.syncfusion.com/common/essential-studio/installation/web-installer/how-to-install</td>) the licensed version of our installer.
+<td>No</td>
+<td>Not applicable</td>
+</tr>
+</table>
+
 ## See Also
 
 * [How to Generate Syncfusion Essential Studio License Key?](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate)
