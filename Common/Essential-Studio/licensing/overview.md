@@ -65,7 +65,7 @@ But, if using NuGet packages from [nuget.org](http://nuget.org/), then we should
 <td>**Trial installer**</td>
 <td>If the Syncfusion assemblies used in build server were from trial installer, we should register the corresponding version and platforms license key in the application to avoid trial license warning.</td>
 <td>Yes</td>
-<td>Any developer trial license can be used to [generate license keys][generate license keys](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) for build environments also</td>
+<td>Any developer trial license can be used to [generate license keys](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) for build environments also</td>
 </tr>
 <tr>
 <td>**Licensed installer**</td>
