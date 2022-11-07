@@ -43,6 +43,14 @@ If you are using File-Format libraries, trial message will be displayed as water
 
 N> This licensing registeration is not applicable for JavaScript (Essential JS 1) script files (.js files). So, there is no need to apply license key anywhere in scripts or themes.
 
+## Registering license keys in server
+
+| Source of Syncfusion assemblies | Details | License Key needs to be registered? | Where to get license key from |
+| ------------- | ------------- | ------------- | ------------- |
+| **NuGet package** | If the Syncfusion assemblies used in the build server are downloaded via Syncfusion NuGet packages, then there is no need to install any installation. The required Syncfusion NuGet packages are available from [nuget.org](http://nuget.org/). <br><br>However, if we use NuGet packages from [nuget.org](http://nuget.org/), we must register the Syncfusion license key in the application. | Yes | Any developer license can be used to [generate license keys](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) for build environments also |
+| **Trial installer** | If we used trial Syncfusion assemblies in the build server, we should register the corresponding version and platform license key in the application to avoid the trial license warning. | Yes | Any developer trial license can be used to [generate license keys](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) for build environments also |
+| **Licensed installer** |There is no need to register the licence keys if the Syncfusion assemblies used in the build server were obtained from a licenced installer. <br><br>You can [download](https://help.syncfusion.com/common/essential-studio/installation/web-installer/how-to-download#download-the-license-version) and [install](https://help.syncfusion.com/common/essential-studio/installation/web-installer/how-to-install) the licensed version of our installer. | No | Not applicable |
+
 ## See Also
 
 * [How to Generate Syncfusion Essential Studio License Key?](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate)
