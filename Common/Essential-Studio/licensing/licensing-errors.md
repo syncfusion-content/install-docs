@@ -27,7 +27,7 @@ The following error message will be shown if a Syncfusion license key has not be
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
-### Invalid key\Platform Mismatch\Version Mismatch
+### Invalid key
 
 If the application is registered with an invalid key, another version of license key, or another platform's license key, the following error message will pop up when launching the application. 
 
