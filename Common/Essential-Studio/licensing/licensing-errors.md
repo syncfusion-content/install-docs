@@ -11,7 +11,7 @@ documentation: ug
 
 Licensing error popup is displayed with various messages under different circumstances. Here are some ways to resolve different issues.
 
-## Licensing errors from 20.4.0* 
+## Licensing errors 
 
 ### License key not registered\Trial Expired 
 
@@ -40,6 +40,12 @@ If the application is registered with an invalid key, another version of license
 * Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
+
+### Claim License
+
+Syncfusion License keys can be generated using **Claim License** button click from Syncfusion licensing warning message. If you click the claim license button, you will be navigated to Syncfusion claim license page. License keys can be generated from Claim License Key page based on trial or valid license associated with your Syncfusion account.
+
+Refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/claim-your-license-key) for more details
 
 Please refer to the claim license key help topic to claim your license key and refer to the license key [generation](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) and [registration](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) topic.
 
