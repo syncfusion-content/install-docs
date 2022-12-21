@@ -47,8 +47,6 @@ Syncfusion License keys can be generated using **Claim License** button click fr
 
 Refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/claim-your-license-key) for more details
 
-Please refer to the claim license key help topic to claim your license key and refer to the license key [generation](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) and [registration](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) topic.
-
 ## Licensing errors from version 16.2.0* to 20.3.0*
 
 ### License key not registered 
