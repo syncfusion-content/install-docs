@@ -11,9 +11,7 @@ documentation: ug
 
 Licensing error popup is displayed with various messages under different circumstances. Here are some ways to resolve different issues.
 
-## Licensing errors before version 20.4.0*
-
-### License key not registered 
+## License key not registered 
 
 The following error message will be shown if a Syncfusion license key has not been registered in your application. 
 
@@ -27,7 +25,7 @@ The following error message will be shown if a Syncfusion license key has not be
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
-### Invalid key
+## Invalid key
 
 If the application is registered with an invalid key, another version of license key, or another platform's license key, the following error message will pop up when launching the application. 
 
@@ -41,7 +39,7 @@ If the application is registered with an invalid key, another version of license
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
-### Trial Expired
+## Trial Expired
 
 The following error message will be shown if the trial key has expired after 30 days.
 
@@ -51,7 +49,7 @@ The following error message will be shown if the trial key has expired after 30 
 
 **Solution:** Purchase from [here](https://www.syncfusion.com/sales/products) to get a valid Syncfusion license.
 
-### Platform Mismatch
+## Platform Mismatch
 
 If the application is registered with another platform's license key, the following error message will pop up when launching the application.
 
@@ -65,7 +63,7 @@ If the application is registered with another platform's license key, the follow
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
-### Version Mismatch
+## Version Mismatch
 
 If the application is registered with another version's license key, the following error message will pop up when launching the application.
 
@@ -76,36 +74,6 @@ If the application is registered with another version's license key, the followi
 **Solution:**
 
 * Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform. Kindly follow the [KB](https://www.syncfusion.com/kb/8976/how-to-generate-license-key-for-licensed-products) to generate license key.
-
-* In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
-
-## Licensing errors from 20.4.0* 
-
-### License key not registered\Trial Expired 
-
-The following error message will be shown if a Syncfusion license key has not been registered in your application or if the trial key has expired after 30 days. 
-
-**Error message:** This application was built using a trial version of Syncfusion Essential Studio. You should include the valid license key to remove the license validation message permanently. To claim your license key click here(https://www.syncfusion.com/account/claim-your-license?pl=encryptedplatformname&vs=encryptedversion). Please refer to this help topic(https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#license-key-not-registered) for more information.
-
-![License key not registered](licensing-images/licensing-alert.png)
-
-**Solution:** 
-
-* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
-
-* In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
-
-### Invalid key\Platform Mismatch\Version Mismatch
-
-If the application is registered with an invalid key, another version of license key, or another platform's license key, the following error message will pop up when launching the application. 
-
-**Error Message:** The included Syncfusion license key is invalid. To claim your valid license key click here(https://www.syncfusion.com/account/claim-your-license?pl=encryptedplatformname&vs=encryptedversion). Please refer to this help topic(https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#license-key-not-registered) for more information.
-
-![License key not registered](licensing-images/invalid-key.png)
-
-**Solution:**
-
-* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
