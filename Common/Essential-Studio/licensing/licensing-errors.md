@@ -41,11 +41,15 @@ If the application is registered with an invalid key, another version of license
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
-### Claim License
+### Claim License Key
 
-Syncfusion License keys can be generated using **Claim License** button click from Syncfusion licensing warning message. If you click the claim license button, you will be navigated to Syncfusion claim license page. License keys can be generated from Claim License Key page based on trial or valid license associated with your Syncfusion account.
+Syncfusion License keys can be generated using **"Claim License"** button click from Syncfusion licensing warning message. If you click the claim license button, you will be navigated to Syncfusion claim license page. License keys can be generated from Claim License Key page based on trial or valid license associated with your Syncfusion account.
 
-Refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/claim-your-license-key) for more details
+Refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/claim-your-license-key) for more details.
+
+![Claim License](licensing-images/new-licensing-alert-claim.png)
+
+Refer to the license key [generation](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) and [registration](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) topic.
 
 ## Licensing errors from version 16.2.0* to 20.3.0*
 

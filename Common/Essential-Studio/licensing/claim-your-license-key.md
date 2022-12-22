@@ -19,7 +19,7 @@ If you have a Syncfusion account associated with valid license, license key will
 
 ![Active License](licensing-images/active-license.png)
 
-## Active license
+## Active trial
 
 If you have a Syncfusion account associated with trial license, license key will be generated from claim license key page with expiry date.
 
@@ -39,5 +39,5 @@ If the Syncfusion account is not associated with a trial, license, or expired tr
 
 N> Java platform license key cannot be generated with other platforms. So if you need to get Java platform license key, check the additional action given in the note portion from license key section.
 ![Java License](licensing-images/java-license.png)
-Once you click the click here action from note portion, Java platform license key will be generated.
+Once you click the **"click here"** action from note portion, Java platform license key will be generated.
 ![Java License Key](licensing-images/java-license-key.png)
