@@ -23,7 +23,7 @@ If you have a Syncfusion account associated with valid license, license key will
 
 If you have a Syncfusion account associated with trial license, license key will be generated from claim license key page with expiry date.
 
-![Active Trial](active-trial.png)
+![Active Trial](licensing-images/active-trial.png)
 
 ## Expired License
 
