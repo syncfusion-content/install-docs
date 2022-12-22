@@ -43,7 +43,7 @@ If the application is registered with an invalid key, another version of license
 
 ### Claim License Key
 
-Syncfusion License keys can be generated using **"Claim License"** button click from Syncfusion licensing warning message. If you click the claim license button, you will be navigated to Syncfusion claim license page. License keys can be generated from Claim License Key page based on trial or valid license associated with your Syncfusion account.
+Syncfusion License keys can be generated using **"Claim License"** button click from Syncfusion licensing warning message. If you click the claim license button, you will be navigated to Syncfusion claim license key page. License keys can be generated from Claim License Key page based on trial or valid license associated with your Syncfusion account.
 
 Refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/claim-your-license-key) for more details.
 
