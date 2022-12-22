@@ -13,19 +13,19 @@ Syncfusion License keys can be generated from the Claim License Key page based o
 
 You can get the license key, based on license availability in your Syncfusion account.
 
-## Active license
+## Active License
 
 If you have a Syncfusion account associated with valid license, license key will be generated from claim license key page.
 
 ![Active License](licensing-images/active-license.png)
 
-## Active trial
+## Active Trial
 
 If you have a Syncfusion account associated with trial license, license key will be generated from claim license key page with expiry date.
 
 ![Active Trial](active-trial.png)
 
-## Expired license
+## Expired License
 
 If you have a Syncfusion account with an expired license, your license subscription must be renewed in order to obtain a valid license key for the latest Essential Studio version. Meanwhile, a temporary license key with a 5-day validity period will be generated.
 
