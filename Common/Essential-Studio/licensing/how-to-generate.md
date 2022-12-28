@@ -47,11 +47,6 @@ If the Syncfusion account is not associated with a trial, license, or expired tr
 
 ![No Trial or No License](licensing-images/no-active-trial-or-license.png)
 
-N> Java platform license key cannot be generated with other platforms. So if you need to get Java platform license key, check the additional action given in the note portion from license key section.
-![Java License](licensing-images/java-license.png)
-Once you click the **"click here"** action from note portion, Java platform license key will be generated.
-![Java License Key](licensing-images/java-license-key.png)
-
 ## See Also
 
 * [How to Register Syncfusion License Key in the Application?](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application)
