@@ -19,7 +19,7 @@ I> * Syncfusion license keys are **version and platform specific**, refer to the
 
 ## Claim License key
 
-Syncfusion License keys can also be generated from the Claim License Key page based on the trial or valid license associated with your Syncfusion account.
+Syncfusion License keys can also be generated from the **"Claim License Key"** page based on the trial or valid license associated with your Syncfusion account.
 
 You can get the license key, based on license availability in your Syncfusion account.
 
