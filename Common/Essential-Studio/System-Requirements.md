@@ -356,23 +356,9 @@ To get started with the Blazor application, the following software must be insta
 * RAM : 512 MB (minimum), 1 GB (recommended)
 * Hard disk: up to 3 GB of available space may be required
 
-### Integrated Development Environment
+### Integrated Development Environment and .NET SDK
 
-By using the following IDEs, you can develop Blazor applications
-* [Visual Studio 2019](https://visualstudio.microsoft.com/vs/)
-* [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
-* [Visual Studio Code](https://code.visualstudio.com/download)
-
-### Framework & SDK
-
-The below tool required to run the Blazor application.
-
-* .NET Core SDK 3.1.8 / .NET 5.0 SDK
-
-<div id="note">
-.NET Core SDK 3.1.8 requires Visual Studio 2019 16.7 or later
-.NET 5.0 requires Visual Studio 2019 16.8 or later.
-</div>
+Refer this [documentation](https://blazor.syncfusion.com/documentation/system-requirements) to know about the Integrated Development Environment and.NET SDK.
 
 ### Browser support and Required Polyfills
 
