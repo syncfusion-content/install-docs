@@ -57,14 +57,6 @@ Syncfusion provide sources for the following platforms in the source add-on setu
 * Universal Windows Platform
 * WinUI
 
-**Web (Essential JS 1)**
-
-* ASP.NET Web Forms
-* ASP.NET MVC
-* ASP.NET Core
-* JavaScript
-* PHP
-
 
 ## Step-by-Step Installation
 

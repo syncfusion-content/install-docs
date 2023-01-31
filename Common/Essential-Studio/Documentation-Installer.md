@@ -51,11 +51,11 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 <div id="license">
 Visual Studio Help Viewer Compatible is available for the following platforms
-	  <li><b>ASP.NET Web Forms</b> </li>
-	  <li><b>ASP.NET MVC</b> </li>
+	  <li><b>Blazor</b> </li>
+	  <li><b>ASP.NET MVC EJ2</b> </li>
 	  <li><b>Windows Forms</b> </li>
 	  <li><b>WPF</b> </li>
-	  <li><b>ASP.NET Core</b> </li>
+	  <li><b>ASP.NET Core EJ2</b> </li>
 	  <li><b>UWP</b> </li>
 	  <li><b>WinUI</b> </li>
 	  <li><b>Xamarin</b> </li>	  
