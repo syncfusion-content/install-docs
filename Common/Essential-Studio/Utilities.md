@@ -145,9 +145,6 @@ The Assembly Manager is used to install and uninstall the assemblies, to and fro
 
 Assembly Manager will be shipped for the following platforms as these platforms alone have the GAC support. Other Syncfusion platform assemblies will not be installed in GAC and the Assembly Manager will not be shipped.
 
-* ASP.NET Web Forms
-* ASP.NET MVC
-* JavaScript(Essential JS 1)
 * WPF
 * Windows Forms
 * FileFormats
@@ -456,9 +453,9 @@ The following screenshot illustrates this.
 
 ![Project Migration Console](Utilities_images/Command-Line_img1.png)
 
-### For Blazor, Web (Essential JS 2 and Essential JS 1) platforms
+### For Blazor, Web (Essential JS 2) platforms
 
-For Blazor, Web (Essential JS 2 and Essential JS 1) platforms, follow the steps suggested in the following documentation link to migrate the projects to the latest version.
+For Blazor, Web (Essential JS 2) platforms, follow the steps suggested in the following documentation link to migrate the projects to the latest version.
 
 <table>
 <tr>
@@ -476,17 +473,5 @@ For Blazor, Web (Essential JS 2 and Essential JS 1) platforms, follow the steps 
 <tr>
 <td>ASP.NET MVC (Essential JS 2)</td>
 <td><a href="https://help.syncfusion.com/extension/aspnetmvc-essentialjs2-extension/project-migration" target="_top">ASP.NET MVC - JS 2 Migration</a></td>
-</tr>
-<tr>
-<td>ASP.NET Core (Essential JS 1)</td>
-<td><a href="https://help.syncfusion.com/extension/aspnetcore-extension/project-migration" target="_top">ASP.NET Core Migration</a></td>
-</tr>
-<tr>
-<td>ASP.NET MVC (Essential JS 1)</td>
-<td><a href="https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration" target="_top">ASP.NET MVC Migration</a></td>
-</tr>
-<tr>
-<td>ASP.NET Web Forms (Essential JS 1)</td>
-<td><a href="https://help.syncfusion.com/extension/aspnet-extension/project-migration" target="_top">ASP.NET Migration</a></td>
 </tr>
 </table>

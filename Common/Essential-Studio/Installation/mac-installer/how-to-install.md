@@ -14,13 +14,10 @@ documentation: ug
 Syncfusion provides the Mac installer for the following Essential Studio products.
 
 * ASP.NET Core
-* ASP.NET Core (Essential JS 1)
 * Blazor
 * Electron
 * Flutter
 * JavaScript
-* JavaScript (Essential JS 1)
-* PHP
 * WebKit HTML Converter
 * Xamarin
 * .NET MAUI

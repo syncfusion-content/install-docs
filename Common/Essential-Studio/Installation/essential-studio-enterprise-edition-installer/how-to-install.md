@@ -36,15 +36,6 @@ I> * The Essential Studio Enterprise Edition Installer can be installed with eit
 * WPF
 * Universal Windows Platform
 * WinUI
-
-**Web (Essential JS 1)**
-
-* ASP.NET Web Forms
-* ASP.NET MVC
-* ASP.NET Core
-* JavaScript
-* PHP
-* JSP
  
  
 The steps below show how to install Essential Studio Enterprise Edition Installer.

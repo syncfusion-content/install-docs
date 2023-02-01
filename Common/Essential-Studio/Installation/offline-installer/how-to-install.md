@@ -37,15 +37,6 @@ Syncfusion provides separate installers for all the Essential Studio products. Y
 
 * Read and Write Excel, Word, PDF and PowerPoint files
 
-**Web (Essential JS 1)**
-
-* ASP.NET Web Forms
-* ASP.NET MVC
-* ASP.NET Core
-* JavaScript
-* PHP
-* JSP
-
 N> Universal Windows Platform can be installed in Windows 8.1 and later.
 
 
