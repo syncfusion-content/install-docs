@@ -11,12 +11,6 @@ documentation: ug
 
 Syncfusion Essential Studio is not a Visual Studio plug-in or an IDE like Visual Studio. Syncfusion Essential Studio is a .NET based product that includes 800+ controls and frameworks that can be used in Visual Studio to create visually appealing applications. The Essential Studio includes demos for all of the controls, giving you an idea of how Syncfusion controls look and work. The following products are included with Syncfusion Essential Studio.
 
-* [ASP.NET](https://help.syncfusion.com/aspnet/overview)
-* [ASP.NET Core (Essential JS 1)](https://help.syncfusion.com/aspnet-core/overview)
-* [ASP.NET MVC (Essential JS 1)](https://help.syncfusion.com/aspnetmvc/introduction)
-* [JavaScript (Essential JS 1)](https://help.syncfusion.com/js/overview)
-* [JSP](https://help.syncfusion.com/jsp/overview)
-* [PHP](https://help.syncfusion.com/php/overview)
 * [Universal Windows Platform](https://help.syncfusion.com/uwp/overview)
 * [Windows Forms ](https://help.syncfusion.com/windowsforms/overview)
 * [WPF](https://help.syncfusion.com/wpf/welcome-to-syncfusion-essential-wpf)
@@ -33,13 +27,9 @@ Syncfusion Essential Studio offers Syncfusion Control Panel from which both the 
 In addition to the Windows installer, Syncfusion provides the Mac installer for the following Essential Studio products.
 
 * ASP.NET Core
-* ASP.NET Core (Essential JS 1)
 * Blazor
-* Electron
 * Flutter
 * JavaScript
-* JavaScript (Essential JS 1)
-* PHP
 * HTML Converter
 * Xamarin
 

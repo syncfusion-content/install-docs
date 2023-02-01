@@ -40,15 +40,6 @@ Syncfusion Web Installer also allows both installation and uninstallation of the
 
 * Read and Write Excel, Word, PDF and PowerPoint files
 
-**Web (Essential JS 1)**
-
-* ASP.NET Web Forms
-* ASP.NET MVC
-* ASP.NET Core
-* JavaScript
-* PHP
-* JSP
-
 N> Universal Windows Platform will be installed in Windows 8.1 and later.  
 
  

@@ -92,37 +92,6 @@ End Sub
 
 {% endtabs %}
 
-## ASP.NET	
-
-Register the license key in Application_Start method of **Global.asax.cs/Global.asax**
-
-{% tabs %}
-{% highlight c# %}
-void Application_Start(object sender, EventArgs e)
-{
-	//Register Syncfusion license
-	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
-	
-	// Code that runs on application startup
-	RouteConfig.RegisterRoutes(RouteTable.Routes);
-	BundleConfig.RegisterBundles(BundleTable.Bundles);
-}
-{% endhighlight %}
-
-{% highlight vb %}
-Sub Application_Start(ByVal sender As Object, ByVal e As EventArgs)
-	'Syncfusion Licensing Register
-	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
-	'Code that runs on application startup
-	AuthConfig.RegisterOpenAuth()
-	RouteConfig.RegisterRoutes(RouteTable.Routes)
-	System.Web.Http.GlobalConfiguration.Configuration.Routes.MapHttpRoute(name:="DefaultApi", routeTemplate:="api/{controller}/{action}/{id}", defaults:=New With {.id = System.Web.Http.RouteParameter.[Optional]
-	   })
-End Sub
-{% endhighlight %}
-
-{% endtabs %}
-
 ## ASP.NET MVC
 
 Register the license key in Application_Start method of **Global.asax.cs/Global.asax.vb**
@@ -545,22 +514,3 @@ createApp(App).mount('#app')
 {% endhighlight %}
 {% endtabs %}
 
-## JavaScript (Essential JS 1)
-
-You must have an active Syncfusion Essential JS license to use Syncfusion Essential JS1 (.js files). However, if you only use the Syncfusion Essential JS1 product, you do not need to register the Syncfusion License keys in your scripts (.js files).
-
-For the following platforms, you can use the script files without registering the license keys.
-
-### JavaScript (Essential JS 1)
-
-* AngularJS
-
-* Angular
-
-* Aurelia
-
-* ReactJS
-
-* TypeScript
-
-* EmberJS
