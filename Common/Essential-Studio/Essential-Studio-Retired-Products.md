@@ -66,7 +66,7 @@ ASP.NET Core (Essential JS 1)</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
-JavaScript</td><td>
+JavaScript (Essential JS 1)</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
