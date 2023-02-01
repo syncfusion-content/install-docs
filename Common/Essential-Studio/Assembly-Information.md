@@ -32,7 +32,7 @@ In the License installer, licensed Syncfusion assemblies will be shipped and **L
 
 ## Assembly Version Format
 
-The assembly version format differs for each of the Essential Studio platform. Refer the following table for the assembly version’s format for ASP.NET Web Forms, ASP.NET MVC (Essential JS 1), ASP.NET MVC (Essential JS 2), JavaScript (Essential JS 1), WPF, Windows Forms, UWP, WinUI, .NET MAUI and Xamarin platforms.
+The assembly version format differs for each of the Essential Studio platform. Refer the following table for the assembly version’s format for ASP.NET MVC (Essential JS 2), WPF, Windows Forms, UWP, WinUI, .NET MAUI and Xamarin platforms.
 
 
 
@@ -141,45 +141,6 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td></tr>
-<tr>
-<td>
-<b>ASP.NET Web Forms (Essential JS 1)</b></td><td>
-NA</td><td>
-18.3350.0.x</td><td>
-18.3400.0.x</td><td>
-18.3450.0.x</td><td>
-18.3451.0.x</td><td>
-18.3460.0.x</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td></tr>
-<tr>
-<td>
-<b>ASP.NET MVC (Essential JS 1)</b></td><td>
-NA</td><td>
-NA</td><td>
-<li>MVC 3 - 18.3300.0.x</li><li>MVC 4 - 18.3400.0.x</li></td><td>
-MVC 5 - 18.3500.0.x</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td></tr>
-<tr>
-<td>
-<b>JavaScript (Essential JS 1)</b></td><td>
-NA</td><td>
-18.3350.0.x</td><td>
-18.3400.0.X</td><td>
-18.3450.0.X</td><td>
-18.3451.0.X</td><td>
-18.3460.0.X</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td></tr>
 </table>
 
 **For .NET Standard Frameworks:**
@@ -200,8 +161,6 @@ NA</td></tr>
 The following Essential Studio platforms do not have assembly support.
 
 * JavaScript (Essential JS 2)
-* PHP (Essential JS 1)
-* JSP (Essential JS 1)
 
 ## Supported Framework version for Essential Studio Assemblies
 
@@ -239,21 +198,5 @@ Following are the supported Framework versions of the Essential Studio assemblie
 <tr>
 <td>ASP.NET MVC (Essential JS 2)</td>
 <td>MVC 4 and MVC 5</td>
-</tr>
-<tr>
-<td>ASP.NET Web Forms</td>
-<td>.NET Framework 3.5 to 4.6</td>
-</tr>
-<tr>
-<td>ASP.NET MVC (Essential JS 1)</td>
-<td>MVC 3, MVC 4 and MVC 5</td>
-</tr>
-<tr>
-<td>ASP.NET Core (Essential JS 1)</td>
-<td>netstandard 1.2 to 2.0 and netcoreapp 2.1 to 3.1</td>
-</tr>
-<tr>
-<td>JavaScript (Essential JS 1)</td>
-<td>.NET Framework 3.5 to 4.6</td>
 </tr>
 </table>

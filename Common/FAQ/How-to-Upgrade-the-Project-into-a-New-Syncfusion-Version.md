@@ -32,18 +32,6 @@ Syncfusion provides project migration tool for the platforms listed below.
 <td><a href="https://help.syncfusion.com/extension/aspnetmvc-essentialjs2-extension/project-migration" target="_top">ASP.NET MVC - JS 2 Migration</a></td>
 </tr>
 <tr>
-<td>ASP.NET Core (Essential JS 1)</td>
-<td><a href="https://help.syncfusion.com/extension/aspnetcore-extension/project-migration" target="_top">ASP.NET Core Migration</a></td>
-</tr>
-<tr>
-<td>ASP.NET MVC (Essential JS 1)</td>
-<td><a href="https://help.syncfusion.com/extension/aspnet-mvc-extension/project-migration" target="_top">ASP.NET MVC Migration</a></td>
-</tr>
-<tr>
-<td>ASP.NET Web Forms (Essential JS 1)</td>
-<td><a href="https://help.syncfusion.com/extension/aspnet-extension/project-migration" target="_top">ASP.NET Migration</a></td>
-</tr>
-<tr>
 <td>Windows Forms</td>
 <td><a href="https://help.syncfusion.com/common/essential-studio/utilities#for-desktop-platforms" target="_top">Windows Forms Migration</a></td>
 </tr>
@@ -81,8 +69,6 @@ You can upgrade the project in two methods, based on the procedure used in your 
 
 N> This method is only applicable to the platforms listed below, for which the Syncfusion assemblies will be installed in GAC.
 <br>
-* ASP.NET Web Forms (Essential JS 1)
-* ASP.NET MVC (Essential JS 1)
 * WPF
 * Windows Forms
 
