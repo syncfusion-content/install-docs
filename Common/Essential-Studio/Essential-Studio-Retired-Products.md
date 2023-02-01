@@ -54,7 +54,7 @@ ASP.NET MVC Classic</td><td>
 16.2.0.41</td></tr>
 <tr>
 <td>
-ASP.NET Web Forms (Essential JS 1)</td><td>
+ASP.NET Web Forms</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
@@ -66,15 +66,15 @@ ASP.NET Core (Essential JS 1)</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
-JavaScript (Essential JS 1)</td><td>
+JavaScript</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
-PHP (Essential JS 1)</td><td>
+PHP</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
-JSP (Essential JS 1)</td><td>
+JSP</td><td>
 20.4.0.48</td></tr>
 </table>
 
