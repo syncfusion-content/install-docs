@@ -7,29 +7,29 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Configuring Private NuGet Server
+# Setup Private NuGet Server
 
 ## Overview
 
-This document will explain the steps for configuring a private NuGet server, pushing\removing the NuGet packages from the private NuGet server and steps for configuring the private NuGet feed in Visual Studio.
+This document will explain the steps for configuring a private NuGet server, pushing or removing the NuGet packages from the private NuGet server, and configuring the private NuGet feed in Visual Studio.
 
 ## Private NuGet server and package usage
 
-Setup the private NuGet and perform the NuGet CLI to publish the custom NuGet packages into the private NuGet server. This can be used to CI/CD to refer the assemblies from private NuGet server. 
+Setup the private NuGet and perform the NuGet CLI to publish the custom NuGet packages into the private NuGet server. CI/CD uses this to refer to the assemblies from private NuGet server. 
 
 ## How to prepare a private NuGet server
 
-You can set up a **Private NuGet Server** using IIS and publish the NuGet packages. To build a Private NuGet server, please follow the steps below.
+Set up a **Private NuGet Server** using IIS and publish the NuGet packages. To build a Private NuGet server, please follow these steps.
 
 * Create an ASP.NET Web application with NuGet Server.
 * Host the application in Internet Information Services (IIS).
-* Adding Syncfusion packages to the feed.
-* Removing Syncfusion packages from the feed.
+* Add Syncfusion packages to the feed.
+* Remove Syncfusion packages from the feed.
 * Configure the private NuGet feed to Visual Studio.
 
-### Create an ASP.NET Web application with NuGet.Server
+### Create an ASP.NET Web application with NuGet Server
 
-1.	 Open the Visual Studio, select **Create a New Project**, then search for **ASP.NET Web Application (.NET Framework)** and click **Next**.
+1.	 Open the Visual Studio, select **Create a New Project**, search for **ASP.NET Web Application (.NET Framework)**, and click **Next**.
 
      ![NuGet Server](Nuget-server-images/Create-Project.png)
 	 
@@ -46,14 +46,12 @@ You can set up a **Private NuGet Server** using IIS and publish the NuGet packag
 	 ![NuGet Server](Nuget-server-images/Propject-template.png)
 	 
 	 
-4.	Once project created, right-click on the project and select **Manage NuGet Packages**.
+4.	Once project created, right-click on the project, and select **Manage NuGet Packages**.
 
 	 ![NuGet Server](Nuget-server-images/Manage-nuget-packages.png)
 
 
-5.	Go to the **Browse** tab, then search for **NuGet.Server** and install the most recent version. NuGet.Server can also be installed using the **Package Manager Console** with the command.
-
-	**Install-Package NuGet.Server**
+5.	Go to the **Browse** tab, search for **NuGet.Server** and install the most recent version. NuGet.Server can also be installed using the **Package Manager Console** with the command **Install-Package NuGet.Server**.
 
 	 ![NuGet Server](Nuget-server-images/NuGetServer.png)
 	 
@@ -65,7 +63,7 @@ You can set up a **Private NuGet Server** using IIS and publish the NuGet packag
 	 
 	 
 
-	N> When the NuGet.Server package installation is finished, it may not overwrite existing elements but instead create duplicates. When you try to run the project later, the duplicates will cause an **Internal Server Error**.
+	N> When the NuGet.Server package installation is finished, it may not overwrite the existing elements but instead, create duplicates. When you try to run the project later, the duplicates will cause an **Internal Server Error**.
 
 	**For example:** If your web.config contains **<compilation debug="true" targetFramework="4.5.2" />** before installing NuGet.Server, the package does not overwrite it but instead inserts a new one **<compilation debug="true" targetFramework="4.6" />**. In that case, remove the element with an older framework version.
 
@@ -84,12 +82,12 @@ You can set up a **Private NuGet Server** using IIS and publish the NuGet packag
 	 ![NuGet Server](Nuget-server-images/webconfig-3.png)
 
 
-9.	To overwrite the package without delete, enable the **allowOverrideExistingPackageOnPush** as true.
+9.	To overwrite the package without deleting it, enable the **allowOverrideExistingPackageOnPush** as true.
 
 	 ![NuGet Server](Nuget-server-images/webconfig-4.png)
 
 
-10.	Run the application in Visual Studio. The URLs for the packages feed is provided on the home page, as shown below.
+10.	Run the application in Visual Studio. The URLs for the package feed are provided on the home page as follows.
 
 	 ![NuGet Server](Nuget-server-images/NugetServer-Output-1.png)
 
@@ -109,35 +107,35 @@ You can set up a **Private NuGet Server** using IIS and publish the NuGet packag
 	 ![NuGet Server](Nuget-server-images/Publish-location.png)
 
 
-14.	After testing your local deployment, host the application to **Internet Information Services (IIS)**.
+14.	Host the application to **Internet Information Services (IIS)** after testing your local deployment.
 
 
 ### Hosting the application in Internet Information Services (IIS)
 
-Follow the below steps to configure the application in IIS.
+Follow these steps to configure the application in IIS.
 
-1.	Go to **Control Panel**, then **Programs and Features**, then **Turn Windows Features on or off**. Select **Internet Information Services** completely, then click **Ok**.
+1.	Go to **Control Panel**, then **Programs and Features**, and then **Turn Windows Features on or off**. Select **Internet Information Services** completely and click **Ok**.
 
 	 ![NuGet Server](Nuget-server-images/IIS-1.png)
 
 
-2.	Open **Internet Information Service (IIS) Manager**. Select **Add Website** from the **Sites** List by right-clicking on it.
+2.	Open **Internet Information Service (IIS) Manager**. Select **Add Website** from the **Sites** list by right-clicking on it.
 
 	 ![NuGet Server](Nuget-server-images/IIS-2.png)
 
 
 3.	Enter the following details and create a Website.
 
-	a.  Site Name, 
-	b.  Physical Path (Above ASP.NET web application published folder), 
-	c.  Binding Type (HTTPS\HTTPS), 
-	d.  IP address, 
-	e.  Port Number, and Host Name (Use your internal or private host name or domain name), then click Ok.
+	a.  Site Name. 
+	b.  Physical Path (Above ASP.NET web application published folder). 
+	c.  Binding Type (HTTPS\HTTPS). 
+	d.  IP address. 
+	e.  Port Number and Host Name (Use your internal or private host name or domain name), then click Ok.
 
 
 	**HTTPS Binding:**
 
-	N> For HTTPS binding type you must provide your organization's **SSL certificate**.
+	N> You must provide your organization's **SSL certificate** for HTTPS binding type.
 
 	   ![NuGet Server](Nuget-server-images/IIS-3.png)
 	 
@@ -157,7 +155,7 @@ Follow the below steps to configure the application in IIS.
 
 ### Publish the NuGet package to the feed
 
-You can use **NuGet.exe** to push NuGet packages in the private feed. The URL for pushing packages was **Error! Hyperlink reference not valid**. using **NuGet push** command.
+Use **NuGet.exe** to push NuGet packages in the private feed. The URL for pushing packages is <http://<domain>/nuget> using the **NuGet push** command.
 	 
  ![NuGet Server](Nuget-server-images/NugetServer-Output-2.png)
 	 
@@ -172,9 +170,9 @@ You can use **NuGet.exe** to push NuGet packages in the private feed. The URL fo
 N> The APIkey is stored in the web.config file.
 
  
-### Remove NuGet package from the feed
+### Remove the NuGet package from the feed
 
-You can use **NuGet.exe** to delete the NuGet packages from the feed, the **NuGet delete** command removes the package from the private NuGet feed.
+Use **NuGet.exe** to delete the NuGet packages from the feed. The **NuGet delete** command removes the package from the private NuGet feed.
 
 
 **Example:** NuGet.exe delete Syncfusion.Tools.WPF 20.1.0.55 -Source <http://localhost:81/NuGet/> -apikey B2C4E73388C94E38ACDC4D28E0787DE0
@@ -191,15 +189,15 @@ To add the private NuGet feed link using Visual Studio.
 
 	 ![NuGet Server](Nuget-server-images/Manage-nuget-packages.png)
 
-2.	Click the + button after selecting the **Package Manager** setting. Select **Okay** after providing the **Name and Source (URL)** of your NuGet Feed.
+2.	Click + after selecting the **Package Manager** setting and select **Okay** after providing your NuGet Feed's Name and Source (URL).
 
 	 ![NuGet Server](Nuget-server-images/package-manager-settings.png)
 
 	N>
 	<br>
-	* Make the **Private NuGet feed listed as the first package source** before NuGet.org as shown in the following image **(If NuGet.org is listed first, the NuGet packages you add to your private NuGet feed are referred from NuGet.org instead of private NuGet feed)**.
+	* Make the **Private NuGet feed listed as the first package source** before NuGet.org as shown in the following image **(If NuGet.org is listed first, the NuGet packages you add to your private NuGet feed are referred from NuGet.org instead of the private NuGet feed)**.
 	* So, make sure you have provided the Private NuGet Feed as the first in the package source list to use the NuGet packages from the private NuGet feed configured.
-	* If the NuGet package pushed to private feed has any other NuGet package as dependency and if it’s not present in the any of the private feeds, then it will be get automatically restored from NuGet.org.
+	* If the NuGet package pushed to a private feed has any other NuGet package as dependency, and if it's not present in any of the private feeds, it will be automatically restored from NuGet.org.
 
 	   ![NuGet Server](Nuget-server-images/Nuget-console.png)
 	   
@@ -210,11 +208,11 @@ To add the private NuGet feed link using Visual Studio.
 	 ![NuGet Server](Nuget-server-images/Nuget-browse.png)
 
 
-### Add private NuGet feed to project
+### Add private NuGet feed to the project
 
-The private NuGet feed link requires only for specific project, you can add this private feed link in your application location.
+The private NuGet feed link requires only for a specific project. Add this private feed link in your application location.
 
-For that, create **NuGet.config** file in the root location of application with the below content.
+For that, create a **NuGet.config** file in the root location of the application with the following content.
 
 ```html
 <?xml version="1.0" encoding="utf-8"?>
