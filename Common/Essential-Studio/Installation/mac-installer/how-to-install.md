@@ -15,7 +15,6 @@ Syncfusion provides the Mac installer for the following Essential Studio product
 
 * ASP.NET Core
 * Blazor
-* Electron
 * Flutter
 * JavaScript
 * WebKit HTML Converter
