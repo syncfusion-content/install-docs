@@ -78,7 +78,7 @@ The steps below show how to install the Syncfusion Platform Framework Add-On ins
 
     **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\ {Platform}\ {version}\precompiledassemblies
 
-    **Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\WPF\21.0.1\precompiledassemblies
+    **Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\WPF\21.1.1\precompiledassemblies
 
 ## Toolbox Configuration
 

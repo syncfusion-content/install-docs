@@ -57,7 +57,7 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-21.0.x</td><td>
+21.1.x</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -67,29 +67,29 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-21.0.x</td><td>
+21.1.x</td><td>
 NA</td><td>
-21.0.x</td></tr>
+21.1.x</td></tr>
 <tr>
 <td>
 <b>Windows Forms</b></td><td>
-21.0400.x</td><td>
-21.0450.x</td><td>
-21.0451.x</td><td>
-21.0460.x</td><td>
-21.0.x</td><td>
-21.0.x</td><td>
+21.1400.x</td><td>
+21.1450.x</td><td>
+21.1451.x</td><td>
+21.1460.x</td><td>
+21.1.x</td><td>
+21.1.x</td><td>
 NA</td><td>
 NA</td></tr>
 <tr>
 <td>
 <b>WPF</b></td><td>
-21.0400.x</td><td>
-21.0450.x</td><td>
-21.0451.x</td><td>
-21.0460.x</td><td>
-21.0.x</td><td>
-21.0.x</td><td>
+21.1400.x</td><td>
+21.1450.x</td><td>
+21.1451.x</td><td>
+21.1460.x</td><td>
+21.1.x</td><td>
+21.1.x</td><td>
 NA</td><td>
 NA</td></tr>
 <tr>
@@ -98,7 +98,7 @@ NA</td></tr>
 NA</td><td>
 NA</td><td>
 NA</td><td>
-21.0.x</td><td>
+21.1.x</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -108,7 +108,7 @@ NA</td></tr>
 <b>Xamarin</b></td><td>
 NA</td><td>
 NA</td><td>
-21.0.x</td><td>
+21.1.x</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -117,8 +117,8 @@ NA</td></tr>
 <tr>
 <td>
 <b>ASP.NET MVC (Essential JS 2)</b></td><td>
-MVC 4 - 21.0400.x</td><td>
-MVC 5 - 21.0450.x</td><td>
+MVC 4 - 21.1400.x</td><td>
+MVC 5 - 21.1450.x</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -137,9 +137,9 @@ NA</td></tr>
 <b>netstandard 2.0</b></td></tr>
 <tr>
 <td>
-21.0.x</td><td>
-21.0.x</td><td>
-21.0.x</td></tr>
+21.1.x</td><td>
+21.1.x</td><td>
+21.1.x</td></tr>
 </table>
 
 The following Essential Studio platforms do not have assembly support.
