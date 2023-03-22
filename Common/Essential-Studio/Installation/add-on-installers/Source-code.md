@@ -127,7 +127,7 @@ This window contains several sections. 
 
 **1. Framework Version **
 
-   The Framework Version group box has six options: .NET 2.0, .NET 3.5, .NET 4.0, .NET 4.5, .NET 4.5.1, .NET 4.6, .NET CORE 3.1 and NET 5.0. 
+   The Framework Version group box has six options: .NET 4.0, .NET 4.5, .NET 4.5.1, .NET 4.6, .NET CORE 3.1 and NET 5.0. 
    
    * When .NET 5.0 is installed in your system, the NET 5.0 option is selected by default.
    
@@ -139,11 +139,7 @@ This window contains several sections. 
    
    * When Visual Studio 2013 is not installed in your system, the .NET 4.5 option is selected by default. 
    
-   * When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default. 
-   
-   * When Visual Studio 2010 is not installed in your system, .NET 3.5 option is selected by default. 
-   
-   * When Visual Studio 2008 is not installed in your system, .NET 2.0 option is selected by default. 
+   * When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default.
    
    You can change the default option by clicking the other button. The version of the .NET Framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies. 
 

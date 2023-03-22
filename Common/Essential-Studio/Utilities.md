@@ -158,10 +158,10 @@ Use the following steps to run the Assembly Manager.
    
    ![Add On and Utilities](Utilities_images/Assembly-Manager_img1.png)
 
-3. The Syncfusion {platform} Assembly Manager x.x.x.x window opens.
+3. The Syncfusion {platform} Assembly Manager x.x.x window opens.
 
 <div id="license">
-You can also open the Assembly Manager from {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Utilities\Assembly Manager\AssemblyManagerWindows.exe
+You can also open the Assembly Manager from {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x\Utilities\Assembly Manager\AssemblyManagerWindows.exe
 </div>
 
 
@@ -176,7 +176,7 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
 
    **Action**
 
-   The Assembly Manager can install or uninstall assemblies. To perform this action, select the **Install version x.x.x.x** or **Remove version x.x.x.x** radio button. To remove all, select the **Remove all versions** radio button.
+   The Assembly Manager can install or uninstall assemblies. To perform this action, select the **Install version x.x.x** or **Remove version x.x.x** radio button. To remove all, select the **Remove all versions** radio button.
    
     N> Remove All Versions must be used with caution in scenarios when one has applications depending on certain versions of the Syncfusion assemblies installed in the GAC. They may cease to function.
 
@@ -190,11 +190,9 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    * 4.5.1 - Selecting **4.5.1** ensures installation of 4.5.1 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2013 SDK is installed, the 4.5.1 assemblies have to be deployed.
    * 4.5 - Selecting **4.5** ensures installation of 4.5 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2012 SDK is installed, the 4.5 assemblies have to be deployed.
    * 4.0 - Selecting **4.0** ensures installation of 4.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2010 SDK is installed, the 4.0 assemblies have to be deployed.
-   * 3.5 - Selecting **3.5** ensures installation of 3.5 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2008 SDK is installed, the 3.5, 2.0 assemblies can be deployed.
-   * 2.0 - Selecting **2.0** ensures installation of 2.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2005 SDK is installed, the 2.0 assemblies have to be deployed.
    * All – Selecting **All** ensures installation of all Frameworks installed in the machine, and assemblies into the GAC and assemblies folder.
 
-   N> * From 2018 Volume 4, Syncfusion has removed the .NET Framework 2.0, 3.5, 4.5.1 and MVC3 assemblies from installer. Refer to [this](https://help.syncfusion.com/common/essential-studio/installation/essential-studio-platform-framework-add-ons) topic to enable 2.0,3.5 and 4.5.1 checkboxes.  
+   N> * From 2018 Volume 4, Syncfusion has removed the .NET Framework 4.5.1 and MVC3 assemblies from installer. Refer to [this](https://help.syncfusion.com/common/essential-studio/installation/essential-studio-platform-framework-add-ons) topic to enable 4.5.1 checkboxes.  
    * By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed.
 
 7. Click Perform Action. It starts processing.
@@ -309,8 +307,6 @@ To launch Toolbox configuration utility, follow the steps given below:
 
    The following options are available in Toolbox Configuration:
 
-   * Install VS2005 – Configures Framework 2.0 Syncfusion controls in VS 2005 toolbox.
-   * Install VS2008 – Configures Framework 3.5 Syncfusion controls in VS 2008 toolbox.
    * Install VS2010 – Configures Framework 4.0 Syncfusion controls in VS 2010 toolbox.
    * Install VS2012 – Configures Framework 4.5 Syncfusion controls in VS 2012 toolbox.
    * Install VS2013 – Configures Framework 4.5.1 Syncfusion controls in VS 2013 toolbox.
@@ -374,10 +370,10 @@ When Essential Studio is installed in a machine comprising both 2.0 and 3.5 Fram
 1. Open the Multi-Target Manager from below location
 
    <div id="license">
-   <b>Location:</b>{Installed location}\Syncfusion\Essential Studio\{platform}\x.x.x.x\Utilities\MultiTargetManager\MultiTargetManager.exe
+   <b>Location:</b>{Installed location}\Syncfusion\Essential Studio\{platform}\x.x.x\Utilities\MultiTargetManager\MultiTargetManager.exe
    </div>
 
-2. The Essential Studio Multi-Target Manager x.x.x.x dialog box opens.
+2. The Essential Studio Multi-Target Manager x.x.x dialog box opens.
 
    ![Multi-Target Manager](Utilities_images/Multi-Target-Manager_img4.png)
 
@@ -409,7 +405,7 @@ The following steps illustrate how to migrate a project.
 1. Open the Project Migration Tool from the following location.
 
    <div id="license">
-   <b>Location:</b> {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x.x\Utilities\Project Migration\ProjectMigrationWindows.exe.
+   <b>Location:</b> {Installed location}\Syncfusion\Essential Studio\{Platform}\x.x.x\Utilities\Project Migration\ProjectMigrationWindows.exe.
    </div>
 
    ![Project Migration Tool](Utilities_images/Project-Migration_img1.png)
@@ -438,7 +434,7 @@ The following steps illustrate how to run the Project Migration tool through com
 
    <div id="license">
    <b>Location:</b> {Installed Drive}\{ProgramFiles Folder}\Syncfusion\Essential Studio\{version}\Utilities\Project Migration\
-   <b>Example:</b> C:\Program Files (x86)\Syncfusion\Essential Studio\{Platform}\16.1.0.24\Utilities\Project Migration\
+   <b>Example:</b> C:\Program Files (x86)\Syncfusion\Essential Studio\{Platform}\21.1.1\Utilities\Project Migration\
    </div>
 
 
@@ -446,7 +442,7 @@ The following steps illustrate how to run the Project Migration tool through com
 
    <div id="license">
    <b>Arguments:</b> /source:"sourcepath" /studio:"Essential Studio version" /framework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /targetframework:"[v3.5] / [v2.0] / [v4.0] / [v4.5] / [v4.5.1] / [v4.6]" /backup:"Backupfolderpath" /hintpath:"[False] / [True]" /sourcefolder:"sourcefolderpath" /isfolderbackedup:"[False] / [True]"
-   <b>Example:</b> /source:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1\SyncfusionWindowsFormsApplication1" /studio:"16.1.0.24" /framework:"v4.6" /targetframework:"v4.7" /backup:"C:\Syncfusion\backup\SyncfusionWindowsFormsApplication1_2018_02_27_022449\SyncfusionWindowsFormsApplication1" /hintpath:"False" /sourcefolder:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1" /isfolderbackedup:"False"
+   <b>Example:</b> /source:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1\SyncfusionWindowsFormsApplication1" /studio:"21.1.1" /framework:"v4.6" /targetframework:"v4.7" /backup:"C:\Syncfusion\backup\SyncfusionWindowsFormsApplication1_2018_02_27_022449\SyncfusionWindowsFormsApplication1" /hintpath:"False" /sourcefolder:"C:\Users\syncfusion\Documents\Visual Studio 2017\Projects\SyncfusionWindowsFormsApplication1" /isfolderbackedup:"False"
    </div>
 
 The following screenshot illustrates this.

@@ -35,7 +35,7 @@ documentation: ug
 
 ## Overview
 
-Starting with version 16.4.0.* (2018 Volume 4), Syncfusion has removed the .NET Framework 2.0, 3.5, 4.5.1 and MVC3 assemblies and provide the separate Framework Add-On installer for the following platforms. . 
+Starting with version 16.4.0.* (2018 Volume 4), Syncfusion has removed the .NET Framework 4.5.1 and MVC3 assemblies and provide the separate Framework Add-On installer for the following platforms. . 
 
 * Windows Forms
 * WPF
@@ -74,13 +74,13 @@ The steps below show how to install the Syncfusion Platform Framework Add-On ins
   
     ![Framework Add On](Framework-Add-On-images/FrameworkAddOn6.png)
 	
-    The Framework 2.0, 3.5, and 4.5.1 assemblies can now be found in the Syncfusion Essential Studio Product installation directory.
+    The Framework 4.5.1 assemblies can now be found in the Syncfusion Essential Studio Product installation directory.
 
     **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\ {Platform}\ {version}\precompiledassemblies
 
-    **Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\WPF\19.1.0.54\precompiledassemblies
+    **Example:** C:\Program Files (x86)\Syncfusion\Essential Studio\WPF\21.1.1\precompiledassemblies
 
 ## Toolbox Configuration
 
-After installing the Syncfusion Platform Framework Add-On, you can use the [Syncfusion Toolbox Installer](https://help.syncfusion.com/common/essential-studio/utilities#for-wpf-windows-forms-and-aspnet-web-forms-platforms) to configure the Framework 2.0, 3.5, and 4.5.1 controls in the Visual Studio toolbox.
+After installing the Syncfusion Platform Framework Add-On, you can use the [Syncfusion Toolbox Installer](https://help.syncfusion.com/common/essential-studio/utilities#for-wpf-windows-forms-and-aspnet-web-forms-platforms) to configure the Framework 4.5.1 controls in the Visual Studio toolbox.
 
