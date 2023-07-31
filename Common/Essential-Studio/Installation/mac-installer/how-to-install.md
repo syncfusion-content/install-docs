@@ -84,3 +84,8 @@ The steps below show how to install Essential Studio Mac installer. 
    
    ![Installed Location](images/Mac_Installer10.png)
 
+## License key registration in samples
+
+The license key is required to register the samples that are included in the Mac installer. To learn about the steps for license registration, please refer to the following page.
+
+[How to Register Syncfusion License Key in the Application?](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application)
