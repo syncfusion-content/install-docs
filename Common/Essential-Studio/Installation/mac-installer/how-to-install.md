@@ -84,3 +84,36 @@ The steps below show how to install Essential Studio Mac installer. 
    
    ![Installed Location](images/Mac_Installer10.png)
 
+## License key registration in samples
+
+After the installation, the license key is required to register the demo source that is included in the Mac installer. To learn about the steps for license registration for each Mac installer, please refer to the following table.
+
+<table>
+<tr>
+<th>Mac Installer</th>
+<th>Registration steps</th>
+</tr>
+<tr>
+<td>ASPNET CORE (Essential JS 2)</td>
+<td>Register the license key in Configure method of {{ '[Startup.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#aspnet-core)' | markdownify }}</td>
+</tr>
+<tr>
+<td>Blazor</td>
+<td>For server side application register the license key in Configure method of {{ '[Startup.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#server-side-application)' | markdownify }}<br /><br />Register the license key in the {{ '[Program.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#server-side-application-using-net-60)' | markdownify }} file if you created the Blazor server side application with Visual Studio 2022 and .NET 6.0.<br /><br />For client side application register the license key in main method of {{ '[Program.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#client-side-application)' | markdownify }}</td>
+</tr>
+<tr>
+<td>Flutter</td>
+<td>If you are using Syncfusion controls prior to version 18.3.0.x, please follow the following steps to register your license key.<br /><br />Register the license key in the {{ '[main method](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#flutter)' | markdownify }} of your example and import the ‘syncfusion_flutter_core/core.dart’ library.</td>
+</tr>
+<tr>
+<td>JavaScript (Essential JS 2)</td>
+<td>Only from 2022 Vol 1 v20.1.0.47, {{ '[license key registration](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#javascript-essential-js-2)' | markdownify }} required for Essential JavaScript 2 products.</td>
+</tr>
+<tr>
+<td>.NET MAUI</td>
+<td>Register the license key in {{ '[App.xaml.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#net-maui)' | markdownify }} constructor before InitializeComponent().</td>
+</tr>
+<tr>
+<td>Xamarin</td>
+<td>For Xamarin.Forms, register the license key in {{ '[App.xaml.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#xamarinforms)' | markdownify }} constructor before InitializeComponent().<br /><br />For Xamarin.Android, register the license key in {{ '[OnCreate](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#xamarinandroid)' | markdownify }} override method of your main activity class before initializing any Syncfusion control.<br /><br />For Xamarin.iOS, register the license key in FinishedLaunching override method of {{ '[AppDelegate.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#xamarinios)' | markdownify }}</td>
+</tr></table>
