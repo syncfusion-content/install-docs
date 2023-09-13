@@ -86,11 +86,11 @@ The steps below show how to install Essential Studio Mac installer. 
 
 ## License key registration in samples
 
-After installation, the license key is required to register the samples included in the Mac installer. To learn about the steps for license registration for each platform, please refer to the following table.
+After the installation, the license key is required to register the demo source that is included in the Mac installer. To learn about the steps for license registration for each Mac installer, please refer to the following table.
 
 <table>
 <tr>
-<th>Mac Platform</th>
+<th>Mac Installer</th>
 <th>Registration steps</th>
 </tr>
 <tr>
