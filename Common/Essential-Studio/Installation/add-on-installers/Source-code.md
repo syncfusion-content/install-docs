@@ -41,6 +41,7 @@ Syncfusion provide sources for the following platforms in the source add-on setu
 
 * ASP.NET MVC
 * ASP.NET Core
+* JavaScript
 * Blazor
 
 **Mobile**
@@ -102,6 +103,70 @@ The steps below show how you can install the Essential Studio Source Code Add-on
   
    
 ## Build Manager
+
+### Package Generator for EJ2 Web Platforms
+
+Package Generator for EJ2 Web Platforms enables you to modify the source code in Syncfusion Essential JS2 Controls and generate the custom NPM packages.
+
+The Package Generator can be run from the following location through command line.
+
+1.Open the command prompt in the administrator mode and navigate to the below location.
+
+{% tabs %}
+{% highlight bash %}
+cd ../../
+
+cd {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Web\JavaScript\pack-generator
+{% endhighlight %}
+{% endtabs %} 
+
+**Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Web\JavaScript\pack-generator
+
+![Package Generator](Source-code-images/pack-generator.png)
+
+2.Make sure that you have installed **Node.js version 16.20.0** on your machine. If not, install Node.js from [here](https://nodejs.org/en/download/).
+
+3.Run the below command in the command prompt to install the required packages.
+
+{% tabs %}
+{% highlight bash %}
+npm install
+{% endhighlight %}
+{% endtabs %}
+
+4.To generate a specific component package. Pass the component name and version as arguments to the package generation gulp command.  
+
+{% tabs %}
+{% highlight bash %}
+gulp generate-pack --{componentName}@{version} 
+{% endhighlight %}
+{% endtabs %} 
+
+5.`ComponentName` should be given the same name as the corresponding folder in the JavaScript EJ2 controls directory below."
+
+**Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Web\JavaScript\
+      
+![Package Generator](Source-code-images/JavaScript-controls.png)
+
+6.If you want to generate a package in a specific version, then pass that version as argument otherwise it will take the default version from the controls source package.json.
+
+7.For example, to generate the package for the Grid component. Run the below command in the command prompt.
+
+{% tabs %}
+{% highlight bash %}
+
+gulp generate-pack --gridS@23.2.4
+
+{% endhighlight %}
+{% endtabs %}
+
+8.The generated package will be placed in the below location. You should use this location in your package.json feed to use these packages in your projects.
+
+**Output Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Web\JavaScript\pack-generator\packages
+
+![Package Generator](Source-code-images/output-Package.png)
+
+N> You are able to modify and generate all packages except for the ej2 and base packages.
 
 ### For Desktop and EJ1 Web Platforms
 
