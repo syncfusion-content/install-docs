@@ -160,13 +160,13 @@ gulp generate-pack --gridS@23.2.4
 {% endhighlight %}
 {% endtabs %}
 
-8.The generated package will be placed in the below location. You should use this location in your package.json feed to use these packages in your projects.
+8.The generated package will be placed in the below location. You should use this location in your package.json feed to utilize the generated package in your projects.
 
 **Output Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Web\JavaScript\pack-generator\packages
 
 ![Package Generator](Source-code-images/output-Package.png)
 
-N> You are able to modify and generate all packages except for the ej2 and base packages.
+N> Users can modify and generate all packages except for the ej2 and base packages. Also, ensure that you have generated the package in the same version used in your project. Otherwise, it will create duplicate packages in the `node_modules` folder.
 
 ### For Desktop and EJ1 Web Platforms
 
