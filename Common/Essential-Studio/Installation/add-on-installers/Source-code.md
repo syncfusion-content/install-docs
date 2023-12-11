@@ -104,7 +104,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
    
 ## Build Manager
 
-### Package Generator for EJ2 Web Platforms
+### Package Generator for EJ2 JavaScript Web Platforms
 
 Package Generator for EJ2 Web Platforms enables you to modify the source code in Syncfusion Essential JS2 Controls and generate the custom NPM packages.
 
@@ -124,7 +124,7 @@ cd {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{versio
 
 ![Package Generator](Source-code-images/pack-generator.png)
 
-2.Make sure that you have installed **Node.js version 16.20.0** on your machine. If not, install Node.js from [here](https://nodejs.org/en/download/).
+2.Make sure that you have installed **Node.js version 16.20.0** or above on your machine. If not, install Node.js from [here](https://nodejs.org/en/download/).
 
 3.Run the below command in the command prompt to install the required packages.
 
@@ -146,25 +146,25 @@ gulp generate-pack --{componentName}@{version} 
 
 **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Web\JavaScript\
       
-![Package Generator](Source-code-images/JavaScript-controls.png)
+![Package Generator](Source-code-images/javascript-controls.png)
 
-6.If you want to generate a package in a specific version, then pass that version as argument otherwise it will take the default version from the controls source package.json.
+6.If you want to generate a package in a specific version, then pass that version as argument otherwise it will take the default version from the controls source `package.json` file.
 
 7.For example, to generate the package for the Grid component. Run the below command in the command prompt.
 
 {% tabs %}
 {% highlight bash %}
 
-gulp generate-pack --gridS@23.2.4
+gulp generate-pack --grids@23.2.4
 
 {% endhighlight %}
 {% endtabs %}
 
-8.The generated package will be placed in the below location. You should use this location in your package.json feed to utilize the generated package in your projects.
+8.The package will be generated in the below location. You should use this location in your package.json feed to utilize the generated package in your projects.
 
 **Output Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Web\JavaScript\pack-generator\packages
 
-![Package Generator](Source-code-images/output-Package.png)
+![Package Generator](Source-code-images/output-package.png)
 
 N> Users can modify and generate all packages except for the ej2 and base packages. Also, ensure that you have generated the package in the same version used in your project. Otherwise, it will create duplicate packages in the `node_modules` folder.
 
