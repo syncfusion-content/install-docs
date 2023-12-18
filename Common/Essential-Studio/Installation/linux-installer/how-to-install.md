@@ -43,7 +43,9 @@ The steps below show how to install Essential Studio Linux installer.
 4. You can launch the demo source and use the NuGet packages included in the Linux installer.
 
 
-5. The ReadMe file contains the details for running the demos and outlines the system requirements.
+5. Run the following command in linux machine to deploy the ASP.NET Core samples
+ 
+  **dotnet restore projectname -s \nuget** in order to restore.
 
 ## License key registration in samples
 
