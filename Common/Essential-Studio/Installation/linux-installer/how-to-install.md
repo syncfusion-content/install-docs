@@ -9,21 +9,6 @@ documentation: ug
 
 # Installing Syncfusion Essential Studio Linux installer
 
-## Overview
-
-Syncfusion provides the Linux installer for the following Essential Studio products.
-
-* Blazor
-* Flutter
-* ASP.NET Core
-* JavaScript
-* File Formats
-* PDF
-* Word
-* Excel
-* PowerPoint
-
-
 ## Step-by-Step Installation
 
 The steps below show how to install Essential Studio Linux installer.
@@ -77,3 +62,15 @@ After the installation, the license key is required to register the demo source 
 <td>Register the license key in {{ '[App.xaml.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#net-maui)' | markdownify }} constructor before InitializeComponent().</td>
 </tr>
 </table>
+
+N> Syncfusion provides the Linux installer for the following Essential Studio products.
+
+* Blazor
+* Flutter
+* ASP.NET Core
+* JavaScript
+* File Formats
+* PDF Framework
+* Word Framework
+* Excel Framework
+* PowerPoint Framework
