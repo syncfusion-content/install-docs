@@ -20,6 +20,11 @@ Syncfusion provides the Mac installer for the following Essential Studio product
 * WebKit HTML Converter
 * Xamarin
 * .NET MAUI
+* FileFormats
+* PDF Framework
+* Excel Framework
+* Word Framework
+* PowerPoint Framework 
 
 
 ## Steps to resolve the warning message in Catalina OS or later
