@@ -57,6 +57,8 @@ I> Before installing the patch, ensure that corresponding Essential Studio versi
 
 6.  Click Finish. The new assemblies are placed in the Pre-Compiled Assemblies folder. These new assemblies can be referenced in your project.
    
+N> When using the Patch setup NuGet packages, please clear the NuGet cache. To learn about clearing the NuGet cache, refer to [this](https://support.syncfusion.com/kb/article/6265/how-to-clear-nuget-cache) KB article.
+
 	
 ## Patch Assembly Version Format
    
