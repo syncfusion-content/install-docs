@@ -47,6 +47,8 @@ The assembly version format differs for each of the Essential Studio platform. R
 <b>netcoreapp3.1</b></td><td>
 <b>net 5.0</b></td><td>
 <b>net 6.0</b></td><td>
+<b>net 7.0</b></td><td>
+<b>net 8.0</b></td><td>
 <b>uap10.0</b></td></tr>
 <tr>
 <td>
@@ -58,6 +60,8 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 21.1.x</td><td>
+21.1.x</td><td>
+23.1.x</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -68,6 +72,8 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 21.1.x</td><td>
+NA</td><td>
+NA</td><td>
 NA</td><td>
 21.1.x</td></tr>
 <tr>
@@ -80,6 +86,8 @@ NA</td><td>
 21.1.x</td><td>
 21.1.x</td><td>
 NA</td><td>
+NA</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -91,6 +99,8 @@ NA</td></tr>
 21.1.x</td><td>
 21.1.x</td><td>
 NA</td><td>
+NA</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -99,6 +109,8 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 21.1.x</td><td>
+NA</td><td>
+NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -113,6 +125,8 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
+NA</td><td>
+NA</td><td>
 NA</td></tr>
 <tr>
 <td>
@@ -123,6 +137,8 @@ NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
+NA</td><td>
+23.1.x</td><td>
 NA</td><td>
 NA</td></tr>
 </table>
@@ -161,7 +177,7 @@ Following are the supported Framework versions of the Essential Studio assemblie
 </tr>
 <tr>
 <td>.NET MAUI</td>
-<td>.NET 6.0</td>
+<td>.NET 6.0, .NET 7.0 and .NET 8.0</td>
 </tr>
 <tr>
 <td>UWP</td>
@@ -173,11 +189,11 @@ Following are the supported Framework versions of the Essential Studio assemblie
 </tr>
 <tr>
 <td>WPF</td>
-<td>.NET Framework 4.0 to 4.6, .NET Core 3.1 and .NET 5.0</td>
+<td>.NET Framework 4.0 to 4.6, .NET Core 3.1, .NET 5.0, and .NET8.0</td>
 </tr>
 <tr>
 <td>Windows Forms</td>
-<td>.NET Framework 4.0 to 4.6, .NET Core 3.1 and .NET 5.0</td>
+<td>.NET Framework 4.0 to 4.6, .NET Core 3.1, .NET 5.0, and .NET8.0</td>
 </tr>
 <tr>
 <td>ASP.NET MVC (Essential JS 2)</td>
