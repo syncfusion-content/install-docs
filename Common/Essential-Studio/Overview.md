@@ -16,7 +16,7 @@ Welcome to the Syncfusion Essential Studio product’s user guide documentation.
 Essential Studio User Guide
 {:.caption}
 
-Syncfusion Essential Studio is a complete suite with 1,600+ UI components and frameworks that can be used for all your desktop, web, and mobile application development needs. Essential Studio consists of .NET libraries and UI controls that provide complete support for building modern Windows Forms, WPF, UWP, ASP.NET MVC, ASP.NET Core, Blazor, JavaScript, Angular, React, Vue, Flutter, WinUI, .NET MAUI and Xamarin applications. The packages can be used in any .NET environment including C#, VB.NET, and managed C++.
+Syncfusion Essential Studio is a complete suite with 1,800+ UI components and frameworks that can be used for all your desktop, web, and mobile application development needs. Essential Studio consists of .NET libraries and UI controls that provide complete support for building modern Windows Forms, WPF, UWP, ASP.NET MVC, ASP.NET Core, Blazor, JavaScript, Angular, React, Vue, Flutter, WinUI, .NET MAUI and Xamarin applications. The packages can be used in any .NET environment including C#, VB.NET, and managed C++.
 
 The platforms supported by Syncfusion Essential Studio are listed below.
 
@@ -26,9 +26,9 @@ Web
  -	[ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls)
  -	[ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls)
  -	[JavaScript](https://www.syncfusion.com/javascript-ui-controls)
- -	[Angular](https://www.syncfusion.com/angular-ui-components)
- -	[Vue](https://www.syncfusion.com/vue-ui-components)
- -	[React](https://www.syncfusion.com/react-ui-components)
+ -	[Angular](https://www.syncfusion.com/angular-components)
+ -	[Vue](https://www.syncfusion.com/vue-components)
+ -	[React](https://www.syncfusion.com/react-components)
 
 Mobile
 
@@ -45,8 +45,8 @@ Desktop
 
 FileFormats
 
- -	[Excel](https://www.syncfusion.com/excel-framework/net)
- -	[Word](https://www.syncfusion.com/word-framework/net)
- -	[PDF](https://www.syncfusion.com/pdf-framework/net)
- -	[PowerPoint](https://www.syncfusion.com/powerpoint-framework/net)
+ -	[Excel](https://www.syncfusion.com/document-processing/excel-framework/net)
+ -	[Word](https://www.syncfusion.com/document-processing/word-framework/net)
+ -	[PDF](https://www.syncfusion.com/document-processing/pdf-framework/net)
+ -	[PowerPoint](https://www.syncfusion.com/document-processing/powerpoint-framework/net)
 
