@@ -192,7 +192,7 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    * 4.0 - Selecting **4.0** ensures installation of 4.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2010 SDK is installed, the 4.0 assemblies have to be deployed.
    * All – Selecting **All** ensures installation of all Frameworks installed in the machine, and assemblies into the GAC and assemblies folder.
 
-   N> * From 2018 Volume 4, Syncfusion has removed the .NET Framework 4.5.1 and MVC3 assemblies from installer. Refer to [this](https://help.syncfusion.com/common/essential-studio/installation/essential-studio-platform-framework-add-ons) topic to enable 4.5.1 checkboxes.  
+   N> * From 2018 Volume 4, Syncfusion has removed the .NET Framework 4.5.1 and MVC3 assemblies from installer. Refer to [this](https://help.syncfusion.com/common/essential-studio/installation/add-on-installers/framework-add-on) topic to enable 4.5.1 checkboxes.  
    * By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed.
 
 7. Click Perform Action. It starts processing.
@@ -464,7 +464,7 @@ For Blazor, Web (Essential JS 2) platforms, follow the steps suggested in the fo
 </tr>
 <tr>
 <td>ASP.NET Core (Essential JS 2)</td>
-<td><a href="https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/project-migration" target="_top">ASP.NET Core - JS 2 Migration</a></td>
+<td><a href="https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/visual-studio/project-migration" target="_top">ASP.NET Core - JS 2 Migration</a></td>
 </tr>
 <tr>
 <td>ASP.NET MVC (Essential JS 2)</td>
