@@ -187,15 +187,13 @@ The required setting can be selected in the Syncfusion Build Manager x.x.x.x win
 
 #### Build Manager Settings
 
-This window contains several sections. 
+This window contains several sections.
 
-**1. Framework Version **
+**1. Framework Version**
 
-   The Framework Version group box has six options: .NET 4.0, .NET 4.5, .NET 4.5.1, .NET 4.6, .NET CORE 3.1 and NET 5.0. 
+   The Framework Version group box has five options: .NET 4.0, .NET 4.5, .NET 4.5.1, .NET 4.6 and NET 6.0. 
    
-   * When .NET 5.0 is installed in your system, the NET 5.0 option is selected by default.
-   
-   * When .NET CORE 3.1 is installed in your system, the .NET CORE 3.1 option is selected by default.
+   * When .NET 6.0 is installed in your system, the NET 6.0 option is selected by default.
    
    * When Visual Studio 2017 is not installed in your system, the .NET 4.6 option is selected by default. 
    
@@ -205,7 +203,7 @@ This window contains several sections. 
    
    * When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default.
    
-   You can change the default option by clicking the other button. The version of the .NET Framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies. 
+   You can change the default option by clicking the other button. The version of the .NET Framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies.
 
 **2. Product**
 
