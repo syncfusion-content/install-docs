@@ -113,13 +113,11 @@ If the application is registered with another version's license key, the followi
 
 ## Could not load Syncfusion.Licensing.dll assembly version...?
 
-Please ensure that all Syncfusion NuGet packages including[Syncfusion.Licensing](https://www.nuget.org/packages/Syncfusion.Licensing) were installed properly, and assembly references are upgraded to the required version.Also, verify that the csproj and packages.config/web.config files references have been referred with the updated version.
+Please ensure that all Syncfusion NuGet packages including [Syncfusion.Licensing](https://www.nuget.org/packages/Syncfusion.Licensing) were installed properly, and assembly references are upgraded to the required version. Also, verify that the csproj and packages.config/web.config files references have been referred with the updated version.
 
-Also, verify that the csproj and packages.config/web.config files references have been referred with the updated version
+To avoid run-time errors, set copy local to true. Copy Local determines whether a reference is copied to the project output path.
 
-To avoid run-time errors, we should set copy local to true. Copy Local determines whether a reference is copied to the project output path.
-
-So, you should set "CopyLocal" as True for Syncfusion.Licensing.dll along with all other Syncfusion assemblies and ensure that the Syncfusion.Licensing.dll assembly is also present in the output folder or deployment folder of your application.
+Set “CopyLocal” as True for Syncfusion.Licensing.dll along with all other Syncfusion assemblies and ensure that the Syncfusion.Licensing.dll assembly is also present in the output folder or deployment folder of the application.
 
 Refer to this knowledge base articles to set [copy local](https://www.syncfusion.com/kb/4808/how-to-resolve-server-error-could-not-load-or-assembly-when-publishing-an-application) as true.
 
