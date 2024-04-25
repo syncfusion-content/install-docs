@@ -207,7 +207,7 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
 
    ![Assembly Manager](Utilities_images/Assembly-Manager_img9.png)
    
-   The libraries under the Assemblies folder also get installed in your GAC during the runtime of Assembly Manager utility.
+   The libraries under the Assemblies folder get installed in your GAC during the runtime of Assembly Manager utility.
    
    ![Assemblies Folder location](Utilities_images\Assemblies-Folder-Location.png)Utilities_images\Assemblies-Folder-Location.png
    
