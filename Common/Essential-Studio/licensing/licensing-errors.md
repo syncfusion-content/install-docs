@@ -117,7 +117,11 @@ Please ensure that all Syncfusion NuGet packages including [Syncfusion.Licensing
 
 To avoid run-time errors, set copy local to true. Copy Local determines whether a reference is copied to the project output path.
 
+![Set copy local to true](licensing-images/SetCopyLocalTrue.png)
+
 Set “CopyLocal” as True for Syncfusion.Licensing.dll along with all other Syncfusion assemblies and ensure that the Syncfusion.Licensing.dll assembly is also present in the output folder or deployment folder of the application.
+
+![Output folder](licensing-images/OutputFolder.png)
 
 Refer to this knowledge base articles to set [copy local](https://www.syncfusion.com/kb/4808/how-to-resolve-server-error-could-not-load-or-assembly-when-publishing-an-application) as true.
 
