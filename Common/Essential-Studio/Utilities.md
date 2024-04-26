@@ -213,7 +213,7 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    
    When you add a reference to a Syncfusion assembly in your project, link to the one under the Assemblies directory and set the "Copy Local" setting to be False (which is the case by default). With this setting, when you run the corresponding built .exe, it will load the corresponding Syncfusion library in the GAC. This is the recommended model for linking to our libraries.
    
-   Visual Studio automatically detects the version of the Syncfusion assemblies that are in the Assemblies folder. This means that if you want to manually add a reference in your project for example, you can select the assemby directly from the ".NET" tab in the "Add Reference" dialog.
+   Visual Studio automatically detects the version of the Syncfusion assemblies that are in the Assemblies folder. This means that if you want to manually add a reference in your project for example, you can select the assembly directly from the ".NET" tab in the "Add Reference" dialog.
    
    Only GAC-supported Platforms assemblies will be available in the "Syncfusion\Essential Studio\(Platform Type)\(Version)\Assemblies" folder. If you need another framework, you can refer to it from the "Syncfusion\Essential Studio\(Platform Type)\(Version)\precompiledassemblies" folder for your project.
    
