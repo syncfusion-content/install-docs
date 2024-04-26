@@ -206,7 +206,16 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
 9. Click OK.
 
    ![Assembly Manager](Utilities_images/Assembly-Manager_img9.png)
-
+   
+   The libraries under the Assemblies folder get installed in your GAC during the runtime of Assembly Manager utility.
+   
+   ![Assemblies Folder location](Utilities_images\Assemblies-Folder-Location.png)Utilities_images\Assemblies-Folder-Location.png
+   
+   When you add a reference to a Syncfusion assembly in your project, link to the one under the Assemblies directory and set the "Copy Local" setting to be False (which is the case by default). With this setting, when you run the corresponding built .exe, it will load the corresponding Syncfusion library in the GAC. This is the recommended model for linking to our libraries.
+   
+   Visual Studio automatically detects the version of the Syncfusion assemblies that are in the Assemblies folder. This means that if you want to manually add a reference in your project for example, you can select the assembly directly from the ".NET" tab in the "Add Reference" dialog.
+   
+   Only GAC-supported Platforms assemblies will be available in the "Syncfusion\Essential Studio\(Platform Type)\(Version)\Assemblies" folder. If you need another framework, you can refer to it from the "Syncfusion\Essential Studio\(Platform Type)\(Version)\precompiledassemblies" folder for your project.
    
 ## License Manager
 
@@ -328,7 +337,7 @@ To launch Toolbox configuration utility, follow the steps given below:
 
 ### Configuring toolbox in Visual Studio 2022   
 
-From 2021 Volume 3, Syncfusion started providing toolbox support for .NET Framework and .NET 5.0\6.0 in Visual Studio 2022 Toolbox. After installing the Syncfusion product installer, Syncfusion controls will be automatically configured in the Visual Studio 2022 toolbox for WPF, Windows, and ASP.NET WebForms projects.
+From 2021 Volume 3, Syncfusion started providing toolbox support for .NET Framework and .NET 5.0\6.0 in Visual Studio 2022 Toolbox. After installing the Syncfusion product installer, Syncfusion controls will be automatically configured in the Visual Studio 2022 toolbox for WPF, Windows, and ASP.NET Web Forms projects.
 
 N> * Syncfusion WPF .NET 5.0 controls will be compatible with .NET 6.0, on installing the Syncfusion WPF installer, our .NET 5.0 controls will be configured the toolbox for .NET 6.0 projects too.
 * Syncfusion only supports ASP.NET Web Forms Toolbox in .NET Frameworks.
