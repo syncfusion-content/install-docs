@@ -337,7 +337,7 @@ To launch Toolbox configuration utility, follow the steps given below:
 
 ### Configuring toolbox in Visual Studio 2022   
 
-From 2021 Volume 3, Syncfusion started providing toolbox support for .NET Framework and .NET 5.0\6.0 in Visual Studio 2022 Toolbox. After installing the Syncfusion product installer, Syncfusion controls will be automatically configured in the Visual Studio 2022 toolbox for WPF, Windows, and ASP.NET WebForms projects.
+From 2021 Volume 3, Syncfusion started providing toolbox support for .NET Framework and .NET 5.0\6.0 in Visual Studio 2022 Toolbox. After installing the Syncfusion product installer, Syncfusion controls will be automatically configured in the Visual Studio 2022 toolbox for WPF, Windows, and ASP.NET Web Forms projects.
 
 N> * Syncfusion WPF .NET 5.0 controls will be compatible with .NET 6.0, on installing the Syncfusion WPF installer, our .NET 5.0 controls will be configured the toolbox for .NET 6.0 projects too.
 * Syncfusion only supports ASP.NET Web Forms Toolbox in .NET Frameworks.
