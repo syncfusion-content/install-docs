@@ -209,7 +209,7 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    
    The libraries under the Assemblies folder get installed in your GAC during the runtime of Assembly Manager utility.
    
-   ![Assemblies Folder location](Utilities_images\Assemblies-Folder-Location.png)Utilities_images\Assemblies-Folder-Location.png
+   ![Assemblies Folder location](Utilities_images\Assemblies-Folder-Location.png)
    
    When you add a reference to a Syncfusion assembly in your project, link to the one under the Assemblies directory and set the "Copy Local" setting to be False (which is the case by default). With this setting, when you run the corresponding built .exe, it will load the corresponding Syncfusion library in the GAC. This is the recommended model for linking to our libraries.
    
