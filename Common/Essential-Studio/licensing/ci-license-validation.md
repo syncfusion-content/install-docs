@@ -69,6 +69,8 @@ steps:
 
 * Create a [new Repository Secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets#creating-encrypted-secrets-for-a-repository) or an [Organization Secret](https://docs.github.com/en/actions/security-guides/encrypted-secrets#creating-encrypted-secrets-for-an-organization). Set the name of the secret to `LICENSE_VALIDATION` and use the path of the LicenseKeyValidation.ps1 script file as a value (e.g., D:\LicenseKeyValidator\LicenseKeyValidation.ps1).
 
+* Add a step in GitHub Actions to execute the LicenseKeyValidation.ps1 PowerShell script to validate the license key. 
+
 ```bash
   steps:
   - name: Syncfusion License Validation
@@ -78,6 +80,8 @@ steps:
 ```
 
 ## Jenkins
+
+* Create a [Environment Variable](https://www.jenkins.io/doc/pipeline/tour/environment) named 'LICENSE_VALIDATION'. Use Use the path of the LicenseKeyValidation.ps1 script file as a value (e.g., D:\LicenseKeyValidator\LicenseKeyValidation.ps1).
 
 * Include a stage in Jenkins to execute the LicenseKeyValidation.ps1 script in PowerShell. 
 
