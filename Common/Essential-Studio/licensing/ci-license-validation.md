@@ -25,7 +25,7 @@ The following section shows how to validate syncfusion license key in CI service
 
 * Open the LicenseKeyValidation.ps1 PowerShell script in a text\code editor.
 
-![LicenseKeyValidation script](licensing-images\license-validation.png)
+![LicenseKeyValidation script](licensing-images/license-validation.png)
 
 * Update the parameters in the LicenseKeyValidation.ps1 script file as described below. 
 
@@ -63,7 +63,7 @@ steps:
 
 * Include the PowerShell task in pipeline and execute the script to validate the license key. 
 
-![LicenseKeyValidation script](licensing-images\license-validation-classic.png)
+![LicenseKeyValidation script](licensing-images/license-validation-classic.png)
 
 ## GitHub actions
 
