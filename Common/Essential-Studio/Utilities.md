@@ -211,11 +211,11 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    
    ![Assemblies Folder location](Utilities_images\Assemblies-Folder-Location.png)
    
-   When you add a reference to a Syncfusion assembly in your project, link to the one under the Assemblies directory and set the "Copy Local" setting to be False (which is the case by default). With this setting, when you run the corresponding built .exe, it will load the corresponding Syncfusion library in the GAC. This is the recommended model for linking to our libraries.
+   * When you add a reference to a Syncfusion assembly in your project, link to the one under the Assemblies directory and set the "Copy Local" setting to be False (which is the case by default). With this setting, when you run the corresponding built .exe, it will load the corresponding Syncfusion library in the GAC. This is the recommended model for linking to our libraries.
    
-   Visual Studio automatically detects the version of the Syncfusion assemblies that are in the Assemblies folder. This means that if you want to manually add a reference in your project for example, you can select the assembly directly from the ".NET" tab in the "Add Reference" dialog.
+   * Visual Studio automatically detects the version of the Syncfusion assemblies that are in the Assemblies folder. This means that if you want to manually add a reference in your project for example, you can select the assembly directly from the ".NET" tab in the "Add Reference" dialog.
    
-   Only GAC-supported Platforms assemblies will be available in the "Syncfusion\Essential Studio\(Platform Type)\(Version)\Assemblies" folder. If you need another framework, you can refer to it from the "Syncfusion\Essential Studio\(Platform Type)\(Version)\precompiledassemblies" folder for your project.
+   * GAC-supported Platforms assemblies will be available in the "Syncfusion\Essential Studio\(Platform Type)\(Version)\Assemblies" folder. If you need any other framework, you can refer to it from the "Syncfusion\Essential Studio\(Platform Type)\(Version)\precompiledassemblies" folder for your project.
    
 ## License Manager
 
@@ -421,7 +421,7 @@ The following steps illustrate how to migrate a project.
 
 2. Select the project to be upgraded in the **Select Project Folder** field.
 
-   N> If you have multiple projects in the same folder, you can select/deselect the projects of your choice. You can also select multiple projects location by using the **Select Folder List** option.
+   If you have multiple projects in the same folder, you can select/deselect the projects of your choice. You can also select multiple projects location by using the **Select Folder List** option.
 
 3. Select a folder to store a backup in the **Select backup folder** field. 
 
@@ -431,7 +431,7 @@ The following steps illustrate how to migrate a project.
 
 6. When you refer the Syncfusion assemblies from Hint path instead of GAC location then, copy the latest assemblies to that location manually or select the Remove hint path from projects check box, to remove the hint from the project. If you are migrating UWP project and you are using the UWP assemblies in your projects instead of SDK, don't enable the **Remove hint path from projects** option. 
 
-   N> If you have referred the Syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC for Windows Forms and WPF platforms if the assemblies are installed in GAC
+   If you have referred the Syncfusion assemblies to your project from hint path and you have selected the Remove hint path from projects check box in Project Migration utility, Syncfusion assemblies will be referred from GAC for Windows Forms and WPF platforms if the assemblies are installed in GAC
 
 7. Click Perform Action. The utility upgrades the selected projects to the newer version. 
 
