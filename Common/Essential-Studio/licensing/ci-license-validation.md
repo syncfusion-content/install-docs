@@ -35,7 +35,7 @@ The following section shows how to validate syncfusion license key in CI service
   
   **License Key:** Replace the value for /licensekey: with your actual license key (e.g., "Your License Key"). 
   
-  N> This feature is supported only from the **16.1.0.37** version of the Essential Studio Desktop and Mobile platform.
+  N> This feature is supported only from the **16.2.X.X** version of the Essential Studio Desktop and Mobile platform.
 
 ## Azure Pipelines (YAML)
 
