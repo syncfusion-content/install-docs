@@ -69,7 +69,7 @@ steps:
 
 ## GitHub actions
 
-* To execute the script in PowerShell as part of a GitHub Actions workflow, include a step in the configuration file and update the path of the LicenseKeyValidation.ps1 script file accordingly (e.g., D:\LicenseKeyValidator\LicenseKeyValidation.ps1).
+* To execute the script in PowerShell as part of a GitHub Actions workflow, include a step in the configuration file and update the path of the LicenseKeyValidation.ps1 script file (e.g., D:\LicenseKeyValidator\LicenseKeyValidation.ps1).
 
 The following example shows the syntax for validating Syncfusion license key in GitHub actions.
 
