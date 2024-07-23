@@ -19,7 +19,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 # Syncfusion license key validation in CI services
 
-The following section shows how to validate syncfusion license key in CI services.
+Syncfusion license key validation in CI services ensures that Syncfusion Essential Studio components are properly licensed during CI processes, Validating the license key at the CI level can prevent licensing errors during deployment. The following section shows how to validate the Syncfusion license key in CI services.
 
 * Download and extract the LicenseKeyValidator.zip utility from the following link: [LicenseKeyValidator](https://s3.amazonaws.com/files2.syncfusion.com/Installs/LicenseKeyValidation/LicenseKeyValidator.zip).
 
@@ -29,13 +29,15 @@ The following section shows how to validate syncfusion license key in CI service
 
 * Update the parameters in the LicenseKeyValidation.ps1 script file as described below. 
 
-  **Platform:** Modify the value for /platform: to the desired platform (e.g., "Windows Forms").
+  **Platform:** Modify the value for /platform: to the desired platform. For reference please check the applicable example platforms below. 
   
-  **Version:**  Change the value for /version: to the required version (e.g., "25.2.3").
+     (e.g., "WindowsForms", "WPF", "WinUi", "UWP", "MAUI", "Xamarin", "Blazor", "FileFormats", "Word", "Excel", "PowerPoint", "PDF")
+  
+  **Version:**  Change the value for /version: to the required version (e.g., "26.2.4").
   
   **License Key:** Replace the value for /licensekey: with your actual license key (e.g., "Your License Key"). 
   
-  N> This feature is supported only from the **16.2.X.X** version of the Essential Studio Desktop and Mobile platform.
+  N> This feature is available only for the following Syncfusion Essential Studio platforms starting from version 16.2.0.41: WPF, Windows Forms, WinUI, UWP, MAUI, Xamarin, Blazor, FileFormats, Word, Excel, PowerPoint, and PDF.
 
 ## Azure Pipelines (YAML)
 
