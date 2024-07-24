@@ -35,7 +35,7 @@ Syncfusion provides the Mac installer for the following Essential Studio product
      
    If you receive this alert, follow the below steps for the easiest solution.   
 
-   1.	Right-click the downloaded pkg file.
+   1.	Right-click the downloaded dmg file.
    2.	Select the "Open With" option and choose "DiskImageMounter (Default)". The following pop-up appears.
 
 		![pop-up Image](images/Mac_Catalina_MacOS_Alert2.png)
@@ -73,7 +73,7 @@ The steps below show how to install Essential Studio Mac installer.
    ![Destination](images/Mac_Installer5.png)
    
 
-6. To remove the DMG file. Right-click on the virtual drive on your desktop or in the Finder sidebar and select "Eject." Also delete the folder from the Applications
+6. To remove the DMG file, right-click on the virtual drive on your desktop or in the Finder sidebar and select "Eject." Also delete the folder from the Applications
 
    ![Install Location](images/Mac_Installer6.png)
 
