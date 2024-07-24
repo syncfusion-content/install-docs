@@ -31,13 +31,13 @@ Syncfusion license key validation in CI services ensures that Syncfusion Essenti
 
   **Platform:** Modify the value for /platform: to the desired platform. For reference please check the applicable example platforms below. 
   
-     (e.g., "WindowsForms", "WPF", "WinUi", "UWP", "MAUI", "Xamarin", "Blazor", "FileFormats", "Word", "Excel", "PowerPoint", "PDF")
+     (e.g., "WindowsForms", "WPF", "WinUi", "UWP", "MAUI", "Xamarin", "Blazor", "FileFormats")
   
   **Version:**  Change the value for /version: to the required version (e.g., "26.2.4").
   
   **License Key:** Replace the value for /licensekey: with your actual license key (e.g., "Your License Key"). 
   
-  N> This feature is available only for the following Syncfusion Essential Studio platforms starting from version 16.2.0.41: WPF, Windows Forms, WinUI, UWP, MAUI, Xamarin, Blazor, FileFormats, Word, Excel, PowerPoint, and PDF.
+  N> This feature is available only for the following Syncfusion Essential Studio platforms starting from version 16.2.0.41: WPF, Windows Forms, WinUI, UWP, MAUI, Xamarin, Blazor, FileFormats.
 
 ## Azure Pipelines (YAML)
 
