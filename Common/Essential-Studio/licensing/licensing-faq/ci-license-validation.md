@@ -117,8 +117,7 @@ pipeline {
 
 N> Followings are the applicable list of platforms that can be passed to ValidateLicense method WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI.
 
-* If ValidateLicense() method returns true, registered license key is valid and can proceed with deployment. If ValidateLicense() returns false, there will be invalid license errors in deployment due to either an invalid license key or an incorrect assembly or package version that is referenced in the project. Please ensure that all the referenced Syncfusion 
-assemblies or NuGet packages are all on the same version as the license key’s version before deployment. 
+* If ValidateLicense() method returns true, registered license key is valid and can proceed with deployment. If ValidateLicense() returns false, there will be invalid license errors in deployment due to either an invalid license key or an incorrect assembly or package version that is referenced in the project. Please ensure that all the referenced Syncfusion assemblies or NuGet packages are all on the same version as the license key’s version before deployment. 
 
 ## See also
 
