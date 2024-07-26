@@ -31,7 +31,7 @@ Syncfusion license key validation in CI services ensures that Syncfusion Essenti
 
   **Platform:** Modify the value for /platform: to the desired platform. For reference please check the applicable example platforms below. 
   
-     (e.g., "WindowsForms", "WPF", "WinUi", "UWP", "MAUI", "Xamarin", "Blazor", "FileFormats")
+     (e.g., "WindowsForms", "WPF", "WinUI", "UWP", "MAUI", "Xamarin", "Blazor", "FileFormats")
   
   **Version:**  Change the value for /version: to the required version (e.g., "26.2.4").
   
@@ -56,7 +56,7 @@ steps:
 - task: PowerShell@2
   inputs:
     targetType: filePath
-    filePath: $(LICENSE_VALIDATION) #Or the actual path to the script.
+    filePath: $(LICENSE_VALIDATION) #Or the actual path to the LicenseKeyValidation.ps1 script.
   
   displayName: Syncfusion License Validation 
 ```
@@ -106,6 +106,16 @@ pipeline {
 	}
 }
 ```
+
+## Validate the License Key Using ValidateLicense() Method
+
+* Register the license key properly by calling RegisterLicense("License Key") method with the license key. 
+
+* Once the license key is registered. It can be validated by using ValidateLicense("Platform.ActualPlatform") method. This ensures that the license key is valid for the platform you are using. For reference please check the following example platforms (e.g. WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI).
+
+![LicenseKeyValidationMethod](licensing-images/license-validation-method.png)
+
+* If ValidateLicense() method returns true, Registered license key is valid can proceed with deployment. If ValidateLicense() returns false, There will be invalid license errors in deployment due to either an invalid license key or incorrect package reference version. Recheck and correct these issues before deploying. 
 
 ## See also
 
