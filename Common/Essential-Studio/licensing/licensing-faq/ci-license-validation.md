@@ -111,11 +111,14 @@ pipeline {
 
 * Register the license key properly by calling RegisterLicense("License Key") method with the license key. 
 
-* Once the license key is registered. It can be validated by using ValidateLicense("Platform.ActualPlatform") method. This ensures that the license key is valid for the platform you are using. For reference please check the following example platforms (e.g. WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI).
+* Once the license key is registered. It can be validated by using ValidateLicense("Platform.ActualPlatform") method. This ensures that the license key is valid for the platform you are using. For reference please check the following example.
 
 ![LicenseKeyValidationMethod](licensing-images/license-validation-method.png)
 
-* If ValidateLicense() method returns true, Registered license key is valid can proceed with deployment. If ValidateLicense() returns false, There will be invalid license errors in deployment due to either an invalid license key or incorrect package reference version. Recheck and correct these issues before deploying. 
+N> Followings are the applicable list of platforms that can be passed to ValidateLicense method WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI.
+
+* If ValidateLicense() method returns true, registered license key is valid and can proceed with deployment. If ValidateLicense() returns false, there will be invalid license errors in deployment due to either an invalid license key or an incorrect assembly or package version that is referenced in the project. Please ensure that all the referenced Syncfusion 
+assemblies or NuGet packages are all on the same version as the license key’s version before deployment. 
 
 ## See also
 
