@@ -424,8 +424,7 @@ The following topic describes the system requirements required by Syncfusion Uni
 The following IDEs can be used for development that are [compatible](https://www.visualstudio.com/en-us/products/visual-studio-2015-compatibility-vs.aspx) with Microsoft Windows, both 32bit and 64 bit Operating System in Windows 11, Windows 10 and Windows 8.1 with Windows 10 toolkit
 
 * Microsoft Visual Studio 2015/2017/2019/2022
-* Windows 10 SDK
-* Windows 11
+* Windows 10 SDK and later
 
 ### Framework
 
@@ -447,8 +446,7 @@ The system requirements for using our Syncfusion WinUI platform are as follows.
 * [Visual Studio 2019, version 16.10 Preview](https://visualstudio.microsoft.com/vs/preview/) (or later) with following components. 
 * [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 * <b>Universal Windows Platform development</b> of the <b>Workloads</b> tab of the installation dialog.  
-* <b>Windows 10 SDK (10.0.19041.0)</b> on <b>Individual components</b> tab of the installation dialog.
-* <b>Windows 11</b> 
+* <b>Windows 10 SDK (10.0.19041.0) and later</b> on <b>Individual components</b> tab of the installation dialog.
 * [Project Reunion 0.5 extension](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftProjectReunion)
 
 N> Visual Studio 2019, version 16.9 also supports Project Reunion and it does not support all WinUI 3 tooling features such as Hot Reload, Live Visual Tree, etc. Refer [Windows UI Library 3 - Project Reunion 0.5](https://docs.microsoft.com/en-us/windows/apps/winui/winui3/) to know more about WinUI 3 tooling support.
