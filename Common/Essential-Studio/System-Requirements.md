@@ -27,6 +27,7 @@ To get started with an ASP.NET MVC application, the following software must be i
 * Windows 7 SP1
 * Windows 8, 8.1
 * Windows 10
+* Windows 11
 * Android 4.1 & later
 * iOS 9 & later
 
@@ -125,6 +126,7 @@ To get started with an ASP.NET Core application, the following software must be 
 * Windows 7 SP1
 * Windows 8, 8.1
 * Windows 10
+* Windows 11
 * Android 4.1 & later
 * iOS 9 & later
 
@@ -147,7 +149,7 @@ By using the following IDEs, you can develop ASP.NET Core Applications
 
 The below tool is required to run the Syncfusion UI controls for ASP.NET Core application.
 
-* [.NET Core SDK 2.1](https://dotnet.microsoft.com/download/dotnet/2.1) / [.NET Core SDK 3.1](https://dotnet.microsoft.com/download/dotnet/3.1) / [.NET 5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
+* [.NET Core SDK 2.1](https://dotnet.microsoft.com/en-us/download/dotnet/2.1) / [.NET Core SDK 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) / [.NET 5.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 
 <div id="note">
@@ -228,6 +230,7 @@ To get started with JavaScript application, the following software must be insta
 
 ### Operating Systems
 
+* Windows 11
 * Windows 10
 * Windows 8, 8.1
 * Windows 7
@@ -357,6 +360,7 @@ The system requirements for using our Syncfusion Windows Forms platform are as f
 * Windows 7
 * Windows 8
 * Windows 10
+* Windows 11
 * Windows Server (from 2003 to latest)
 
 
@@ -384,6 +388,7 @@ The system requirements for using our Syncfusion WPF platform are as follows.
 * Windows 7 SP1
 * Windows 8, 8.1
 * Windows 10
+* Windows 11
 
 
 ### Hardware Environment
@@ -405,6 +410,7 @@ The following topic describes the system requirements required by Syncfusion Uni
 
 ### Operating Systems
 
+* Windows 11
 * Windows 10
 
 ### Hardware Environment
@@ -415,10 +421,10 @@ The following topic describes the system requirements required by Syncfusion Uni
 
 ### Development Environment
 
-The following IDEs can be used for development that are [compatible](https://www.visualstudio.com/en-us/products/visual-studio-2015-compatibility-vs.aspx) with Microsoft Windows, both 32bit and 64 bit Operating System in Windows 10 and Windows 8.1 with Windows 10 toolkit
+The following IDEs can be used for development that are [compatible](https://www.visualstudio.com/en-us/products/visual-studio-2015-compatibility-vs.aspx) with Microsoft Windows, both 32bit and 64 bit Operating System in Windows 11, Windows 10 and Windows 8.1 with Windows 10 toolkit
 
 * Microsoft Visual Studio 2015/2017/2019/2022
-* Windows 10 SDK
+* Windows 10 SDK and later
 
 ### Framework
 
@@ -433,14 +439,14 @@ The system requirements for using our Syncfusion WinUI platform are as follows.
 
 ### Operating Systems
 
-* Windows 10, version 1809 (build 17763) or later.
+* Windows 11 and Windows 10, version 1809 (build 17763) or later.
 
 ### Development Environment
 
 * [Visual Studio 2019, version 16.10 Preview](https://visualstudio.microsoft.com/vs/preview/) (or later) with following components. 
 * [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
 * <b>Universal Windows Platform development</b> of the <b>Workloads</b> tab of the installation dialog.  
-* <b>Windows 10 SDK (10.0.19041.0)</b> on <b>Individual components</b> tab of the installation dialog. 
+* <b>Windows 10 SDK (10.0.19041.0) and later</b> on <b>Individual components</b> tab of the installation dialog.
 * [Project Reunion 0.5 extension](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftProjectReunion)
 
 N> Visual Studio 2019, version 16.9 also supports Project Reunion and it does not support all WinUI 3 tooling features such as Hot Reload, Live Visual Tree, etc. Refer [Windows UI Library 3 - Project Reunion 0.5](https://docs.microsoft.com/en-us/windows/apps/winui/winui3/) to know more about WinUI 3 tooling support.
@@ -458,7 +464,7 @@ The system requirements for using our Syncfusion .NET MAUI platform are as follo
 
 ### Operating Systems
 
-* Windows 10, version 1909 or higher.
+* Windows 11 and Windows 10, version 1909 or higher.
 
 ### Hardware Environment
 
@@ -482,6 +488,7 @@ The system requirements for using our Syncfusion Xamarin platform are as follows
 * Windows 7 SP1
 * Windows 8, 8.1
 * Windows 10
+* Windows 11
 * Android 4.1 & later
 * iOS 9 & later
 
@@ -596,7 +603,7 @@ The platforms supported by our Xamarin.Forms controls are listed in the table be
             <br/>
         </td>
         <td>
-            Windows 10 devices
+            Windows 10 and later
             <br/>
             <br/>
         </td>
@@ -638,7 +645,7 @@ The platforms supported by our Xamarin.Forms controls are listed in the table be
             <br/>
         </td>
         <td>
-            Windows 10
+            Windows 10 and later
             <br/>
             <br/>
         </td>
@@ -789,6 +796,7 @@ The system requirements for using our Syncfusion Flutter platform are as follows
 * Windows 7 SP1
 * Windows 8, 8.1
 * Windows 10
+* Windows 11
 * Android API level 16 & later
 * iOS 8 & later
 
