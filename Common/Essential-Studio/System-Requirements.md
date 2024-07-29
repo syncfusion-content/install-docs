@@ -149,7 +149,7 @@ By using the following IDEs, you can develop ASP.NET Core Applications
 
 The below tool is required to run the Syncfusion UI controls for ASP.NET Core application.
 
-* [.NET Core SDK 2.1](https://dotnet.microsoft.com/download/dotnet/2.1) / [.NET Core SDK 3.1](https://dotnet.microsoft.com/download/dotnet/3.1) / [.NET 5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
+* [.NET Core SDK 2.1](https://dotnet.microsoft.com/en-us/download/dotnet/2.1) / [.NET Core SDK 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) / [.NET 5.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
 
 <div id="note">
