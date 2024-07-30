@@ -125,7 +125,7 @@ pipeline {
 {% highlight c# %}
 using Syncfusion.Licensing;
 
-//Register Syncfusion license key
+//Register Syncfusion license key 
 Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 //Validate the registered license key
