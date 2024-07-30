@@ -50,7 +50,7 @@ The following section shows how to validate the Syncfusion license key in CI ser
 The following example shows the syntax for Windows build agents.
 
 {% tabs %}
-{% highlight YAML %}
+{% highlight <lang> tabtitle ="YAML" %}
 pool:
   vmImage: 'windows-latest'
 
@@ -80,7 +80,7 @@ steps:
 The following example shows the syntax for validating Syncfusion license key in GitHub actions.
 
 {% tabs %}
-{% highlight YAML %}
+{% highlight <lang> tabtitle ="YAML" %}
   steps:
   - name: Syncfusion License Validation
     shell: pwsh
@@ -98,7 +98,7 @@ The following example shows the syntax for validating Syncfusion license key in 
 The following example shows the syntax for validating Syncfusion license key in Jenkins pipeline.
 
 {% tabs %}
-{% highlight JSON %}
+{% highlight json %}
 pipeline {
 	agent any
 	environment {
