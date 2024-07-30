@@ -19,7 +19,9 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 # Syncfusion license key validation in CI services
 
-Syncfusion license key validation in CI services ensures that Syncfusion Essential Studio components are properly licensed during CI processes. Validating the license key at the CI level can prevent licensing errors during deployment. The following section shows how to validate the Syncfusion license key in CI services.
+Syncfusion license key validation in CI services ensures that Syncfusion Essential Studio components are properly licensed during CI processes. Validating the license key at the CI level can prevent licensing errors during deployment. If the license key validation fails, configure the CI process to fail and recheck the registered license key to identify and resolve any licensing issues before deployment.
+
+The following section shows how to validate the Syncfusion license key in CI services.
 
 * Download and extract the LicenseKeyValidator.zip utility from the following link: [LicenseKeyValidator](https://s3.amazonaws.com/files2.syncfusion.com/Installs/LicenseKeyValidation/LicenseKeyValidator.zip).
 
@@ -47,7 +49,8 @@ Syncfusion license key validation in CI services ensures that Syncfusion Essenti
 
 The following example shows the syntax for Windows build agents.
 
-```bash
+{% tabs %}
+{% highlight YAML %}
 pool:
   vmImage: 'windows-latest'
 
@@ -59,7 +62,8 @@ steps:
     filePath: $(LICENSE_VALIDATION) #Or the actual path to the LicenseKeyValidation.ps1 script.
   
   displayName: Syncfusion License Validation 
-```
+{% endhighlight %}
+{% endtabs %}
 
 ## Azure Pipelines (Classic)
 
@@ -75,13 +79,15 @@ steps:
 
 The following example shows the syntax for validating Syncfusion license key in GitHub actions.
 
-```bash
+{% tabs %}
+{% highlight YAML %}
   steps:
   - name: Syncfusion License Validation
     shell: pwsh
     run: |
 	  ./path/LicenseKeyValidator/LicenseKeyValidation.ps1
-```
+{% endhighlight %}
+{% endtabs %}
 
 ## Jenkins
 
@@ -91,7 +97,8 @@ The following example shows the syntax for validating Syncfusion license key in 
 
 The following example shows the syntax for validating Syncfusion license key in Jenkins pipeline.
 
-```bash
+{% tabs %}
+{% highlight JSON %}
 pipeline {
 	agent any
 	environment {
@@ -105,13 +112,26 @@ pipeline {
 		}
 	}
 }
-```
+{% endhighlight %}
+{% endtabs %}
 
 ## Validate the License Key Using ValidateLicense() Method
 
 * Register the license key properly by calling RegisterLicense("License Key") method with the license key. 
 
 * Once the license key is registered, it can be validated by using ValidateLicense("Platform.ActualPlatform") method. This ensures that the license key is valid for the platform and version you are using. For reference please check the following example.
+
+{% tabs %}
+{% highlight c# %}
+using Syncfusion.Licensing;
+
+//Register Syncfusion license key
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+
+//Validate the registered license key
+bool isValid = SyncfusionLicenseProvider.ValidateLicense(Platform.ActualPlatform);
+{% endhighlight %}
+{% endtabs %}
 
 ![LicenseKeyValidationMethod](licensing-images/license-validation-method.png)
 
