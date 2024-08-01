@@ -101,7 +101,7 @@ The following example shows the syntax for validating the Syncfusion license key
 
 ## Jenkins
 
-* Create an [Environment Variable](https://www.jenkins.io/doc/pipeline/tour/environment) named 'LICENSE_VALIDATION'. Use Use the path of the LicenseKeyValidation.ps1 script file as a value (e.g., D:\LicenseKeyValidator\LicenseKeyValidation.ps1).
+* Create an [Environment Variable](https://www.jenkins.io/doc/pipeline/tour/environment) named 'LICENSE_VALIDATION'. Use the path of the LicenseKeyValidation.ps1 script file as a value (e.g., D:\LicenseKeyValidator\LicenseKeyValidation.ps1).
 
 * Include a stage in Jenkins to execute the LicenseKeyValidation.ps1 script in PowerShell. 
 
@@ -125,7 +125,7 @@ pipeline {
 {% endhighlight %}
 {% endtabs %}
 
-## Validate the License Key By Using ValidateLicense() Method
+## Validate the License Key By Using the ValidateLicense() Method
 
 * Register the license key properly by calling RegisterLicense("License Key") method with the license key.  
 
