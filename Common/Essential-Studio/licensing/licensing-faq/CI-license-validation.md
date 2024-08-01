@@ -29,7 +29,7 @@ The following section shows how to validate the Syncfusion license key in CI ser
 
 {% tabs %}
 {% highlight c# tabtitle="PowerShell" %}
-# Replace the parameters with desired platform, version and actual license key.
+# Replace the parameters with the desired platform, version, and actual license key.
 
 $result = & $PSScriptRoot"\LicenseKeyValidatorConsole.exe" /platform:"WPF" /version:"26.2.4" /licensekey:"Your License Key"
 
