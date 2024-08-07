@@ -124,7 +124,7 @@ cd {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{versio
 
 ![Package Generator](Source-code-images/pack-generator.png)
 
-2.Make sure that you have installed **Node.js version 16.20.0** or above on your machine. If not, install Node.js from [here](https://nodejs.org/en/download/).
+2.Make sure that you have installed **Node.js version 16.20.0** or above on your machine. If not, install Node.js from [here](https://nodejs.org/en/download/package-manager).
 
 3.Run the below command in the command prompt to install the required packages.
 
