@@ -196,11 +196,7 @@ This window contains several sections.
    * When .NET 6.0 is installed in your system, the NET 6.0 option is selected by default.
    
    * When Visual Studio 2017 is not installed in your system, the .NET 4.6 option is selected by default. 
-   
-   * When Visual Studio 2015 is not installed in your system, the .NET 4.5.1 option is selected by default. 
-   
-   * When Visual Studio 2013 is not installed in your system, the .NET 4.5 option is selected by default. 
-   
+    
    * When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default.
    
    You can change the default option by clicking the other button. The version of the .NET Framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies.

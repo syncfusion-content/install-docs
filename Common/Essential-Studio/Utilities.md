@@ -186,9 +186,7 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
 
    The Framework group box comprises of check boxes for the .NET Framework versions based on the Visual Studio SDK installed in the machine. The following check boxes are available:
 
-   * 4.6 - Selecting **4.6** ensures installation of 4.6 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2015 SDK is installed, the 4.6 assemblies have to be deployed.
-   * 4.5.1 - Selecting **4.5.1** ensures installation of 4.5.1 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2013 SDK is installed, the 4.5.1 assemblies have to be deployed.
-   * 4.5 - Selecting **4.5** ensures installation of 4.5 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2012 SDK is installed, the 4.5 assemblies have to be deployed.
+   * 4.6.2 - Selecting **4.6.2** ensures installation of 4.6.2 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2017 SDK is installed, the 4.6.2 assemblies have to be deployed.
    * 4.0 - Selecting **4.0** ensures installation of 4.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2010 SDK is installed, the 4.0 assemblies have to be deployed.
    * All – Selecting **All** ensures installation of all Frameworks installed in the machine, and assemblies into the GAC and assemblies folder.
 
@@ -316,13 +314,10 @@ To launch Toolbox configuration utility, follow the steps given below:
 
    The following options are available in Toolbox Configuration:
 
-   * Install VS2010 – Configures Framework 4.0 Syncfusion controls in VS 2010 toolbox.
-   * Install VS2012 – Configures Framework 4.5 Syncfusion controls in VS 2012 toolbox.
-   * Install VS2013 – Configures Framework 4.5.1 Syncfusion controls in VS 2013 toolbox.
-   * Install VS2015 – Configures Framework 4.6 Syncfusion controls in VS 2015 toolbox.
-   * Install VS2017 – Configures Framework 4.6 Syncfusion controls in VS 2017 toolbox.
-   * Install VS2019 – Configures Framework 4.6 Syncfusion controls in VS 2019 toolbox
-   * Install VS2022 – Configures Framework 4.6 Syncfusion controls in VS 2022 toolbox
+   * Install VS2015 – Configures Framework 4.6.2 Syncfusion controls in VS 2015 toolbox.
+   * Install VS2017 – Configures Framework 4.6.2 Syncfusion controls in VS 2017 toolbox.
+   * Install VS2019 – Configures Framework 4.6.2 Syncfusion controls in VS 2019 toolbox
+   * Install VS2022 – Configures Framework 4.6.2 Syncfusion controls in VS 2022 toolbox
    
     N> You can also configure Syncfusion controls from a lower version Framework assembly to higher version of Visual Studio.
    
