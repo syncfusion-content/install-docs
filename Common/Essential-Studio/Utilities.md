@@ -187,7 +187,6 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    The Framework group box comprises of check boxes for the .NET Framework versions based on the Visual Studio SDK installed in the machine. The following check boxes are available:
 
    * 4.6.2 - Selecting **4.6.2** ensures installation of 4.6.2 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2017 SDK is installed, the 4.6.2 assemblies have to be deployed.
-   
    * 4.0 - Selecting **4.0** ensures installation of 4.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2015 SDK is installed, the 4.0 assemblies have to be deployed.   
 
    N> * From 2018 Volume 4, Syncfusion has removed the .NET Framework 4.5.1 and MVC3 assemblies from installer. Refer to [this](https://help.syncfusion.com/common/essential-studio/installation/essential-studio-platform-framework-add-ons) topic to enable 4.5.1 checkboxes.  
