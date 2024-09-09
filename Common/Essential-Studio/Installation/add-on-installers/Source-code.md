@@ -93,7 +93,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
     N> The Completed screen will be displayed once the selected platform is installed.
 	
 
-6.  Select the **Run Build Manager (Desktop and EJ1 Web Platforms)** check box to launch the Build Manager for Desktop and EJ1 Web Platforms once installation completedonce installation completed. Select the **Run Blazor Build Manager** check box to launch the Blazor Build Manager for Blazor once installation completed. Select **Explore Source** check box to get into the source location.
+6.  Select the **Run Build Manager (Desktop and EJ1 Web Platforms)** check box to launch the Build Manager for Desktop and EJ1 Web Platforms once installation completed. Select the **Run Blazor Build Manager** check box to launch the Blazor Build Manager for Blazor once installation completed. Select **Explore Source** check box to get into the source location.
 
     N> From 2022 Volume 1 release v20.1.0.47, Syncfusion has provided a new option to **Run Blazor Build Manager** check box to launch the Blazor Build Manager Utility.
 
