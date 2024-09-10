@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio Source Code Add-on installer - Syncfusion
+title: Downloading Essential Studio Source Code Add-on installer - Syncfusion
 description: Learn here about how to download the Syncfusion Essential Studio Source Code Add-on installer from our Syncfusion website with license.
 platform: common
 control: Essential Studio
@@ -93,7 +93,7 @@ The steps below show how you can install the Essential Studio Source Code Add-on
     N> The Completed screen will be displayed once the selected platform is installed.
 	
 
-6.  Select the **Run Build Manager (Desktop and EJ1 Web Platforms)** check box to launch the Build Manager for Desktop and EJ1 Web Platforms once installation completedonce installation completed. Select the **Run Blazor Build Manager** check box to launch the Blazor Build Manager for Blazor once installation completed. Select **Explore Source** check box to get into the source location.
+6.  Select the **Run Build Manager (Desktop and EJ1 Web Platforms)** check box to launch the Build Manager for Desktop and EJ1 Web Platforms once installation completed. Select the **Run Blazor Build Manager** check box to launch the Blazor Build Manager for Blazor once installation completed. Select **Explore Source** check box to get into the source location.
 
     N> From 2022 Volume 1 release v20.1.0.47, Syncfusion has provided a new option to **Run Blazor Build Manager** check box to launch the Blazor Build Manager Utility.
 
@@ -124,7 +124,7 @@ cd {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{versio
 
 ![Package Generator](Source-code-images/pack-generator.png)
 
-2.Make sure that you have installed **Node.js version 16.20.0** or above on your machine. If not, install Node.js from [here](https://nodejs.org/en/download/).
+2.Make sure that you have installed **Node.js version 16.20.0** or above on your machine. If not, install Node.js from [here](https://nodejs.org/en/download/package-manager).
 
 3.Run the below command in the command prompt to install the required packages.
 
@@ -196,10 +196,6 @@ This window contains several sections.
    * When .NET 6.0 is installed in your system, the NET 6.0 option is selected by default.
    
    * When Visual Studio 2017 is not installed in your system, the .NET 4.6 option is selected by default. 
-   
-   * When Visual Studio 2015 is not installed in your system, the .NET 4.5.1 option is selected by default. 
-   
-   * When Visual Studio 2013 is not installed in your system, the .NET 4.5 option is selected by default. 
    
    * When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default.
    
