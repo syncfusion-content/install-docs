@@ -21,7 +21,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 We have introduced a new licensing system starting with version 16.2.0.x release of Essential Studio. These modifications apply to all evaluators and only to paid customers who use NuGet packages from [nuget.org](https://www.nuget.org/). Starting with v16.2.0.x, if you use the evaluation installer or the NuGet feed to reference Syncfusion assemblies, you must also include the corresponding platform and version license key in your projects.
 
-The Syncfusion.Licensing NuGet package does not need to be added to your project individually. If you install any Syncfusion NuGet packages from [nuget.org](https://www.nuget.org/) to your project, the Syncfusion.Licensing package will be added automatically to the dependencies of your project.
+The Syncfusion.Licensing NuGet package does not need to be added to your project individually. If you install any Syncfusion NuGet packages from [nuget.org](https://www.nuget.org/) to your project, the Syncfusion.Licensing package will be added automatically to the dependencies of your project. If it is not added, you can manually add the [Syncfusion.Licensing](https://www.nuget.org/packages/Syncfusion.Licensing) package from nuget.org.
 
 ## Difference between unlock key and license key
 
