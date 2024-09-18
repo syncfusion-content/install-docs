@@ -41,7 +41,7 @@ Write-Host $result
 
 * Update the parameters in the LicenseKeyValidation.ps1 script file as described below. 
 
-  **Platform:** Modify the value for /platform: to the desired platform. For reference please check the applicable example platforms below. 
+  **Platform:** Modify the value for /platform: to the desired platform. For reference, please check the applicable example platforms below. 
   
      (e.g., "WindowsForms", "WPF", "WinUI", "UWP", "MAUI", "Xamarin", "Blazor", "FileFormats")
   
