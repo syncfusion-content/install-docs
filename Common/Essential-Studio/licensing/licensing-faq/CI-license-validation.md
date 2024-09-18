@@ -105,7 +105,7 @@ The following example shows the syntax for validating the Syncfusion license key
 
 * Include a stage in Jenkins to execute the LicenseKeyValidation.ps1 script in PowerShell. 
 
-The following example shows the syntax for the validating Syncfusion license key in the Jenkins pipeline.
+The following example shows the syntax for validating the Syncfusion license key in the Jenkins pipeline.
 
 {% tabs %}
 {% highlight json %}
