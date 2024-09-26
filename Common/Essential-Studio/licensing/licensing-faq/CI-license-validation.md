@@ -191,6 +191,8 @@ public void TestSyncfusionWPFLicense()
 
 ![License Validation Success Message](licensing-images/unit-test-success-message.png)
 
-* If the license validation fails during unit testing, the following output will be displayed in the Test Explorer window. License validation fails due to either an invalid license key or an incorrect assembly or package version that is referenced in the project. In such cases, verify that you are using the valid license key for the platform, and ensure the assembly or package versions referenced in the project match the version of the license key.
+* If the license validation fails during unit testing, the following output will be displayed in the Test Explorer window.
 
 ![License Validation Failure Message](licensing-images/unit-test-failure-message.png)
+
+* License validation fails due to either an invalid license key or an incorrect assembly or package version that is referenced in the project. In such cases, verify that you are using the valid license key for the platform, and ensure the assembly or package versions referenced in the project match the version of the license key.
