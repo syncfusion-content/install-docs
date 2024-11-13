@@ -111,6 +111,10 @@ If the application is registered with another version's license key, the followi
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
+## The name 'Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense' does not exist in the current context
+
+**The name Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense does not exist in this context.** typically occurs when **“Syncfusion.Licensing”** package/assembly is not referenced properly in the project or license registration code used outside of the App() constructor or directly used inside the class. Please ensure that the license registration code is properly included inside the App() constructor.
+
 ## Could not load Syncfusion.Licensing.dll assembly version...?
 
 Please ensure that all Syncfusion NuGet packages including [Syncfusion.Licensing](https://www.nuget.org/packages/Syncfusion.Licensing) were installed properly, and assembly references are upgraded to the required version. Also, verify that the csproj and packages.config/web.config files references have been referred with the updated version.
