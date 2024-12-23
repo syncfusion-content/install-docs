@@ -7,16 +7,16 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Installing Syncfusion Essential Studio Enterprise Edition installer
+# Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition installer
 
 
 ## Overview
 
-The Essential Studio Enterprise Edition Installer includes the platforms listed below.
+The Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer includes the platforms listed below.
 
-The Syncfusion Essential Studio Enterprise Edition installer supports both the installation and uninstallation of the platforms for that version.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition installer supports both the installation and uninstallation of the platforms for that version.
 
-I> * The Essential Studio Enterprise Edition Installer can be installed with either the Login or Unlock key.
+I> * The Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer can be installed with either the Login or Unlock key.
 
 **Web**
 
@@ -38,16 +38,16 @@ I> * The Essential Studio Enterprise Edition Installer can be installed with eit
 * WinUI
  
  
-The steps below show how to install Essential Studio Enterprise Edition Installer.
+The steps below show how to install Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer.
 
-1.  Open the Syncfusion Essential Studio Enterprise Edition Installer file from downloaded location by double-clicking it. The Installer Wizard automatically opens and extracts the package.
+1.  Open the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer file from downloaded location by double-clicking it. The Installer Wizard automatically opens and extracts the package.
 
     ![Installer extraction wizard](images/Step-by-Step-Installation_img1.png)
 
     
     N> The installer wizard extracts the syncfusionessentialstudiosetup_{version}.exe dialog, displaying the unzip operation of the package.
     
-2.  The Syncfusion Offline Installer’s welcome wizard will be displayed. Click the Next button.
+2.  The Syncfusion<sup style="font-size:70%">&reg;</sup> Offline Installer’s welcome wizard will be displayed. Click the Next button.
 
     ![Welcome wizard](images/Step-by-Step-Installation_img2.png)
 
@@ -74,7 +74,7 @@ The steps below show how to install Essential Studio Enterprise Edition Installe
 	
 4.  If previous version(s) for the selected products are installed, the Uninstall previous version wizard will be displayed. You can see the list of previously installed versions for the products you’ve chosen here. To remove all versions, check the Uninstall All checkbox. Click the Next button
 
-    N> From the 2021 Volume 1 release, Syncfusion has provided option to uninstall the previous versions from 18.1 while installing the new version.
+    N> From the 2021 Volume 1 release, Syncfusion<sup style="font-size:70%">&reg;</sup> has provided option to uninstall the previous versions from 18.1 while installing the new version.
    
 5.  Pop up screen will be displayed to get the confirmation to uninstall selected previous versions.
 
@@ -91,16 +91,16 @@ The steps below show how to install Essential Studio Enterprise Edition Installe
 	
     **Additional settings**
    
-    * Select the **Install Demos** check box to install Syncfusion samples, or leave the check box unchecked, if you do not want to install Syncfusion samples.
-    * Select the **Register Syncfusion Assemblies in GAC** check box to install the latest Syncfusion assemblies in GAC or clear this check box when you do not want to install the latest assemblies in GAC.
-    * Select the **Configure Syncfusion controls in Visual Studio** check box to configure the Syncfusion controls in the Visual Studio toolbox or clear this check box when you do not want to configure the Syncfusion controls in the Visual Studio toolbox during installation. Note that you must also select the Register Syncfusion assemblies in GAC check box when you select this check box.
-    * Select the **Configure Syncfusion Extensions in Visual Studio** checkbox to configure the Syncfusion Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion Extensions in Visual Studio.
-    * Check the **Create Desktop Shortcut** checkbox to add a desktop shortcut for Syncfusion Control Panel
-    * Check the **Create Start Menu Shortcut** checkbox to add a shortcut to the start menu for Syncfusion Control Panel
+    * Select the **Install Demos** check box to install Syncfusion<sup style="font-size:70%">&reg;</sup> samples, or leave the check box unchecked, if you do not want to install Syncfusion<sup style="font-size:70%">&reg;</sup> samples.
+    * Select the **Register Syncfusion<sup style="font-size:70%">&reg;</sup> Assemblies in GAC** check box to install the latest Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies in GAC or clear this check box when you do not want to install the latest assemblies in GAC.
+    * Select the **Configure Syncfusion<sup style="font-size:70%">&reg;</sup> controls in Visual Studio** check box to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls in the Visual Studio toolbox or clear this check box when you do not want to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls in the Visual Studio toolbox during installation. Note that you must also select the Register Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies in GAC check box when you select this check box.
+    * Select the **Configure Syncfusion<sup style="font-size:70%">&reg;</sup> Extensions in Visual Studio** checkbox to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> Extensions in Visual Studio or clear this check box when you do not want to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> Extensions in Visual Studio.
+    * Check the **Create Desktop Shortcut** checkbox to add a desktop shortcut for Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel
+    * Check the **Create Start Menu Shortcut** checkbox to add a shortcut to the start menu for Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel
 
 8.  After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click the Next button.
 
-9.  The Login wizard will be displayed. You have two options for unlocking the Syncfusion Essential Studio Enterprise Edition installer.
+9.  The Login wizard will be displayed. You have two options for unlocking the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition installer.
     
     * Login To Install
     
@@ -108,13 +108,13 @@ The steps below show how to install Essential Studio Enterprise Edition Installe
     
     <b>Login To Install</b>
     
-    You should enter your Syncfusion Direct-Trac login credentials. If you don’t have Syncfusion Direct-Trac login credentials, then you can click on Create an Account. Else if you forgot your password, click on Forgot Password to create new password. Click Install.
+    You should enter your Syncfusion<sup style="font-size:70%">&reg;</sup> Direct-Trac login credentials. If you don’t have Syncfusion<sup style="font-size:70%">&reg;</sup> Direct-Trac login credentials, then you can click on Create an Account. Else if you forgot your password, click on Forgot Password to create new password. Click Install.
     
     ![Login wizard](images/Step-by-Step-Installation_img9.png)
     
     <b>Use Unlock Key</b>
    
-    You should use the Syncfusion Unlock key. Licensed customer can generate the unlock key from here.
+    You should use the Syncfusion<sup style="font-size:70%">&reg;</sup> Unlock key. Licensed customer can generate the unlock key from here.
     
     ![Install using Key](images/Step-by-Step-Installation_img10.png)
     
@@ -126,5 +126,5 @@ The steps below show how to install Essential Studio Enterprise Edition Installe
 
     ![ES Installation Summary](images/Step-by-Step-Installation_img12.png)
 	
-    * To open the Syncfusion Control Panel, click **Launch Control Panel**   
+    * To open the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel, click **Launch Control Panel**   
 

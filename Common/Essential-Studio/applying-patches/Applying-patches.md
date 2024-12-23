@@ -9,7 +9,7 @@ documentation: ug
 
 # Applying the Patches
 
-Syncfusion provides patch installer for major versions or service pack versions, either to add new features or to fix issues. You must install the patches in the order you have received.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides patch installer for major versions or service pack versions, either to add new features or to fix issues. You must install the patches in the order you have received.
 
 
 ## Installing the Patch installer
@@ -17,11 +17,11 @@ Syncfusion provides patch installer for major versions or service pack versions,
 The steps below show how to install a patch installer.
 
 
-I> Before installing the patch, ensure that corresponding Essential Studio version platform has been installed in your machine.
+I> Before installing the patch, ensure that corresponding Essential Studio<sup style="font-size:70%">&reg;</sup> version platform has been installed in your machine.
 
 
 
-1.  Run the Syncfusion Essential Studio patch installer by double-clicking it. The Syncfusion Essential Studio Service Pack welcome wizard appears.
+1.  Run the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> patch installer by double-clicking it. The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Service Pack welcome wizard appears.
    
     ![Welcome Wizard](Patches_images/Installing-a-Patch-Setup_img2.png)
 

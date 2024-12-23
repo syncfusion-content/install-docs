@@ -47,7 +47,7 @@ to add the Syncfusion datepicker widget into the HTML page, refer the same steps
 * Each paragraph should only talk about one topic. Each sentence should only talk about one idea.
 * Each sentence should have less than 25 words. 
 * Write in a neutral tone without marketing content
-    * Essential chart has built in support for over 10 powerful technical indicators - Incorrect
+    * Essential<sup style="font-size:70%">&reg;</sup> chart has built in support for over 10 powerful technical indicators - Incorrect
     * _Essential chart has built in support for over 10 technical indicators_ - Correct
 * Constantly review the document that you are writing to see if any words can be removed without changing the information conveyed.
 * You can use a colon after the words "following" or "follows." 

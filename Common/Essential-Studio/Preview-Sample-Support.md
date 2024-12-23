@@ -97,7 +97,7 @@ DropDownTreeObj.appendTo('#ddltreeelement');
 <html lang="en">
 
 <head>
-    <title>Essential JS 2 DropDownList</title>
+    <title>Essential<sup style="font-size:70%">&reg;</sup> JS 2 DropDownList</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Typescript UI Controls" />
@@ -182,7 +182,7 @@ DropDownTreeObj.appendTo('#ddltreeelement');
 <html lang="en">
 
 <head>
-    <title>Essential JS 2 DropDownList</title>
+    <title>Essential<sup style="font-size:70%">&reg;</sup> JS 2 DropDownList</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Typescript UI Controls" />
@@ -266,7 +266,7 @@ DropDownTreeObj.appendTo('#ddltreeelement');
 <html lang="en">
 
 <head>
-    <title>Essential JS 2 DropDownList</title>
+    <title>Essential<sup style="font-size:70%">&reg;</sup> JS 2 DropDownList</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Typescript UI Controls" />
