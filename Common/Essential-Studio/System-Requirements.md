@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# System Requirements of Essential Studio
+# System Requirements of Essential Studio<sup style="font-size:70%">&reg;</sup>
 
 <style>
 #note {
@@ -47,7 +47,7 @@ By using the following IDEs, you can develop ASP.NET MVC Applications
 
 ### Frameworks & SDK
 
-The tools listed below are required to run the Syncfusion ASP.NET MVC UI application.
+The tools listed below are required to run the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC UI application.
 
 * .NET Framework 4.5 or above.
 * ASP.NET MVC 4 or ASP.NET MVC 5
@@ -56,7 +56,7 @@ The tools listed below are required to run the Syncfusion ASP.NET MVC UI applica
 
 #### Browser support
 
-The Syncfusion Essential JS 2 components are supported only in modern browsers. This includes the following versions.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 components are supported only in modern browsers. This includes the following versions.
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ The Syncfusion Essential JS 2 components are supported only in modern browsers. 
 
 #### Required Polyfills
 
-The following polyfills are required to run Essential JS 2 components in each browser.
+The following polyfills are required to run Essential<sup style="font-size:70%">&reg;</sup> JS 2 components in each browser.
 
 <table>
 <tr>
@@ -100,7 +100,7 @@ The following polyfills are required to run Essential JS 2 components in each br
 </tr>
 </table>
 
-The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6 Promise polyfills.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 components are supported in IE 11 browser with ES6 Promise polyfills.
 
 ### Using CDN
 
@@ -147,7 +147,7 @@ By using the following IDEs, you can develop ASP.NET Core Applications
 
 ### Frameworks & SDK
 
-The below tool is required to run the Syncfusion UI controls for ASP.NET Core application.
+The below tool is required to run the Syncfusion<sup style="font-size:70%">&reg;</sup> UI controls for ASP.NET Core application.
 
 * [.NET Core SDK 2.1](https://dotnet.microsoft.com/en-us/download/dotnet/2.1) / [.NET Core SDK 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) / [.NET 5.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
 
@@ -161,7 +161,7 @@ The below tool is required to run the Syncfusion UI controls for ASP.NET Core ap
 
 #### Browser support
 
-The Syncfusion Essential JS 2 components are supported only in modern browsers. This includes the following versions.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 components are supported only in modern browsers. This includes the following versions.
 
 <table>
 <tr>
@@ -189,7 +189,7 @@ The Syncfusion Essential JS 2 components are supported only in modern browsers. 
 
 #### Required Polyfills
 
-The following polyfills are required to run Essential JS 2 components in each browser. 
+The following polyfills are required to run Essential<sup style="font-size:70%">&reg;</sup> JS 2 components in each browser. 
 
 <table>
 <tr>
@@ -205,7 +205,7 @@ The following polyfills are required to run Essential JS 2 components in each br
 </tr>
 </table>
 
-The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6 Promise polyfills.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 components are supported in IE 11 browser with ES6 Promise polyfills.
 
 ### Using CDN
 
@@ -262,7 +262,7 @@ By using the following IDEs, you can develop JavaScript applications
 
 #### Browser support
 
-The Syncfusion Essential JS 2 components are supported only in modern browsers. This includes the following versions.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 components are supported only in modern browsers. This includes the following versions.
 
 <table>
 <tr>
@@ -290,7 +290,7 @@ The Syncfusion Essential JS 2 components are supported only in modern browsers. 
 
 #### Required Polyfills
 
-The following polyfills are required to run Essential JS 2 components in each browser. 
+The following polyfills are required to run Essential<sup style="font-size:70%">&reg;</sup> JS 2 components in each browser. 
 
 <table>
 <tr>
@@ -306,7 +306,7 @@ The following polyfills are required to run Essential JS 2 components in each br
 </tr>
 </table>
 
-The Syncfusion Essential JS 2 components are supported in IE 11 browser with ES6 Promise polyfills.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 components are supported in IE 11 browser with ES6 Promise polyfills.
 
 ### Using CDN
 
@@ -350,7 +350,7 @@ To learn more about Blazor system requirements, see, this [documentation](https:
 
 ## Windows Forms
 
-The system requirements for using our Syncfusion Windows Forms platform are as follows.
+The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;</sup> Windows Forms platform are as follows.
 
 ### Operating Systems
 
@@ -374,12 +374,12 @@ The system requirements for using our Syncfusion Windows Forms platform are as f
 
 * Microsoft Visual Studio 2015/2017/2019/2022
 * .NET Framework 4.0/4.6.2
-* Lower Syncfusion .NET frameworks can be used in applications because they are compatible with .NET 4.7, .NET 4.7.1, .NET 4.7.2, and .NET 4.8. For example, in the application, the Syncfusion 4.6 .NET framework assembly can be referred to as 4.7 or higher target versions.
+* Lower Syncfusion<sup style="font-size:70%">&reg;</sup> .NET frameworks can be used in applications because they are compatible with .NET 4.7, .NET 4.7.1, .NET 4.7.2, and .NET 4.8. For example, in the application, the Syncfusion<sup style="font-size:70%">&reg;</sup> 4.6 .NET framework assembly can be referred to as 4.7 or higher target versions.
 * .NET Core supported from [2019 Volume 1 release](https://help.syncfusion.com/windowsforms/release-notes) (17.1.0.32).
 
 ## WPF
 
-The system requirements for using our Syncfusion WPF platform are as follows.
+The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;</sup> WPF platform are as follows.
 
 ### Operating Systems
 
@@ -406,7 +406,7 @@ The system requirements for using our Syncfusion WPF platform are as follows.
 
 ## Universal Windows Platform
 
-The following topic describes the system requirements required by Syncfusion Universal Windows Platform.
+The following topic describes the system requirements required by Syncfusion<sup style="font-size:70%">&reg;</sup> Universal Windows Platform.
 
 ### Operating Systems
 
@@ -435,7 +435,7 @@ The following frameworks are supported:
 
 ## WinUI
 
-The system requirements for using our Syncfusion WinUI platform are as follows.
+The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;</sup> WinUI platform are as follows.
 
 ### Operating Systems
 
@@ -460,7 +460,7 @@ N> Visual Studio 2019, version 16.9 also supports Project Reunion and it does no
 
 ## .NET MAUI
 
-The system requirements for using our Syncfusion .NET MAUI platform are as follows.
+The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;</sup> .NET MAUI platform are as follows.
 
 ### Operating Systems
 
@@ -479,7 +479,7 @@ The system requirements for using our Syncfusion .NET MAUI platform are as follo
 
 ## Xamarin
 
-The system requirements for using our Syncfusion Xamarin platform are as follows.
+The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;</sup> Xamarin platform are as follows.
 
 ### Operating Systems
 
@@ -789,7 +789,7 @@ See the link below for the recommended Xamarin development environments
 
 ## Flutter
 
-The system requirements for using our Syncfusion Flutter platform are as follows
+The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;</sup> Flutter platform are as follows
 
 ### Operating Systems
 

@@ -7,9 +7,9 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio Retired Products
+# Essential Studio<sup style="font-size:70%">&reg;</sup> Retired Products
 
-Syncfusion has stopped providing the following platforms. Find below the Syncfusion version for each platform from which we have stopped.
+Syncfusion<sup style="font-size:70%">&reg;</sup> has stopped providing the following platforms. Find below the Syncfusion<sup style="font-size:70%">&reg;</sup> version for each platform from which we have stopped.
 
 <table>
 <tr>
@@ -58,15 +58,15 @@ ASP.NET Web Forms</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
-ASP.NET MVC (Essential JS 1)</td><td>
+ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 1)</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
-ASP.NET Core (Essential JS 1)</td><td>
+ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 1)</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
-JavaScript (Essential JS 1)</td><td>
+JavaScript (Essential<sup style="font-size:70%">&reg;</sup> JS 1)</td><td>
 20.4.0.48</td></tr>
 <tr>
 <td>
