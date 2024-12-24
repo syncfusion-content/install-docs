@@ -12,11 +12,11 @@ documentation: ug
 
 2. You can get the most recent version of Essential Studio<sup style="font-size:70%">&reg;</sup> Installer [here](https://www.syncfusion.com/downloads/latest-version).
 
-    ![Enterprise License and downloads of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>](images/Enterprise-license-and-download.png)
+    ![Enterprise License and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/Enterprise-license-and-download.png)
 
 2. Click the More Download Options (in the above screenshot) button to get the Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition installer installer which is available in ZIP format.
 
-   ![License and downloads of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>](images/start-trial-download-enterprise-edition-installer.png)
+   ![License and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/start-trial-download-enterprise-edition-installer.png)
 
 
 

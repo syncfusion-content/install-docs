@@ -29,7 +29,7 @@ You can install both Licensed and Trial installer side by side for different Ess
 
 If you install Licensed and Trial installer in the same machine, licensing issues will occur while development and the following licensing alert will be shown.
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> License](Errors/Side-by-side_img3.png)
+![Syncfusion<sup style="font-size:70%">®</sup> License](Errors/Side-by-side_img3.png)
 
 ### Reason
 

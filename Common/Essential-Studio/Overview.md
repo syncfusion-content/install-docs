@@ -11,7 +11,7 @@ documentation: ug
 
 Welcome to the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> product’s user guide documentation. This will help you to get started with Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-![Essential Studio<sup style="font-size:70%">&reg;</sup> UG](Documentation_images/Essential-Studio_img1.png)
+![Essential Studio<sup style="font-size:70%">®</sup> UG](Documentation_images/Essential-Studio_img1.png)
 
 Essential Studio<sup style="font-size:70%">&reg;</sup> User Guide
 {:.caption}
