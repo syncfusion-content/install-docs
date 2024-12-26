@@ -15,7 +15,7 @@ We have two types of assembly descriptions to distinguish between trial and lice
 
 ### Trial Installer
 
-In the trial installer, License Enforced Syncfusion assemblies will be shipped and this information will be present in the File Description as **License Required (LR).**
+In the trial installer, License Enforced Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies will be shipped and this information will be present in the File Description as **License Required (LR).**
 
 **Example:** Syncfusion.SfBarcode.XForms (LR)
 
@@ -23,7 +23,7 @@ In the trial installer, License Enforced Syncfusion assemblies will be shipped a
 
 ### Licensed Installer
 
-In the License installer, licensed Syncfusion assemblies will be shipped and **LR** information will not be shown in the File description.
+In the License installer, licensed Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies will be shipped and **LR** information will not be shown in the File description.
 
 **Example:** Syncfusion.SfBarcode.XForms
 
@@ -32,7 +32,7 @@ In the License installer, licensed Syncfusion assemblies will be shipped and **L
 
 ## Assembly Version Format
 
-The assembly version format differs for each of the Essential Studio platform. Refer the following table for the assembly version’s format for ASP.NET MVC (Essential JS 2), WPF, Windows Forms, UWP, WinUI, .NET MAUI and Xamarin platforms.
+The assembly version format differs for each of the Essential Studio<sup style="font-size:70%">&reg;</sup> platform. Refer the following table for the assembly version’s format for ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2), WPF, Windows Forms, UWP, WinUI, .NET MAUI and Xamarin platforms.
 
 
 
@@ -130,7 +130,7 @@ NA</td><td>
 NA</td></tr>
 <tr>
 <td>
-<b>ASP.NET MVC (Essential JS 2)</b></td><td>
+<b>ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</b></td><td>
 MVC 4 - 21.1400.x</td><td>
 MVC 5 - 21.1450.x</td><td>
 NA</td><td>
@@ -158,17 +158,17 @@ NA</td></tr>
 21.1.x</td></tr>
 </table>
 
-The following Essential Studio platforms do not have assembly support.
+The following Essential Studio<sup style="font-size:70%">&reg;</sup> platforms do not have assembly support.
 
-* JavaScript (Essential JS 2)
+* JavaScript (Essential<sup style="font-size:70%">&reg;</sup> JS 2)
 
-## Supported Framework version for Essential Studio Assemblies
+## Supported Framework version for Essential Studio<sup style="font-size:70%">&reg;</sup> Assemblies
 
-Following are the supported Framework versions of the Essential Studio assemblies
+Following are the supported Framework versions of the Essential Studio<sup style="font-size:70%">&reg;</sup> assemblies
 
 <table>
 <tr>
-<th>Essential Studio platform</th>
+<th>Essential Studio<sup style="font-size:70%">&reg;</sup> platform</th>
 <th>Supported Framework version</th>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ Following are the supported Framework versions of the Essential Studio assemblie
 <td>.NET Framework 4.0 to 4.6, .NET Core 3.1, .NET 5.0, and .NET8.0</td>
 </tr>
 <tr>
-<td>ASP.NET MVC (Essential JS 2)</td>
+<td>ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</td>
 <td>MVC 4 and MVC 5</td>
 </tr>
 </table>
