@@ -9,33 +9,33 @@ documentation: ug
 ---
 
 
-# Essential Studio Platform Framework Add-Ons
+# Essential Studio<sup style="font-size:70%">&reg;</sup> Platform Framework Add-Ons
 
 
-## Downloading Syncfusion Essential Studio Platform Framework Add-On installer
+## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Platform Framework Add-On installer
 
-1. The Framework Add On installer is available under your registered Syncfusion account in the [License and Downloads](https://www.syncfusion.com/account/downloads) page.
+1. The Framework Add On installer is available under your registered Syncfusion<sup style="font-size:70%">&reg;</sup> account in the [License and Downloads](https://www.syncfusion.com/account/downloads) page.
 
    N> * The Framework Add-Ons can only be downloaded and installed by customers who have a valid license.
    * Trial users will not be able to access this.
 
-2. Select the required Essential Studio version and then click **More Download Options**.
+2. Select the required Essential Studio<sup style="font-size:70%">&reg;</sup> version and then click **More Download Options**.
 
-   N> Syncfusion has started providing Framework Add On installer from 2018 Volume 4 release (v16.4.0.42)
+   N> Syncfusion<sup style="font-size:70%">&reg;</sup> has started providing Framework Add On installer from 2018 Volume 4 release (v16.4.0.42)
 
    ![Download](Framework-Add-On-images/FrameworkAddOn7.png)
 
-3. The Syncfusion Framework Add-On installer can be found in the **Add-On** section.
+3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Framework Add-On installer can be found in the **Add-On** section.
 
    ![Download](Framework-Add-On-images/FrameworkAddOn8.png)
 
 
 
-## Installing Syncfusion Essential Studio Platform Framework Add-On installer
+## Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Platform Framework Add-On installer
 
 ## Overview
 
-Starting with version 16.4.0.* (2018 Volume 4), Syncfusion has removed the .NET Framework 4.5.1 and MVC3 assemblies and provide the separate Framework Add-On installer for the following platforms. . 
+Starting with version 16.4.0.* (2018 Volume 4), Syncfusion<sup style="font-size:70%">&reg;</sup> has removed the .NET Framework 4.5.1 and MVC3 assemblies and provide the separate Framework Add-On installer for the following platforms. . 
 
 * Windows Forms
 * WPF
@@ -50,9 +50,9 @@ To install the above framework add-ons, the corresponding Essential Studio pla
 
 ## Step-by-Step Installation
 
-The steps below show how to install the Syncfusion Platform Framework Add-On installer.
+The steps below show how to install the Syncfusion<sup style="font-size:70%">&reg;</sup> Platform Framework Add-On installer.
 
-1.	Open the Syncfusion Platform Framework Add-On installer file by double-clicking it. The welcome wizard will appear. Click Next button.
+1.	Open the Syncfusion<sup style="font-size:70%">&reg;</sup> Platform Framework Add-On installer file by double-clicking it. The welcome wizard will appear. Click Next button.
 
     ![Framework Add On](Framework-Add-On-images/FrameworkAddOn2.png)
 
@@ -62,11 +62,11 @@ The steps below show how to install the Syncfusion Platform Framework Add-On ins
 
     ![Framework Add On](Framework-Add-On-images/FrameworkAddOn3.png)
 
-3.  The **Ready To Install** wizard will appear. To proceed with the installation of the Syncfusion Framework Add-On installer, click **Install**.
+3.  The **Ready To Install** wizard will appear. To proceed with the installation of the Syncfusion<sup style="font-size:70%">&reg;</sup> Framework Add-On installer, click **Install**.
 
     ![Framework Add On](Framework-Add-On-images/FrameworkAddOn4.png)
 
-4.  The installation of the Syncfusion Framework Add-On will begin.
+4.  The installation of the Syncfusion<sup style="font-size:70%">&reg;</sup> Framework Add-On will begin.
 
     ![Framework Add On](Framework-Add-On-images/FrameworkAddOn5.png)
 
@@ -74,7 +74,7 @@ The steps below show how to install the Syncfusion Platform Framework Add-On ins
   
     ![Framework Add On](Framework-Add-On-images/FrameworkAddOn6.png)
 	
-    The Framework 4.5.1 assemblies can now be found in the Syncfusion Essential Studio Product installation directory.
+    The Framework 4.5.1 assemblies can now be found in the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Product installation directory.
 
     **Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\ {Platform}\ {version}\precompiledassemblies
 
@@ -82,5 +82,5 @@ The steps below show how to install the Syncfusion Platform Framework Add-On ins
 
 ## Toolbox Configuration
 
-After installing the Syncfusion Platform Framework Add-On, you can use the [Syncfusion Toolbox Installer](https://help.syncfusion.com/common/essential-studio/utilities#for-wpf-windows-forms-and-aspnet-web-forms-platforms) to configure the Framework 4.5.1 controls in the Visual Studio toolbox.
+After installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Platform Framework Add-On, you can use the [Syncfusion Toolbox Installer](https://help.syncfusion.com/common/essential-studio/utilities#for-wpf-windows-forms-and-aspnet-web-forms-platforms) to configure the Framework 4.5.1 controls in the Visual Studio toolbox.
 

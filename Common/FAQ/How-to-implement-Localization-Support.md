@@ -9,14 +9,14 @@ documentation: ug
 
 # How to implement Localization Support?
 
-Syncfusion Essential Studio products enable you to customize the application, specific to the language and culture of a particular country or region. 
+Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> products enable you to customize the application, specific to the language and culture of a particular country or region. 
 
 
 ## WPF
 
 You can use this satellite assembly to utilize the localization support for your culture. The following steps help you extract the resource strings to a .csv file using the LocBaml.exe file, as a major part of enabling localization.
 
-The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localization support for the Syncfusion controls. This assembly is available in the following installation location:
+The Syncfusion.Tools.WPF.Resources.dll is sufficient to generate the localization support for the Syncfusion<sup style="font-size:70%">&reg;</sup> controls. This assembly is available in the following installation location:
 
 **Location:** {Installed_location}\Syncfusion\Essential Studio\<Version Number>\Assemblies\3.5
 
@@ -74,7 +74,7 @@ At the end of this process, the application should contain the following to achi
 
 * Your Application.exe file
 * The en-US directory with Resources.dll
-* The fr-CH directory with corresponding Resources.dll and Syncfusion Assemblies, when you have set CopyLocal to True.
+* The fr-CH directory with corresponding Resources.dll and Syncfusion<sup style="font-size:70%">&reg;</sup> Assemblies, when you have set CopyLocal to True.
 
 #### Calendar control in French language
 
@@ -92,7 +92,7 @@ The following image illustrates Calendar control in the French language.
 
 In Silverlight, the easiest way to accomplish localization is to use a Resource (.resx) file. For each culture you want to target, you need a separate set of resources that match that specific culture. 
 
-The following are the primary steps for localizing the Syncfusion Ribbon Control.
+The following are the primary steps for localizing the Syncfusion<sup style="font-size:70%">&reg;</sup> Ribbon Control.
 
 * Add Resources for different cultures.
 * Add supported cultures.
@@ -100,13 +100,13 @@ The following are the primary steps for localizing the Syncfusion Ribbon Control
 
 ### Add Resources
 
-To localize Syncfusion Silverlight controls, you need to create resource files for each culture. 
+To localize Syncfusion<sup style="font-size:70%">&reg;</sup> Silverlight controls, you need to create resource files for each culture. 
 
 The following steps illustrate this:
 
 1. Add Resource (.resx) files in the Resources folder for different cultures. Here, .resx files in a different culture or invariant culture should be placed in the Resources folder of your project.
 2. Resource files should be named as AssemblyName.CultureName.resx and AssemblyName.resx for the invariant culture, where
-   * **AssemblyName** – Syncfusion Silverlight Control Assembly Name.
+   * **AssemblyName** – Syncfusion<sup style="font-size:70%">&reg;</sup> Silverlight Control Assembly Name.
    * **CultureName** – Culture Code of the resource that you want to show in the UI. 
 
 When your conversion is only for the invariant culture, the .resx file does not have to contain a culture suffix.
