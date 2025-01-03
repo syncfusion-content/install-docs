@@ -7,16 +7,16 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Supported OS details for Essential Studio versions
+# Supported OS details for Essential Studio<sup style="font-size:70%">&reg;</sup> versions
 
-The tables in this topic provide the details of which Syncfusion versions are supported by the corresponding Operating Systems.
+The tables in this topic provide the details of which Syncfusion<sup style="font-size:70%">&reg;</sup> versions are supported by the corresponding Operating Systems.
 
 ## Supported Client Operating Systems
 
 <table>
 <tr>
 <th>Operating System</th>
-<th>Syncfusion Release Version Supported From</th>
+<th>Syncfusion<sup style="font-size:70%">&reg;</sup> Release Version Supported From</th>
 </tr>
 <tr>
 <td>Windows 10</td>
@@ -53,7 +53,7 @@ The tables in this topic provide the details of which Syncfusion versions are su
 <table>
 <tr>
 <th>Operating System</th>
-<th>Syncfusion Release Version Supported From</th>
+<th>Syncfusion<sup style="font-size:70%">&reg;</sup> Release Version Supported From</th>
 </tr>
 <tr>
 <td>Windows Server 2016</td>

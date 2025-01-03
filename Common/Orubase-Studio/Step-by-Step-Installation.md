@@ -11,7 +11,7 @@ documentation: ug
 
 The following procedure illustrates how to install the Orubase Studio setup.
 
-1. Double-click the Syncfusion Orubase Setup file. The Self-ExtractorWizard opens and extracts the package automatically. 
+1. Double-click the Syncfusion<sup style="font-size:70%">&reg;</sup> Orubase Setup file. The Self-ExtractorWizard opens and extracts the package automatically. 
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
@@ -19,7 +19,7 @@ The following procedure illustrates how to install the Orubase Studio setup.
 
 
 
-2. When the unzip operation is complete, the Syncfusion Orubase Studio Setup dialog box opens.
+2. When the unzip operation is complete, the Syncfusion<sup style="font-size:70%">&reg;</sup> Orubase Studio Setup dialog box opens.
 
 
 

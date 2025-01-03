@@ -9,37 +9,37 @@ documentation: ug
 ---
 
 
-# Essential Studio - Digitally Signed Binaries
+# Essential Studio<sup style="font-size:70%">&reg;</sup> - Digitally Signed Binaries
 
 
-## Downloading Syncfusion Essential Studio Digitally Signed Binaries Add-On installer
+## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Digitally Signed Binaries Add-On installer
 
-1. The Digitally Signed Binaries Add On installer is available under your registered Syncfusion account in the [License and Downloads](https://www.syncfusion.com/account/downloads) page.
+1. The Digitally Signed Binaries Add On installer is available under your registered Syncfusion<sup style="font-size:70%">&reg;</sup> account in the [License and Downloads](https://www.syncfusion.com/account/downloads) page.
 
    N> * The Digitally Signed Binaries Add-Ons can only be downloaded and installed by customers who have a valid license.
    * Trial users will not be able to access this.
 
-2. Select the required Essential Studio version and then click **More Download Options**.
+2. Select the required Essential Studio<sup style="font-size:70%">&reg;</sup> version and then click **More Download Options**.
 
-   N> Syncfusion has started providing Digitally Signed Binaries Add On installer from 2018 Volume 4 release (v16.4.0.42)
+   N> Syncfusion<sup style="font-size:70%">&reg;</sup> has started providing Digitally Signed Binaries Add On installer from 2018 Volume 4 release (v16.4.0.42)
 
    ![Download](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img7.png)
 
-3. The Syncfusion Digitally Signed Binaries Add-On installer can be found in the **Add-On** section.
+3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Digitally Signed Binaries Add-On installer can be found in the **Add-On** section.
 
    ![Download](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img8.png)
 
 
-## Installing Syncfusion Essential Studio Digitally Signed Binaries Add-On installer
+## Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Digitally Signed Binaries Add-On installer
 
-Syncfusion's installer includes Digitally Signed Binaries. It uses a.pfx file to sign the Syncfusion assemblies. See [Digitally Signed Binaries](http://www.syncfusion.com/support/kb/7671) for more information. 
+Syncfusion's installer includes Digitally Signed Binaries. It uses a.pfx file to sign the Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies. See [Digitally Signed Binaries](http://www.syncfusion.com/support/kb/7671) for more information. 
 
 I>* Only customers with a valid license can install Essential Studio Digitally Signed Binaries
 * Trial users will not be able to access this.
 
 The steps below show how to install Digitally Signed Binaries installer.
 
-1.  Open the Syncfusion Digitally Signed Binaries installer file by double-clicking it. The installer Wizard automatically opens and extracts the package
+1.  Open the Syncfusion<sup style="font-size:70%">&reg;</sup> Digitally Signed Binaries installer file by double-clicking it. The installer Wizard automatically opens and extracts the package
    
     ![Installer Extraction Wizard](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img1.png)
 
@@ -69,4 +69,4 @@ The steps below show how to install Digitally Signed Binaries installer.
     
     ![Installation Complete](Digitally-Signed-Binaries-images/Digitally-Signed-Assemblies-Setup_img6.png)
 
-8.  After installation, check the **Run Syncfusion Control Panel** box to launch the Syncfusion Control Panel. To exit the installer Wizard, click Finish. Digitally Signed Binaries is installed in your machine.
+8.  After installation, check the **Run Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel** box to launch the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel. To exit the installer Wizard, click Finish. Digitally Signed Binaries is installed in your machine.

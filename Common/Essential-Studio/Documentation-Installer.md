@@ -16,9 +16,9 @@ Documentation is provided for both User Guide and Class Reference.
 
 * User Guide PDF
 
-Syncfusion User Guide has step-by-step procedure so that users can clearly understand the usage of the Syncfusion controls from it. 
+Syncfusion<sup style="font-size:70%">&reg;</sup> User Guide has step-by-step procedure so that users can clearly understand the usage of the Syncfusion<sup style="font-size:70%">&reg;</sup> controls from it. 
 
- User Guide can be accessed from the Syncfusion Control Panel > Documentation.
+ User Guide can be accessed from the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel > Documentation.
 
 ![User Guide](Documentation-Setup_images/User-Guide_img1.png)
 
@@ -30,9 +30,9 @@ You can access the User Guide documentation in any of the below two ways.
 
 ## API Reference
 
-Syncfusion API reference provides a clear understanding for accessing the classes, methods, properties etc. from the Syncfusion assemblies
+Syncfusion<sup style="font-size:70%">&reg;</sup> API reference provides a clear understanding for accessing the classes, methods, properties etc. from the Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies
 
-API Reference can be accessed from the Syncfusion Control Panel > Documentation >
+API Reference can be accessed from the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel > Documentation >
 
 ![API Reference](Documentation-Setup_images/Class-Reference_img1.png)
 

@@ -7,18 +7,18 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Syncfusion Essential Studio Installer Overview
+# Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Installer Overview
 
-Welcome to the Syncfusion Essential Studio product’s user guide documentation. This will help you to get started with Essential Studio.
+Welcome to the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> product’s user guide documentation. This will help you to get started with Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
 ![Essential Studio UG](Documentation_images/Essential-Studio_img1.png)
 
-Essential Studio User Guide
+Essential Studio<sup style="font-size:70%">&reg;</sup> User Guide
 {:.caption}
 
-Syncfusion Essential Studio is a complete suite with 1,800+ UI components and frameworks that can be used for all your desktop, web, and mobile application development needs. Essential Studio consists of .NET libraries and UI controls that provide complete support for building modern Windows Forms, WPF, UWP, ASP.NET MVC, ASP.NET Core, Blazor, JavaScript, Angular, React, Vue, Flutter, WinUI, .NET MAUI and Xamarin applications. The packages can be used in any .NET environment including C#, VB.NET, and managed C++.
+Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> is a complete suite with 1,800+ UI components and frameworks that can be used for all your desktop, web, and mobile application development needs. Essential Studio<sup style="font-size:70%">&reg;</sup> consists of .NET libraries and UI controls that provide complete support for building modern Windows Forms, WPF, UWP, ASP.NET MVC, ASP.NET Core, Blazor, JavaScript, Angular, React, Vue, Flutter, WinUI, .NET MAUI and Xamarin applications. The packages can be used in any .NET environment including C#, VB.NET, and managed C++.
 
-The platforms supported by Syncfusion Essential Studio are listed below.
+The platforms supported by Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> are listed below.
 
 Web
   
