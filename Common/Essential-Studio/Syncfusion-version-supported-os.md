@@ -7,9 +7,9 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Supported OS details for Essential Studio versions
+# Supported OS details for Essential Studio<sup style="font-size:70%">&reg;</sup> versions
 
-The tables in this topic provide the details of which Syncfusion versions are supported by the corresponding Operating Systems.
+The tables in this topic provide the details of which Syncfusion<sup style="font-size:70%">&reg;</sup> versions are supported by the corresponding Operating Systems.
 
 ## Supported Client Operating Systems
 

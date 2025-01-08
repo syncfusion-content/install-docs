@@ -23,8 +23,8 @@ Set up a **Private NuGet Server** using IIS and publish the NuGet packages. To b
 
 * Create an ASP.NET Web application with NuGet Server.
 * Host the application in Internet Information Services (IIS).
-* Add Syncfusion packages to the feed.
-* Remove Syncfusion packages from the feed.
+* Add Syncfusion<sup style="font-size:70%">&reg;</sup> packages to the feed.
+* Remove Syncfusion<sup style="font-size:70%">&reg;</sup> packages from the feed.
 * Configure the private NuGet feed to Visual Studio.
 
 ### Create an ASP.NET Web application with NuGet Server
@@ -161,7 +161,7 @@ Use **NuGet.exe** to push NuGet packages in the private feed. The URL for pushin
 	 
 	 
 
-**Example:** NuGet.exe push "D:\NuGet\Syncfusion.Tools.WPF.20.1.0.55.nupkg" B2C4E73388C94E38ACDC4D28E0787DE0 -Source <http://localhost:81/nuget>
+**Example:** NuGet.exe push "D:\NuGet\Syncfusion<sup style="font-size:70%">&reg;</sup>.Tools.WPF.20.1.0.55.nupkg" B2C4E73388C94E38ACDC4D28E0787DE0 -Source <http://localhost:81/nuget>
 	 
  ![NuGet Server](Nuget-server-images/cmd-1.png)
 	 
@@ -175,7 +175,7 @@ N> The APIkey is stored in the web.config file.
 Use **NuGet.exe** to delete the NuGet packages from the feed. The **NuGet delete** command removes the package from the private NuGet feed.
 
 
-**Example:** NuGet.exe delete Syncfusion.Tools.WPF 20.1.0.55 -Source <http://localhost:81/NuGet/> -apikey B2C4E73388C94E38ACDC4D28E0787DE0
+**Example:** NuGet.exe delete Syncfusion<sup style="font-size:70%">&reg;</sup>.Tools.WPF 20.1.0.55 -Source <http://localhost:81/NuGet/> -apikey B2C4E73388C94E38ACDC4D28E0787DE0
 
  ![NuGet Server](Nuget-server-images/cmd-2.png)
 	 
@@ -203,7 +203,7 @@ To add the private NuGet feed link using Visual Studio.
 	   
 	 
 
-3.	Select the **Browse** tab, and your NuGet packages from your Private NuGet feed will now be listed. Click **Install** to install the Syncfusion packages from your Private NuGet feed.
+3.	Select the **Browse** tab, and your NuGet packages from your Private NuGet feed will now be listed. Click **Install** to install the Syncfusion<sup style="font-size:70%">&reg;</sup> packages from your Private NuGet feed.
 
 	 ![NuGet Server](Nuget-server-images/Nuget-browse.png)
 
