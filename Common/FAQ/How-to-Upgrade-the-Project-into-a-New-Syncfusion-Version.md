@@ -7,28 +7,28 @@ control: Essential Studio
 documentation: ug
 ---
 
-# How to Upgrade the Project into a New Syncfusion Version? 
+# How to Upgrade the Project into a New Syncfusion<sup style="font-size:70%">&reg;</sup>  Version? 
 
 
 ## Upgrade the Project Using Project Migration Tool
 
-Syncfusion provides project migration tool for the platforms listed below.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides project migration tool for the platforms listed below.
 
 <table>
 <tr>
 <th>Platform</th>
-<th>Guidelines for migrating the projects to latest Syncfusion version</th>
+<th>Guidelines for migrating the projects to latest Syncfusion<sup style="font-size:70%">&reg;</sup>  version</th>
 </tr>
 <tr>
 <td>Blazor</td>
 <td><a href="https://help.syncfusion.com/extension/blazor-extension/visual-studio/upgrade-project" target="_top">Blazor Migration using Visual Studio</a><br><a href="https://help.syncfusion.com/extension/blazor-extension/visual-studio-code/upgrade-project" target="_top">Blazor Migration using Visual Studio Code</a></td>
 </tr>
 <tr>
-<td>ASP.NET Core (Essential JS 2)</td>
+<td>ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</td>
 <td><a href="https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/project-migration" target="_top">ASP.NET Core - JS 2 Migration</a></td>
 </tr>
 <tr>
-<td>ASP.NET MVC (Essential JS 2)</td>
+<td>ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</td>
 <td><a href="https://help.syncfusion.com/extension/aspnetmvc-essentialjs2-extension/project-migration" target="_top">ASP.NET MVC - JS 2 Migration</a></td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ Syncfusion provides project migration tool for the platforms listed below.
 
 ## Upgrading the Projects Manually
 
-You can upgrade the project in two methods, based on the procedure used in your project, to reference the Syncfusion assemblies. They are:
+You can upgrade the project in two methods, based on the procedure used in your project, to reference the Syncfusion<sup style="font-size:70%">&reg;</sup>  assemblies. They are:
 
 ### CopyLocal=True
 
@@ -58,23 +58,23 @@ You can upgrade the project in two methods, based on the procedure used in your 
 
 ### CopyLocal=False
 
-1. Ensure that the old Syncfusion assemblies are removed from GAC.
+1. Ensure that the old Syncfusion<sup style="font-size:70%">&reg;</sup>  assemblies are removed from GAC.
    * For 2.0 and 3.5 assemblies: (C:\windows\assembly)
    * For 4.0, 4.5, and 4.5.1 assemblies: (C:\Windows\Microsoft.NET\assembly\GAC_MSIL)
-2. Install the latest Syncfusion assemblies on your machine using the Syncfusion Assembly Manager.
+2. Install the latest Syncfusion<sup style="font-size:70%">&reg;</sup>  assemblies on your machine using the Syncfusion<sup style="font-size:70%">&reg;</sup>  Assembly Manager.
 3. Set the SpecificVersion to False.
 4. Recompile your project; the latest assemblies from GAC refer to your project automatically. 
    
    ![Manual Upgradation](Upgrading-the-Projects-Manually_images/Upgrading-the-Projects-Manually_img1.png)
 
-N> This method is only applicable to the platforms listed below, for which the Syncfusion assemblies will be installed in GAC.
+N> This method is only applicable to the platforms listed below, for which the Syncfusion<sup style="font-size:70%">&reg;</sup>  assemblies will be installed in GAC.
 <br>
 * WPF
 * Windows Forms
 
 ### Switching the Framework Version While Upgrading the Project
 
-When you want to switch the Framework version while upgrading the project, use the Multi-Target Manager from the Syncfusion Dashboard.
+When you want to switch the Framework version while upgrading the project, use the Multi-Target Manager from the Syncfusion<sup style="font-size:70%">&reg;</sup>  Dashboard.
 
 After switching the Framework version using Multi-Target Manager, remove the bin and obj folders from your local project directory, and then recompile your project.
 
@@ -84,7 +84,7 @@ For more details about Multi-Target Manager, refer to [Multi-Target Manager](htt
 
 Follow the given steps to move the resource files (.resx) of your project to the newer version:
 
-1. Open Start > Syncfusion > Essential Studio x.x.x.x > Utilities > Migration > ConvertResx(Framework 2.0,3.5 or 4.0).
+1. Open Start > Syncfusion<sup style="font-size:70%">&reg;</sup>  > Essential Studio<sup style="font-size:70%">&reg;</sup>  x.x.x.x > Utilities > Migration > ConvertResx(Framework 2.0,3.5 or 4.0).
 2. Click the Choose ResX Files to convert.
 3. Select the Resx files you want to convert.
 4. Click Start Converting Files.

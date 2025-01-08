@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio WebKit HTML converter Add-on installer - Syncfusion
-description: Learn here about how to download the Syncfusion Essential Studio WebKit HTML converter Add-on installer from our Syncfusion website with license.
+title: Downloading Syncfusion  Essential Studio  WebKit HTML converter Add-on installer - Syncfusion
+description: Learn here about how to download the Syncfusion  Essential Studio  WebKit HTML converter Add-on installer from our Syncfusion  website with license.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -12,11 +12,11 @@ documentation: ug
 # WebKit HTML converter
 
 
-## Downloading Syncfusion Essential Studio WebKit HTML converter Add-on installer
+## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  WebKit HTML converter Add-on installer
 
-1. Essential Studio WebKit HTML converter Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
+1. Essential Studio<sup style="font-size:70%">&reg;</sup>  WebKit HTML converter Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
 
-2. Syncfusion WebKit HTML converter Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the WebKit HTML converter license.
+2. Syncfusion<sup style="font-size:70%">&reg;</sup>  WebKit HTML converter Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the WebKit HTML converter license.
 
 3. WebKit HTML converter Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
 
@@ -24,15 +24,15 @@ documentation: ug
 
 
 
-## Installing Syncfusion Essential Studio WebKit HTML converter Add-on installer
+## Installing Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  WebKit HTML converter Add-on installer
 
-Syncfusion introduces the HTML converter in Essential Studio 13.1.0.21, which supports HTML to PDF conversion by using the advanced Qt WebKit rendering engine. This converter can easily be integrated into any.NET application such as Windows Forms, WPF, ASP.NET, ASP.NET MVC, and ASP.NET Core to convert URLs, HTML strings, SVG, and MHTML to PDF, as well as HTML to MHTML, HTML to SVG, and HTML to image.
+Syncfusion introduces the HTML converter in Essential Studio<sup style="font-size:70%">&reg;</sup>  13.1.0.21, which supports HTML to PDF conversion by using the advanced Qt WebKit rendering engine. This converter can easily be integrated into any.NET application such as Windows Forms, WPF, ASP.NET, ASP.NET MVC, and ASP.NET Core to convert URLs, HTML strings, SVG, and MHTML to PDF, as well as HTML to MHTML, HTML to SVG, and HTML to image.
 
 ## Step-by-Step Installation
 
 The steps for installing the HTML Converter installer are as follows.
 
-1. Run the Syncfusion HTML Converter Installer by double-clicking it. The installer Wizard automatically opens and extracts the package.
+1. Run the Syncfusion<sup style="font-size:70%">&reg;</sup>  HTML Converter Installer by double-clicking it. The installer Wizard automatically opens and extracts the package.
 
    ![Installer Extraction Wizard](WebKit-HTML-converter-images/Step-by-Step-Installation_img1.png)
 
@@ -60,17 +60,17 @@ The steps for installing the HTML Converter installer are as follows.
 
 5. Click Finish.  HTML converter is installed in your machine.
 
-N> Starting with v20.1.0.x, if you reference Syncfusion HTML converter assemblies from trial setup or from the NuGet feed, include a license key in your projects. Refer to the [link](https://help.syncfusion.com/file-formats/licensing/overview) to learn about generating and registering Syncfusion license key in your application to use the components without trail message.
+N> Starting with v20.1.0.x, if you reference Syncfusion<sup style="font-size:70%">&reg;</sup>  HTML converter assemblies from trial setup or from the NuGet feed, include a license key in your projects. Refer to the [link](https://help.syncfusion.com/file-formats/licensing/overview) to learn about generating and registering Syncfusion<sup style="font-size:70%">&reg;</sup>  license key in your application to use the components without trail message.
 
 ## Command Line 
 
-Command Line Install and Uninstall are supported by the Syncfusion  HTML converter Installer. The following section demonstrate this ability.
+Command Line Install and Uninstall are supported by the Syncfusion<sup style="font-size:70%">&reg;</sup>   HTML converter Installer. The following section demonstrate this ability.
 
 ### Command Line Installation
 
 Follow the given steps to install through Command Line in Silent mode.
 
-1. Double-click the Syncfusion  HTML converter Installer to launch it. The Self-Extractor Wizard automatically opens and extracts the package.
+1. Double-click the Syncfusion<sup style="font-size:70%">&reg;</sup>   HTML converter Installer to launch it. The Self-Extractor Wizard automatically opens and extracts the package.
 2. The syncfusionessentialhtmlconverter_(version).exe file is extracted into the Temp folder. 
 3. Run %temp%. The Temp folder opens. The syncfusionessentialhtmlconverter_(version).exe file is available in one of the folders.
 4. Copy the syncfusionessentialhtmlconverter_(version).exe file in local drive. Example: D:\temp
@@ -89,10 +89,10 @@ Follow the given steps to install through Command Line in Silent mode.
    
 ### Command Line Uninstallation
 
-Uninstalling Syncfusion  HTML converter Installer via Command Line in Silent mode is possible. The steps below will assist you in uninstalling the  HTML converter.
+Uninstalling Syncfusion<sup style="font-size:70%">&reg;</sup>   HTML converter Installer via Command Line in Silent mode is possible. The steps below will assist you in uninstalling the  HTML converter.
 
 1. When you do not have the extracted installer (syncfusionessentialhtmlconverter_(version).exe) then follow the steps from 2 to 7.
-2. Double-click the Syncfusion Essential Studio installer. The Self-ExtractorWizard opens and extracts the package automatically.
+2. Double-click the Syncfusion Essential Studio<sup style="font-size:70%">&reg;</sup>  installer. The Self-ExtractorWizard opens and extracts the package automatically.
 3. The syncfusionessentialhtmlconverter_(version).exe file gets extracted into the Temp folder.
 4. Run %temp%. The Temp folder opens. The syncfusionessentialhtmlconverter_(version).exe file is available in one of the folders.
 5. Copy the syncfusionessentialhtmlconverter_(version).exe file in local drive. Example: D:\temp

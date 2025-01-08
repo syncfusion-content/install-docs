@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Installation Errors of Essential Studio | Syncfusion
+title: Installation Errors of Essential Studio  | Syncfusion
 description: Learn here some information about the essential studio installation errors and steps for resolving it.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio Installation Errors
+# Essential Studio<sup style="font-size:70%">&reg;</sup>  Installation Errors
 
 This article describes the most common installation errors, as well as the causes and solutions to those errors.
 
@@ -21,7 +21,7 @@ This article describes the most common installation errors, as well as the cause
 
 ### Problem
 
-**Error Message:** Sorry, the provided unlock key is a trial unlock key and cannot be used to unlock the licensed version of our Essential Studio for {platform} installer
+**Error Message:** Sorry, the provided unlock key is a trial unlock key and cannot be used to unlock the licensed version of our Essential Studio<sup style="font-size:70%">&reg;</sup>  for {platform} installer
 
 ![Alert Message](Errors/Installation_Errors_img1.png)
 
@@ -38,7 +38,7 @@ Only a licensed unlock key can unlock a licensed installer. So, to unlock the Li
 
 ### Problem
 
-**Error Message:** Your license for Syncfusion Essential Studio for {platform} has been expired since {date}. Please renew your subscription and try again
+**Error Message:** Your license for Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  for {platform} has been expired since {date}. Please renew your subscription and try again
 
 **Online Installer**
 
@@ -62,7 +62,7 @@ You can choose from the options listed below.
 
 ### Problem
 
-**Error Message:** Sorry, we are unable to find a valid license or trial for Essential Studio for {Platform} under your account.
+**Error Message:** Sorry, we are unable to find a valid license or trial for Essential Studio<sup style="font-size:70%">&reg;</sup>  for {Platform} under your account.
 
 <em>**Offline installer**</em>
 
@@ -105,7 +105,7 @@ You are trying to install when another installation is already running in your m
 
 ### Suggested solution
 
-Open and kill the msiexec process in the task manager and then continue to install Syncfusion. If the problem is still present, restart the computer and try Syncfusion installer. 
+Open and kill the msiexec process in the task manager and then continue to install Syncfusion. If the problem is still present, restart the computer and try Syncfusion<sup style="font-size:70%">&reg;</sup>  installer. 
 
 1. Open the Windows Task Manager.
 

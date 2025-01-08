@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# How to resolve the "Preparing to Install" issue that occurs during Essential Studio installation?
+# How to resolve the "Preparing to Install" issue that occurs during Essential Studio<sup style="font-size:70%">&reg;</sup>  installation?
 
-This issue may arise when the Essential Studio installation has not been started in your machine. For more information on resolving this, see [Preparing to Install](https://www.syncfusion.com/kb/5119/how-to-solve-the-preparing-to-install-issue).
+This issue may arise when the Essential Studio<sup style="font-size:70%">&reg;</sup>  installation has not been started in your machine. For more information on resolving this, see [Preparing to Install](https://www.syncfusion.com/kb/5119/how-to-solve-the-preparing-to-install-issue).
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Overview of Syncfusion license validation in CI services - Syncfusion
-description: Learn here about how to register Syncfusion license key for Syncfusion application for license validation.
+title: Overview of Syncfusion  license validation in CI services - Syncfusion
+description: Learn here about how to register Syncfusion  license key for Syncfusion  application for license validation.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -17,11 +17,11 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 </style>
 
 
-# Syncfusion license key validation in CI services
+# Syncfusion<sup style="font-size:70%">&reg;</sup>  license key validation in CI services
 
-Syncfusion license key validation in CI services ensures that Syncfusion Essential Studio components are properly licensed during CI processes. Validating the license key at the CI level can prevent licensing errors during deployment. Set up the continuous integration process to fail in case the license key validation fails. Validate the passed parameters and the registered license key again to resolve the issue.
+Syncfusion license key validation in CI services ensures that Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  components are properly licensed during CI processes. Validating the license key at the CI level can prevent licensing errors during deployment. Set up the continuous integration process to fail in case the license key validation fails. Validate the passed parameters and the registered license key again to resolve the issue.
 
-The following section shows how to validate the Syncfusion license key in CI services.
+The following section shows how to validate the Syncfusion<sup style="font-size:70%">&reg;</sup>  license key in CI services.
 
 * Download and extract the LicenseKeyValidator.zip utility from the following link: [LicenseKeyValidator](https://s3.amazonaws.com/files2.syncfusion.com/Installs/LicenseKeyValidation/LicenseKeyValidator.zip).
 
@@ -49,7 +49,7 @@ Write-Host $result
   
   **License Key:** Replace the value for /licensekey: with your actual license key (e.g., "Your License Key"). 
   
-  N> This feature is available only for the following Syncfusion Essential Studio platforms starting from version 16.2.0.41: WPF, Windows Forms, WinUI, UWP, MAUI, Xamarin, Blazor, FileFormats.
+  N> This feature is available only for the following Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  platforms starting from version 16.2.0.41: WPF, Windows Forms, WinUI, UWP, MAUI, Xamarin, Blazor, FileFormats.
 
 ## Azure Pipelines (YAML)
 
@@ -71,7 +71,7 @@ steps:
     targetType: filePath
     filePath: $(LICENSE_VALIDATION) #Or the actual path to the LicenseKeyValidation.ps1 script.
   
-  displayName: Syncfusion License Validation 
+  displayName: Syncfusion<sup style="font-size:70%">&reg;</sup>  License Validation 
 {% endhighlight %}
 {% endtabs %}
 
@@ -87,12 +87,12 @@ steps:
 
 * To execute the script in PowerShell as part of a GitHub Actions workflow, include a step in the configuration file and update the path of the LicenseKeyValidation.ps1 script file (e.g., D:\LicenseKeyValidator\LicenseKeyValidation.ps1).
 
-The following example shows the syntax for validating the Syncfusion license key in GitHub actions.
+The following example shows the syntax for validating the Syncfusion<sup style="font-size:70%">&reg;</sup>  license key in GitHub actions.
 
 {% tabs %}
 {% highlight c# tabtitle="YAML" %}
   steps:
-  - name: Syncfusion License Validation
+  - name: Syncfusion<sup style="font-size:70%">&reg;</sup>  License Validation
     shell: pwsh
     run: |
 	  ./path/LicenseKeyValidator/LicenseKeyValidation.ps1
@@ -105,7 +105,7 @@ The following example shows the syntax for validating the Syncfusion license key
 
 * Include a stage in Jenkins to execute the LicenseKeyValidation.ps1 script in PowerShell. 
 
-The following example shows the syntax for validating the Syncfusion license key in the Jenkins pipeline.
+The following example shows the syntax for validating the Syncfusion<sup style="font-size:70%">&reg;</sup>  license key in the Jenkins pipeline.
 
 {% tabs %}
 {% highlight json %}
@@ -135,7 +135,7 @@ pipeline {
 {% highlight c# %}
 using Syncfusion.Licensing;
 
-//Register Syncfusion license key 
+//Register Syncfusion<sup style="font-size:70%">&reg;</sup>  license key 
 Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 //Validate the registered license key
@@ -149,7 +149,7 @@ N> Followings are the applicable list of platforms that can be passed to the Val
 
 * If the ValidateLicense() method returns true, registered license key is valid and can proceed with deployment.
 
-* If the ValidateLicense() method returns false, there will be invalid license errors in deployment due to either an invalid license key or an incorrect assembly or package version that is referenced in the project. Please ensure that all the referenced Syncfusion assemblies or NuGet packages are all on the same version as the license key’s version before deployment. 
+* If the ValidateLicense() method returns false, there will be invalid license errors in deployment due to either an invalid license key or an incorrect assembly or package version that is referenced in the project. Please ensure that all the referenced Syncfusion<sup style="font-size:70%">&reg;</sup>  assemblies or NuGet packages are all on the same version as the license key’s version before deployment. 
 
 ## Validate the License Key By Using the Unit Test Project 
 
@@ -172,7 +172,7 @@ N> * Place the license key between double quotes. Also, ensure that Syncfusion.L
 public void TestSyncfusionWPFLicense()
 {
 	var platform = Platform.WPF;
-	// Register the Syncfusion license key
+	// Register the Syncfusion<sup style="font-size:70%">&reg;</sup>  license key
 	SyncfusionLicenseProvider.RegisterLicense("Your License Key");
 
 	bool isValidLicense = SyncfusionLicenseProvider.ValidateLicense(platform, out var validationMessage);
