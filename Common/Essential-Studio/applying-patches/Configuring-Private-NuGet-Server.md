@@ -23,8 +23,8 @@ Set up a **Private NuGet Server** using IIS and publish the NuGet packages. To b
 
 * Create an ASP.NET Web application with NuGet Server.
 * Host the application in Internet Information Services (IIS).
-* Add Syncfusion packages to the feed.
-* Remove Syncfusion packages from the feed.
+* Add Syncfusion<sup style="font-size:70%">&reg;</sup> packages to the feed.
+* Remove Syncfusion<sup style="font-size:70%">&reg;</sup> packages from the feed.
 * Configure the private NuGet feed to Visual Studio.
 
 ### Create an ASP.NET Web application with NuGet Server
@@ -203,7 +203,7 @@ To add the private NuGet feed link using Visual Studio.
 	   
 	 
 
-3.	Select the **Browse** tab, and your NuGet packages from your Private NuGet feed will now be listed. Click **Install** to install the Syncfusion packages from your Private NuGet feed.
+3.	Select the **Browse** tab, and your NuGet packages from your Private NuGet feed will now be listed. Click **Install** to install the Syncfusion<sup style="font-size:70%">&reg;</sup> packages from your Private NuGet feed.
 
 	 ![NuGet Server](Nuget-server-images/Nuget-browse.png)
 

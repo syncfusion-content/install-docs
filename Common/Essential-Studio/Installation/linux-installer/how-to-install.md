@@ -7,13 +7,13 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Installing Syncfusion Essential Studio Linux installer
+# Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Linux installer
 
 ## Step-by-Step Installation
 
-The steps below show how to install Essential Studio Linux installer.
+The steps below show how to install Essential Studio<sup style="font-size:70%">&reg;</sup> Linux installer.
 
-1. Extract the Syncfusion Essential Studio Linux installer(.zip) file. The files are extracted in your machine.
+1. Extract the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Linux installer(.zip) file. The files are extracted in your machine.
 
    ![Welcome wizard](images/Linux_Installer1.png)
    
@@ -42,7 +42,7 @@ After the installation, the license key is required to register the demo source 
 <th>Registration steps</th>
 </tr>
 <tr>
-<td>ASPNET CORE (Essential JS 2)</td>
+<td>ASPNET CORE (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</td>
 <td>Register the license key in Configure method of {{ '[Startup.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#aspnet-core)' | markdownify }}</td>
 </tr>
 <tr>
@@ -51,11 +51,11 @@ After the installation, the license key is required to register the demo source 
 </tr>
 <tr>
 <td>Flutter</td>
-<td>If you are using Syncfusion controls prior to version 18.3.0.x, please follow the following steps to register your license key.<br /><br />Register the license key in the {{ '[main method](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#flutter)' | markdownify }} of your example and import the ‘syncfusion_flutter_core/core.dart’ library.</td>
+<td>If you are using Syncfusion<sup style="font-size:70%">&reg;</sup> controls prior to version 18.3.0.x, please follow the following steps to register your license key.<br /><br />Register the license key in the {{ '[main method](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#flutter)' | markdownify }} of your example and import the ‘syncfusion_flutter_core/core.dart’ library.</td>
 </tr>
 <tr>
-<td>JavaScript (Essential JS 2)</td>
-<td>Only from 2022 Vol 1 v20.1.0.47, {{ '[license key registration](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#javascript-essential-js-2)' | markdownify }} required for Essential JavaScript 2 products.</td>
+<td>JavaScript (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</td>
+<td>Only from 2022 Vol 1 v20.1.0.47, {{ '[license key registration](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#javascript-essential-js-2)' | markdownify }} required for Essential<sup style="font-size:70%">&reg;</sup> JavaScript 2 products.</td>
 </tr>
 <tr>
 <td>.NET MAUI</td>
@@ -63,7 +63,7 @@ After the installation, the license key is required to register the demo source 
 </tr>
 </table>
 
-N> Syncfusion provides the Linux installer for the following Essential Studio products.
+N> Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Linux installer for the following Essential Studio<sup style="font-size:70%">&reg;</sup> products.
 <br>
 * Blazor
 * Flutter
