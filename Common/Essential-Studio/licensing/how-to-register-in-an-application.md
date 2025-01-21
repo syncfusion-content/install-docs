@@ -236,7 +236,7 @@ Register the license key in **App.xaml.cs** constructor before InitializeCompone
 {% highlight c# %}
 public App()
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup>  license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 	this.InitializeComponent();
