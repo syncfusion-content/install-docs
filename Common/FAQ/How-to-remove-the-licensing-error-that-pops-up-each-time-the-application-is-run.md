@@ -10,11 +10,11 @@ documentation: ug
 # How to omit the license error alert while the application is running?
 
 
-## Resolving the licensing issues for the Syncfusion<sup style="font-size:70%">&reg;</sup>  versions before 8.2.0.x
+## Resolving the licensing issues for the Syncfusion<sup style="font-size:70%">&reg;</sup> versions before 8.2.0.x
 
-When your project has been referred with older Syncfusion<sup style="font-size:70%">&reg;</sup>  version assemblies before v8.2, follow the given steps to resolve the licensing error.
+When your project has been referred with older Syncfusion<sup style="font-size:70%">&reg;</sup> version assemblies before v8.2, follow the given steps to resolve the licensing error.
 
-The following information provides troubleshooting tips that help you configure the system for a specific version of Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio, and to avoid common licensing issues due to version conflicts.
+The following information provides troubleshooting tips that help you configure the system for a specific version of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>, and to avoid common licensing issues due to version conflicts.
 
 1. Open the project in any text editor and ensure that only one Syncfusion.Core entry is referenced. When more than one entry is available, remove it.
 2. Reload the application and then remove the bin and obj folders. 
@@ -53,9 +53,9 @@ The following steps help you to embed the License.licx file as an embedded resou
 
 8. Click Fix It.
 
-9. The Syncfusion<sup style="font-size:70%">&reg;</sup>  Licensing Enabler dialog box opens. 
+9. The Syncfusion<sup style="font-size:70%">&reg;</sup> Licensing Enabler dialog box opens. 
    
-   ![Syncfusion Licensing Enabler dialog](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img3.jpeg)
+   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Licensing Enabler dialog](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img3.jpeg)
 
 
 
@@ -69,7 +69,7 @@ The following steps help you to embed the License.licx file as an embedded resou
 
 12. Click Reload. 
 
-    This message appears because the .exe.licenses file shown in the following screenshot has been modified to include the Syncfusion<sup style="font-size:70%">&reg;</sup>  licensing information. To embed this information into the output EXE, you must rebuild the application. Verify whether this file has the Syncfusion<sup style="font-size:70%">&reg;</sup>  version information you have the license to. If the file has information for any other version, every time you run the application, the Licensing Error message will appear.  
+    This message appears because the .exe.licenses file shown in the following screenshot has been modified to include the Syncfusion<sup style="font-size:70%">&reg;</sup> licensing information. To embed this information into the output EXE, you must rebuild the application. Verify whether this file has the Syncfusion<sup style="font-size:70%">&reg;</sup> version information you have the license to. If the file has information for any other version, every time you run the application, the Licensing Error message will appear.  
     
 	![Licensing Message](Resolving-the-licensing-Issues-for-the-older-Syncf_images/Resolving-the-licensing-Issues-img5.jpeg)
 
@@ -77,14 +77,14 @@ The following steps help you to embed the License.licx file as an embedded resou
 
 13. Rebuild and run the application again. The above mentioned messages are no longer displayed.
 
-## Resolving the licensing issues for the Syncfusion<sup style="font-size:70%">&reg;</sup>  versions from 8.2.0.x to 13.1.0.x
+## Resolving the licensing issues for the Syncfusion<sup style="font-size:70%">&reg;</sup> versions from 8.2.0.x to 13.1.0.x
 
-When your project has been referred with Syncfusion<sup style="font-size:70%">&reg;</sup>  version assemblies from v8.2 to 13.1, follow the given steps to resolve the licensing error.
+When your project has been referred with Syncfusion<sup style="font-size:70%">&reg;</sup> version assemblies from v8.2 to 13.1, follow the given steps to resolve the licensing error.
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> removed run-time licensing, for all Essential Studio<sup style="font-size:70%">&reg;</sup>  products, from the version 8.2.0.x. So, it is not required to embed the license.licx file in your project. Remove the license.licx file from the project, when it has already been added.
+Syncfusion<sup style="font-size:70%">&reg;</sup> removed run-time licensing, for all Essential Studio<sup style="font-size:70%">&reg;</sup> products, from the version 8.2.0.x. So, it is not required to embed the license.licx file in your project. Remove the license.licx file from the project, when it has already been added.
  
 
-The following steps are provided to resolve the licensing issues for the Syncfusion<sup style="font-size:70%">&reg;</sup>  versions from **8.2 to 13.1:**
+The following steps are provided to resolve the licensing issues for the Syncfusion<sup style="font-size:70%">&reg;</sup> versions from **8.2 to 13.1:**
 
 1. Ensure that the Unlock Key for the respective version, has been installed properly in the registry using the License Manager utility from the Dashboard.
    
@@ -102,7 +102,7 @@ The following steps are provided to resolve the licensing issues for the Syncfus
 
 4. Reload your project in Visual Studio.
 
-5. Set the Copy as Local and set the Specific Version property to True for all Syncfusion<sup style="font-size:70%">&reg;</sup>  referenced assemblies.
+5. Set the Copy as Local and set the Specific Version property to True for all Syncfusion<sup style="font-size:70%">&reg;</sup> referenced assemblies.
    
    ![Copy Local](Resolving-the-licensing-issues-for-the-Syncfusion-_images/Resolving-the-licensing-issues_img3.png)
 
@@ -111,12 +111,12 @@ The following steps are provided to resolve the licensing issues for the Syncfus
 6. Rebuild your application.
 
 
-## Licensing information for the Syncfusion<sup style="font-size:70%">&reg;</sup>  versions from v13.2.0.29 and later
+## Licensing information for the Syncfusion<sup style="font-size:70%">&reg;</sup> versions from v13.2.0.29 and later
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> has removed the Syncfusion.Core dependency for all the Essential Studio<sup style="font-size:70%">&reg;</sup>  products from v13.2.0.29. So, it is not required to refer the Syncfusion.Core assembly in your project, when you are using Syncfusion<sup style="font-size:70%">&reg;</sup>  v13.2.0.29 or later versions. If Syncfusion.Core assembly already added in your projects, then it should be removed.
+Syncfusion<sup style="font-size:70%">&reg;</sup> has removed the Syncfusion.Core dependency for all the Essential Studio<sup style="font-size:70%">&reg;</sup> products from v13.2.0.29. So, it is not required to refer the Syncfusion.Core assembly in your project, when you are using Syncfusion<sup style="font-size:70%">&reg;</sup> v13.2.0.29 or later versions. If Syncfusion.Core assembly already added in your projects, then it should be removed.
 
-Also, Syncfusion<sup style="font-size:70%">&reg;</sup>  has removed run-time licensing for all Essential Studio<sup style="font-size:70%">&reg;</sup>  products from the version 8.2.0.x. So, it is not required to embed the license.licx file in your project, if you are using v8.2 or later. Remove the license.licx file from your project, if it has been already added.
+Also, Syncfusion<sup style="font-size:70%">&reg;</sup> has removed run-time licensing for all Essential Studio<sup style="font-size:70%">&reg;</sup> products from the version 8.2.0.x. So, it is not required to embed the license.licx file in your project, if you are using v8.2 or later. Remove the license.licx file from your project, if it has been already added.
 
-## Resolving licensing error from the Syncfusion<sup style="font-size:70%">&reg;</sup>  versions from v16.2 and later
+## Resolving licensing error from the Syncfusion<sup style="font-size:70%">&reg;</sup> versions from v16.2 and later
 
 Refer to this [topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors) to resolve licensing error from v16.2 and later.

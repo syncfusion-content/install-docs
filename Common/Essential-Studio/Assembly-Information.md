@@ -23,7 +23,7 @@ In the trial installer, License Enforced Syncfusion<sup style="font-size:70%">&r
 
 ### Licensed Installer
 
-In the License installer, licensed Syncfusion assemblies will be shipped and **LR** information will not be shown in the File description.
+In the License installer, licensed Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies will be shipped and **LR** information will not be shown in the File description.
 
 **Example:** Syncfusion.SfBarcode.XForms
 

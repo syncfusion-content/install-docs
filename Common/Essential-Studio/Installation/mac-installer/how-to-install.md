@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Installing Syncfusion  Essential Studio  Mac installer - Syncfusion
-description: Learn here about how to install Syncfusion  Essential Studio  Mac installer after downloading from our Syncfusion  website.
+title: Installing Syncfusion Essential Studio Mac installer - Syncfusion
+description: Learn here about how to install Syncfusion Essential Studio Mac installer after downloading from our Syncfusion website.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Installing Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  Mac installer
+# Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Mac installer
 
 ## Overview
 
-Syncfusion provides the Mac installer for the following Essential Studio<sup style="font-size:70%">&reg;</sup>  products.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Mac installer for the following Essential Studio<sup style="font-size:70%">&reg;</sup> products.
 
 * ASP.NET Core
 * Blazor
@@ -29,7 +29,7 @@ Syncfusion provides the Mac installer for the following Essential Studio<sup sty
 
 ## Steps to resolve the warning message in Catalina OS or later
 
-   While running Essential Studio<sup style="font-size:70%">&reg;</sup>  Mac Installers on Catalina MacOS or later, the below alert will be displayed.
+   While running Essential Studio<sup style="font-size:70%">&reg;</sup> Mac Installers on Catalina MacOS or later, the below alert will be displayed.
 
    ![Alert Image](images/Mac_Catalina_MacOS_Alert1.png)  
      
@@ -44,7 +44,7 @@ Syncfusion provides the Mac installer for the following Essential Studio<sup sty
 
 ## Step-by-Step Installation
 
-The steps below show how to install Essential Studio<sup style="font-size:70%">&reg;</sup>  Mac installer.
+The steps below show how to install Essential Studio<sup style="font-size:70%">&reg;</sup> Mac installer.
 
 1. Locate the downloaded dmg file and open the file by double click on it.
 
@@ -65,10 +65,10 @@ The steps below show how to install Essential Studio<sup style="font-size:70%">&
 
    ![License Agree Confirmation](images/Mac_Installer4.png)
    
-   N> The Unlock key is not required to install the Mac installer. The Syncfusion<sup style="font-size:70%">&reg;</sup>  Mac installer can be used for development purposes without registering the Unlock key.
+   N> The Unlock key is not required to install the Mac installer. The Syncfusion<sup style="font-size:70%">&reg;</sup> Mac installer can be used for development purposes without registering the Unlock key.
 
 
-5. Now you can open the folder to explore the Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  Mac installer.
+5. Now you can open the folder to explore the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Mac installer.
 
    ![Destination](images/Mac_Installer5.png)
    
@@ -87,7 +87,7 @@ After the installation, the license key is required to register the demo source 
 <th>Registration steps</th>
 </tr>
 <tr>
-<td>ASPNET CORE (Essential JS 2)</td>
+<td>ASPNET CORE (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</td>
 <td>Register the license key in Configure method of {{ '[Startup.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#aspnet-core)' | markdownify }}</td>
 </tr>
 <tr>
@@ -96,11 +96,11 @@ After the installation, the license key is required to register the demo source 
 </tr>
 <tr>
 <td>Flutter</td>
-<td>If you are using Syncfusion<sup style="font-size:70%">&reg;</sup>  controls prior to version 18.3.0.x, please follow the following steps to register your license key.<br /><br />Register the license key in the {{ '[main method](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#flutter)' | markdownify }} of your example and import the ‘syncfusion_flutter_core/core.dart’ library.</td>
+<td>If you are using Syncfusion<sup style="font-size:70%">&reg;</sup> controls prior to version 18.3.0.x, please follow the following steps to register your license key.<br /><br />Register the license key in the {{ '[main method](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#flutter)' | markdownify }} of your example and import the ‘syncfusion_flutter_core/core.dart’ library.</td>
 </tr>
 <tr>
-<td>JavaScript (Essential JS 2)</td>
-<td>Only from 2022 Vol 1 v20.1.0.47, {{ '[license key registration](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#javascript-essential-js-2)' | markdownify }} required for Essential JavaScript 2 products.</td>
+<td>JavaScript (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</td>
+<td>Only from 2022 Vol 1 v20.1.0.47, {{ '[license key registration](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#javascript-essential-js-2)' | markdownify }} required for Essential<sup style="font-size:70%">&reg;</sup> JavaScript 2 products.</td>
 </tr>
 <tr>
 <td>.NET MAUI</td>
@@ -108,5 +108,5 @@ After the installation, the license key is required to register the demo source 
 </tr>
 <tr>
 <td>Xamarin</td>
-<td>For Xamarin.Forms, register the license key in {{ '[App.xaml.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#xamarinforms)' | markdownify }} constructor before InitializeComponent().<br /><br />For Xamarin.Android, register the license key in {{ '[OnCreate](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#xamarinandroid)' | markdownify }} override method of your main activity class before initializing any Syncfusion<sup style="font-size:70%">&reg;</sup>  control.<br /><br />For Xamarin.iOS, register the license key in FinishedLaunching override method of {{ '[AppDelegate.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#xamarinios)' | markdownify }}</td>
+<td>For Xamarin.Forms, register the license key in {{ '[App.xaml.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#xamarinforms)' | markdownify }} constructor before InitializeComponent().<br /><br />For Xamarin.Android, register the license key in {{ '[OnCreate](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#xamarinandroid)' | markdownify }} override method of your main activity class before initializing any Syncfusion<sup style="font-size:70%">&reg;</sup> control.<br /><br />For Xamarin.iOS, register the license key in FinishedLaunching override method of {{ '[AppDelegate.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#xamarinios)' | markdownify }}</td>
 </tr></table>
