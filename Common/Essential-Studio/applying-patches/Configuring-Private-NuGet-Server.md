@@ -161,7 +161,7 @@ Use **NuGet.exe** to push NuGet packages in the private feed. The URL for pushin
 	 
 	 
 
-**Example:** NuGet.exe push "D:\NuGet\Syncfusion<sup style="font-size:70%">&reg;</sup>.Tools.WPF.20.1.0.55.nupkg" B2C4E73388C94E38ACDC4D28E0787DE0 -Source <http://localhost:81/nuget>
+**Example:** NuGet.exe push "D:\NuGet\Syncfusion.Tools.WPF.20.1.0.55.nupkg" B2C4E73388C94E38ACDC4D28E0787DE0 -Source <http://localhost:81/nuget>
 	 
  ![NuGet Server](Nuget-server-images/cmd-1.png)
 	 
@@ -175,7 +175,7 @@ N> The APIkey is stored in the web.config file.
 Use **NuGet.exe** to delete the NuGet packages from the feed. The **NuGet delete** command removes the package from the private NuGet feed.
 
 
-**Example:** NuGet.exe delete Syncfusion<sup style="font-size:70%">&reg;</sup>.Tools.WPF 20.1.0.55 -Source <http://localhost:81/NuGet/> -apikey B2C4E73388C94E38ACDC4D28E0787DE0
+**Example:** NuGet.exe delete Syncfusion.Tools.WPF 20.1.0.55 -Source <http://localhost:81/NuGet/> -apikey B2C4E73388C94E38ACDC4D28E0787DE0
 
  ![NuGet Server](Nuget-server-images/cmd-2.png)
 	 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Essential Studio  Source Code Add-on installer - Syncfusion
-description: Learn here about how to download the Syncfusion  Essential Studio  Source Code Add-on installer from our Syncfusion  website with license.
+title: Downloading Essential Studio Source Code Add-on installer - Syncfusion
+description: Learn here about how to download the Syncfusion Essential Studio Source Code Add-on installer from our Syncfusion website with license.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -12,30 +12,30 @@ documentation: ug
 # Source Code Add-on installer
 
 
-## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  Source Code Add-on installer
+## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Source Code Add-on installer
 
-1. Essential Studio<sup style="font-size:70%">&reg;</sup>  Source Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
+1. Essential Studio<sup style="font-size:70%">&reg;</sup> Source Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
 
-2. Syncfusion<sup style="font-size:70%">&reg;</sup>  Source Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the source license.
+2. Syncfusion<sup style="font-size:70%">&reg;</sup> Source Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the source license.
 
 3. Source Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
 
    ![Download Page](Source-code-images/SourceAddOn_Download.png)
 
 
-## Installing Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  Source Code Add-on installer
+## Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Source Code Add-on installer
 
 
 ## Overview
 
 
-Syncfusion provides a Source Code Add On installer that allows you to modify the Syncfusion<sup style="font-size:70%">&reg;</sup>  source code and use customized assemblies and custom NuGet packages. This installer contains all of the Essential Studio<sup style="font-size:70%">&reg;</sup>  sources, and you can easily build the customized source. The Source License is required in order to download and install the Source Code Add-on installer.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides a Source Code Add On installer that allows you to modify the Syncfusion<sup style="font-size:70%">&reg;</sup> source code and use customized assemblies and custom NuGet packages. This installer contains all of the Essential Studio<sup style="font-size:70%">&reg;</sup> sources, and you can easily build the customized source. The Source License is required in order to download and install the Source Code Add-on installer.
 
-N> From 2022 Volume 1 release v20.1.0.47, Syncfusion<sup style="font-size:70%">&reg;</sup>  has included the Blazor Build Manager utility to generate the Blazor NuGet packages along with dependency packages. This will allows you to generate the custom Blazor NuGet packages.
+N> From 2022 Volume 1 release v20.1.0.47, Syncfusion<sup style="font-size:70%">&reg;</sup> has included the Blazor Build Manager utility to generate the Blazor NuGet packages along with dependency packages. This will allows you to generate the custom Blazor NuGet packages.
 
 ## Supported Platforms
 
-Syncfusion provide sources for the following platforms in the source add-on setup.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provide sources for the following platforms in the source add-on setup.
 
 **Web**
 
@@ -60,9 +60,9 @@ Syncfusion provide sources for the following platforms in the source add-on setu
 
 ## Step-by-Step Installation
 
-The steps below show how you can install the Essential Studio<sup style="font-size:70%">&reg;</sup>  Source Code Add-on installer.
+The steps below show how you can install the Essential Studio<sup style="font-size:70%">&reg;</sup> Source Code Add-on installer.
 
-1. 	Run the Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential Studio<sup style="font-size:70%">&reg;</sup>  Source code add-on installer from downloaded location by double-clicking it. The installer Wizard automatically opens and extracts the package.
+1. 	Run the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Source code add-on installer from downloaded location by double-clicking it. The installer Wizard automatically opens and extracts the package.
    
     ![Installer Extraction Wizard](Source-code-images/Step-by-Step-Installation_img1.png)
 
@@ -95,9 +95,9 @@ The steps below show how you can install the Essential Studio<sup style="font-si
 
 6.  Select the **Run Build Manager (Desktop and EJ1 Web Platforms)** check box to launch the Build Manager for Desktop and EJ1 Web Platforms once installation completed. Select the **Run Blazor Build Manager** check box to launch the Blazor Build Manager for Blazor once installation completed. Select **Explore Source** check box to get into the source location.
 
-    N> From 2022 Volume 1 release v20.1.0.47, Syncfusion<sup style="font-size:70%">&reg;</sup>  has provided a new option to **Run Blazor Build Manager** check box to launch the Blazor Build Manager Utility.
+    N> From 2022 Volume 1 release v20.1.0.47, Syncfusion<sup style="font-size:70%">&reg;</sup> has provided a new option to **Run Blazor Build Manager** check box to launch the Blazor Build Manager Utility.
 
-7.  Click the Finish button. Essential Studio<sup style="font-size:70%">&reg;</sup>  Source Code Add On is installed in your machine.
+7.  Click the Finish button. Essential Studio<sup style="font-size:70%">&reg;</sup> Source Code Add On is installed in your machine.
 
     ![Installation Complete](Source-code-images/Step-by-Step-Installation_img7.png)
   
@@ -106,7 +106,7 @@ The steps below show how you can install the Essential Studio<sup style="font-si
 
 ### Package Generator for EJ2 JavaScript Web Platforms
 
-Package Generator for EJ2 Web Platforms enables you to modify the source code in Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential JS2 Controls and generate the custom NPM packages.
+Package Generator for EJ2 Web Platforms enables you to modify the source code in Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS2 Controls and generate the custom NPM packages.
 
 The Package Generator can be run from the following location through command line.
 
@@ -170,7 +170,7 @@ N> Users can modify and generate all packages except for the ej2 and base packag
 
 ### For Desktop and EJ1 Web Platforms
 
-Build Manager enables you to build and debug assemblies written in Syncfusion<sup style="font-size:70%">&reg;</sup>  source code. The Build Manager can be launched from the following location.
+Build Manager enables you to build and debug assemblies written in Syncfusion<sup style="font-size:70%">&reg;</sup> source code. The Build Manager can be launched from the following location.
 
 
 **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Build Manager\Buildmanagerwindows.exe
@@ -183,7 +183,7 @@ The output assemblies of the Build Manager will be placed in the below location.
 **Output Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\UserAssemblies\{version}\{framework}\{Debug\Release}
 
 
-The required setting can be selected in the Syncfusion<sup style="font-size:70%">&reg;</sup>  Build Manager x.x.x.x window.
+The required setting can be selected in the Syncfusion<sup style="font-size:70%">&reg;</sup> Build Manager x.x.x.x window.
 
 #### Build Manager Settings
 
@@ -207,7 +207,7 @@ This window contains several sections.
 
 **3. Platform Type** 
 
-   Syncfusion<sup style="font-size:70%">&reg;</sup>  products typically share a base library that serves as the foundation for both the Windows and Web variants. The Platform Type specifies the library category to be built. This frame comes with eight different options. By default, everything is selected. To perform the build operation, click the button for the required product.
+   Syncfusion<sup style="font-size:70%">&reg;</sup> products typically share a base library that serves as the foundation for both the Windows and Web variants. The Platform Type specifies the library category to be built. This frame comes with eight different options. By default, everything is selected. To perform the build operation, click the button for the required product.
 
    N> For assemblies that are not built and pre-compiled, assemblies that shipped with the product is automatically used.
 
@@ -215,7 +215,7 @@ This window contains several sections.
 
    This frame has two options: Debug and Release. Debug is selected by default. To choose the Release mode for assembly, select Release.
 
-   You can switch between the Debug and Release mode of product configurations. Building the Debug version of the assemblies allows you to step into the Syncfusion<sup style="font-size:70%">&reg;</sup>  assemblies when debugging applications. 
+   You can switch between the Debug and Release mode of product configurations. Building the Debug version of the assemblies allows you to step into the Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies when debugging applications. 
 
 **5. Strong Key**
 
@@ -237,7 +237,7 @@ N> The Build operation is performed and the status is updated in the text area, 
    **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Assembly Manager\AssemblyManagerWindows.exe 
    
 
-   * Pre-built Assemblies - These are the assemblies that come standard with Essential Studio. You can only remove pre-built assemblies from the Assembly Manager that comes with the Source Code Add-on.
+   * Pre-built Assemblies - These are the assemblies that come standard with Essential Studio<sup style="font-size:70%">&reg;</sup>. You can only remove pre-built assemblies from the Assembly Manager that comes with the Source Code Add-on.
 
    * Debug and Release Assemblies - This mode instructs the Assembly Manager to install custom assemblies created from source code using Build Manager. The Debug\Release option will be enabled during compilation based on the **Assembly Type** selected in Build Manager.
    
@@ -247,7 +247,7 @@ N> The Build operation is performed and the status is updated in the text area, 
    
 ### Blazor Build Manager
 
-1. Blazor Build Manager enables you to build\compile and generate Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor NuGet packages along with their dependent packages.
+1. Blazor Build Manager enables you to build\compile and generate Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor NuGet packages along with their dependent packages.
 
 
    **Location:**{ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Utilities\Blazor Build Manager\BlazorBuildManager.exe
@@ -260,13 +260,13 @@ N> The Build operation is performed and the status is updated in the text area, 
    **Output Location:** {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Custom NuGet Packages\}
 
 
-3. The required setting can be selected in the Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor Build Manager x.x.x.x.
+3. The required setting can be selected in the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Build Manager x.x.x.x.
 
    This window contains the following sections. 
 
    **1. NuGet packages**
 
-   The NuGet packages group will allow selecting from the list of available Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor NuGet packages to generate. 
+   The NuGet packages group will allow selecting from the list of available Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor NuGet packages to generate. 
 
    **2. Configuration**
 
@@ -274,12 +274,12 @@ N> The Build operation is performed and the status is updated in the text area, 
    
    **Debug:**
    
-   * Building the Debug version of the assemblies allows you to step into the Syncfusion<sup style="font-size:70%">&reg;</sup>  assemblies when debugging applications.
+   * Building the Debug version of the assemblies allows you to step into the Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies when debugging applications.
 
 
    **Release:**
    
-   * Building the Release version of the assemblies will build the Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor assemblies in Release configuration and generate the NuGet packages Building the Release version of the assemblies will build the Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor assemblies in Release configuration and generate the NuGet packages
+   * Building the Release version of the assemblies will build the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor assemblies in Release configuration and generate the NuGet packages Building the Release version of the assemblies will build the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor assemblies in Release configuration and generate the NuGet packages
 
    **3. Output**
 

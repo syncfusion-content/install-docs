@@ -16,7 +16,7 @@ The tables in this topic provide the details of which Syncfusion<sup style="font
 <table>
 <tr>
 <th>Operating System</th>
-<th>Syncfusion Release Version Supported From</th>
+<th>Syncfusion<sup style="font-size:70%">&reg;</sup> Release Version Supported From</th>
 </tr>
 <tr>
 <td>Windows 10</td>
@@ -53,7 +53,7 @@ The tables in this topic provide the details of which Syncfusion<sup style="font
 <table>
 <tr>
 <th>Operating System</th>
-<th>Syncfusion Release Version Supported From</th>
+<th>Syncfusion<sup style="font-size:70%">&reg;</sup> Release Version Supported From</th>
 </tr>
 <tr>
 <td>Windows Server 2016</td>

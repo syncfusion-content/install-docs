@@ -28,7 +28,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 From the 2018 Volume 2 release, each Essential Studio<sup style="font-size:70%">&reg;</sup> platform has separate Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel. You can launch the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel either from <b>Desktop Shortcut</b> or <b>Start Menu->Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel {version}</b>
 </div>
 
-![Syncfusion Control Panel](Utilities_images/Dashboard_img1.png)
+![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img1.png)
 
 
 ### Accessing Product Samples
@@ -37,7 +37,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides online and local demos
 
 1. Open the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel.
 
-   ![Syncfusion Control Panel](Utilities_images/Dashboard_img9.png)
+   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img9.png)
 
 2. Click any of the following to know more about the selected product.
 
@@ -57,7 +57,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides online and local demos
 
 You need to install a list of prerequisites, for all of the products to work successfully. When some of the software is not installed, the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel displays an alert. Click Additional Software Required, and a Missing Software dialog box opens.
 
-![Syncfusion Control Panel](Utilities_images/Dashboard_img11.png)
+![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img11.png)
 
 ### Missing Software 
 
@@ -76,7 +76,7 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 The **Recheck** option rechecks the prerequisites list and refreshes the currently installed software list
 
-![Syncfusion Control Panel](Utilities_images/Dashboard_img15.png)
+![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img15.png)
 
 ### Accessing utilities from Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel
 
@@ -84,13 +84,13 @@ This section allows you to access the following. 
 
 1. **Add-ons** - This lists the add-on utilities that help you to utilize the additional product services from Syncfusion<sup style="font-size:70%">&reg;</sup>. 
    
-   ![Syncfusion Control Panel](Utilities_images/Add-ons.png)
+   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Add-ons.png)
    
 2. [Utilities](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) - This section displays the utilities that are available for the corresponding product.
 
-   ![Syncfusion Control Panel](Utilities_images/utilities.png)
+   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/utilities.png)
    
-   * [Toolbox Configuration](https://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion controls for various .NET Frameworks in combination with compatible Visual Studio versions.
+   * [Toolbox Configuration](https://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion<sup style="font-size:70%">&reg;</sup> controls for various .NET Frameworks in combination with compatible Visual Studio versions.
    * [Assembly Manager](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> assemblies in the GAC and in the Assemblies folders.
    * [License Manager](https://help.syncfusion.com/common/essential-studio/utilities#license-manager )- This allows you to manage the license information, such as the validity of license key and products that are licensed with this key.   
    * [Project Migration](https://help.syncfusion.com/common/essential-studio/utilities#project-migration )- This allows to migrate the project references to the given Essential Studio<sup style="font-size:70%">&reg;</sup> version.
@@ -102,7 +102,7 @@ You can view your license details in the Syncfusion<sup style="font-size:70%">&r
 
 * Messages- This section allows you to view the License information, like whether the user is Licensed or Trial. Syncfusion<sup style="font-size:70%">&reg;</sup> Trial expires in 30 days.
 
-  ![Syncfusion Control Panel](Utilities_images/Dashboard_img16.png)
+  ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img16.png)
 
 ### General resources
 
@@ -115,7 +115,7 @@ You can view your license details in the Syncfusion<sup style="font-size:70%">&r
 
 You can access the respective products user guide, online and offline class reference documents from here.
 
-  ![Syncfusion Control Panel](Utilities_images/documentation.png)
+  ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/documentation.png)
 
 ### User Guide
 
@@ -132,7 +132,7 @@ View on Web – You can also view the online user guide documents on clicking th
 
 You can also get a quick glimpse of our other available products here, download, and install it and have a try.
 
-  ![Syncfusion Control Panel](Utilities_images/other-products.png)
+  ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/other-products.png)
   
 If you have installed any other products in the same version, then you can open the respective products Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel from here too.
 
@@ -366,7 +366,7 @@ N> This is not essential<sup style="font-size:70%">&reg;</sup> for VS 2010 becau
 
 When Essential Studio<sup style="font-size:70%">&reg;</sup> is installed in a machine comprising both 2.0 and 3.5 Frameworks, then, by default, the target Framework is set to 3.5, and the following registry entry AssemblyFoldersEx is also set to 3.5 assembly. You can use the Multi-Target Manager to change the target Framework to 2.0. 
 
-**Registry Location:** HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essential {platform} 3.5
+**Registry Location:** HKLM\Software\Microsoft\.NetFramework\v3.5\AssemblyFoldersEx\Syncfusion Essential<sup style="font-size:70%">&reg;</sup> {platform} 3.5
 
 ### Launching MultiTarget Manager 
 
