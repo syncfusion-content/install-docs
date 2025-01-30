@@ -16,7 +16,7 @@ documentation: ug
 
 1. Essential Studio<sup style="font-size:70%">&reg;</sup> Source Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
 
-2. Syncfusion<sup style="font-size:70%">&reg;</sup> Source Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the source license.
+2. Syncfusion<sup style="font-size:70%">&reg;</sup> Source Add On installer can be downloaded based on your license. Refer [this](https://support.syncfusion.com/kb/article/9099/who-can-access-source-license) KB for the source license.
 
 3. Source Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
 
@@ -70,7 +70,7 @@ The steps below show how you can install the Essential Studio<sup style="font-si
 	
    
 
-2.  After reading the License terms and Privacy Policy, enter the [Source Unlock Key](https://www.syncfusion.com/kb/10442/who-can-access-source-license) in the corresponding text box and check the **I agree to the License Terms and Privacy Policy** check box.
+2.  After reading the License terms and Privacy Policy, enter the [Source Unlock Key](https://support.syncfusion.com/kb/article/9099/who-can-access-source-license) in the corresponding text box and check the **I agree to the License Terms and Privacy Policy** check box.
    
     ![Product key](Source-code-images/Step-by-Step-Installation_img2.png)
    
@@ -124,7 +124,7 @@ cd {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{versio
 
 ![Package Generator](Source-code-images/pack-generator.png)
 
-2.Make sure that you have installed **Node.js version 16.20.0** or above on your machine. If not, install Node.js from [here](https://nodejs.org/en/download/package-manager).
+2.Make sure that you have installed **Node.js version 16.20.0** or above on your machine. If not, install Node.js from [here](https://nodejs.org/en/download).
 
 3.Run the below command in the command prompt to install the required packages.
 
