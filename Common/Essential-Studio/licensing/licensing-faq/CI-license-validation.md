@@ -135,7 +135,7 @@ pipeline {
 {% highlight c# %}
 using Syncfusion.Licensing;
 
-//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license key 
+//Register Syncfusion license key 
 Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 //Validate the registered license key
@@ -172,7 +172,7 @@ N> * Place the license key between double quotes. Also, ensure that Syncfusion.L
 public void TestSyncfusionWPFLicense()
 {
 	var platform = Platform.WPF;
-	// Register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key
+	// Register the Syncfusion license key
 	SyncfusionLicenseProvider.RegisterLicense("Your License Key");
 
 	bool isValidLicense = SyncfusionLicenseProvider.ValidateLicense(platform, out var validationMessage);
