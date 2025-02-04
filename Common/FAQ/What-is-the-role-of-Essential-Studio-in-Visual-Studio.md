@@ -33,7 +33,7 @@ In addition to the Windows installer, Syncfusion<sup style="font-size:70%">&reg;
 * HTML Converter
 * Xamarin
 
-Download and install the most recent Essential Studio<sup style="font-size:70%">&reg;</sup> version from [here](https://www.syncfusion.com/account/login).
+Download and install the most recent Essential Studio<sup style="font-size:70%">&reg;</sup> version from [here](https://www.syncfusion.com/downloads/latest-version).
 
 Refer [this](https://help.syncfusion.com/common/essential-studio/installation/install-using-the-offline-installer#step-by-step-installation) link for the step by step installation of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
