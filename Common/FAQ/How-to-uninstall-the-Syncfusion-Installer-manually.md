@@ -38,7 +38,7 @@ Sometimes, installation may crash due to the machine getting switched off during
 
 ## For Essential Studio<sup style="font-size:70%">&reg;</sup> version 16.2.0.41 and later
 
-1.	Download and extract the **SyncfusionCleanUp.zip** from [here](https://files2.syncfusion.com/download/success). 
+1.	Download and extract the **SyncfusionCleanUp.zip** from [here](http://files2.syncfusion.com/dtsupport/directtrac/general/ze/SyncfusionCleanUp-18.4.0.391826167431.zip). 
 
 2.	Run the SyncfusionCleanUp.exe by double clicking it. This will remove the installed registry entries from your machine for Syncfusion version present in “SyncfusionCleanUp.exe.config” file.
 
