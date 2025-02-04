@@ -23,7 +23,7 @@ The following error message will be shown if a Syncfusion<sup style="font-size:7
 
 **Solution:** 
 
-* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/login) or [Trial users](https://www.syncfusion.com/account/login) for a specific version and platform or License keys can also be generated from the Claim License Key page by clicking the **"Claim License"** button click from Syncfusion<sup style="font-size:70%">&reg;</sup> licensing warning message. Refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate#Claim-License-Key) for more details.
+* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) or [Trial users](https://www.syncfusion.com/account/login) for a specific version and platform or License keys can also be generated from the Claim License Key page by clicking the **"Claim License"** button click from Syncfusion<sup style="font-size:70%">&reg;</sup> licensing warning message. Refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate#Claim-License-Key) for more details.
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
@@ -37,7 +37,7 @@ If the application is registered with an invalid key, another version of license
 
 **Solution:**
 
-* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/login) or [Trial users](https://www.syncfusion.com/account/login) for a specific version and platform or License keys can also be generated from the Claim License Key page by clicking the **"Claim License"** button click from Syncfusion<sup style="font-size:70%">&reg;</sup> licensing warning message. Refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate#Claim-License-Key) for more details..
+* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform or License keys can also be generated from the Claim License Key page by clicking the **"Claim License"** button click from Syncfusion<sup style="font-size:70%">&reg;</sup> licensing warning message. Refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate#Claim-License-Key) for more details..
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
@@ -55,7 +55,7 @@ The following error message will be shown if a Syncfusion<sup style="font-size:7
 
 **Solution:** 
 
-* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/login) or [Trial users](https://www.syncfusion.com/account/login) for a specific version and platform.
+* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
@@ -69,7 +69,7 @@ If the application is registered with an invalid key, another version of license
 
 **Solution:**
 
-* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/login) or [Trial users](https://www.syncfusion.com/account/login) for a specific version and platform.
+* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
@@ -93,7 +93,7 @@ If the application is registered with another platform's license key, the follow
 
 **Solution:**
 
-* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/login) or [Trial users](https://www.syncfusion.com/account/login) for a specific version and platform.
+* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform.
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
@@ -107,7 +107,7 @@ If the application is registered with another version's license key, the followi
 
 **Solution:**
 
-* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/login) or [Trial users](https://www.syncfusion.com/account/login) for a specific version and platform. Kindly follow the [KB](https://support.syncfusion.com/kb/article/7898/how-to-generate-license-key-for-licensed-products) to generate license key.
+* Generate a valid license key from here [Licensed users](https://www.syncfusion.com/account/downloads) or [Trial users](https://www.syncfusion.com/account/manage-trials/downloads) for a specific version and platform. Kindly follow the [KB](https://support.syncfusion.com/kb/article/7898/how-to-generate-license-key-for-licensed-products) to generate license key.
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
