@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> is not a Visual Studio plug-in or an IDE like Visual Studio. Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> is a .NET based product that includes 800+ controls and frameworks that can be used in Visual Studio to create visually appealing applications. The Essential Studio<sup style="font-size:70%">&reg;</sup> includes demos for all of the controls, giving you an idea of how Syncfusion<sup style="font-size:70%">&reg;</sup> controls look and work. The following products are included with Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-* [Universal Windows Platform](hhttps://help.syncfusion.com/uwp/overview)
+* [Universal Windows Platform](https://help.syncfusion.com/uwp/overview)
 * [Windows Forms ](https://help.syncfusion.com/windowsforms/overview)
 * [WPF](https://help.syncfusion.com/wpf/welcome-to-syncfusion-essential-wpf)
 * [Xamarin](https://help.syncfusion.com/xamarin/introduction/overview)
