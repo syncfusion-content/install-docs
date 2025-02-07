@@ -13,7 +13,7 @@ Sometimes, installation may crash due to the machine getting switched off during
 
 ## For Essential Studio<sup style="font-size:70%">&reg;</sup> version 16.1.0.37 and before
 
-1. Download and install the **Windows Installer Cleanup** utility from the following link:  [Windows Installer Cleanup](https://help.syncfusion.com/uwp/overview).
+1. Download and install the **Windows Installer Cleanup** utility from the following link:  [Windows Installer Cleanup](https://files2.syncfusion.com/Installs/Support/KB/msicuu2.exe).
 2. Remove Syncfusion’s product-related installers, for the version you are trying to uninstall, using the Windows Installer Cleanup utility.
 
    ![Uninstall Manually](How-to-uninstall-the-Syncfusion-Setup-manually_images/How-to-uninstall-the-Syncfusion-Setup-manually_img1.png)
