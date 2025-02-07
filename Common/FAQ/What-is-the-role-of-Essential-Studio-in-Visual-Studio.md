@@ -22,7 +22,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="fon
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> offers Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel from which both the online and offline demos can be viewed for all the controls. Documentation, Read Me and Release Notes can also be viewed from the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel itself which reduces the burden of searching over the web.  
 
-![Common in Essential Studio with dashboard control panel.](WPF_images/dashboard_img1.png)
+![Common in Essential Studio with dashboard control panel.](wpf_images/dashboard_control.png)
 
 In addition to the Windows installer, Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Mac installer for the following Essential Studio<sup style="font-size:70%">&reg;</sup> products.
 
