@@ -47,7 +47,7 @@ N> If the **Application.Designer.vb** file is not included by default in the pro
 {% highlight c# %}
 static void Main()
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 	
     Application.EnableVisualStyles();
@@ -79,7 +79,7 @@ public partial class App : Application
 {
 	public App()
 	{
-		//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+		//Register Syncfusion license
 		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 	}	
 } 
@@ -87,7 +87,7 @@ public partial class App : Application
 
 {% highlight vb %}
 Private Sub New()
-	'Register Syncfusion<sup style="font-size:70%">&reg;</sup> License
+	'Register Syncfusion License
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
 End Sub
 {% endhighlight %}
@@ -102,7 +102,7 @@ Register the license key in Application_Start method of **Global.asax.cs/Global.
 {% highlight c# %}
 void Application_Start(object sender, EventArgs e)
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 	
 	// Code that runs on application startup
@@ -113,7 +113,7 @@ void Application_Start(object sender, EventArgs e)
 
 {% highlight vb %}
 Protected Sub Application_Start()
-        'Syncfusion<sup style="font-size:70%">&reg;</sup> Licensing Register
+        'Syncfusion Licensing Register
         Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
         AreaRegistration.RegisterAllAreas()
         Register(GlobalConfiguration.Configuration)
@@ -134,7 +134,7 @@ Register the license key in Configure method of **Startup.cs**
 // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
 public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 	
 	loggerFactory.AddConsole(Configuration.GetSection("Logging"));
@@ -157,7 +157,7 @@ Register the license key in Configure method of **Startup.cs**
 // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
 public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 {
-    //Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+    //Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 	
     if (env.IsDevelopment())
@@ -194,7 +194,7 @@ Register the license key in the **Program.cs** file if you created the Blazor se
 {% tabs %}
 {% highlight c# %}
 var app = builder.Build();
-//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+//Register Syncfusion license
 Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 // Configure the HTTP request pipeline.
@@ -217,7 +217,7 @@ Register the license key in main method of **Program.cs**
 using Syncfusion.Blazor;
 public static async Task Main(string[] args) 
 { 
-    //Register Syncfusion<sup style="font-size:70%">&reg;</sup> license 
+    //Register Syncfusion license 
     Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");  
     var builder = WebAssemblyHostBuilder.CreateDefault(args); 
     builder.RootComponents.Add<App>("app");                               
@@ -236,7 +236,7 @@ Register the license key in **App.xaml.cs** constructor before InitializeCompone
 {% highlight c# %}
 public App()
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 	this.InitializeComponent();
@@ -246,7 +246,7 @@ public App()
 
 {% highlight vb %}
 Public Sub New()
-	'Register Syncfusion<sup style="font-size:70%">&reg;</sup> License
+	'Register Syncfusion License
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
 End Sub
 
@@ -268,7 +268,7 @@ public partial class App : Application
 {
 	public App()
 	{
-		//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+		//Register Syncfusion license
 		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 	}	
 } 
@@ -284,7 +284,7 @@ Register the license key in **App.xaml.cs** constructor before InitializeCompone
 {% highlight c# %}
 public App()
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 	
 	InitializeComponent();
@@ -307,7 +307,7 @@ If you are using **Prism Framework** in your application, register the license k
 {% highlight c# %}
 protected override async void OnInitialized()
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+	//Register Syncfusion license
     Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
  
     InitializeComponent();
@@ -325,7 +325,7 @@ Register the license key in **OnCreate** override method of your main activity c
 {% highlight c# %}
 protected override void OnCreate(Bundle savedInstanceState)
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 	base.OnCreate(savedInstanceState);
@@ -345,7 +345,7 @@ Register the license key in **FinishedLaunching** override method of **AppDelega
 {% highlight c# %}
 public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 
 	// create a new window instance based on the screen size
@@ -370,7 +370,7 @@ You can register the license key in **App.xaml.cs** constructor before Initializ
 {% highlight c# %}
 public App()
 {
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
+	//Register Syncfusion license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
 	
 	InitializeComponent();
@@ -391,7 +391,7 @@ Register the license key in the **main method** of your example and import the â
 import 'package:syncfusion_flutter_core/core.dart';
 
 void main() { 
-// Register Syncfusion<sup style="font-size:70%">&reg;</sup> license 
+// Register Syncfusion license 
 SyncfusionLicense.registerLicense("YOUR LICENSE KEY"); 
 return runApp(MyApp()); 
 }
@@ -410,7 +410,7 @@ Import â€˜syncfusion.licensing' package and register the license key in the **ma
 import com.syncfusion.licensing.*;
 
 static void main() { 
-// Register Syncfusion<sup style="font-size:70%">&reg;</sup> license 
+// Register Syncfusion license 
 SyncfusionLicenseProvider.registerLicense("YOUR LICENSE KEY"); 
 }
 {% endhighlight %}
@@ -432,7 +432,7 @@ Register the license key by using **registerLicense** method after the [Syncfusi
 
 {% tabs %}
 {% highlight JS %}
-// Registering Syncfusion<sup style="font-size:70%">&reg;</sup> license key
+// Registering Syncfusion license key
 ej.base.registerLicense('License Key');
 {% endhighlight %}
 {% endtabs %}
@@ -443,7 +443,7 @@ Register the license key at the entry point of the project before using the Sync
 
 {% tabs %}
 {% highlight JS %}
-// Registering Syncfusion<sup style="font-size:70%">&reg;</sup> license key
+// Registering Syncfusion license key
 import { registerLicense } from '@syncfusion/ej2-base';
 
 registerLicense('License key');
@@ -463,7 +463,7 @@ import { AppModule } from './app/app.module';
 import { environment } from './environments/environment';
 import { registerLicense } from '@syncfusion/ej2-base';
 
-// Registering Syncfusion<sup style="font-size:70%">&reg;</sup> license key
+// Registering Syncfusion license key
 registerLicense('License Key');
 
 if (environment.production) {
@@ -488,7 +488,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { registerLicense } from '@syncfusion/ej2-base';
 
-// Registering Syncfusion<sup style="font-size:70%">&reg;</sup> license key
+// Registering Syncfusion license key
 registerLicense('License Key');
 
 ReactDOM.render(
@@ -510,7 +510,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import { registerLicense } from '@syncfusion/ej2-base';
 
-// Registering Syncfusion<sup style="font-size:70%">&reg;</sup> license key
+// Registering Syncfusion license key
 registerLicense('License Key');
 createApp(App).mount('#app')
 {% endhighlight %}
