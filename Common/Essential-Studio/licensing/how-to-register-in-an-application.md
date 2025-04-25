@@ -127,24 +127,25 @@ End Sub
 
 ## ASP.NET Core
 
-Register the license key in Configure method of **Startup.cs**
+Register the license key in the `Program.cs` file if you created the ASP.NET Core web application with Visual Studio 2022 and .NET 8.0 /.NET 9.0. 
 
 {% tabs %}
-{% highlight c# %}
-// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
-{
-	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
-	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
-	
-	loggerFactory.AddConsole(Configuration.GetSection("Logging"));
-	loggerFactory.AddDebug();
+{% highlight c# tabtitle="Program.cs" %}
 
-	...
-	
+var app = builder.Build();
+//Register Syncfusion license
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
+
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    app.UseHsts();
 }
+
 {% endhighlight %}
-{% endtabs %} 
+{% endtabs %}
 
 ## Blazor
 
@@ -166,7 +167,7 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     }
     else
     {
-        app.UseExceptionHandler("/Error");
+        app.UseExceptionHandler("/Home/Error");
         // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
         app.UseHsts();
     }
@@ -187,9 +188,9 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 {% endhighlight %}
 {% endtabs %} 
 
-### Server side application using .NET 6.0
+### Server side application using .NET 8.0/.NET 9.0
 
-Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022 and .NET 6.0. 
+Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022 and .NET 8.0/.NET 9.0
 
 {% tabs %}
 {% highlight c# %}
@@ -200,7 +201,7 @@ Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Error");
+    app.UseExceptionHandler("/Home/Error");
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
