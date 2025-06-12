@@ -21,13 +21,13 @@ The Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="fo
 1. You can evaluate our 30-day free trial by visiting the [Download Free Trial](https://www.syncfusion.com/downloads) page and select the product
 2. After completing the required form or logging in with your registered Syncfusion<sup style="font-size:70%">&reg;</sup> account, you can download the installer from the confirmation page. (as shown in below screenshot.)
 
-   ![Trial and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/trial-confirmation.png)
+   ![Trial Confirmation Image](images/trial-confirmation.png)
    
 3. After downloading, the Syncfusion<sup style="font-size:70%">&reg;</sup> installer can be unlocked using either registered trial credentials or a Syncfusion<sup style="font-size:70%">&reg;</sup> registered account with Microsoft or Google login.
 4. You can download the installer at any time from your registered account’s [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) page before the trial period expires.
 5. Click the **Download** button (element 1 in the screenshot below) to get the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> installer, or use the **More Download Options** menu to access additional downloads.
  
-   ![Trial and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/trial-download.png)
+   ![Trial Download Image](images/trial-download.png)
 
 To explore Syncfusion components during the trial period, you can do the following:
 
@@ -45,7 +45,7 @@ Use the Installer – Download and install the Syncfusion Essential Studio Insta
 4. The most recent version of the installer will be downloaded from this page.
 5. As long as your **trial** or **license** is active, you can download the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> installer at any time from your registered account’s [License & Downloads](https://www.syncfusion.com/account/downloads) page.
    
-    ![License and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/license-download.png)
+    ![License Download Images](images/license-download.png)
    
 6. After downloading, the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> installer can be unlocked using Syncfusion<sup style="font-size:70%">&reg;</sup> account credentials or via Microsoft or Google login.
 
