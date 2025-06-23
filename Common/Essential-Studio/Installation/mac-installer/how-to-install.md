@@ -15,7 +15,6 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Mac installer for 
 
 * ASP.NET Core
 * Blazor
-* Flutter
 * JavaScript
 * WebKit HTML Converter
 * Xamarin

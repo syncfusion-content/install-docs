@@ -66,7 +66,7 @@ After the installation, the license key is required to register the demo source 
 N> Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Linux installer for the following Essential Studio<sup style="font-size:70%">&reg;</sup> products.
 <br>
 * Blazor
-* Flutter
+
 * ASP.NET Core
 * JavaScript
 * File Formats

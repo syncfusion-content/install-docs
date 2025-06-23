@@ -28,7 +28,7 @@ I> * The Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Editi
 **Mobile**
 
 * Xamarin
-* Flutter
+
 
 **Desktop**
 
