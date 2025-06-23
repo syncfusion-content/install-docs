@@ -32,7 +32,6 @@ Web
 
 Mobile
 
- -	[Flutter](https://www.syncfusion.com/flutter-widgets)
  -	[Xamarin](https://www.syncfusion.com/xamarin-ui-controls)
  -	[.NET MAUI](https://www.syncfusion.com/maui-controls)
 
