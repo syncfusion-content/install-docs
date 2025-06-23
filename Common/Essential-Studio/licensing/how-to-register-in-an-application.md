@@ -414,24 +414,6 @@ public static class MauiProgram
 {% endhighlight %}
 {% endtabs %}
 
-## Flutter
-
-Register the license key in the **main method** of your example and import the ‘syncfusion_flutter_core/core.dart' library.
-
-{% tabs %}
-{% highlight Dart %}
-// Refer the core package
-import 'package:syncfusion_flutter_core/core.dart';
-
-void main() { 
-// Register Syncfusion<sup style="font-size:70%">&reg;</sup> license 
-SyncfusionLicense.registerLicense("YOUR LICENSE KEY"); 
-return runApp(MyApp()); 
-}
-{% endhighlight %}
-{% endtabs %}
-
-N> License key registration is not required for Flutter, if you are using v18.3.0.x or later.
 
 ## Java
 

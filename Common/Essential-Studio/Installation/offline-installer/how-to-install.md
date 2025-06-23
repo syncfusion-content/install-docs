@@ -24,7 +24,6 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides separate installers fo
 
 * .NET MAUI
 * Xamarin
-* Flutter
 
 **Desktop**
 

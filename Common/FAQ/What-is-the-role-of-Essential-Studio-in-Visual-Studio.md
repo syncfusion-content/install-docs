@@ -28,7 +28,6 @@ In addition to the Windows installer, Syncfusion<sup style="font-size:70%">&reg;
 
 * ASP.NET Core
 * Blazor
-* Flutter
 * JavaScript
 * HTML Converter
 * Xamarin
