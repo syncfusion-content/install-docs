@@ -48,7 +48,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provide sources for the followi
 
 * .NET MAUI
 * Xamarin
-* Flutter
+
 
 **Desktop**
 

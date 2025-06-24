@@ -27,7 +27,6 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer also allows both 
 
 * .NET MAUI
 * Xamarin
-* Flutter
 
 **Desktop**
 
