@@ -191,13 +191,17 @@ This window contains several sections.
 
 **1. Framework Version**
 
-   The Framework Version group box has five options: .NET 4.0, .NET 4.5, .NET 4.5.1, .NET 4.6 and NET 6.0. 
+   The Framework Version group box has five options: .NET 4.6, .NET 4.6.2, NET 6.0, NET 8.0 and NET 9.0. 
    
    * When .NET 6.0 is installed in your system, the NET 6.0 option is selected by default.
    
-   * When Visual Studio 2017 is not installed in your system, the .NET 4.6 option is selected by default. 
+   * When .NET 8.0 is installed in your system, the NET 8.0 option is selected by default.
    
-   * When Visual Studio 2012 is not installed in your system, the .NET 4.0 option is selected by default.
+   * When .NET 9.0 is installed in your system, the NET 9.0 option is selected by default.
+   
+   * When Visual Studio 2022 is installed in your system, the .NET 9.0 option is selected by default.
+   
+   * When Visual Studio 2017 is not installed in your system, the .NET 4.6 option is selected by default. 
    
    You can change the default option by clicking the other button. The version of the .NET Framework that the assemblies should be built with is specified here and is used automatically to rebuild the assemblies.
 
