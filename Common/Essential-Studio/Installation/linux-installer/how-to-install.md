@@ -54,16 +54,11 @@ After the installation, the license key is required to register the demo source 
 <td>JavaScript (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</td>
 <td>Only from 2022 Vol 1 v20.1.0.47, {{ '[license key registration](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#javascript-essential-js-2)' | markdownify }} required for Essential<sup style="font-size:70%">&reg;</sup> JavaScript 2 products.</td>
 </tr>
-<tr>
-<td>.NET MAUI</td>
-<td>Register the license key in {{ '[App.xaml.cs](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application#net-maui)' | markdownify }} constructor before InitializeComponent().</td>
-</tr>
 </table>
 
 N> Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Linux installer for the following Essential Studio<sup style="font-size:70%">&reg;</sup> products.
 <br>
 * Blazor
-
 * ASP.NET Core
 * JavaScript
 * File Formats
@@ -71,3 +66,5 @@ N> Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Linux installer
 * Word Framework
 * Excel Framework
 * PowerPoint Framework
+
+N> License key registeration is required only for trial linux builds. For licensed Linux builds, there is no need to register a license key.
