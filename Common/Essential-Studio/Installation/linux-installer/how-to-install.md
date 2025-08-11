@@ -67,4 +67,4 @@ N> Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Linux installer
 * Excel Framework
 * PowerPoint Framework
 
-N> License key registeration is required only for trial linux builds. For licensed Linux builds, there is no need to register a license key.
+N> License key registration is required only for trial linux builds. For licensed Linux builds, there is no need to register a license key.
