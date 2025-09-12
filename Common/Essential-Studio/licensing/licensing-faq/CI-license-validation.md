@@ -42,14 +42,21 @@ Write-Host $result
 * Update the parameters in the LicenseKeyValidation.ps1 script file as described below. 
 
   **Platform:** Modify the value for /platform: to the desired platform. For reference, please check the applicable example platforms below. 
+
+  **Before 31.x.x (30.x and lower):** Installers were organized by platforms and file formats.
   
      (e.g., "WindowsForms", "WPF", "WinUI", "UWP", "MAUI", "Xamarin", "Blazor", "FileFormats")
+
+  **From 31.1.17 onward:** Installers are organized by edition. For more details on the edition breakdown, refer to this [KB](https://support.syncfusion.com/kb/article/21200/how-to-know-installer-changes--essential-studio-v31117).
+  
+     (e.g., "WindowsForms", "WPF", "WinUI", "UWP", "MAUI", "Blazor", "PDF", "Word", "Excel", "PowerPoint", "PDFViewer", "WordEditor", "SpreadsheetEditor")
   
   **Version:**  Change the value for /version: to the required version (e.g., "26.2.4").
   
   **License Key:** Replace the value for /licensekey: with your actual license key (e.g., "Your License Key"). 
-  
-  N> This feature is available only for the following Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> platforms starting from version 16.2.0.41: WPF, Windows Forms, WinUI, UWP, MAUI, Xamarin, Blazor, FileFormats.
+
+  N> * This feature is available only for the following Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> platforms starting from version 16.2.0.41: WPF, Windows Forms, WinUI, UWP, MAUI, Xamarin, Blazor, FileFormats.
+  * When using specific converter controls (31.1.17 or later), set /platform: to one of the following: WordToPDF, ExcelToPDF, PowerPointToPDF. For more details, refer to this [KB](https://support.syncfusion.com/kb/article/21200/how-to-know-installer-changes--essential-studio-v31117).
 
 ## Azure Pipelines (YAML)
 
@@ -145,7 +152,9 @@ bool isValid = SyncfusionLicenseProvider.ValidateLicense(Platform.WPF);
 
 ![LicenseKeyValidationMethod](licensing-images/license-validation-method.png)
 
-N> Followings are the applicable list of platforms that can be passed to the ValidateLicense method WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI.
+N> The following is the list of platforms that can be passed to the ValidateLicense method:
+* **Before 31.x.x (30.x and lower):** WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI.
+* **From 31.1.17 onward:** WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, ASPNET, Blazor, WinUI, MAUI, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor.
 
 * If the ValidateLicense() method returns true, registered license key is valid and can proceed with deployment.
 
