@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overview of Syncfusion license validation in CI services - Syncfusion
-description: Learn here about how to register Syncfusion license key for Syncfusion application for license validation.
+description: Learn how to validate the Syncfusion license key in CI services.
 platform: common
 control: Essential Studio
 documentation: ug
