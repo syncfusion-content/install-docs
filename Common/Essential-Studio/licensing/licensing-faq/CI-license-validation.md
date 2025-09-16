@@ -47,11 +47,11 @@ Write-Host $result
   
      (e.g., "WindowsForms", "WPF", "WinUI", "UWP", "MAUI", "Xamarin", "Blazor", "FileFormats")
 
-  **31.1.17 or later:** Installers are organized by edition.
+  **31.1.17 or later:** Installers were organized by platforms, and the **'File Formats'** platform has been divided into multiple platforms to improve installer experience.
   
      (e.g., "WindowsForms", "WPF", "WinUI", "UWP", "MAUI", "Blazor", "PDF", "Word", "Excel", "PowerPoint", "PDFViewer", "WordEditor", "SpreadsheetEditor")
 
-	 For more details on the edition breakdown, refer to this [KB](https://support.syncfusion.com/kb/article/21200/how-to-know-installer-changes--essential-studio-v31117).
+	 For more details on the platform breakdown, refer to this [KB](https://support.syncfusion.com/kb/article/21200/how-to-know-installer-changes--essential-studio-v31117).
   
   **Version:**  Change the value for /version: to the required version (e.g., "26.2.4").
   
@@ -156,7 +156,7 @@ bool isValid = SyncfusionLicenseProvider.ValidateLicense(Platform.WPF);
 
 N> The following is the list of platforms that can be passed to the ValidateLicense method:
 * **Before 31.x.x (30.x and lower):** WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI.
-* **31.1.17 or later:** WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, ASPNET, Blazor, WinUI, MAUI, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor.
+* **31.1.17 or later:** WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, ASPNET, Blazor, WinUI, MAUI, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor. For more details, refer to this [KB](https://support.syncfusion.com/kb/article/21200/how-to-know-installer-changes--essential-studio-v31117).
 
 * If the ValidateLicense() method returns true, registered license key is valid and can proceed with deployment.
 
