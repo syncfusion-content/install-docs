@@ -69,7 +69,7 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 
 
-![Missing Software](Utilities_images/Dashboard_img14.png)	
+![Missing Software](utilities_images/dashboard_img14.png)	
 
 
 ### Purpose of Recheck button
