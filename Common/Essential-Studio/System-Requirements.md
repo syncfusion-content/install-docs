@@ -44,6 +44,7 @@ By using the following IDEs, you can develop ASP.NET MVC Applications
 * [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/)
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 * [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
+* [Visual Studio 2026](https://visualstudio.microsoft.com/downloads/)
 
 ### Frameworks & SDK
 

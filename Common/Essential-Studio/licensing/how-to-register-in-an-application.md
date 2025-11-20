@@ -127,7 +127,7 @@ End Sub
 
 ## ASP.NET Core
 
-Register the license key in the `Program.cs` file if you created the ASP.NET Core web application with Visual Studio 2022 and .NET 8.0 /.NET 9.0. 
+Register the license key in the `Program.cs` file if you created the ASP.NET Core web application with Visual Studio 2022,2026 and .NET 8.0 /.NET 9.0. /.NET 10.0
 
 {% tabs %}
 {% highlight c# tabtitle="Program.cs" %}
@@ -188,9 +188,9 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 {% endhighlight %}
 {% endtabs %} 
 
-### Server side application using .NET 8.0/.NET 9.0
+### Server side application using .NET 8.0/.NET 9.0/.NET 10.0
 
-Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022 and .NET 8.0/.NET 9.0
+Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022,2026 and .NET 8.0 /.NET 9.0 / .NET 10.0
 
 {% tabs %}
 {% highlight c# %}
