@@ -36,6 +36,8 @@ The steps below show how to install Essential Studio<sup style="font-size:70%">&
 
 After the installation, the license key is required to register the demo source that is included in the Linux installer. To learn about the steps for license registration for each Linux installer, please refer to the following table.
 
+N> The license key registration is not required when using samples from the licensed Linux installer.
+
 <table>
 <tr>
 <th>Linux Installer</th>
