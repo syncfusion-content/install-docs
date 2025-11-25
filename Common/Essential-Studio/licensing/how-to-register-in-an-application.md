@@ -435,7 +435,7 @@ N> License key registration is not required for Java before v19.1.
 
 ## JavaScript (Essential<sup style="font-size:70%">&reg;</sup> JS 2)
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> license key should be registered, if your project using Syncfusion<sup style="font-size:70%">&reg;</sup> EJ2-JavaScript packages reference. The generated license key is a string that needs to be registered after any [Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript script reference](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start/#configure-syncfusion-javascript-es5-control-in-the-application-1).
+Syncfusion<sup style="font-size:70%">&reg;</sup> license key should be registered, if your project using Syncfusion<sup style="font-size:70%">&reg;</sup> EJ2-JavaScript packages reference. The generated license key is a string that needs to be registered after any [Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript script reference](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start#configure-syncfusion-javascript-es5-control-in-the-application-1).
 
 N> Only from 2022 Vol 1 v20.1.0.47, license key registration required for Essential<sup style="font-size:70%">&reg;</sup> JavaScript 2 products.
 
@@ -443,7 +443,7 @@ The following code is used to register the license.
 
 ### JavaScript es5
 
-Register the license key by using **registerLicense** method after the [Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript script](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start/#configure-syncfusion-javascript-es5-control-in-the-application-1) file reference as below.
+Register the license key by using **registerLicense** method after the [Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript script](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start#configure-syncfusion-javascript-es5-control-in-the-application-1) file reference as below.
 
 {% tabs %}
 {% highlight JS %}
