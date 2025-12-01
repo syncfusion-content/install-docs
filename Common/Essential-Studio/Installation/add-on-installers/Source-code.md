@@ -191,13 +191,15 @@ This window contains several sections.
 
 **1. Framework Version**
 
-   The Framework Version group box has five options: .NET 4.6, .NET 4.6.2, NET 6.0, NET 8.0 and NET 9.0. 
-   
-   * When .NET 6.0 is installed in your system, the NET 6.0 option is selected by default.
+   The Framework Version group box has five options: .NET 4.6.2, NET 8.0, NET 9.0 and NET 10.0. 
    
    * When .NET 8.0 is installed in your system, the NET 8.0 option is selected by default.
    
    * When .NET 9.0 is installed in your system, the NET 9.0 option is selected by default.
+   
+   * When .NET 10.0 is installed in your system, the NET 10.0 option is selected by default.
+   
+   * When Visual Studio 2026 is installed in your system, the .NET 10.0 option is selected by default.
    
    * When Visual Studio 2022 is installed in your system, the .NET 9.0 option is selected by default.
    
