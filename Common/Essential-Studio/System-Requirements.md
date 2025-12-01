@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# System Requirements of Essential Studio<sup style="font-size:70%">&reg;</sup>
+# System Requirements of Essential Studio®
 
 <style>
 #note {
@@ -44,6 +44,7 @@ By using the following IDEs, you can develop ASP.NET MVC Applications
 * [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/)
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 * [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
+* [Visual Studio 2026](https://visualstudio.microsoft.com/downloads/)
 
 ### Frameworks & SDK
 
@@ -143,6 +144,7 @@ By using the following IDEs, you can develop ASP.NET Core Applications
 * [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/) 
 * [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 * [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
+* [Visual Studio 2026](https://visualstudio.microsoft.com/downloads/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Frameworks & SDK
@@ -445,9 +447,10 @@ The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;
 
 * [Visual Studio 2019, version 16.10 Preview](https://visualstudio.microsoft.com/vs/preview/) (or later) with following components. 
 * [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
+* [Visual Studio 2026](https://visualstudio.microsoft.com/downloads/)
 * <b>Universal Windows Platform development</b> of the <b>Workloads</b> tab of the installation dialog.  
 * <b>Windows 10 SDK (10.0.19041.0) and later</b> on <b>Individual components</b> tab of the installation dialog.
-* [Project Reunion 0.5 extension](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftProjectReunion)
+* [Project Reunion 0.5 extension](https://learn.microsoft.com/en-us/windows/apps/winui/winui3/release-notes/winui3-project-reunion-0.5)
 
 N> Visual Studio 2019, version 16.9 also supports Project Reunion and it does not support all WinUI 3 tooling features such as Hot Reload, Live Visual Tree, etc. Refer [Windows UI Library 3 - Project Reunion 0.5](https://docs.microsoft.com/en-us/windows/apps/winui/winui3/) to know more about WinUI 3 tooling support.
 
