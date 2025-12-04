@@ -281,7 +281,7 @@ You can copy the product key from the License Manager window to the clipboard. T
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides toolbox support for WPF, Windows Forms, ASP.NET Web Forms, UWP, Xamarin, PDF Viewer SDK, Spreadsheet Editor SDK and DOCX Editor SDK platforms. The Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox Installer utility adds the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio .NET toolbox.
 
-N> * Starting with the 2022 Volume 4 SP release, Syncfusion<sup style="font-size:70%">&reg;</sup> officially marked the EJ1 product as retired.
+N> * From 2022 Volume 4 SP release, Syncfusion<sup style="font-size:70%">&reg;</sup> officially marked the EJ1 product as retired.
 * Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
 
 ### Configuring Toolbox
@@ -341,7 +341,7 @@ From 2021 Volume 3, Syncfusion<sup style="font-size:70%">&reg;</sup> started pro
 
 N> * Syncfusion<sup style="font-size:70%">&reg;</sup> WPF .NET 5.0 controls will be compatible with .NET 6.0, on installing the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF installer, our .NET 5.0 controls will be configured the toolbox for .NET 6.0 projects too.
 * Syncfusion<sup style="font-size:70%">&reg;</sup> only supports ASP.NET Web Forms Toolbox in .NET Frameworks.
-* Starting with the 2022 Volume 4 SP release, Syncfusion<sup style="font-size:70%">&reg;</sup> officially marked the EJ1 product as retired.
+* From 2022 Volume 4 SP release, Syncfusion<sup style="font-size:70%">&reg;</sup> officially marked the EJ1 product as retired.
 
 ### Configuring toolbox for WPF .NET 8.0\9.0\10.0 projects
 
