@@ -28,7 +28,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 From the 2018 Volume 2 release, each Essential Studio<sup style="font-size:70%">&reg;</sup> platform has separate Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel. You can launch the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel either from <b>Desktop Shortcut</b> or <b>Start Menu->Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel {version}</b>
 </div>
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img1.png)
+![Syncfusion Control Panel](Utilities_images/Dashboard_img1.png)
 
 
 ### Accessing Product Samples
@@ -37,7 +37,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides online and local demos
 
 1. Open the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img9.png)
+   ![Syncfusion Control Panel](Utilities_images/Dashboard_img9.png)
 
 2. Click any of the following to know more about the selected product.
 
@@ -57,7 +57,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides online and local demos
 
 You need to install a list of prerequisites, for all of the products to work successfully. When some of the software is not installed, the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel displays an alert. Click Additional Software Required, and a Missing Software dialog box opens.
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img11.png)
+![Syncfusion Control Panel](Utilities_images/Dashboard_img11.png)
 
 ### Missing Software 
 
@@ -76,7 +76,7 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 The **Recheck** option rechecks the prerequisites list and refreshes the currently installed software list
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img15.png)
+![Syncfusion Control Panel](Utilities_images/Dashboard_img15.png)
 
 ### Accessing utilities from Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel
 
@@ -84,11 +84,11 @@ This section allows you to access the following. 
 
 1. **Add-ons** - This lists the add-on utilities that help you to utilize the additional product services from Syncfusion<sup style="font-size:70%">&reg;</sup>. 
    
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Add-ons.png)
+   ![Syncfusion Control Panel](Utilities_images/Add-ons.png)
    
 2. [Utilities](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) - This section displays the utilities that are available for the corresponding product.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/utilities.png)
+   ![Syncfusion Control Panel](Utilities_images/utilities.png)
    
    * [Toolbox Configuration](https://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion<sup style="font-size:70%">&reg;</sup> controls for various .NET Frameworks in combination with compatible Visual Studio versions.
    * [Assembly Manager](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> assemblies in the GAC and in the Assemblies folders.
@@ -102,7 +102,7 @@ You can view your license details in the Syncfusion<sup style="font-size:70%">&r
 
 * Messages- This section allows you to view the License information, like whether the user is Licensed or Trial. Syncfusion<sup style="font-size:70%">&reg;</sup> Trial expires in 30 days.
 
-  ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img16.png)
+  ![Syncfusion Control Panel](Utilities_images/Dashboard_img16.png)
 
 ### General resources
 
@@ -115,7 +115,7 @@ You can view your license details in the Syncfusion<sup style="font-size:70%">&r
 
 You can access the respective products user guide, online and offline class reference documents from here.
 
-  ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/documentation.png)
+  ![Syncfusion Control Panel](Utilities_images/documentation.png)
 
 ### User Guide
 
@@ -132,7 +132,7 @@ View on Web – You can also view the online user guide documents on clicking th
 
 You can also get a quick glimpse of our other available products here, download, and install it and have a try.
 
-  ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/other-products.png)
+  ![Syncfusion Control Panel](Utilities_images/other-products.png)
   
 If you have installed any other products in the same version, then you can open the respective products Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel from here too.
 
@@ -187,10 +187,10 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    The Framework group box comprises of check boxes for the .NET Framework versions based on the Visual Studio SDK installed in the machine. The following check boxes are available:
 
    * 4.6.2 - Selecting **4.6.2** ensures installation of 4.6.2 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2017 SDK is installed, the 4.6.2 assemblies have to be deployed.
-   * 4.0 - Selecting **4.0** ensures installation of 4.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2015 SDK is installed, the 4.0 assemblies have to be deployed.   
 
    N> * From 2018 Volume 4, Syncfusion<sup style="font-size:70%">&reg;</sup> has removed the .NET Framework 4.5.1 and MVC3 assemblies from installer. Refer to [this](https://help.syncfusion.com/common/essential-studio/installation/essential-studio-platform-framework-add-ons) topic to enable 4.5.1 checkboxes.  
    * By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed.
+   * From 2024 Volume 4, Syncfusion<sup style="font-size:70%">&reg;</sup> has removed the .NET Framework 4.0 from installer.
 
 7. Click Perform Action. It starts processing.
 
@@ -279,9 +279,10 @@ You can copy the product key from the License Manager window to the clipboard. T
 
 ## Toolbox Configuration 
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> provides toolbox support for WPF, Windows Forms, ASP.NET Web Forms, UWP and Xamarin platforms. The Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox Installer utility adds the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio .NET toolbox.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides toolbox support for WPF, Windows Forms, ASP.NET Web Forms, UWP, Xamarin, PDF Viewer SDK, Spreadsheet Editor SDK and DOCX Editor SDK platforms. The Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox Installer utility adds the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio .NET toolbox.
 
-N> Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
+N> * From 2022 Volume 4 SP release, Syncfusion<sup style="font-size:70%">&reg;</sup> officially marked the EJ1 product as retired.
+* Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
 
 ### Configuring Toolbox
 
@@ -315,8 +316,9 @@ To launch Toolbox configuration utility, follow the steps given below:
    
    * Install VS2015 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2015 toolbox.
    * Install VS2017 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2017 toolbox.
-   * Install VS2019 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2019 toolbox
-   * Install VS2022 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2022 toolbox
+   * Install VS2019 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2019 toolbox.
+   * Install VS2022 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2022 toolbox.
+   * Install VS2026 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2026 toolbox.
    
     N> You can also configure Syncfusion<sup style="font-size:70%">&reg;</sup> controls from a lower version Framework assembly to higher version of Visual Studio.
    
@@ -329,12 +331,21 @@ To launch Toolbox configuration utility, follow the steps given below:
 
    * This tool configures only the controls that are located under {Installed Location}\Assemblies\{Framework version}.
 
+### Configuring toolbox in Visual Studio 2026   
+
+From 2025 Volume 3 SP 2 Release, Syncfusion<sup style="font-size:70%">&reg;</sup> started providing toolbox support for .NET Framework and .NET 8.0\9.0\10.0 in Visual Studio 2026 Toolbox. After installing the Syncfusion<sup style="font-size:70%">&reg;</sup> product installer, Syncfusion<sup style="font-size:70%">&reg;</sup> controls will be automatically configured in the Visual Studio 2026 toolbox for WPF, Windows projects.
+
 ### Configuring toolbox in Visual Studio 2022   
 
 From 2021 Volume 3, Syncfusion<sup style="font-size:70%">&reg;</sup> started providing toolbox support for .NET Framework and .NET 5.0\6.0 in Visual Studio 2022 Toolbox. After installing the Syncfusion<sup style="font-size:70%">&reg;</sup> product installer, Syncfusion<sup style="font-size:70%">&reg;</sup> controls will be automatically configured in the Visual Studio 2022 toolbox for WPF, Windows, and ASP.NET Web Forms projects.
 
 N> * Syncfusion<sup style="font-size:70%">&reg;</sup> WPF .NET 5.0 controls will be compatible with .NET 6.0, on installing the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF installer, our .NET 5.0 controls will be configured the toolbox for .NET 6.0 projects too.
 * Syncfusion<sup style="font-size:70%">&reg;</sup> only supports ASP.NET Web Forms Toolbox in .NET Frameworks.
+* From 2022 Volume 4 SP release, Syncfusion<sup style="font-size:70%">&reg;</sup> officially marked the EJ1 product as retired.
+
+### Configuring toolbox for WPF .NET 8.0\9.0\10.0 projects
+
+From 2025 Volume 3 SP 2 Release, Syncfusion<sup style="font-size:70%">&reg;</sup> started providing toolbox support for WPF .NET 8.0\9.0\10.0 framework in Visual Studio 2026. Syncfusion<sup style="font-size:70%">&reg;</sup> controls will be automatically configured in the Visual Studio 2026 toolbox for WPF .NET 8.0\9.0\10.0 project, after installing the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF, PDF Viewer SDK, Spreadsheet Editor SDK and DOCX Editor SDK installer.
 
 ### Configuring toolbox for WPF .NET 5.0\6.0 projects
 
@@ -353,8 +364,6 @@ Refer [this](https://help.syncfusion.com/windowsforms/add-syncfusion-controls) d
 ### Configuring toolbox for .NET Core 3.1 projects
 
 To configure the Syncfusion<sup style="font-size:70%">&reg;</sup> toolbox in the WPF .NET Core application, the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages should be installed in the .NET Core application. After installing the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages in .NET Core application, the corresponding NuGet packages Syncfusion<sup style="font-size:70%">&reg;</sup> components will be configured in Visual Studio toolbox. 
-
-Please refer the documentation [link](https://help.syncfusion.com/wpf/visual-studio-integration/nuget-packages#using-components-from-nuget), to learn more about how to use the Syncfusion<sup style="font-size:70%">&reg;</sup> components using the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages in .NET Core application.
    
 ## Multi-Target Manager
 
