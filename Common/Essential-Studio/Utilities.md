@@ -187,10 +187,10 @@ You can also open the Assembly Manager from {Installed location}\Syncfusion\Esse
    The Framework group box comprises of check boxes for the .NET Framework versions based on the Visual Studio SDK installed in the machine. The following check boxes are available:
 
    * 4.6.2 - Selecting **4.6.2** ensures installation of 4.6.2 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2017 SDK is installed, the 4.6.2 assemblies have to be deployed.
-   * 4.0 - Selecting **4.0** ensures installation of 4.0 assemblies into the GAC and assemblies folder. In cases where only Visual Studio 2015 SDK is installed, the 4.0 assemblies have to be deployed.   
 
    N> * From 2018 Volume 4, Syncfusion<sup style="font-size:70%">&reg;</sup> has removed the .NET Framework 4.5.1 and MVC3 assemblies from installer. Refer to [this](https://help.syncfusion.com/common/essential-studio/installation/essential-studio-platform-framework-add-ons) topic to enable 4.5.1 checkboxes.  
    * By default 2.0 is enabled in a system where Visual Studio 2008 SDK is installed.
+   * From 2024 Volume 4, Syncfusion<sup style="font-size:70%">&reg;</sup> has removed the .NET Framework 4.0 from installer.
 
 7. Click Perform Action. It starts processing.
 
@@ -279,9 +279,10 @@ You can copy the product key from the License Manager window to the clipboard. T
 
 ## Toolbox Configuration 
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> provides toolbox support for WPF, Windows Forms, ASP.NET Web Forms, UWP and Xamarin platforms. The Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox Installer utility adds the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio .NET toolbox.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides toolbox support for WPF, Windows Forms, ASP.NET Web Forms, UWP, Xamarin, PDF Viewer SDK, Spreadsheet Editor SDK and DOCX Editor SDK platforms. The Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox Installer utility adds the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio .NET toolbox.
 
-N> Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
+N> * From 2022 Volume 4 SP release, Syncfusion<sup style="font-size:70%">&reg;</sup> officially marked the EJ1 product as retired.
+* Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually) .
 
 ### Configuring Toolbox
 
@@ -315,8 +316,9 @@ To launch Toolbox configuration utility, follow the steps given below:
    
    * Install VS2015 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2015 toolbox.
    * Install VS2017 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2017 toolbox.
-   * Install VS2019 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2019 toolbox
-   * Install VS2022 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2022 toolbox
+   * Install VS2019 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2019 toolbox.
+   * Install VS2022 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2022 toolbox.
+   * Install VS2026 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2026 toolbox.
    
     N> You can also configure Syncfusion<sup style="font-size:70%">&reg;</sup> controls from a lower version Framework assembly to higher version of Visual Studio.
    
@@ -329,12 +331,21 @@ To launch Toolbox configuration utility, follow the steps given below:
 
    * This tool configures only the controls that are located under {Installed Location}\Assemblies\{Framework version}.
 
+### Configuring toolbox in Visual Studio 2026   
+
+From 2025 Volume 3 SP 2 Release, Syncfusion<sup style="font-size:70%">&reg;</sup> started providing toolbox support for .NET Framework and .NET 8.0\9.0\10.0 in Visual Studio 2026 Toolbox. After installing the Syncfusion<sup style="font-size:70%">&reg;</sup> product installer, Syncfusion<sup style="font-size:70%">&reg;</sup> controls will be automatically configured in the Visual Studio 2026 toolbox for WPF, Windows projects.
+
 ### Configuring toolbox in Visual Studio 2022   
 
 From 2021 Volume 3, Syncfusion<sup style="font-size:70%">&reg;</sup> started providing toolbox support for .NET Framework and .NET 5.0\6.0 in Visual Studio 2022 Toolbox. After installing the Syncfusion<sup style="font-size:70%">&reg;</sup> product installer, Syncfusion<sup style="font-size:70%">&reg;</sup> controls will be automatically configured in the Visual Studio 2022 toolbox for WPF, Windows, and ASP.NET Web Forms projects.
 
 N> * Syncfusion<sup style="font-size:70%">&reg;</sup> WPF .NET 5.0 controls will be compatible with .NET 6.0, on installing the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF installer, our .NET 5.0 controls will be configured the toolbox for .NET 6.0 projects too.
 * Syncfusion<sup style="font-size:70%">&reg;</sup> only supports ASP.NET Web Forms Toolbox in .NET Frameworks.
+* From 2022 Volume 4 SP release, Syncfusion<sup style="font-size:70%">&reg;</sup> officially marked the EJ1 product as retired.
+
+### Configuring toolbox for WPF .NET 8.0\9.0\10.0 projects
+
+From 2025 Volume 3 SP 2 Release, Syncfusion<sup style="font-size:70%">&reg;</sup> started providing toolbox support for WPF .NET 8.0\9.0\10.0 framework in Visual Studio 2026. Syncfusion<sup style="font-size:70%">&reg;</sup> controls will be automatically configured in the Visual Studio 2026 toolbox for WPF .NET 8.0\9.0\10.0 project, after installing the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF, PDF Viewer SDK, Spreadsheet Editor SDK and DOCX Editor SDK installer.
 
 ### Configuring toolbox for WPF .NET 5.0\6.0 projects
 
