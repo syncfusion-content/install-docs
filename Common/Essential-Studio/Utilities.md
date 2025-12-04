@@ -28,7 +28,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 From the 2018 Volume 2 release, each Essential Studio<sup style="font-size:70%">&reg;</sup> platform has separate Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel. You can launch the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel either from <b>Desktop Shortcut</b> or <b>Start Menu->Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel {version}</b>
 </div>
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img1.png)
+![Syncfusion Control Panel](Utilities_images/Dashboard_img1.png)
 
 
 ### Accessing Product Samples
@@ -37,7 +37,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides online and local demos
 
 1. Open the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img9.png)
+   ![Syncfusion Control Panel](Utilities_images/Dashboard_img9.png)
 
 2. Click any of the following to know more about the selected product.
 
@@ -57,7 +57,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides online and local demos
 
 You need to install a list of prerequisites, for all of the products to work successfully. When some of the software is not installed, the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel displays an alert. Click Additional Software Required, and a Missing Software dialog box opens.
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img11.png)
+![Syncfusion Control Panel](Utilities_images/Dashboard_img11.png)
 
 ### Missing Software 
 
@@ -76,7 +76,7 @@ The **Recheck** option rechecks the prerequisites list and refreshes the current
 
 The **Recheck** option rechecks the prerequisites list and refreshes the currently installed software list
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img15.png)
+![Syncfusion Control Panel](Utilities_images/Dashboard_img15.png)
 
 ### Accessing utilities from Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel
 
@@ -84,11 +84,11 @@ This section allows you to access the following. 
 
 1. **Add-ons** - This lists the add-on utilities that help you to utilize the additional product services from Syncfusion<sup style="font-size:70%">&reg;</sup>. 
    
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Add-ons.png)
+   ![Syncfusion Control Panel](Utilities_images/Add-ons.png)
    
 2. [Utilities](https://help.syncfusion.com/common/essential-studio/utilities#dashboard ) - This section displays the utilities that are available for the corresponding product.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/utilities.png)
+   ![Syncfusion Control Panel](Utilities_images/utilities.png)
    
    * [Toolbox Configuration](https://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration )- This installer allows you to configure Syncfusion<sup style="font-size:70%">&reg;</sup> controls for various .NET Frameworks in combination with compatible Visual Studio versions.
    * [Assembly Manager](https://help.syncfusion.com/common/essential-studio/utilities#assembly-manager )- This utility allows you to manage installing or uninstalling Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> assemblies in the GAC and in the Assemblies folders.
@@ -102,7 +102,7 @@ You can view your license details in the Syncfusion<sup style="font-size:70%">&r
 
 * Messages- This section allows you to view the License information, like whether the user is Licensed or Trial. Syncfusion<sup style="font-size:70%">&reg;</sup> Trial expires in 30 days.
 
-  ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/Dashboard_img16.png)
+  ![Syncfusion Control Panel](Utilities_images/Dashboard_img16.png)
 
 ### General resources
 
@@ -115,7 +115,7 @@ You can view your license details in the Syncfusion<sup style="font-size:70%">&r
 
 You can access the respective products user guide, online and offline class reference documents from here.
 
-  ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/documentation.png)
+  ![Syncfusion Control Panel](Utilities_images/documentation.png)
 
 ### User Guide
 
@@ -132,7 +132,7 @@ View on Web – You can also view the online user guide documents on clicking th
 
 You can also get a quick glimpse of our other available products here, download, and install it and have a try.
 
-  ![Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel](Utilities_images/other-products.png)
+  ![Syncfusion Control Panel](Utilities_images/other-products.png)
   
 If you have installed any other products in the same version, then you can open the respective products Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel from here too.
 
@@ -364,8 +364,6 @@ Refer [this](https://help.syncfusion.com/windowsforms/add-syncfusion-controls) d
 ### Configuring toolbox for .NET Core 3.1 projects
 
 To configure the Syncfusion<sup style="font-size:70%">&reg;</sup> toolbox in the WPF .NET Core application, the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages should be installed in the .NET Core application. After installing the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages in .NET Core application, the corresponding NuGet packages Syncfusion<sup style="font-size:70%">&reg;</sup> components will be configured in Visual Studio toolbox. 
-
-Please refer the documentation [link](https://help.syncfusion.com/wpf/visual-studio-integration/nuget-packages#using-components-from-nuget), to learn more about how to use the Syncfusion<sup style="font-size:70%">&reg;</sup> components using the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages in .NET Core application.
    
 ## Multi-Target Manager
 
