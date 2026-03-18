@@ -83,7 +83,6 @@ The steps below show how to install the Essential Studio<sup style="font-size:70
 
 4.	Change the install and sample locations here. You can also change the Additional settings. Click Next\Install to install with the default settings.
 
-
     ![Advanced options](images/Step-by-Step-Installation_img4.png)
 
     **Additional Settings**
