@@ -23,7 +23,6 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides separate installers fo
 **Mobile**
 
 * .NET MAUI
-* Xamarin
 
 **Desktop**
 
@@ -32,11 +31,14 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides separate installers fo
 * Universal Windows Platform
 * WinUI
 
-**FileFormats**
+**Document Processing**
 
-* Read and Write Excel, Word, PDF and PowerPoint files
+* Document SDK
+* PDF Viewer SDK
+* Spreadsheet Editor SDK
+* DOCX Editor SDK
 
-N> Universal Windows Platform can be installed in Windows 8.1 and later.
+N> * Universal Windows Platform can be installed in Windows 8.1 and later.
 
 
 ## Step-by-Step Installation
