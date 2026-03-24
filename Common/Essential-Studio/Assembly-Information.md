@@ -17,7 +17,7 @@ We have two types of assembly descriptions to distinguish between trial and lice
 
 In the trial installer, License Enforced Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies will be shipped and this information will be present in the File Description as **License Required (LR).**
 
-**Example:** Syncfusion.SfBarcode.XForms (LR)
+**Example:** Syncfusion.SfBarcode.WPF (LR)
 
 ![Assembly Details](Documentation-Setup_images/Assembly-Description_img1.png)
 
@@ -25,7 +25,7 @@ In the trial installer, License Enforced Syncfusion<sup style="font-size:70%">&r
 
 In the License installer, licensed Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies will be shipped and **LR** information will not be shown in the File description.
 
-**Example:** Syncfusion.SfBarcode.XForms
+**Example:** Syncfusion.SfBarcode.WPF
 
 ![Assembly Details](Documentation-Setup_images/Assembly-Description_img2.png)
 
@@ -40,90 +40,47 @@ The assembly version format differs for each of the Essential Studio<sup style="
 <tr>
 <td>
 <b>Platforms/Frameworks</b></td><td>
-<b>4.0</b></td><td>
-<b>4.5</b></td><td>
-<b>4.5.1</b></td><td>
-<b>4.6</b></td><td>
-<b>netcoreapp3.1</b></td><td>
-<b>net 5.0</b></td><td>
-<b>net 6.0</b></td><td>
-<b>net 7.0</b></td><td>
+<b>4.6.2</b></td><td>
 <b>net 8.0</b></td><td>
+<b>net 9.0</b></td><td>
+<b>net 10.0</b></td><td>
 <b>uap10.0</b></td></tr>
 <tr>
 <td>
 <b>.NET MAUI</b></td><td>
 NA</td><td>
 NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-21.1.x</td><td>
-21.1.x</td><td>
-23.1.x</td><td>
+31.1.x</td><td>
+31.1.x</td><td>
 NA</td></tr>
 <tr>
 <td>
 <b>WinUI</b></td><td>
 NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-21.1.x</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
+23.1.x</td><td>
+31.1.x</td><td>
+31.1.x</td><td>
 21.1.x</td></tr>
 <tr>
 <td>
 <b>Windows Forms</b></td><td>
-21.1400.x</td><td>
-21.1450.x</td><td>
-21.1451.x</td><td>
-21.1460.x</td><td>
-21.1.x</td><td>
-21.1.x</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
+21.1462.x</td><td>
+23.1.x</td><td>
+31.1.x</td><td>
+31.1.x</td><td>
 NA</td></tr>
 <tr>
 <td>
 <b>WPF</b></td><td>
-21.1400.x</td><td>
-21.1450.x</td><td>
-21.1451.x</td><td>
-21.1460.x</td><td>
-21.1.x</td><td>
-21.1.x</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
+21.1462.x</td><td>
+23.1.x</td><td>
+31.1.x</td><td>
+31.1.x</td><td>
 NA</td></tr>
 <tr>
 <td>
 <b>UWP</b></td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
 21.1.x</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td></tr>
-<tr>
-<td>
-<b>Xamarin</b></td><td>
-NA</td><td>
-NA</td><td>
-21.1.x</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
 NA</td><td>
 NA</td><td>
 NA</td><td>
@@ -131,15 +88,10 @@ NA</td></tr>
 <tr>
 <td>
 <b>ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</b></td><td>
-MVC 4 - 21.1400.x</td><td>
-MVC 5 - 21.1450.x</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
-NA</td><td>
 NA</td><td>
 23.1.x</td><td>
-NA</td><td>
+31.1.x</td><td>
+31.1.x</td><td>
 NA</td></tr>
 </table>
 
@@ -172,12 +124,8 @@ Following are the supported Framework versions of the Essential Studio<sup style
 <th>Supported Framework version</th>
 </tr>
 <tr>
-<td>Xamarin</td>
-<td>netstandard 2.0. Find the platform specific version {{'[here](https://help.syncfusion.com/xamarin/installation-and-upgrade/system-requirements#supported-platforms)'| markdownify }}</td>
-</tr>
-<tr>
 <td>.NET MAUI</td>
-<td>.NET 6.0, .NET 7.0 and .NET 8.0</td>
+<td>.NET 9.0 and .NET 10.0</td>
 </tr>
 <tr>
 <td>UWP</td>
@@ -189,11 +137,11 @@ Following are the supported Framework versions of the Essential Studio<sup style
 </tr>
 <tr>
 <td>WPF</td>
-<td>.NET Framework 4.0 to 4.6, .NET Core 3.1, .NET 5.0, and .NET8.0</td>
+<td>.NET Framework 4.6.2, .NET 8.0, .NET 9.0 and .NET 10.0</td>
 </tr>
 <tr>
 <td>Windows Forms</td>
-<td>.NET Framework 4.0 to 4.6, .NET Core 3.1, .NET 5.0, and .NET8.0</td>
+<td>.NET Framework 4.6.2, .NET 8.0, .NET 9.0 and .NET 10.0</td>
 </tr>
 <tr>
 <td>ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2)</td>
