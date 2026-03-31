@@ -41,7 +41,7 @@ Desktop
  -	[Universal Windows](https://www.syncfusion.com/uwp-ui-controls)
  -	[WinUI](https://www.syncfusion.com/winui-controls)
 
-FileFormats
+Document Processing
 
  -	[Document SDK](https://www.syncfusion.com/document-sdk)
   -	[PDFViewer SDK](https://www.syncfusion.com/pdf-viewer-sdk)
