@@ -374,9 +374,10 @@ The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;
 
 ### Development Environment
 
-* Microsoft Visual Studio 2015/2017/2019/2022
-* .NET Framework 4.0/4.6.2
-* Lower Syncfusion<sup style="font-size:70%">&reg;</sup> .NET frameworks can be used in applications because they are compatible with .NET 4.7, .NET 4.7.1, .NET 4.7.2, and .NET 4.8. For example, in the application, the Syncfusion<sup style="font-size:70%">&reg;</sup> 4.6 .NET framework assembly can be referred to as 4.7 or higher target versions.
+* Microsoft Visual Studio 2015/2017/2019/2022/2026
+* .NET Framework 4.6.2
+* .NET 8.0, .NET9.0, .NET10.0
+* Lower Syncfusion<sup style="font-size:70%">&reg;</sup> .NET frameworks can be used in applications because they are compatible with .NET 4.7, .NET 4.7.1, .NET 4.7.2, and .NET 4.8. For example, in the application, the Syncfusion<sup style="font-size:70%">&reg;</sup> 4.6.2 .NET framework assembly can be referred to as 4.7 or higher target versions.
 * .NET Core supported from [2019 Volume 1 release](https://help.syncfusion.com/windowsforms/release-notes) (17.1.0.32).
 
 ## WPF
@@ -401,10 +402,9 @@ The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;
 
 ### Development Environment
 
-* Microsoft Visual Studio 2015/2017/2019/2022
-* .NET Framework 4.0/4.6.2
-* .NET Core 3.1
-* .NET 5.0
+* Microsoft Visual Studio 2015/2017/2019/2022/2026
+* .NET Framework 4.6.2
+* .NET 8.0, .NET9.0, .NET10.0
 
 ## Universal Windows Platform
 
@@ -425,7 +425,7 @@ The following topic describes the system requirements required by Syncfusion<sup
 
 The following IDEs can be used for development that are [compatible](https://www.visualstudio.com/en-us/products/visual-studio-2015-compatibility-vs.aspx) with Microsoft Windows, both 32bit and 64 bit Operating System in Windows 11, Windows 10 and Windows 8.1 with Windows 10 toolkit
 
-* Microsoft Visual Studio 2015/2017/2019/2022
+* Microsoft Visual Studio 2015/2017/2019/2022/2026
 * Windows 10 SDK and later
 
 ### Framework
@@ -477,10 +477,16 @@ The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;
 
 ### Development Environment
 
-* [Visual Studio 2022, version 3.1 Preview](https://visualstudio.microsoft.com/vs/preview/) (or later) with following components. 
+* [Visual Studio 2022, version 3.1 Preview](https://visualstudio.microsoft.com/vs/preview/) (or later) with following components.
+* [Visual Studio 2026](https://visualstudio.microsoft.com/vs/preview/) with following components. 
 * <b>.NET MAUI Platform development</b> of the <b>[Workloads](https://docs.microsoft.com/en-us/dotnet/maui/get-started/installation)</b>
 
 ## Xamarin
+
+<div id="note">
+Xamarin support was discontinued after the 2025 Vol. 2 Service Pack (30.2.4) release.
+</div>
+
 
 The system requirements for using our Syncfusion<sup style="font-size:70%">&reg;</sup> Xamarin platform are as follows.
 

@@ -32,7 +32,6 @@ Web
 
 Mobile
 
- -	[Xamarin](https://www.syncfusion.com/xamarin-ui-controls)
  -	[.NET MAUI](https://www.syncfusion.com/maui-controls)
 
 Desktop
@@ -42,10 +41,12 @@ Desktop
  -	[Universal Windows](https://www.syncfusion.com/uwp-ui-controls)
  -	[WinUI](https://www.syncfusion.com/winui-controls)
 
-FileFormats
+Document Processing
 
- -	[Excel](https://www.syncfusion.com/document-processing/excel-framework/net)
- -	[Word](https://www.syncfusion.com/document-processing/word-framework/net)
- -	[PDF](https://www.syncfusion.com/document-processing/pdf-framework/net)
- -	[PowerPoint](https://www.syncfusion.com/document-processing/powerpoint-framework/net)
+ -	[Document SDK](https://www.syncfusion.com/document-sdk)
+  -	[PDFViewer SDK](https://www.syncfusion.com/pdf-viewer-sdk)
+ -	[SpreadsheetEditor SDK](https://www.syncfusion.com/spreadsheet-editor-sdk)
+ -	[DOCX Editor SDK](https://www.syncfusion.com/docx-editor-sdk)
+
+
 
