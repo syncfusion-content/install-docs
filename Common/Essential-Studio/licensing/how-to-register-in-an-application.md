@@ -21,7 +21,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 The generated license key is just a string that needs to be registered before any Syncfusion<sup style="font-size:70%">&reg;</sup> control is initiated. The following code is used to register the license.
 
-### Registering a single license key
+**Registering a single license key**
 
 {% tabs %}
 {% highlight c# %}
@@ -29,7 +29,7 @@ Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY
 {% endhighlight %}
 {% endtabs %}
 
-### Registering multiple license keys
+**Registering multiple license keys**
 
 {% tabs %}
 {% highlight c# %}
@@ -138,7 +138,7 @@ N> Only from 2022 Vol 1 v20.1.0.47, license key registration required for Essent
 
 The following code is used to register the license.
 
-### JavaScript es5
+### JavaScript
 
 Register the license key by using **registerLicense** method after the [Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript script](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start#configure-syncfusion-javascript-es5-control-in-the-application-1) file reference as below.
 
@@ -252,7 +252,7 @@ if (!app.Environment.IsDevelopment())
 
 ## .NET MAUI
 
-### Registering License Key in App.xaml.cs
+**Registering License Key in App.xaml.cs**
 
 You can register the license key in **App.xaml.cs** constructor before InitializeComponent(). If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
 
@@ -271,7 +271,7 @@ public App()
 {% endhighlight %}
 {% endtabs %}
 
-### Registering License Key in MauiProgram.cs
+**Registering License Key in MauiProgram.cs**
 
 You can register the license key in **MauiProgram.cs** when initializing or registering any Syncfusion controls within this file. This ensures that all controls are fully licensed and functional from the moment the application starts. Add the license registration code inside the **CreateMauiApp** method in **MauiProgram.cs**.
 
