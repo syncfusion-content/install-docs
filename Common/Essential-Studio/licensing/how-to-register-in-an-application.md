@@ -39,7 +39,7 @@ Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY
 {% endhighlight %}
 {% endtabs %}
 
-<div align="center"><b>or</b></div>
+or
 
 {% tabs %}
 {% highlight c# %}
