@@ -10,6 +10,8 @@ documentation: ug
 
 # Generate Syncfusion<sup style="font-size:70%">&reg;</sup> License key
 
+## Generating a Single License Key
+
 License keys can be generated from the [License & Downloads](https://syncfusion.com/account/downloads) or [Trial & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) section from your Syncfusion<sup style="font-size:70%">&reg;</sup> account. 
 
 ![Get License Key](licensing-images/generate-license.png)
@@ -26,6 +28,30 @@ I> * Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are **version
 
     
 * Refer this [KB](https://www.syncfusion.com/kb/8951/which-version-syncfusion-license-key-should-i-use-in-my-application) to know about which version of the Syncfusion<sup style="font-size:70%">&reg;</sup> license key should be used in the application.
+
+## Multiple License Keys Overview
+
+In v31.1.17 or later, if you have purchased multiple editions or SDKs separately and are using them in a single application, you must generate and use multiple license keys.
+
+## When this is required
+
+This applies when your application uses components from more than one edition or SDK, such as:
+
+- UI Edition and PDF Viewer SDK
+- Document Editor SDK and UI components
+
+## How to Generate Multiple License Keys
+
+You must generate license keys individually for each purchased edition or SDK.
+
+- Repeat the license generation steps for each edition
+- Each selection generates a separate license key
+
+![Multiple License Keys](licensing-images/multiple-keys.png)
+
+**Example:**
+- UI Edition → UI_LICENSE_KEY
+- PDF Viewer SDK → PDF_VIEWER_SDK_KEY
 
 ## Claim License key
 
