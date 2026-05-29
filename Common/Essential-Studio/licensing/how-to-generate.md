@@ -49,6 +49,8 @@ You must generate license keys individually for each purchased edition or SDK.
 
 ![Multiple License Keys](licensing-images/multiple-keys.png)
 
+![Multiple License Keys Configuration](licensing-images/multiple-keys2.png)
+
 **Example:**
 - UI Edition → UI_LICENSE_KEY
 - PDF Viewer SDK → PDF_VIEWER_SDK_KEY
