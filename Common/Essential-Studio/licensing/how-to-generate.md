@@ -29,7 +29,7 @@ I> * Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are **version
     
 * Refer this [KB](https://www.syncfusion.com/kb/8951/which-version-syncfusion-license-key-should-i-use-in-my-application) to know about which version of the Syncfusion<sup style="font-size:70%">&reg;</sup> license key should be used in the application.
 
-## Multiple License Keys Overview
+## Multiple License Keys Generation
 
 In v31.1.17 or later, if you have purchased multiple editions or SDKs separately and are using them in a single application, you must generate and use multiple license keys.
 
