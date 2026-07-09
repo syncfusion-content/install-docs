@@ -13,11 +13,11 @@ Licensing error popup is displayed with various messages under different circums
 
 ## Licensing errors 
 
-### License key not registered\Trial Expired 
+### License key not registered / Trial Expired
 
-The following error message will be shown if a Syncfusion<sup style="font-size:70%">&reg;</sup> license key has not been registered in your application or if the trial key has expired after 30 days. 
+The following error message will be shown if a Syncfusion<sup style="font-size:70%">&reg;</sup> license key has not been registered in your application or if the trial key has expired after 30 days.
 
-**Error message:** This application was built using a trial version of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>. You should include the valid license key to remove the license validation message permanently.
+**Error Message:** This application was built using a trial version of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>. You should include the valid license key to remove the license validation message permanently.
 
 ![License key not registered](licensing-images/new-licensing-alert.png)
 
@@ -29,7 +29,7 @@ The following error message will be shown if a Syncfusion<sup style="font-size:7
 
 ### Invalid key
 
-If the application is registered with an invalid key, another version of license key, or another platform's license key, the following error message will pop up when launching the application. 
+If the application is registered with an invalid key, a different version of the license key, or a different platform's license key, the following error message will pop up when launching the application. In newer versions, the **Platform Mismatch** and **Version Mismatch** errors described in the older versions section may also surface with similar wording.
 
 **Error Message:** The included Syncfusion<sup style="font-size:70%">&reg;</sup> license key is invalid.
 
@@ -45,11 +45,11 @@ Refer to the license key [generation](https://help.syncfusion.com/common/essenti
 
 ## Licensing errors from version 16.2.0* to 20.3.0*
 
-### License key not registered 
+### License key not registered
 
-The following error message will be shown if a Syncfusion<sup style="font-size:70%">&reg;</sup> license key has not been registered in your application. 
+The following error message will be shown if a Syncfusion<sup style="font-size:70%">&reg;</sup> license key has not been registered in your application.
 
-**Error message:** This application was built using a trial version of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>. Please include a valid license to permanently remove this license validation message. You can also obtain a free 30 day evaluation license to temporarily remove this message during the evaluation period. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#license-key-not-registered) for more information.
+**Error Message:** This application was built using a trial version of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>. Please include a valid license to permanently remove this license validation message. You can also obtain a free 30 day evaluation license to temporarily remove this message during the evaluation period. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#license-key-not-registered) for more information.
 
 ![License key not registered](licensing-images/licensing-alert.png)
 
@@ -61,7 +61,7 @@ The following error message will be shown if a Syncfusion<sup style="font-size:7
 
 ### Invalid key
 
-If the application is registered with an invalid key, another version of license key, or another platform's license key, the following error message will pop up when launching the application. 
+If the application is registered with an invalid key, a different version of the license key, or a different platform's license key, the following error message will pop up when launching the application.
 
 **Error Message:** The included Syncfusion<sup style="font-size:70%">&reg;</sup> license is invalid. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#invalid-key) for more information.
 
@@ -85,7 +85,7 @@ The following error message will be shown if the trial key has expired after 30 
 
 ### Platform Mismatch
 
-If the application is registered with another platform's license key, the following error message will pop up when launching the application.
+If the application is registered with a different platform's license key, the following error message will pop up when launching the application.
 
 **Error Message:** The included Syncfusion<sup style="font-size:70%">&reg;</sup> license is invalid (Platform mismatch). Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#platform-mismatch) for more information.
 
@@ -99,7 +99,7 @@ If the application is registered with another platform's license key, the follow
 
 ### Version Mismatch
 
-If the application is registered with another version's license key, the following error message will pop up when launching the application.
+If the application is registered with a different version's license key, the following error message will pop up when launching the application. The license key version must match the installed Syncfusion version (for example, a v17.1.0.32 license cannot be used with v18.x assemblies). Refer to this [KB](https://www.syncfusion.com/kb/8976/how-to-generate-license-key-for-licensed-products) for help generating a version-specific key.
 
 **Error Message:** The included Syncfusion<sup style="font-size:70%">&reg;</sup> license ({Registered Version}) is invalid for version {Required version}. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors#version-mismatch) for more information.
 
@@ -111,19 +111,44 @@ If the application is registered with another version's license key, the followi
 
 * In your application, register the generated license key. Please refer to this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/how-to-register-in-an-application) for information on registering the license key.
 
-## 'Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense' does not exist in the current context
+## `Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense` does not exist in the current context
 
-**The name Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense does not exist in this context** typically occurs when **“Syncfusion.Licensing”** package/assembly is not referenced properly in the project or license registration code used outside of the App() constructor or directly used inside the class. Ensure that the license registration code is properly included inside the App() constructor.
+**Error Message:** `The name Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense does not exist in this context`
+
+This error typically occurs when the `Syncfusion.Licensing` package/assembly is not referenced properly in the project, or when the license registration call is placed inside an arbitrary class instead of the application's startup method.
+
+**Solution:** Register the license from the application's startup method. Examples by application type:
+
+- **WPF / WinForms:** place the call inside the `App()` constructor.
+- **ASP.NET / ASP.NET MVC:** place the call inside `Application_Start` (or the `Startup` class for OWIN-based apps).
+- **Console apps:** place the call at the beginning of `Main`.
+- **Xamarin / .NET MAUI:** place the call in the platform-specific startup (for example, `AppDelegate` for iOS, `MainActivity.OnCreate` for Android).
+
+Sample registration code:
+
+```csharp
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR_LICENSE_KEY");
+```
 
 ## Could not load Syncfusion.Licensing.dll assembly version...?
 
 Please ensure that all Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages including [Syncfusion.Licensing](https://www.nuget.org/packages/Syncfusion.Licensing) were installed properly, and assembly references are upgraded to the required version. Also, verify that the csproj and packages.config/web.config files references have been referred with the updated version.
 
-To avoid run-time errors, set copy local to true. Copy Local determines whether a reference is copied to the project output path.
+To avoid run-time errors, set **Copy Local** to `True`. The **Copy Local** property determines whether a reference is copied to the project output path.
 
-![Set copy local to true](licensing-images/SetCopyLocalTrue.png)
+> **Note:** `packages.config` and `web.config` references apply to .NET Framework projects. For .NET Core, .NET 5+, and later projects, references are stored only in the `.csproj` file.
 
-Set “CopyLocal” as True for Syncfusion.Licensing.dll along with all other Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies and ensure that the Syncfusion.Licensing.dll assembly is also present in the output folder or deployment folder of the application.
+**To set Copy Local to True in Visual Studio:**
+
+1. In **Solution Explorer**, expand the project's **References** (or **Dependencies**) node.
+2. Right-click the **Syncfusion.Licensing** assembly and select **Properties**.
+3. In the **Properties** window, set **Copy Local** to **True**.
+4. Repeat for all other Syncfusion assemblies referenced in the project.
+5. Rebuild the project.
+
+![Set Copy Local to True](licensing-images/SetCopyLocalTrue.png)
+
+Set **Copy Local** to **True** for `Syncfusion.Licensing.dll` along with all other Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies, and ensure that `Syncfusion.Licensing.dll` is also present in the output folder or deployment folder of the application.
 
 ![Output folder](licensing-images/OutputFolder.png)
 
