@@ -27,11 +27,6 @@ To learn more, refer to the following documentation:
 - Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are valid **indefinitely** for the selected version and product.
 - Only **trial license keys** expire after **30 days**.
 
-## Version Compatibility
-
-- Before **v31.1.17 (2025 Volume 3)**, license keys are generated per platform (for example, ASP.NET Core, Blazor, Windows).
-- Starting from **v31.1.17**, license keys are generated **per edition** (for example, Essential Studio UI Edition, Document SDK, PDF Viewer SDK, or Enterprise Edition). See [How to generate a license key](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) for details.
-
 ## Related topics
 
 - [Where can I get a license key?](https://help.syncfusion.com/common/essential-studio/licensing/licensing-faq/where-can-i-get-a-license-key)
