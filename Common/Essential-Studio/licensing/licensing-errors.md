@@ -136,8 +136,6 @@ Please ensure that all Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet pa
 
 To avoid run-time errors, set **Copy Local** to `True`. The **Copy Local** property determines whether a reference is copied to the project output path.
 
-> **Note:** `packages.config` and `web.config` references apply to .NET Framework projects. For .NET Core, .NET 5+, and later projects, references are stored only in the `.csproj` file.
-
 **To set Copy Local to True in Visual Studio:**
 
 1. In **Solution Explorer**, expand the project's **References** (or **Dependencies**) node.
