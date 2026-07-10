@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Licensing FAQ – Is it possible to cancel or revoke a license key? | Syncfusion
+title: Is it possible to cancel or revoke a license key? | Syncfusion
 description: Learn why Syncfusion license keys cannot be cancelled or revoked and how their validation works offline.
 platform: common
 control: Essential Studio
