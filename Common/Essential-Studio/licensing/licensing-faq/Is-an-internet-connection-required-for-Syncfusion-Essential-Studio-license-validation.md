@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Is internet access required for Essential Studio license validation?
+# Is an internet connection required for Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> license validation?
 
 * Syncfusion<sup style="font-size:70%">&reg;</sup> license validation is done offline during application execution and does not require internet access.
 
