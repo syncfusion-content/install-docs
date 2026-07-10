@@ -21,11 +21,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 
 The generated license key is just a string that needs to be registered before any Syncfusion<sup style="font-size:70%">&reg;</sup> control is initiated. The following code is used to register the license.
 
-N> **Prerequisites:** The `Syncfusion.Licensing` assembly is shipped with the Essential Studio platform installers. For projects that resolve Syncfusion assemblies through NuGet, install the `Syncfusion.Licensing` package. For JavaScript-based platforms (Angular, React, Vue, TypeScript), install `@syncfusion/ej2-base`. Verify the package is referenced before calling the registration API; otherwise a `TypeError` / `TypeLoadException` is thrown at runtime.
-
 **Registering a single license key**
-
-`SyncfusionLicenseProvider.RegisterLicense(string licenseKey)` — registers the license key. Returns `void`.
 
 {% tabs %}
 {% highlight c# %}
@@ -50,26 +46,6 @@ or
 Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY_1;YOUR LICENSE KEY_2;...");
 {% endhighlight %}
 {% endtabs %}
-
-**Storing the license key in configuration (recommended for production)**
-
-Avoid hard-coding the license key in source control. Read it from configuration or an environment variable and pass the value to `RegisterLicense`.
-
-`appsettings.json`:
-
-```json
-{
-  "Syncfusion": {
-    "LicenseKey": "YOUR LICENSE KEY"
-  }
-}
-```
-
-```csharp
-// Program.cs
-Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense(
-    builder.Configuration["Syncfusion:LicenseKey"]);
-```
 
 N> * Place the license key between double quotes.  Also, ensure that Syncfusion.Licensing.dll is referenced in your project where the license key is being registered.
 * Syncfusion<sup style="font-size:70%">&reg;</sup> license validation is done offline during application execution and does not require internet access.  Apps registered with a Syncfusion<sup style="font-size:70%">&reg;</sup> license key can be deployed on any system that does not have an internet connection.
@@ -162,8 +138,6 @@ public static async Task Main(string[] args)
 {% endhighlight %}
 {% endtabs %}
 
-N> Blazor WebAssembly does not declare an explicit `Main` method. The code above uses the C# 9+ top-level statements feature in `Program.cs`. `AddSyncfusionBlazor()` registers the Syncfusion Blazor services in the DI container and is required for Syncfusion Blazor components to function.
-
 ## JavaScript (Essential<sup style="font-size:70%">&reg;</sup> JS 2)
 
 Register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key if your project uses Syncfusion<sup style="font-size:70%">&reg;</sup> EJ2 JavaScript packages. The generated license key is a string that needs to be registered after any [Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript script reference](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start#configure-syncfusion-javascript-es5-control-in-the-application-1).
@@ -228,7 +202,7 @@ Register the license key in the **index.js** file of the React project.
 {% tabs %}
 {% highlight JS %}
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -237,11 +211,11 @@ import { registerLicense } from '@syncfusion/ej2-base';
 // Registering Syncfusion<sup style="font-size:70%">&reg;</sup> license key
 registerLicense('License Key');
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+ReactDOM.render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
 {% endhighlight %}
 {% endtabs %}
@@ -487,25 +461,6 @@ Protected Overrides Sub OnLaunched(e As Windows.ApplicationModel.Activation.Laun
 ...
 
 End Sub
-{% endhighlight %}
-
-{% endtabs %}
-
-## Xamarin.Forms.UWP
-
-Register the license key in **App.xaml.cs** constructor before InitializeComponent(). If the App constructor is not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
-
-{% tabs %}
-{% highlight c# %}
-public App()
-{
-	//Register Syncfusion license
-	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
-	
-	InitializeComponent();
-	
-	MainPage = new App1.MainPage();
-}
 {% endhighlight %}
 {% endtabs %}
 

@@ -7,16 +7,14 @@ control: Essential Studio
 documentation: ug
 ---
 
-# How to securely store Syncfusion License Keys in Azure Key Vault
+# How to securely store and use Syncfusion<sup style="font-size:70%">&reg;</sup> License Keys in Azure Key Vault?
 
 You can store the Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Azure Key Vault and register it in your application.
 
 ## Prerequisites
 
 * An active Azure subscription.
-* The .NET SDK (6.0 or later) installed.
 * A Syncfusion<sup style="font-size:70%">&reg;</sup> account with a valid license key.
-* A Syncfusion<sup style="font-size:70%">&reg;</sup> application or project to which the license will be registered.
 
 To use the secret (Syncfusion<sup style="font-size:70%">&reg;</sup> License Key) stored in Azure Key Vault in your application, you can follow these general steps:
 
