@@ -28,7 +28,15 @@ The following section shows how to validate the Syncfusion<sup style="font-size:
 * Open the LicenseKeyValidation.ps1 PowerShell script in a text/code editor as shown in the below example.
 
 {% tabs %}
-{% highlight powershell tabtitle="PowerShell" %}
+{% highlight c# tabtitle="v34.1.29 and later" %}
+# Replace the parameters with the desired platform, version, and actual license key.
+
+$result = & $PSScriptRoot"\LicenseKeyValidatorConsole.exe" /platform:"UIComponent" /version:"34.1.29" /licensekey:"Your License Key"
+
+Write-Host $result
+{% endhighlight %}
+
+{% highlight c# tabtitle="Before v34.1.29" %}
 # Replace the parameters with the desired platform, version, and actual license key.
 
 $result = & $PSScriptRoot"\LicenseKeyValidatorConsole.exe" /platform:"WPF" /version:"26.2.4" /licensekey:"Your License Key"
@@ -37,15 +45,13 @@ Write-Host $result
 {% endhighlight %}
 {% endtabs %}
 
-![LicenseKeyValidation script](licensing-images/license-validation.png)
-
 * Update the parameters in the LicenseKeyValidation.ps1 script file as described below. 
 
   **Platform:** Set the value of `/platform:` to the desired platform. For reference, please check the applicable example platforms below. 
 
   **34.1.29 or later:** Additional standalone UI SDK platforms have been introduced to provide developers' more flexibility in targeting specific UI capabilities.
   
-     (e.g., "WindowsForms", "WPF", "WinUI", "UWP", "MAUI", "Blazor", "PDF", "Word", "Excel", "PowerPoint", "PDFViewer", "WordEditor", "SpreadsheetEditor", "SchedulerSDK", "GanttSDK", "DiagramSDK", "RichTextEditorSDK", "GridSDK", "ChartSDK", "FileManagerSDK", "Markdown", "UIComponent")
+     (e.g., "UIComponent", "PDF", "Word", "Excel", "PowerPoint", "PDFViewer", "WordEditor", "SpreadsheetEditor", "SchedulerSDK", "GanttSDK", "DiagramSDK", "RichTextEditorSDK", "GridSDK", "ChartSDK", "FileManagerSDK", "Markdown")
 
   **31.1.17 or later:** Installers were organized by platforms, and the **'File Formats'** platform has been divided into multiple platforms to improve the installer experience.
   
@@ -168,14 +174,9 @@ bool isValid = SyncfusionLicenseProvider.ValidateLicense(Platform.WPF);
 {% endhighlight %}
 {% endtabs %}
 
-**v34.1.29 and later:**
-![LicenseKeyValidationMethod](licensing-images/license-validation-method-new.png)
-
-**Before v34.1.29:**
-![LicenseKeyValidationMethod](licensing-images/license-validation-method.png)
-
 N> The following is the list of platforms that can be passed to the ValidateLicense method:
-* **34.1.29 or later:** WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, ASPNET, Blazor, WinUI, MAUI, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor, SchedulerSDK, GanttSDK, DiagramSDK, RichTextEditorSDK, GridSDK, ChartSDK, FileManagerSDK, Markdown, UIComponent.
+* **34.1.29 or later:** UIComponent, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor, SchedulerSDK, GanttSDK, DiagramSDK, RichTextEditorSDK, GridSDK, ChartSDK, FileManagerSDK, Markdown.
+  **Note:** From v34.1.29 onwards, use `Platform.UIComponent` for UI framework platforms such as WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, Blazor, WinUI, and MAUI instead of passing each platform individually (e.g., `new[] { Platform.UIComponent }`).
 * **31.1.17 or later:** WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, ASPNET, Blazor, WinUI, MAUI, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor. For more details, refer to this [KB](https://support.syncfusion.com/kb/article/21200/how-to-know-installer-changes--essential-studio-v31117).
 * **Before 31.x.x (30.x and lower):** WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI.
 
