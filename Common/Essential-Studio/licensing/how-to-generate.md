@@ -10,22 +10,63 @@ documentation: ug
 
 # Generate Syncfusion<sup style="font-size:70%">&reg;</sup> License key
 
+## Generating a Single License Key
+
 License keys can be generated from the [License & Downloads](https://syncfusion.com/account/downloads) or [Trial & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) section from your Syncfusion<sup style="font-size:70%">&reg;</sup> account. 
 
 ![Get License Key](licensing-images/generate-license.png)
 
-I> * Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are **version‑specific and edition‑specific**, refer to the [KB](https://www.syncfusion.com/kb/8976/how-to-generate-license-key-for-licensed-products) to generate the license key for the required version and platform.
-* **Previously (before v31.x)**, Syncfusion® generated license keys **per platform** (e.g., ASP.NET Core, Blazor, Windows, etc.).
-* **Starting from v31.1.17 (2025 Volume 3 release)**, Syncfusion® introduced a new licensing model where license keys are generated **per edition rather than per platform**, and the editions include:
+I> * Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are **version‑specific and edition‑specific**. Refer to the [KB](https://www.syncfusion.com/kb/8976/how-to-generate-license-key-for-licensed-products) for guidance on generating the license key for the required version and platform/edition.
+* **Starting from v34.1.29 (2026 Volume 2 release)**, Syncfusion<sup style="font-size:70%">&reg;</sup> introduced Standalone UI SDKs offering individual component packages, including:
+  - **Essential Studio Grid SDK**
+  - **Essential Studio Chart SDK**
+  - **Essential Studio Scheduler SDK**
+  - **Essential Studio Gantt SDK**
+  - **Essential Studio Rich Text Editor SDK**
+  - **Essential Studio Diagram SDK**
+  - **Essential Studio File Manager SDK**
+* **Starting from v31.1.17 (2025 Volume 3 release)**, Syncfusion<sup style="font-size:70%">&reg;</sup> introduced a new licensing model where license keys are generated **per edition rather than per platform**, and the editions include:
   - **Essential Studio UI Edition**
   - **Essential Studio Document SDK**
   - **Essential Studio PDF Viewer SDK**
   - **Essential Studio DOCX Editor SDK**
   - **Essential Studio Spreadsheet Editor SDK**
   - **Essential Studio Enterprise Edition** (includes all the above)
+* **Previously (before v31.x)**, Syncfusion<sup style="font-size:70%">&reg;</sup> generated license keys **per platform** (e.g., ASP.NET Core, Blazor, Windows, etc.). In other words, pre-v31 keys were version + platform, while v31+ keys are version + edition.
+* Refer to the [KB](https://www.syncfusion.com/kb/8951/which-version-syncfusion-license-key-should-i-use-in-my-application) to know which version of the Syncfusion<sup style="font-size:70%">&reg;</sup> license key should be used in your application.
 
-    
-* Refer this [KB](https://www.syncfusion.com/kb/8951/which-version-syncfusion-license-key-should-i-use-in-my-application) to know about which version of the Syncfusion<sup style="font-size:70%">&reg;</sup> license key should be used in the application.
+
+## Multiple License Keys Generation
+
+In v31.1.17 or later, if you have purchased multiple editions or SDKs separately and are using them in a single application, you must generate and use multiple license keys.
+
+## When this is required
+
+This applies when your application uses components from more than one edition or SDK, such as:
+
+- UI Edition and PDF Viewer SDK
+- Document Editor SDK and UI components
+
+## How to Generate Multiple License Keys
+
+You must generate license keys individually for each purchased edition or SDK.
+
+- Repeat the license generation steps for each edition
+- Each selection generates a separate license key
+
+![Multiple License Keys](licensing-images/multiple-keys.png)
+
+![Multiple License Keys](licensing-images/multiple-keys_1.png)
+
+![Multiple License Keys](licensing-images/multiple-keys_2.png)
+
+![Multiple License Keys](licensing-images/multiple-keys_3.png)
+
+![Multiple License Keys](licensing-images/multiple-keys_4.png)
+
+**Example:**
+- UI Edition → UI_LICENSE_KEY
+- PDF Viewer SDK → PDF_VIEWER_SDK_KEY
 
 ## Claim License key
 
