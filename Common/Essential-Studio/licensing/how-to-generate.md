@@ -35,8 +35,6 @@ I> * Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are **version
 * **Previously (before v31.x)**, Syncfusion<sup style="font-size:70%">&reg;</sup> generated license keys **per platform** (e.g., ASP.NET Core, Blazor, Windows, etc.). In other words, pre-v31 keys were version + platform, while v31+ keys are version + edition.
 * Refer to the [KB](https://www.syncfusion.com/kb/8951/which-version-syncfusion-license-key-should-i-use-in-my-application) to know which version of the Syncfusion<sup style="font-size:70%">&reg;</sup> license key should be used in your application.
 
-    
-* Refer this [KB](https://www.syncfusion.com/kb/8951/which-version-syncfusion-license-key-should-i-use-in-my-application) to know about which version of the Syncfusion<sup style="font-size:70%">&reg;</sup> license key should be used in the application.
 
 ## Multiple License Keys Generation
 
