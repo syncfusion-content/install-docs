@@ -56,7 +56,13 @@ You must generate license keys individually for each purchased edition or SDK.
 
 ![Multiple License Keys](licensing-images/multiple-keys.png)
 
-![Multiple License Keys Configuration](licensing-images/multiple-keys2.png)
+![Multiple License Keys](licensing-images/multiple-keys_1.png)
+
+![Multiple License Keys](licensing-images/multiple-keys_2.png)
+
+![Multiple License Keys](licensing-images/multiple-keys_3.png)
+
+![Multiple License Keys](licensing-images/multiple-keys_4.png)
 
 **Example:**
 - UI Edition → UI_LICENSE_KEY
