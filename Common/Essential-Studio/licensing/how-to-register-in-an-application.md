@@ -47,8 +47,6 @@ Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY
 {% endhighlight %}
 {% endtabs %}
 
-
-
 N> * Place the license key between double quotes.  Also, ensure that Syncfusion.Licensing.dll is referenced in your project where the license key is being registered.
 * Syncfusion<sup style="font-size:70%">&reg;</sup> license validation is done offline during application execution and does not require internet access.  Apps registered with a Syncfusion<sup style="font-size:70%">&reg;</sup> license key can be deployed on any system that does not have an internet connection.
 
@@ -56,7 +54,7 @@ I> Syncfusion<sup style="font-size:70%">&reg;</sup> license keys can be validate
 
 ## Where to register the Syncfusion<sup style="font-size:70%">&reg;</sup> License Key?
 
-Below are the recommended place to register the license key in the various platforms (ASP.NET Core, Blazor, etc.) 
+Below are the recommended places to register the license key in the various platforms (ASP.NET Core, Blazor, etc.) 
 
 ## Blazor
 
@@ -101,7 +99,7 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 
 ### Server side application using .NET 8.0/.NET 9.0/.NET 10.0
 
-Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022,2026 and .NET 8.0 /.NET 9.0 / .NET 10.0
+Register the license key in the **Program.cs** file if you created the Blazor server side application with Visual Studio 2022, 2026 and .NET 8.0 / .NET 9.0 / .NET 10.0
 
 {% tabs %}
 {% highlight c# %}
@@ -142,7 +140,7 @@ public static async Task Main(string[] args)
 
 ## JavaScript (Essential<sup style="font-size:70%">&reg;</sup> JS 2)
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> license key should be registered, if your project using Syncfusion<sup style="font-size:70%">&reg;</sup> EJ2-JavaScript packages reference. The generated license key is a string that needs to be registered after any [Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript script reference](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start#configure-syncfusion-javascript-es5-control-in-the-application-1).
+Register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key if your project uses Syncfusion<sup style="font-size:70%">&reg;</sup> EJ2 JavaScript packages. The generated license key is a string that needs to be registered after any [Syncfusion<sup style="font-size:70%">&reg;</sup> JavaScript script reference](https://ej2.syncfusion.com/javascript/documentation/getting-started/quick-start#configure-syncfusion-javascript-es5-control-in-the-application-1).
 
 N> Only from 2022 Vol 1 v20.1.0.47, license key registration required for Essential<sup style="font-size:70%">&reg;</sup> JavaScript 2 products.
 
@@ -222,6 +220,8 @@ ReactDOM.render(
 {% endhighlight %}
 {% endtabs %}
 
+N> The example above uses the React 18+ `createRoot` API. If your project still targets React 17 or earlier, use `ReactDOM.render(...)` instead.
+
 ### Vue
 
 Register the license key in the **index.js** file of the Vue project.
@@ -240,7 +240,7 @@ createApp(App).mount('#app')
 
 ## ASP.NET Core
 
-Register the license key in the `Program.cs` file if you created the ASP.NET Core web application with Visual Studio 2022,2026 and .NET 8.0 /.NET 9.0. /.NET 10.0
+Register the license key in the `Program.cs` file if you created the ASP.NET Core web application with Visual Studio 2022, 2026 and .NET 8.0 / .NET 9.0 / .NET 10.0
 
 {% tabs %}
 {% highlight c# tabtitle="Program.cs" %}
@@ -264,7 +264,7 @@ if (!app.Environment.IsDevelopment())
 
 **Registering License Key in App.xaml.cs**
 
-You can register the license key in **App.xaml.cs** constructor before InitializeComponent(). If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
+You can register the license key in **App.xaml.cs** constructor before InitializeComponent(). If the App constructor is not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
 
 {% tabs %}
 {% highlight c# %}
@@ -272,9 +272,9 @@ public App()
 {
 	//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
-	
+
 	InitializeComponent();
-	
+
 	MainPage = new AppShell();
 }
 
@@ -313,7 +313,7 @@ public static class MauiProgram
 
 ## WPF
 
-Register the license key in App constructor of **App.xaml.cs** in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor. In Visual Basic, register the license code in **App.xaml.vb**.
+Register the license key in App constructor of **App.xaml.cs** in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor. In Visual Basic, register the license key in **App.xaml.vb**.
 {% tabs %}
 {% highlight c# %}
 public partial class App : Application
@@ -337,7 +337,7 @@ End Sub
 
 ## Windows Forms
 
-Register the licensing code in static void main method before calling **Application.Run()** method in C#. In Visual Basic, register the licensing code in **Application.designer.vb** file constructor.
+Register the license key in the static void Main method before calling **Application.Run()** in C#. In Visual Basic, register the license key in **Application.designer.vb** file constructor.
 
 N> If the **Application.Designer.vb** file is not included by default in the project, it will be generated in the **My Project** folder in your VB project directory.
 
@@ -379,8 +379,8 @@ public partial class App : Application
 	{
 		//Register Syncfusion<sup style="font-size:70%">&reg;</sup> license
 		Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
-	}	
-} 
+	}
+}
 {% endhighlight %}
 
 {% endtabs %}
@@ -401,7 +401,7 @@ SyncfusionLicenseProvider.registerLicense("YOUR LICENSE KEY");
 {% endhighlight %}
 {% endtabs %}
 
-N> License key registration is not required for Java before v19.1.
+N> License key registration is not required for Java before v19.1. Add the `com.syncfusion:licensing:19.1.0` (or later) Maven dependency to your project.
  
 ## ASP.NET MVC
 
@@ -422,7 +422,7 @@ void Application_Start(object sender, EventArgs e)
 
 {% highlight vb %}
 Protected Sub Application_Start()
-        'Syncfusion<sup style="font-size:70%">&reg;</sup> Licensing Register
+        'Register Syncfusion license
         Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
         AreaRegistration.RegisterAllAreas()
         Register(GlobalConfiguration.Configuration)
@@ -436,7 +436,7 @@ End Sub
 
 ## UWP
 
-Register the license key in **App.xaml.cs** constructor before InitializeComponent() in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor. In Visual Basic, register the licensing code in **App.xaml.vb** file before OnLaunched event.
+Register the license key in **App.xaml.cs** constructor before InitializeComponent() in C#. If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor. In Visual Basic, register the license key in **App.xaml.vb** file before the OnLaunched event.
 
 {% tabs %}
 {% highlight c# %}
@@ -452,7 +452,7 @@ public App()
 
 {% highlight vb %}
 Public Sub New()
-	'Register Syncfusion<sup style="font-size:70%">&reg;</sup> License
+	'Register Syncfusion License
 	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY")
 End Sub
 
@@ -462,12 +462,11 @@ Protected Overrides Sub OnLaunched(e As Windows.ApplicationModel.Activation.Laun
 
 End Sub
 {% endhighlight %}
-
 {% endtabs %}
 
 ## Xamarin.Forms
 
-Register the license key in **App.xaml.cs** constructor before InitializeComponent(). If App constructor not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
+Register the license key in **App.xaml.cs** constructor before InitializeComponent(). If the App constructor is not available in **App.xaml.cs**, create the "App()" constructor in **App.xaml.cs** and register the license key inside the constructor.
 
 {% tabs %}
 {% highlight c# %}
@@ -483,10 +482,10 @@ public App()
 {% endhighlight %}
 {% endtabs %}
 
-N> If you are developing an application using Gorilla Player SDK, it is must to register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Xamarin.Forms.Android, Xamarin.Forms.iOS, and Xamarin.Forms.UWP.
-   Refer [this link](https://help.syncfusion.com/xamarin/licensing/how-to-register-in-an-application#xamarinformsandroid) to register Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Xamarin.Forms.Android
-   Refer [this link](https://help.syncfusion.com/xamarin/licensing/how-to-register-in-an-application#xamarinformsios) to register Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Xamarin.Forms.iOS
-   Refer [this link](https://help.syncfusion.com/xamarin/licensing/how-to-register-in-an-application#xamarinformsuwp) to register Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Xamarin.Forms.UWP
+N> If you are developing an application using Gorilla Player SDK, you must register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Xamarin.Forms.Android, Xamarin.Forms.iOS, and Xamarin.Forms.UWP.
+   Refer to [this link](https://help.syncfusion.com/xamarin/licensing/how-to-register-in-an-application#xamarinformsandroid) to register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Xamarin.Forms.Android.
+   Refer to [this link](https://help.syncfusion.com/xamarin/licensing/how-to-register-in-an-application#xamarinformsios) to register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Xamarin.Forms.iOS.
+   Refer to [this link](https://help.syncfusion.com/xamarin/licensing/how-to-register-in-an-application#xamarinformsuwp) to register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Xamarin.Forms.UWP.
 
 
 
