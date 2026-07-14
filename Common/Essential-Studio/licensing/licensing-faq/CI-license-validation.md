@@ -160,7 +160,7 @@ SyncfusionLicenseProvider.RegisterLicense("Your License Key");
 
 // Validate the registered license key.
 // The array overload allows validating against multiple platforms in a single call.
-bool isValid = SyncfusionLicenseProvider.ValidateLicense(new[] { Platform.WPF });
+bool isValid = SyncfusionLicenseProvider.ValidateLicense(new[] { Platform.UIComponent });
 {% endhighlight %}
 
 {% highlight c# tabtitle="Before v34.1.29" %}
