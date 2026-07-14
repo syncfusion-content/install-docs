@@ -21,7 +21,7 @@ N> The following prerequisites are required:
 > * A registered Syncfusion<sup style="font-size:70%">&reg;</sup> account (Trial or Licensed). If you do not have one, [create a new account](https://www.syncfusion.com/account/register).
 > * Administrator privileges on the machine where the installer will run.
 > * The web installer file downloaded from the [Syncfusion<sup style="font-size:70%">&reg;</sup> website](https://www.syncfusion.com/downloads/latest-version). For download instructions, refer to the [Download Syncfusion Essential Studio Web Installer](how-to-download) guide.
-> * Supported platform: Windows 8.1 or later (Windows 10/11 recommended) with the required .NET Framework / .NET runtimes installed for the selected products.
+> * Supported platform: Windows 8.1 or later (Windows 10/11 recommended) with the required .NET Framework / .NET runtime installed for the selected products.
 
 **Web**
 
@@ -144,7 +144,7 @@ The steps below show how to install Essential Studio<sup style="font-size:70%">&
 	
 	* To open the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel, click **Launch Control Panel**.
 
-12. After installation, two Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel entries will be available, as shown below. The **Essential Studio<sup style="font-size:70%">&reg;</sup>** entry manages all Syncfusion<sup style="font-size:70%">&reg;</sup> products installed in the same version, while the **Product** entry uninstalls only the specific product setup.
+12. After installation, two Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel entries will be available, as shown below. The **Essential Studio<sup style="font-size:70%">&reg;</sup>** entry manages all Syncfusion<sup style="font-size:70%">&reg;</sup> products installed in the same version, while the **Product** entry uninstall only the specific product setup.
 
     ![Control Panel](images/Step-by-Step-Installation_img19.png)
 
