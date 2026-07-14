@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing Syncfusion Essential Studio Offline Installer - Syncfusion
-description: Learn how to install the Syncfusion Essential Studio Offline installer after downloading it.
+description: Learn here about how to install Syncfusion Essential Studio Offline installer after downloading from our Syncfusion website.
 platform: common
 control: Essential Studio
 documentation: ug

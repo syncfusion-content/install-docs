@@ -86,7 +86,6 @@ You should initiate an evaluation if you have already obtained our components th
 ## Troubleshooting
 
 - **Installer fails to download:** Check your internet connection and retry. If the issue persists, clear your browser cache or try a different browser.
-- **Cannot sign in:** Reset your password using the [Forgot Password](https://www.syncfusion.com/account/forgot-password) link.
 - **Older version not listed:** Use the [Downloads Older Versions](https://www.syncfusion.com/account/downloads/studio) page to access installers for prior releases.
 
 ## See Also
