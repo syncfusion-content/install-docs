@@ -48,5 +48,13 @@ Document Processing
  -	[SpreadsheetEditor SDK](https://www.syncfusion.com/spreadsheet-editor-sdk)
  -	[DOCX Editor SDK](https://www.syncfusion.com/docx-editor-sdk)
 
+Standalone UI SDKS
 
+ -	[Scheduler SDK](https://www.syncfusion.com/scheduler-sdk)
+ -	[Gantt SDK](https://www.syncfusion.com/gantt-sdk)
+ -	[Rich Text Editor SDK](https://www.syncfusion.com/rich-text-editor-sdk)
+ -	[Grid SDK](https://www.syncfusion.com/grid-sdk)
+ -	[Chart SDK](https://www.syncfusion.com/chart-sdk)
+ -	[Diagram SDK](https://www.syncfusion.com/diagram-sdk)
+ -	[File Manager SDK](https://www.syncfusion.com/file-manager-sdk)
 

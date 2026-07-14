@@ -1,21 +1,28 @@
 ---
 layout: post
 title: Installing Syncfusion Essential Studio web installer - Syncfusion
-description: Learn here about how to install Syncfusion Essential Studio web installer after downloading from our Syncfusion website.
+description: Learn how to install the Syncfusion Essential Studio web installer after downloading it from the Syncfusion website.
 platform: common
 control: Essential Studio
 documentation: ug
+keywords: install, web installer, Essential Studio, uninstall, setup
 ---
 
-# Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Web installer
+# Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Web Installer
 
 
 ## Overview
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> provides Web Installer for Essential Studio<sup style="font-size:70%">&reg;</sup> products. This installer alleviates the burden of downloading a larger installer. You can simply download and run the online installer, which will be smaller in size and will download and install the Essential Studio<sup style="font-size:70%">&reg;</sup> products you have chosen. You can get the most recent version of Essential Studio<sup style="font-size:70%">&reg;</sup> Web Installer [here](https://www.syncfusion.com/downloads/latest-version).
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides a Web Installer for Essential Studio<sup style="font-size:70%">&reg;</sup> products. This installer alleviates the burden of downloading a larger installer. You can simply download and run the online installer, which will be smaller in size and will download and install the Essential Studio<sup style="font-size:70%">&reg;</sup> products you have chosen. The most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup> Web Installer is available [here](https://www.syncfusion.com/downloads/latest-version).
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer also allows both installation and uninstallation of the products for that specific version.
-	
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer also supports both installation and uninstallation of the products for a specific version.
+
+N> The following prerequisites are required:
+> * A registered Syncfusion<sup style="font-size:70%">&reg;</sup> account (Trial or Licensed). If you do not have one, [create a new account](https://www.syncfusion.com/account/register).
+> * Administrator privileges on the machine where the installer will run.
+> * The web installer file downloaded from the [Syncfusion<sup style="font-size:70%">&reg;</sup> website](https://www.syncfusion.com/downloads/latest-version). For download instructions, refer to the [Download Syncfusion Essential Studio Web Installer](how-to-download) guide.
+> * Supported platform: Windows 8.1 or later (Windows 10/11 recommended) with the required .NET Framework / .NET runtimes installed for the selected products.
+
 **Web**
 
 * ASP.NET MVC
@@ -41,8 +48,17 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer also allows both 
 * Spreadsheet Editor SDK
 * DOCX Editor SDK
 
-N> Universal Windows Platform will be installed in Windows 8.1 and later.  
+**Standalone UI SDKS**
 
+* Scheduler SDK
+* Gantt SDK
+* Rich Text Editor SDK
+* Grid SDK
+* Chart SDK
+* Diagram SDK
+* File Manager SDK
+
+N> Universal Windows Platform is supported only on Windows 8.1 and later.
  
 ## Installation
 
@@ -122,90 +138,107 @@ The steps below show how to install Essential Studio<sup style="font-size:70%">&
 
     ![Download and Installation progress install](images/Step-by-Step-Installation_img10.png)
 
-11. When the installation is finished, the **Summary** wizard will appear. Here you can see the list of products that have been installed successfully and those that have failed. To close the Summary wizard, click Finish.
+11. When the installation is finished, the **Summary** wizard will appear. It lists the products that were installed successfully and any that failed. To close the Summary wizard, click **Finish**.
 
     ![Installation Summary](images/Step-by-Step-Installation_img11.png)
 	
-	* To open the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel, click **Launch Control Panel**
-	
-12. After installation, there will be two Syncfusion<sup style="font-size:70%">&reg;</sup> control panel entries, as shown below. The Essential Studio<sup style="font-size:70%">&reg;</sup> entry will manage all Syncfusion<sup style="font-size:70%">&reg;</sup> products installed in the same version, while the Product entry will only uninstall the specific product setup.
+	* To open the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel, click **Launch Control Panel**.
+
+12. After installation, two Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel entries will be available, as shown below. The **Essential Studio<sup style="font-size:70%">&reg;</sup>** entry manages all Syncfusion<sup style="font-size:70%">&reg;</sup> products installed in the same version, while the **Product** entry uninstalls only the specific product setup.
 
     ![Control Panel](images/Step-by-Step-Installation_img19.png)
+
+## Troubleshooting
+
+* **Installer fails to launch:** Ensure you are running the installer with administrator privileges and that the downloaded file is not corrupted. Re-download the installer if necessary.
+* **Login fails or account is locked:** Reset your password using the **Forgot Password** link, or contact [Syncfusion Support](https://www.syncfusion.com/support).
+* **Installation is interrupted (network/disk issues):** Verify your internet connection and ensure there is sufficient disk space. Re-run the installer; the installation will resume from where it stopped.
+* **Required software warning:** Close the installer, install the prerequisites listed in the **Additional Software Required** alert, and re-run the installer.
+* **Product fails to install:** Check the Summary wizard for the specific error message, then refer to the [Syncfusion Support](https://www.syncfusion.com/support) page.
 
 
 ## Uninstallation
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> installer can be uninstalled in two ways.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> installer can be uninstalled in two ways.
 
-* Uninstall the Syncfusion<sup style="font-size:70%">&reg;</sup> installer from the Syncfusion<sup style="font-size:70%">&reg;</sup> web installer
+* Uninstall the Syncfusion<sup style="font-size:70%">&reg;</sup> installer from the Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer
 * Uninstall the Syncfusion<sup style="font-size:70%">&reg;</sup> installer from Windows Control Panel
 
-Follow either one of the options below to uninstall Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> installer.
+N> Administrator privileges are required to uninstall the products. Close any open Visual Studio instances before starting the uninstallation.
 
-**Option 1: Uninstall the Syncfusion<sup style="font-size:70%">&reg;</sup> installer from the Syncfusion<sup style="font-size:70%">&reg;</sup> web installer**
+Follow either one of the options below to uninstall the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> installer.
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> provides the option to uninstall products of the same version directly from the Web Installer application. Select the products to be uninstalled from the list, and Web Installer will uninstall them one by one.
+**Option 1: Uninstall the Syncfusion<sup style="font-size:70%">&reg;</sup> installer from the Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer**
 
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer can also uninstall products of the same version directly. To do so:
+
+1. Launch the Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer from the downloaded location, the desktop shortcut, or the Start menu.
+2. Sign in with your Syncfusion<sup style="font-size:70%">&reg;</sup> account on the login wizard.
+3. On the Platform Selection Wizard, switch to the **Installed** tab and select the products to uninstall. To uninstall every product, check the **Uninstall All** check box.
+4. Click **Next** and follow the on-screen prompts to confirm and complete the uninstallation.
 
 ![Platform Selection wizard Installed](images/Step-by-Step-Installation_img4.png)
 	
 	
 **Option 2: Uninstall the Syncfusion<sup style="font-size:70%">&reg;</sup> installer from Windows Control Panel**  
 	
-You can uninstall all the installed products by selecting the **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> {version}** entry (element 1 in the below screenshot) from the Windows control panel, or you can uninstall specific product alone by selecting the **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> for {Product} {version}** entry (element 2 in the below screenshot) from the Windows control panel.
+You can uninstall all the installed products by selecting the **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> {version}** entry (element 1 in the screenshot below) from the Windows Control Panel, or you can uninstall a specific product alone by selecting the **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> for {Product} {version}** entry (element 2 in the screenshot below) from the Windows Control Panel.
 
 ![Control Panel](images/Step-by-Step-Installation_img22.png)
 	
-N> If the **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> for {Product} {version}** entry is selected from the Windows control panel, the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Product alone will be removed and the below default MSI uninstallation window will be displayed.	
+N> If the **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> for {Product} {version}** entry is selected from the Windows Control Panel, only that Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Product will be removed and the following default MSI uninstallation window will appear.	
 
-1.	The login wizard will appear. You must enter your Syncfusion<sup style="font-size:70%">&reg;</sup> email address and password. If you do not already have a Syncfusion<sup style="font-size:70%">&reg;</sup> account, you can create one by clicking on **Create an Account**. If you have forgotten your password, click **Forgot Password** to create a new one. Click the Sign in button.
+The steps below describe the uninstallation flow once the Web Installer is launched from the Windows Control Panel.
+
+1.	The login wizard will appear. Re-authenticate by entering your Syncfusion<sup style="font-size:70%">&reg;</sup> email address and password. If you do not already have an account, you can [create a new account](https://www.syncfusion.com/account/register) by clicking **Create an Account**. If you have forgotten your password, click **Forgot Password** to reset it. Click **Sign in** to continue.
 
     ![Login wizard install/uninstall](images/Step-by-Step-Installation_img9.png)
 
-2.  The Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer's welcome wizard will be displayed. Click the Next button.
+2.  The Syncfusion<sup style="font-size:70%">&reg;</sup> Web Installer's welcome wizard will appear. Click **Next**.
 	
     ![Welcome wizard uninstall](images/Step-by-Step-Installation_img2.png)
 
-3.  The Platform Selection Wizard will appear. From the **Installed** tab, select the products to be uninstalled. To select all products, check the **Uninstall All** checkbox. Click the Next button.
+3.  The Platform Selection Wizard will appear. From the **Installed** tab, select the products to uninstall. To select all products, check the **Uninstall All** check box. Click **Next**.
     
-	<em>**Installed**</em>
+	<em>**Installed tab**</em>
 	
 	![Platform Selection wizard Installed](images/Step-by-Step-Installation_img4.png)
 	
-	You can also select the products to be installed from the **Available** tab.Click the Next button.
+	You can also select the products to install from the **Available** tab. Click **Next** to continue.
 	
-	<em>**Available**</em>
+	<em>**Available tab**</em>
 	
 	![Platform Selection wizard Available](images/Step-by-Step-Installation_img25.png)
 	
-4.  If any other products selected for installation, Uninstall previous version wizard will be displayed with previous version(s) installed for the selected products. Here you can view the list of installed previous versions for the selected products. Select **Uninstall All** checkbox to select all the versions. Click Next.
+4.  If there are any other products selected for installation, the **Uninstall Previous Version** wizard will appear with the previous version(s) installed for the selected products. You can view the list of installed previous versions here. To select all the versions, check the **Uninstall All** check box. Click **Next**.
 
 	![Existing Version for install](images/Step-by-Step-Installation_img26.png)
 	
-5.	Pop up screen will be displayed to get the confirmation to uninstall selected previous versions.
+5.	A popup confirmation dialog will appear asking you to confirm the uninstallation of the selected previous versions.
 
 	![Existing Version for install](images/Step-by-Step-Installation_img21.png)	
 	
-6.  The Confirmation Wizard will appear with the list of products to be installed/uninstalled. Here you can view and modify the list of products that will be installed/uninstalled.
+6.  The Confirmation Wizard will appear with the list of products to be installed and uninstalled. You can view and modify the list from this page.
 
     ![Confirmation for install/uninstall](images/Step-by-Step-Installation_img15.png)
 	
-	N> By clicking the **Download Size and Installation** Size links, you can determine the approximate size of the download and installation
+	N> Click the **Download Size** and **Installation Size** links to view the approximate size of the download and installation.
 	
-7.	The Configuration Wizard will appear. You can change the Download, Install, and Demos locations from here. You can also change the Additional settings on a product-by-product basis. Click Install button to install with the default settings.
+7.	The Configuration Wizard will appear. You can change the **Download**, **Install**, and **Demos** locations from here. You can also change the additional settings on a product-by-product basis. Click **Next** to continue with the default settings.
 
     ![Install and samples location install/uninstall](images/Step-by-Step-Installation_img23.png)
 	
-8.	After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click the Install button.
+8.	Review the License Terms and Privacy Policy, then check the **I agree to the License Terms and Privacy Policy** check box. Click **Uninstall** to start the uninstallation.
 
-	I> The products you have chosen will be installed based on your Syncfusion<sup style="font-size:70%">&reg;</sup> License (Trial or Licensed).
+	I> The products you have chosen will be uninstalled based on your Syncfusion<sup style="font-size:70%">&reg;</sup> License (Trial or Licensed). If the check box is not selected, the **Uninstall** button is disabled.
 
-9.	The download, installation, and uninstallation progresses will be shown.
+9.	The download, installation, and uninstallation progress will be displayed.
 
     ![Download and Installation progress install/uninstall](images/Step-by-Step-Installation_img17.png)
 
-10.	When the installation is finished, the **Summary** wizard will appear. Here you can see the list of products that have been successfully and unsuccessfully installed/uninstalled. To close the Summary wizard, click Finish.
+10.	When the uninstallation is finished, the **Summary** wizard will appear. It lists the products that were installed or uninstalled successfully and any that failed. To close the Summary wizard, click **Finish**.
 
     ![Summary install/uninstall](images/Step-by-Step-Installation_img18.png)
 	
 	* To open the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel, click **Launch Control Panel**.
+
