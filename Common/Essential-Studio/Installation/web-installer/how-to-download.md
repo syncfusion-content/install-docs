@@ -34,13 +34,13 @@ N> With a trial license, only the latest version of the trial installer can be d
 2. Select the product (for example, **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>**) that you want to evaluate.
 3. Complete the required form or log in with your registered Syncfusion<sup style="font-size:70%">&reg;</sup> account to download the trial installer from the confirmation page (as shown in the screenshot below).
 
-   ![Trial and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/trial-confirmation.png)
+   ![Trial and downloads of Syncfusion Essential Studio](images/trial-confirmation.png)
 
 4. After downloading, the Syncfusion<sup style="font-size:70%">&reg;</sup> trial installer can be unlocked using either the trial unlock key or your Syncfusion<sup style="font-size:70%">&reg;</sup> registered login credentials. For more information on generating an unlock key, refer to [this](https://www.syncfusion.com/kb/8069/how-to-generate-unlock-key-for-essentials-studio-products) article. To learn how to use the unlock key in your application, refer to the [License Key generation](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) help topic.
 5. Before the trial expires, you can download the trial installer at any time from your registered account's [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) page (as shown in the screenshot below).
 6. Click the **Download** (element 1 in the screenshot below) button to get the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> web installer.
  
-   ![Trial and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/trial-download.png)
+   ![Trial and downloads of Syncfusion Essential Studio](images/trial-download.png)
 
 
 ### Start Trials if using components through [NuGet.org](https://www.nuget.org/packages?q=syncfusion)
@@ -49,7 +49,7 @@ You should initiate an evaluation if you have already obtained our components th
 
 1. Sign up or log in to access the [Start Trial](https://www.syncfusion.com/account/manage-trials/start-trials) page in your account.
 
-   ![Trial and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/start-trial-download.png)
+   ![Trial and downloads of Syncfusion Essential Studio](images/start-trial-download.png)
 
 2. Begin your trial by selecting the Syncfusion<sup style="font-size:70%">&reg;</sup> product.
 
@@ -57,7 +57,7 @@ You should initiate an evaluation if you have already obtained our components th
 
 3. After you've started the trial, go to the [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) page to get the latest version of the trial installer. You can generate the [unlock key](https://www.syncfusion.com/kb/8069/how-to-generate-unlock-key-for-essentials-studio-products) and [license key](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) here at any time before the trial period expires (as shown in the screenshot below).
 
-   ![License and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/start-trial-download-installer.png)
+   ![License and downloads of Syncfusion Essential Studio](images/start-trial-download-installer.png)
 
 4. Click the **Download** button to get the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> web installer for the trial product you started.
 5. You can find your current active trial products on the [Trials & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) page.
@@ -74,11 +74,11 @@ You should initiate an evaluation if you have already obtained our components th
 5. To download older version installers, go to [Downloads Older Versions](https://www.syncfusion.com/account/downloads/studio) (element 2 in the screenshot below).
 6. To download platform-specific or add-on installers, go to **More Downloads Options** (element 3 in the screenshot below).
    
-    ![License and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/license-download.png)
+    ![License and downloads of Syncfusion Essential Studio](images/license-download.png)
 
 7. Click the **Download** button to get the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> web installer (as shown in the screenshot below).
    
-   ![License and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/start-trial-download-web-installer.png)
+   ![License and downloads of Syncfusion Essential Studio](images/start-trial-download-web-installer.png)
 
 8. After downloading, the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> web installer can be unlocked using your Syncfusion<sup style="font-size:70%">&reg;</sup> registered login credentials. For more information, refer to the [License Key generation](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate) help topic.
    N> For Syncfusion<sup style="font-size:70%">&reg;</sup> trial and licensed products, the same web installer is used. Based on your account license (Trial or Licensed), the installed product will be activated accordingly.
