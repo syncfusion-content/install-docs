@@ -11,7 +11,7 @@ documentation: ug
 
 Welcome to the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> product’s user guide documentation. This will help you to get started with Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-![Essential Studio<sup style="font-size:70%">®</sup> UG](Documentation_images/Essential-Studio_img1.png)
+![Essential Studio UG](Documentation_images/Essential-Studio_img1.png)
 
 Essential Studio<sup style="font-size:70%">&reg;</sup> User Guide
 {:.caption}
@@ -48,5 +48,13 @@ Document Processing
  -	[SpreadsheetEditor SDK](https://www.syncfusion.com/spreadsheet-editor-sdk)
  -	[DOCX Editor SDK](https://www.syncfusion.com/docx-editor-sdk)
 
+Standalone UI SDKS
 
+ -	[Scheduler SDK](https://www.syncfusion.com/scheduler-sdk)
+ -	[Gantt SDK](https://www.syncfusion.com/gantt-sdk)
+ -	[Rich Text Editor SDK](https://www.syncfusion.com/rich-text-editor-sdk)
+ -	[Grid SDK](https://www.syncfusion.com/grid-sdk)
+ -	[Chart SDK](https://www.syncfusion.com/chart-sdk)
+ -	[Diagram SDK](https://www.syncfusion.com/diagram-sdk)
+ -	[File Manager SDK](https://www.syncfusion.com/file-manager-sdk)
 
