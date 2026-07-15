@@ -9,59 +9,44 @@ documentation: ug
 
 # Documentation Installer  
 
-Documentation is provided for both User Guide and Class Reference.
-
+Documentation is provided for both User Guide and API Reference.
 
 ## User Guide
 
-* User Guide PDF
+The Syncfusion<sup style="font-size:70%">&reg;</sup> User Guide provides step-by-step procedures so that users can clearly understand the usage of the Syncfusion<sup style="font-size:70%">&reg;</sup> controls.
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> User Guide has step-by-step procedure so that users can clearly understand the usage of the Syncfusion<sup style="font-size:70%">&reg;</sup> controls from it. 
-
- User Guide can be accessed from the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel > Documentation.
+You can access the User Guide from the **Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel** under **Documentation**.
 
 ![User Guide](Documentation-Setup_images/User-Guide_img1.png)
 
+You can access the User Guide documentation in any of the following two ways:
 
-You can access the User Guide documentation in any of the below two ways.
-
-* **PDF Download**  - You can download the User Guide as a PDF and access it in offline
+* **PDF Download** - You can download the User Guide as a PDF and access it offline.
 * **View On Web** - You can view the User Guide for the corresponding platform online.
 
 ## API Reference
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> API reference provides a clear understanding for accessing the classes, methods, properties etc. from the Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies
+The Syncfusion<sup style="font-size:70%">&reg;</sup> API Reference provides a clear understanding for accessing the classes, methods, properties, and other members from the Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies.
 
-API Reference can be accessed from the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel > Documentation >
+You can access the API Reference from the **Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel** under **Documentation > API Reference**.
 
 ![API Reference](Documentation-Setup_images/Class-Reference_img1.png)
 
+You can access the API Reference documentation in any of the following two ways:
 
-You can access the API reference documentation in any of the below two ways.
+* **Visual Studio Help Viewer Compatible** - You can download the API Reference installer and install it for offline use.
 
-* **Visual Studio Help Viewer Compatible** - You can download the API reference installer and install it in Offline.
-<style>
-#license {
-    font-size: .88em!important;
-margin-top: 1.5em;     margin-bottom: 1.5em;
-    background-color: #def8ff;
-    padding: 10px 17px 14px;
-}
-</style>
+> Visual Studio Help Viewer Compatible is available for the following platforms:
+> * Blazor
+> * ASP.NET MVC EJ2
+> * Windows Forms
+> * WPF
+> * ASP.NET Core EJ2
+> * UWP
+> * WinUI
+> * Xamarin
+> * .NET MAUI
 
-<div id="license">
-Visual Studio Help Viewer Compatible is available for the following platforms
-	  <li><b>Blazor</b> </li>
-	  <li><b>ASP.NET MVC EJ2</b> </li>
-	  <li><b>Windows Forms</b> </li>
-	  <li><b>WPF</b> </li>
-	  <li><b>ASP.NET Core EJ2</b> </li>
-	  <li><b>UWP</b> </li>
-	  <li><b>WinUI</b> </li>
-	  <li><b>Xamarin</b> </li>	  
-	  <li><b>.NET MAUI</b> </li>
-</div>
+* **View On Web** - You can view the API Reference for the corresponding platform online.
 
-* **View On Web**  - You can view the API reference for the corresponding platform online.
-
-I> For accessing the API Reference offline, you need to install the **Help Viewer** for the corresponding version Visual Studio.
+    N> For accessing the API Reference offline, you need to install the **Help Viewer** for the corresponding version of Visual Studio.
