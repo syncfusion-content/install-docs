@@ -126,7 +126,7 @@ The Package Generator can be run from the following location through the command
 {% highlight bash %}
 cd ../../
 
-cd {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Web\JavaScript\pack-generator
+cdÂ {ProgramFilesFolder}\Syncfusion\Essential Studio\Source Code Add On\{version}\Web\JavaScript\pack-generator
 {% endhighlight %}
 {% endtabs %} 
 
@@ -148,7 +148,7 @@ npm install
 
 {% tabs %}
 {% highlight bash %}
-gulp generate-pack --{componentName}@{version} 
+gulp generate-pack --{componentName}@{version}Â 
 {% endhighlight %}
 {% endtabs %} 
 
