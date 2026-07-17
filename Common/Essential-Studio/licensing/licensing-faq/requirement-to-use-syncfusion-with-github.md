@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About Essential Studio Licensing | Syncfusion
-description: Learn here about publishing the Syncfusion Essential Studio license key in open sources.
+title: Requirement to use Syncfusion with GitHub | Syncfusion
+description: Learn the requirement for using Syncfusion Essential Studio license keys when publishing source code to GitHub or other public repositories.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -9,9 +9,8 @@ documentation: ug
 
 # Requirement to use Syncfusion<sup style="font-size:70%">&reg;</sup> with GitHub
 
-While using Syncfusion<sup style="font-size:70%">&reg;</sup> components and wish to push the source code to a public repository or any open-source repositories, or share the source project with clients, **you should not publicly push or provide the Syncfusion<sup style="font-size:70%">&reg;</sup> license keys along with the sources.** The source code should be pushed or provided without the Syncfusion<sup style="font-size:70%">&reg;</sup> license keys.
+When you use Syncfusion<sup style="font-size:70%">&reg;</sup> components and wish to push the source code to a public repository, or share the source project with clients, **you should not publicly push or provide the Syncfusion<sup style="font-size:70%">&reg;</sup> license keys along with the sources.** Push the source code without the Syncfusion<sup style="font-size:70%">&reg;</sup> license keys.
 
-Please advise users to sign up with Syncfusion<sup style="font-size:70%">&reg;</sup> and obtain a trial or valid license to use our products.
+We recommend signing up with [Syncfusion<sup style="font-size:70%">&reg;</sup>](https://www.syncfusion.com/account/register) to obtain a trial or a valid license to use our products.
 
-You are allowed to distribute the deployed applications, but you should not distribute our license keys in a public environment or through the source code.
-
+You may distribute the deployed applications, but you should not distribute the Syncfusion<sup style="font-size:70%">&reg;</sup> license keys in a public environment or through the source code.
