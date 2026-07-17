@@ -117,7 +117,7 @@ Open and kill the msiexec process in the task manager and then continue to insta
 
 Alternatively, run the following command from an elevated Command Prompt or PowerShell window:
 
-```cmd
+```batch
 taskkill /F /IM msiexec.exe
 ```
 
