@@ -24,19 +24,19 @@ Starting with the version 16.2.0.x release of Essential Studio<sup style="font-s
 
 The [Syncfusion.Licensing](https://www.nuget.org/packages/Syncfusion.Licensing) NuGet package does not need to be added to your project individually. When you install any Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package from [nuget.org](https://www.nuget.org/) into your project, the Syncfusion.Licensing package is added automatically to the project dependencies. If it is not added, you can manually install the [Syncfusion.Licensing](https://www.nuget.org/packages/Syncfusion.Licensing) package from nuget.org.
 
-## Difference between unlock key and license key
+## Difference between the unlock key and the license key
 
-The **license key** is a runtime string registered in your application code (or configuration) to validate Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies sourced from the trial installer or nuget.org. The **unlock key** is an older mechanism used by the Syncfusion<sup style="font-size:70%">&reg;</sup> installer to convert a trial installation into a licensed installation. The two are independent: a valid license key does not require an unlock key, and vice versa. Refer to [this KB article](https://www.syncfusion.com/kb/8950/difference-between-the-unlock-key-and-licensing-key) to learn more about the difference between the Syncfusion<sup style="font-size:70%">&reg;</sup> Unlock Key and the Syncfusion<sup style="font-size:70%">&reg;</sup> License Key.
+Please note that the Syncfusion<sup style="font-size:70%">&reg;</sup> License Key is different from the Syncfusion<sup style="font-size:70%">&reg;</sup> Installer Unlock Key. The Installer Unlock Key is used to install Syncfusion offline installers, whereas the License Key must be registered within your application to prevent licensing messages when using assemblies or NuGet packages. Both keys can be generated from the Syncfusion<sup style="font-size:70%">&reg;</sup> website. Refer to <a href="https://support.syncfusion.com/kb/article/7863/how-to-differentiate-between-the-unlock-key-and-licensing-key-in-miscellaneous-configuration">this</a> KB article to learn more about the difference between the Syncfusion<sup style="font-size:70%">&reg;</sup> Unlock Key and the Syncfusion<sup style="font-size:70%">&reg;</sup> License Key.
 
-The following licensing error is shown if the license key is not registered in your projects while using assemblies from the trial installer or from nuget.org.
+The following licensing error is displayed if the license key is not registered in your projects while using assemblies from the evaluation installer or from nuget.org.
 
 <div id="license">
 
-This application was built using a trial version of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>. You should include a valid license key to permanently remove this license validation message. You can also obtain a free 30-day evaluation license key to temporarily remove this message during the evaluation period. Please refer to this <a href="/common/essential-studio/licensing/overview">help topic</a> for more information.
+This application was built using a trial version of Syncfusion Essential Studio. To remove the license validation message permanently, a valid license key must be included.
 
 </div>
 
-If you are using the File-Format libraries, a trial watermark is displayed in the generated documents until a valid license key is registered.
+If you are using Documentation solutions libraries, the trial message is displayed as a watermark in the generated documents.
 
 **Example:** Trial watermark rendered in a generated PDF document.
 
