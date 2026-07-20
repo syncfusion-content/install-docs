@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio Enterprise Edition installer - Syncfusion
+title: Download Syncfusion Essential Studio Enterprise Edition Installer
 description: Learn here about the how to download Syncfusion Essential Studio Enterprise Edition installer from our syncfusion website with license.
 platform: common
 documentation: ug
@@ -8,15 +8,14 @@ documentation: ug
 
 # Download Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer
 
-1. Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition installer to licensed customers. 
+1. Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition installer to licensed customers. To download the installer, you must have a valid Syncfusion<sup style="font-size:70%">&reg;</sup> account with an active Enterprise license. An active internet connection is also required to authenticate and access the download page.
 
 2. You can get the most recent version of Essential Studio<sup style="font-size:70%">&reg;</sup> Installer [here](https://www.syncfusion.com/downloads/latest-version).
+    ![Enterprise License and downloads of Syncfusion Essential Studio](images/Enterprise-license-and-download.PNG)
 
-    ![Enterprise License and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/Enterprise-license-and-download.png)
+3. Click the **More Download Options** button (shown in the screenshot above) to open the additional downloads page, then select **Offline Installer (ZIP)** to download the Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition installer, which is provided in ZIP format. After the ZIP download completes, extract it to a local folder before running the installer. The extracted folder will contain the `syncfusionessentialstudiosetup_{version}.exe` used in the [installation steps](https://help.syncfusion.com/common/essential-studio/installation/essential-studio-enterprise-edition-installer/how-to-install).
 
-2. Click the More Download Options (in the above screenshot) button to get the Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition installer installer which is available in ZIP format.
-
-   ![License and downloads of Syncfusion<sup style="font-size:70%">®</sup> Essential Studio<sup style="font-size:70%">®</sup>](images/start-trial-download-enterprise-edition-installer.png)
+   ![License and downloads of Syncfusion Essential Studio](images/start-trial-download-enterprise-edition-installer.png)
 
 
 

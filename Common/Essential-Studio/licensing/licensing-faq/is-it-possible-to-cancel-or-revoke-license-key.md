@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installer FAQ - Is it possible to cancel or revoke a license key? | Syncfusion
+title: Is it possible to cancel or revoke a license key? | Syncfusion
 description: Learn why Syncfusion license keys cannot be cancelled or revoked and how their validation works offline.
 platform: common
 control: Essential Studio
@@ -13,16 +13,25 @@ Once a license key is generated from your Syncfusion<sup style="font-size:70%">&
 
 License keys remain valid as long as they are used with the corresponding Syncfusion<sup style="font-size:70%">&reg;</sup> product and version.
 
-License keys can be generated from the **License & Downloads** section of your Syncfusion<sup style="font-size:70%">&reg;</sup> account. Log in to your company account to generate the license key.
+License keys can be generated from the **License & Downloads** section of your Syncfusion<sup style="font-size:70%">&reg;</sup> account. Log in to your Syncfusion<sup style="font-size:70%">&reg;</sup> account to generate the license key.
 
-To learn more, refer to the following documentation: 
- 
+To learn more, refer to the following documentation:
+
 **[How to generate license key](https://help.syncfusion.com/common/essential-studio/licensing/how-to-generate)**
 
 ## Important Notes
 
-- Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are **version- and product-specific** and include a timestamp.
+- Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are **version- and platform-specific** and include a timestamp.
 - Each time you generate a key, a **new unique key** is created.
 - Previously generated license keys are **not invalidated** when a new one is created.
-- Syncfusion License keys are valid **for a lifetime** for the selected version and product.
+- Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are valid **indefinitely** for the selected version and product.
 - Only **trial license keys** expire after **30 days**.
+
+## Related topics
+
+- [Where can I get a license key?](https://help.syncfusion.com/common/essential-studio/licensing/licensing-faq/where-can-i-get-a-license-key)
+- [Is an internet connection required for Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> license validation?](https://help.syncfusion.com/common/essential-studio/licensing/licensing-faq/Is-an-internet-connection-required-for-Syncfusion-Essential-Studio-license-validation)
+- [How to upgrade from Trial version after purchasing a license?](https://help.syncfusion.com/common/essential-studio/licensing/licensing-faq/how-to-upgrade-from-trial-version-after-purchasing-a-license)
+- [How to securely store and use Syncfusion License Keys in Azure Key Vault](https://help.syncfusion.com/common/essential-studio/licensing/licensing-faq/how-to-securely-store-and-use-Syncfusion-License-Keys-in-Azure-Key-Vault)
+- [Licensing overview](https://help.syncfusion.com/common/essential-studio/licensing/overview)
+- [Licensing errors](https://help.syncfusion.com/common/essential-studio/licensing/licensing-errors)
