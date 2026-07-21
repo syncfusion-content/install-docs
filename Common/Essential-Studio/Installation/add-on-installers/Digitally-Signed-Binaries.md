@@ -82,11 +82,11 @@ The signed assemblies are placed in the following default location:
 
 **Location:** `{ProgramFilesFolder}\Syncfusion\Essential Studio\Digitally Signed Binaries\{version}\`
 
-**Example:** `C:\Program Files (x86)\Syncfusion\Essential Studio\Digitally Signed Binaries\21.1.1\`
+**Example:** `C:\Program Files (x86)\Syncfusion\Essential Studio\Digitally Signed Binaries\34.1.29\`
 
 ### Supported Platforms and Versions
 
-The following support information applies to Syncfusion Essential Studio versions from 16.4.0.42 through 28.*.*.
+The following support information applies to Syncfusion Essential Studio versions from **16.4.0.42** through **28.x.x**.
 
 | Platform | Required Essential Studio Version | Supported .NET Framework |
 | --- | --- | --- |
@@ -95,19 +95,19 @@ The following support information applies to Syncfusion Essential Studio version
 | ASP.NET (Web Forms / MVC) | 16.4.0.42 or later | .NET Framework 4.5 or later |
 | File Formats | 16.4.0.42 or later | .NET Framework 4.5 or later |
 
-The following support information applies to Syncfusion Essential Studio versions from 29.*.* or later.
+The following support information applies to Syncfusion Essential Studio versions from **29.x.x** or later.
 
 | Platform | Required Essential Studio Version | Supported .NET Framework |
 | --- | --- | --- |
-| Windows Forms | 29.*.* or later | .NET Framework 4.6 or later |
-| WPF | 29.*.* or later | .NET Framework 4.6 or later |
-| UWP | 29.*.* or later | .NET Framework 4.6 or later |
-| File Formats | 29.*.* or later | .NET Framework 4.6 or later |
-| Scheduler SDK | 29.*.* or later | .NET Framework 4.6 or later |
-| Diagram SDK | 29.*.* or later | .NET Framework 4.6 or later |
-| Gantt SDK | 29.*.* or later | .NET Framework 4.6 or later |
-| Charts SDK | 29.*.* or later | .NET Framework 4.6 or later |
-| Grid SDK | 29.*.* or later | .NET Framework 4.6 or later |
+| Windows Forms | 29.*.* or later | .NET Framework 4.6.2 or later |
+| WPF | 29.*.* or later | .NET Framework 4.6.2 or later |
+| UWP | 29.*.* or later | .NET Framework 4.6.2 or later |
+| File Formats | 29.*.* or later | .NET Framework 4.6.2 or later |
+| Scheduler SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
+| Diagram SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
+| Gantt SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
+| Charts SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
+| Grid SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
 
 > **Note:** The Add-On installer version must exactly match the version of the installed Essential Studio platform installer.
 
