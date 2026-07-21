@@ -11,7 +11,7 @@ documentation: ug
 
 ## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> CAB Add-on installer
 
-The Syncfusion Essential Studio CAB Add-on installer can be downloaded from your account's [Download](https://help.syncfusion.com/common/essential-studio/download) section or from the setup downloads page through **More Download Options**, depending on your license eligibility. Refer to [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB article for details.
+The Syncfusion Essential Studio CAB Add-on installer can be downloaded from your account's [Download](https://help.syncfusion.com/common/essential-studio/download) section or from the setup downloads page through **More Download Options**, based on your license.
 
    ![Download Page](Cab-images/CabAddOn_Download.png)
 
