@@ -40,6 +40,10 @@ Only a licensed unlock key can unlock a licensed installer. So, to unlock the Li
 
 **Error Message:** Your license for Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> for {Platform} has been expired since {Date}. Please renew your subscription and try again
 
+**Offline Installer**
+
+![Warning Message](Errors/Installation_Errors_img9.png)
+
 **Online Installer**
 
 ![Warning Message](Errors/Installation_Errors_img2.png)
@@ -105,6 +109,8 @@ You are trying to install when another installation is already running in your m
 
 ### Suggested solution
 
+The recommended solution is to wait until the other installation is complete and then continue installing Syncfusion Essential Studio. If the installation is stuck or taking unusually long, use the steps below to end the msiexec.exe process.
+
 Open and kill the msiexec process in the task manager and then continue to install Syncfusion<sup style="font-size:70%">&reg;</sup>. If the problem is still present, restart the computer and try Syncfusion<sup style="font-size:70%">&reg;</sup> installer.
 
 1. Open the Windows Task Manager.
@@ -143,15 +149,14 @@ You have enabled controlled folder access settings on your computer.
 
 ### Suggested solution
 
-**Suggestion 1:** (Disable controlled folder access)
+**Suggestion 1:** (Install to a different directory - Recommended)
+
+1.	If you do not want to disable controlled folder access, install the demos in a different directory during setup.
+
+**Suggestion 2:** (Disable controlled folder access)
 
 1.	Our demos are installed in the Public Documents folder by default. 
 2.	You have controlled folder access enabled on your machine, so the demos cannot be installed in the Documents folder. If you need to install the demos in the Documents folder, follow the steps in this [link](https://support.microsoft.com/en-us/windows/allow-an-app-to-access-controlled-folders-b5b6627a-b008-2ca2-7931-7e51e912b034) and disable the controlled folder access.
 3.	You can re-enable this option after the setup has completed.
-
-**Suggestion 2:** (Install to a different directory)
-
-1.	If you do not want to disable controlled folder access, install the demos in a different directory during setup.
-
 
 
