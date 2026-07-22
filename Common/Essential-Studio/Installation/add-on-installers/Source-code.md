@@ -66,7 +66,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides sources for the follow
 * DOCX Editor SDK
 * Spreadsheet Editor SDK
 
-**Component Suite**
+**Standalone UI SDKS**
 
 * Grid SDK
 * Chart SDK

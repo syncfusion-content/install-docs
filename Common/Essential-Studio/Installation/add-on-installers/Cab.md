@@ -11,11 +11,7 @@ documentation: ug
 
 ## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> CAB Add-on installer
 
-1. The Essential Studio<sup style="font-size:70%">&reg;</sup> CAB Add-on installer can be downloaded from your account's [Download](https://help.syncfusion.com/common/essential-studio/download) section.
-
-2. The Syncfusion<sup style="font-size:70%">&reg;</sup> CAB Add-on installer can be downloaded based on your license. Refer to [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB article for details on the license.
-
-3. The CAB Add-on installer can be downloaded from the setup downloads page by clicking the **More Download Options** button.
+The Syncfusion Essential Studio CAB Add-on installer can be downloaded from your account's [Download](https://help.syncfusion.com/common/essential-studio/download) section or from the setup downloads page through **More Download Options**, based on your license.
 
    ![Download Page](Cab-images/CabAddOn_Download.png)
 
@@ -60,4 +56,4 @@ Before installing the CAB Add-on, ensure the following:
 
 ## Framework Support
 
-The Essential<sup style="font-size:70%">&reg;</sup> CAB Enabling Kit is compatible with the following .NET Framework versions: 4.0, 4.5, 4.5.1, and 4.6.
+The Essential<sup style="font-size:70%">&reg;</sup> CAB Enabling Kit is compatible with the following .NET Framework versions: 4.0, 4.5, 4.5.1, 4.6 and 4.6.2.
