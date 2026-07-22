@@ -109,7 +109,7 @@ You are trying to install when another installation is already running in your m
 
 ### Suggested solution
 
-The recommended solution is to wait until the other installation is complete and then continue installing Syncfusion Essential Studio. If the installation is stuck or taking unusually long, use the steps below to end the msiexec.exe process.
+The **recommended solution** is to wait until the other installation is complete and then continue installing Syncfusion Essential Studio Products. If the installation is stuck or taking unusually long, use the steps below to end the msiexec.exe process.
 
 Open and kill the msiexec process in the task manager and then continue to install Syncfusion<sup style="font-size:70%">&reg;</sup>. If the problem is still present, restart the computer and try Syncfusion<sup style="font-size:70%">&reg;</sup> installer.
 
@@ -149,7 +149,7 @@ You have enabled controlled folder access settings on your computer.
 
 ### Suggested solution
 
-**Suggestion 1:** (Install to a different directory - Recommended)
+**Suggestion 1:** (Install to a different directory - **Recommended**)
 
 1.	If you do not want to disable controlled folder access, install the demos in a different directory during setup.
 
