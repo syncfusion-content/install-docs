@@ -11,11 +11,7 @@ documentation: ug
 
 ## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> WebKit HTML Converter Add-on installer
 
-1. The Essential Studio<sup style="font-size:70%">&reg;</sup> WebKit HTML Converter Add-on installer can be downloaded from your account's [Download](https://help.syncfusion.com/common/essential-studio/download) section.
-
-2. The Syncfusion<sup style="font-size:70%">&reg;</sup> WebKit HTML Converter Add-on installer can be downloaded based on your license. Refer to [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB article for details on the license.
-
-3. The WebKit HTML Converter Add-on installer can be downloaded from the setup downloads page by clicking the **More Download Options** button.
+The Syncfusion Essential Studio WebKit HTML Converter Add-on installer can be downloaded from your account's [Download](https://help.syncfusion.com/common/essential-studio/download) section or from the setup downloads page through **More Download Options**, based on your license.
 
    ![Download Page](WebKit-HTML-converter-images/WebKitAddOn_Download.png)
 

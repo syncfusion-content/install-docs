@@ -34,7 +34,7 @@ You can install both Licensed and Trial installer side by side for different Ess
 
 If you install both Licensed and Trial installers on the same machine, licensing issues will occur during development and the following licensing alert is shown.
 
-![Syncfusion<sup style="font-size:70%">®</sup> License](Errors/Side-by-side_img3.png)
+![Syncfusion License](Errors/Side-by-side_img3.png)
 
 ### Reason
 
@@ -62,5 +62,4 @@ To avoid licensing issues while running demos or using Syncfusion<sup style="fon
 
 * If the licensing alert still appears after running the Assembly Manager, verify that the licensed assemblies are present in the GAC by opening `C:\Windows\Microsoft.NET\assembly\GAC_MSIL` and confirming the licensed version.
 * Ensure that no Trial assemblies of the same product version are referenced by your project. Clear the `Bin` and `Obj` folders and rebuild the solution.
-* If issues persist, run the **Syncfusion License Validation** tool from the Utilities folder to re-validate the installed license.
 
