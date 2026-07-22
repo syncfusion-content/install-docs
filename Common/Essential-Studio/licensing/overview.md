@@ -24,7 +24,7 @@ Starting with the version 16.2.0.x release of Essential Studio<sup style="font-s
 
 The Syncfusion License Key is a unique string that must be registered in your application before initializing any Syncfusion controls. Registering the license key ensures that your application runs without licensing validation messages when using Syncfusion assemblies or NuGet packages.
 
-N> The Syncfusion<sup style="font-size:70%">&reg;</sup> Installer Unlock Key is used only for installing the Syncfusion offline installer. This key typically starts with @ and ends with =. It should not be registered in your application.
+N> Don't use the Unlock Key instead of the License Key in your application. The Unlock Key is used only for installing the Syncfusion offline installer. This key typically starts with @ and ends with =.
 
 The following licensing error is displayed if the license key is not registered in your projects while using assemblies from the evaluation installer or from nuget.org.
 
