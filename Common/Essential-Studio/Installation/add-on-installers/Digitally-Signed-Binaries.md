@@ -99,15 +99,15 @@ The following support information applies to Syncfusion Essential Studio version
 
 | Platform | Required Essential Studio Version | Supported .NET Framework |
 | --- | --- | --- |
-| Windows Forms | 29.*.* or later | .NET Framework 4.6.2 or later |
-| WPF | 29.*.* or later | .NET Framework 4.6.2 or later |
-| UWP | 29.*.* or later | .NET Framework 4.6.2 or later |
-| File Formats | 29.*.* or later | .NET Framework 4.6.2 or later |
-| Scheduler SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
-| Diagram SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
-| Gantt SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
-| Charts SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
-| Grid SDK | 29.*.* or later | .NET Framework 4.6.2 or later |
+| Windows Forms | 29.x.x or later | .NET Framework 4.6.2 or later |
+| WPF | 29.x.x or later | .NET Framework 4.6.2 or later |
+| UWP | 29.x.x or later | .NET Framework 4.6.2 or later |
+| File Formats | 29.x.x or later | .NET Framework 4.6.2 or later |
+| Scheduler SDK | 29.x.x or later | .NET Framework 4.6.2 or later |
+| Diagram SDK | 29.x.x or later | .NET Framework 4.6.2 or later |
+| Gantt SDK | 29.x.x or later | .NET Framework 4.6.2 or later |
+| Charts SDK | 29.x.x or later | .NET Framework 4.6.2 or later |
+| Grid SDK | 29.x.x or later | .NET Framework 4.6.2 or later |
 
 > **Note:** The Add-On installer version must exactly match the version of the installed Essential Studio platform installer.
 
