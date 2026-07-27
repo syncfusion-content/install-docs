@@ -11,11 +11,7 @@ documentation: ug
 
 ## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Source Code Add-on installer
 
-1. The Essential Studio<sup style="font-size:70%">&reg;</sup> Source Add-on installer can be downloaded from your account's [download](https://help.syncfusion.com/common/essential-studio/download) section.
-
-2. The Syncfusion<sup style="font-size:70%">&reg;</sup> Source Add-on installer can be downloaded based on your license. Refer to [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB article for details on the source license.
-
-3. The Source Add-on installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Source Code Add-on installer can be downloaded from your account's [Download](https://help.syncfusion.com/common/essential-studio/download) section. Depending on your license, you may also access it from the setup downloads page via **More Download Options**. For more details, refer to [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB article.
 
    ![Download Page](Source-code-images/SourceAddOn_Download.png)
 

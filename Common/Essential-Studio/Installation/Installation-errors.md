@@ -151,7 +151,7 @@ You have enabled controlled folder access settings on your computer.
 
 **Suggestion 1:** (Install to a different directory - **Recommended**)
 
-1.	If you do not want to disable controlled folder access, install the demos in a different directory during setup.
+&nbsp;&nbsp;&nbsp;&nbsp;If you do not want to disable controlled folder access, install the demos in a different directory during setup.
 
 **Suggestion 2:** (Disable controlled folder access)
 
