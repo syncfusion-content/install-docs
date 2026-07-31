@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing Syncfusion Essential Studio Linux installer - Syncfusion
-description: Learn here about how to install Syncfusion Essential Studio Linux installer after downloading from our Syncfusion website.
+description: Learn how to install the Syncfusion Essential Studio Linux installer after downloading it from the Syncfusion website.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -13,24 +13,25 @@ documentation: ug
 
 The steps below show how to install Essential Studio<sup style="font-size:70%">&reg;</sup> Linux installer.
 
-1. Extract the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Linux installer(.zip) file. The files are extracted in your machine.
+1. Extract the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Linux installer (.zip) file. The files are extracted to your machine.
 
-   ![Welcome wizard](images/Linux_Installer1.png)
-   
-
-2. The Linux zip file contains the following folders.
-
-   ![License Agreement](images/Linux_Installer2.png)   
-   
-   N> The Unlock key is not required to install the Linux installer.
+   ![Extracted installer files](images/Linux_Installer1.png)
 
 
-4. You can launch the demo source and use the NuGet packages included in the Linux installer.
+2. The extracted Linux installer contains the following folders.
+
+   ![Installer folders](images/Linux_Installer2.png)
+
+   N> An unlock key is not required to install the Linux installer.
 
 
-5. Run the following command in linux machine to deploy the ASP.NET Core samples
- 
-  **dotnet restore projectname -s \nuget** in order to restore.
+3. You can launch the demo source and use the NuGet packages included in the Linux installer.
+
+4. Run the following command on the Linux machine to restore the NuGet packages for the ASP.NET Core samples:
+
+   ```bash
+   dotnet restore <projectname> -s <nuget-source>
+   ```
 
 ## License key registration in samples
 
@@ -62,14 +63,20 @@ N> The license key registration is not required when using samples from the lice
 </tr>
 </table>
 
-N> Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Linux installer for the following Essential Studio<sup style="font-size:70%">&reg;</sup> products.
-<br>
-* Blazor
 
+N> Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Linux installer for the following Essential Studio<sup style="font-size:70%">&reg;</sup> products:
+
+* Blazor
 * ASP.NET Core
 * JavaScript
-* File Formats
-* PDF Framework
-* Word Framework
-* Excel Framework
-* PowerPoint Framework
+* Document SDK
+* PDF Viewer SDK
+* Spreadsheet Editor SDK
+* DOCX Editor SDK
+* Scheduler SDK
+* Gantt SDK
+* Rich Text Editor SDK
+* Grid SDK
+* Chart SDK
+* Diagram SDK
+* File Manager SDK

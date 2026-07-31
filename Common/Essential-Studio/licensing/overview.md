@@ -20,23 +20,21 @@ documentation: ug
 
 # Syncfusion<sup style="font-size:70%">&reg;</sup> Licensing Overview
 
-Starting with the version 16.2.0.x release of Essential Studio<sup style="font-size:70%">&reg;</sup>, Syncfusion<sup style="font-size:70%">&reg;</sup> introduced a new licensing system. These modifications apply to all evaluators (trial users) and to paid customers who reference Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies through the [nuget.org](https://www.nuget.org/) feed. Starting with v16.2.0.x, if you use the trial installer or the NuGet feed to reference Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies, you must also include the corresponding platform (or edition, see below) and version license key in your projects.
+Starting with the version 16.2.0.x release of Essential Studio<sup style="font-size:70%">&reg;</sup>, Syncfusion<sup style="font-size:70%">&reg;</sup> introduced a new licensing system. These modifications apply to all evaluators (trial users) and to paid customers who reference Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies through the [nuget.org](https://www.nuget.org/) feed. Starting with v16.2.0.x, if you use the trial installer or the NuGet feed to reference Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies, you must also include the corresponding version license key in your projects.
 
-The [Syncfusion.Licensing](https://www.nuget.org/packages/Syncfusion.Licensing) NuGet package does not need to be added to your project individually. When you install any Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package from [nuget.org](https://www.nuget.org/) into your project, the Syncfusion.Licensing package is added automatically to the project dependencies. If it is not added, you can manually install the [Syncfusion.Licensing](https://www.nuget.org/packages/Syncfusion.Licensing) package from nuget.org.
+The Syncfusion License Key is a unique string that must be registered in your application before initializing any Syncfusion controls. Registering the license key ensures that your application runs without licensing validation messages when using Syncfusion assemblies or NuGet packages.
 
-## Difference between unlock key and license key
+N> Don't use the Unlock Key instead of the License Key in your application. The Unlock Key is used only for installing the Syncfusion offline installer. This key typically starts with @ and ends with =.
 
-The **license key** is a runtime string registered in your application code (or configuration) to validate Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies sourced from the trial installer or nuget.org. The **unlock key** is an older mechanism used by the Syncfusion<sup style="font-size:70%">&reg;</sup> installer to convert a trial installation into a licensed installation. The two are independent: a valid license key does not require an unlock key, and vice versa. Refer to [this KB article](https://www.syncfusion.com/kb/8950/difference-between-the-unlock-key-and-licensing-key) to learn more about the difference between the Syncfusion<sup style="font-size:70%">&reg;</sup> Unlock Key and the Syncfusion<sup style="font-size:70%">&reg;</sup> License Key.
-
-The following licensing error is shown if the license key is not registered in your projects while using assemblies from the trial installer or from nuget.org.
+The following licensing error is displayed if the license key is not registered in your projects while using assemblies from the evaluation installer or from nuget.org.
 
 <div id="license">
 
-This application was built using a trial version of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>. You should include a valid license key to permanently remove this license validation message. You can also obtain a free 30-day evaluation license key to temporarily remove this message during the evaluation period. Please refer to this <a href="/common/essential-studio/licensing/overview">help topic</a> for more information.
+This application was built using a trial version of Syncfusion Essential Studio. To remove the license validation message permanently, a valid license key must be included.
 
 </div>
 
-If you are using the File-Format libraries, a trial watermark is displayed in the generated documents until a valid license key is registered.
+If you are using Documentation solutions libraries, the trial message is displayed as a watermark in the generated documents.
 
 **Example:** Trial watermark rendered in a generated PDF document.
 
