@@ -14,8 +14,7 @@ Telemetry is **enabled by default**. However, you can disable it at any time if 
 
 N> Telemetry is automatically disabled in production environments. No data is collected from deployed applications or end users.
 
-N> Starting from v34.1.xx, Telemetry support is added for Syncfusion Document SDKs.
-
+N> Starting with version 34.x, Telemetry support has been added to all Syncfusion Essential Studio products.
 ## Why do we collect telemetry? 
 
 We collect telemetry data to: 
