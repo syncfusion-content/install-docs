@@ -52,6 +52,8 @@ Write-Host $result
   **34.1.29 or later:** Additional standalone UI SDK platforms have been introduced to provide developers' more flexibility in targeting specific UI capabilities.
   
      (e.g., "UIComponent", "PDF", "Word", "Excel", "PowerPoint", "PDFViewer", "WordEditor", "SpreadsheetEditor", "SchedulerSDK", "GanttSDK", "DiagramSDK", "RichTextEditorSDK", "GridSDK", "ChartSDK", "FileManagerSDK", "Markdown")
+	 
+	 For more details on the platform breakdown, refer to this [KB](https://support.syncfusion.com/kb/article/24203/how-to-know-installer-changes--essential-studio-v34129).
 
   **31.1.17 or later:** Installers were organized by platforms, and the **'File Formats'** platform has been divided into multiple platforms to improve the installer experience.
   
