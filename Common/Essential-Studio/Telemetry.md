@@ -14,8 +14,7 @@ Telemetry is **enabled by default**. However, you can disable it at any time if 
 
 N> Telemetry is automatically disabled in production environments. No data is collected from deployed applications or end users.
 
-N> Starting from v34.1.xx, Telemetry support is added for Syncfusion Document SDKs.
-
+N> Starting with version 34.x, Telemetry support has been added to all Syncfusion Essential Studio products.
 ## Why do we collect telemetry? 
 
 We collect telemetry data to: 
@@ -49,6 +48,10 @@ Syncfusion<sup>&reg;</sup> collects only a limited set of anonymous usage data d
 <td>Syncfusion component being used</td>
 </tr>
 <tr>
+<td>Feature Name</td>
+<td>Syncfusion feature being used</td>
+</tr>
+<tr>
 <td>Assembly Name</td>
 <td>Syncfusion assembly or package in use</td>
 </tr>
@@ -75,6 +78,10 @@ Syncfusion<sup>&reg;</sup> collects only a limited set of anonymous usage data d
 <tr>
 <td>Session ID</td>
 <td>Unique session identifier (hashed value)</td>
+</tr>
+<tr>
+<td>Machine Name</td>
+<td>Hashed value of machine name, so it cannot be traced back</td>
 </tr>
 <tr>
 <td>Event Name</td>
