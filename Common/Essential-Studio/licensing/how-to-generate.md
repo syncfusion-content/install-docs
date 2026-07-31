@@ -25,7 +25,7 @@ I> * Syncfusion<sup style="font-size:70%">&reg;</sup> license keys are **version
   - **Essential Studio Rich Text Editor SDK**
   - **Essential Studio Diagram SDK**
   - **Essential Studio File Manager SDK**
-* **Starting from v31.1.17 (2025 Volume 3 release)**, Syncfusion<sup style="font-size:70%">&reg;</sup> introduced a new licensing model where license keys are generated **per edition rather than per platform**, and the editions include:
+* **Starting from v31.1.17 (2025 Volume 3 release)**, Syncfusion<sup style="font-size:70%">&reg;</sup> introduced a new licensing model where license keys are generated **per product rather than per platform**, and the editions include:
   - **Essential Studio UI Edition**
   - **Essential Studio Document SDK**
   - **Essential Studio PDF Viewer SDK**
@@ -65,8 +65,8 @@ You must generate license keys individually for each purchased edition or SDK.
 ![Multiple License Keys](licensing-images/multiple-keys_4.png)
 
 **Example:**
-- UI Edition → UI_LICENSE_KEY
-- PDF Viewer SDK → PDF_VIEWER_SDK_KEY
+**1. UI Edition** → UI_LICENSE_KEY
+**2. PDF Viewer SDK** → PDF_VIEWER_SDK_KEY
 
 ## Claim License key
 
