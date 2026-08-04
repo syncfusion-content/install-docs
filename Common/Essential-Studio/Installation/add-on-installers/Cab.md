@@ -5,30 +5,21 @@ description: Learn here about how to download the Syncfusion Essential Studio CA
 platform: common
 control: Essential Studio
 documentation: ug
-
 ---
-
 
 # CAB Add-on installer
 
-
 ## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> CAB Add-on installer
 
-1. Essential Studio<sup style="font-size:70%">&reg;</sup> CAB Add On installer can be downloaded from your account’s [download](https://help.syncfusion.com/common/essential-studio/download) section. 
-
-2. Syncfusion<sup style="font-size:70%">&reg;</sup> CAB Add On installer can be downloaded based on your license. Refer [this](https://www.syncfusion.com/kb/10442/who-can-access-source-license) KB for the CAB license.
-
-3. CAB Add On installer can be downloaded from the setup downloads page by clicking the **More Download Option** button.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> CAB Add-on installer can be downloaded from your account's [Download](https://help.syncfusion.com/common/essential-studio/download) section or from the setup downloads page through **More Download Options**, based on your license.
 
    ![Download Page](Cab-images/CabAddOn_Download.png)
 
-
 ## Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> CAB Add-on installer
-
 
 ## Overview
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> CAB Enabling Kit extends support for working with CAB. It enables developers to improve the look and feel of their applications while also speeding up the development process through the use of customizable user interfaces. Workspaces are components or controls that encapsulate visual effects and layout strategies while not interfering with the business logic.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> CAB Enabling Kit extends support for working with the Microsoft Composite UI Application Block (CAB). It enables developers to improve the look and feel of their applications while also speeding up the development process through the use of customizable user interfaces. Workspaces are components or controls that encapsulate visual effects and layout strategies without interfering with the business logic.
 
 The Essential<sup style="font-size:70%">&reg;</sup> CAB Enabling Kit includes the workspaces and UI Elements listed below.
 
@@ -41,10 +32,10 @@ The Essential<sup style="font-size:70%">&reg;</sup> CAB Enabling Kit includes th
 * SplashPanel Workspace
 * SplitContainerAdv Workspace
 * TabControlAdv Workspace
-* TabbedMDIManagerWorkspace
-* XPTaskPane workspace
+* TabbedMDIManager Workspace
+* XPTaskPane Workspace
 
-## UIElements 
+## UI Elements
 
 * XP Menus
 * TreeViewAdv
@@ -54,12 +45,15 @@ The Essential<sup style="font-size:70%">&reg;</sup> CAB Enabling Kit includes th
 * RibbonControlAdv
 * XPTaskBar
 
-## Pre-Requisites 
+## Prerequisites
 
-* Visual Studio 2005/2008
-* Microsoft Composite UI Application Block Framework
-* Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> (Essential<sup style="font-size:70%">&reg;</sup> Tools – Windows Forms)
+Before installing the CAB Add-on, ensure the following:
+
+* A valid Syncfusion license or trial(Unlock Key) is available.
+* Visual Studio 2005 or 2008 is installed.
+* Microsoft Composite UI Application Block (CAB) Framework is installed.
+* The same version of Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> (Essential<sup style="font-size:70%">&reg;</sup> Tools &mdash; Windows Forms) is installed.
 
 ## Framework Support
 
-Essential<sup style="font-size:70%">&reg;</sup> CAB is compatible with Visual Studio Framework versions 4.0, 4.5, 4.5.1 and 4.6
+The Essential<sup style="font-size:70%">&reg;</sup> CAB Enabling Kit is compatible with the following .NET Framework versions: 4.0, 4.5, 4.5.1, 4.6 and 4.6.2.

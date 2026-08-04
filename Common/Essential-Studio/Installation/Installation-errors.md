@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installation Errors of Essential Studio | Syncfusion
-description: Learn here some information about the essential studio installation errors and steps for resolving it.
+description: This document describes the most common installation errors for Essential Studio, along with their causes and solutions.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -21,7 +21,7 @@ This article describes the most common installation errors, as well as the cause
 
 ### Problem
 
-**Error Message:** Sorry, the provided unlock key is a trial unlock key and cannot be used to unlock the licensed version of our Essential Studio<sup style="font-size:70%">&reg;</sup> for {platform} installer
+**Error Message:** Sorry, the provided unlock key is a trial unlock key and cannot be used to unlock the licensed version of our Essential Studio<sup style="font-size:70%">&reg;</sup> for {Platform} installer
 
 ![Alert Message](Errors/Installation_Errors_img1.png)
 
@@ -31,14 +31,18 @@ You are attempting to use a Trial unlock key to unlock the licensed installer.
 
 ### Suggested solution
 
-Only a licensed unlock key can unlock a licensed installer. So, to unlock the Licensed installer, use the Licensed unlock key. To generate the licensed unlock key, refer to [this](http://syncfusion.com/kb/2326) article.
+Only a licensed unlock key can unlock a licensed installer. So, to unlock the Licensed installer, use the Licensed unlock key. To generate the licensed unlock key, refer to [Generate a licensed unlock key](https://www.syncfusion.com/kb/2326).
 
 
 ## License has expired
 
 ### Problem
 
-**Error Message:** Your license for Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> for {platform} has been expired since {date}. Please renew your subscription and try again
+**Error Message:** Your license for Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> for {Platform} has been expired since {Date}. Please renew your subscription and try again
+
+**Offline Installer**
+
+![Warning Message](Errors/Installation_Errors_img9.png)
 
 **Online Installer**
 
@@ -62,7 +66,7 @@ You can choose from the options listed below.
 
 ### Problem
 
-**Error Message:** Sorry, we are unable to find a valid license or trial for Essential Studio<sup style="font-size:70%">&reg;</sup> for {Platform} under your account.
+**Error Message:** Sorry, we are unable to find a valid license or trial for Essential Studio<sup>&reg;</sup> for {Platform} under your account.
 
 <em>**Offline installer**</em>
 
@@ -105,7 +109,9 @@ You are trying to install when another installation is already running in your m
 
 ### Suggested solution
 
-Open and kill the msiexec process in the task manager and then continue to install Syncfusion<sup style="font-size:70%">&reg;</sup>. If the problem is still present, restart the computer and try Syncfusion<sup style="font-size:70%">&reg;</sup> installer. 
+The **recommended solution** is to wait until the other installation is complete and then continue installing Syncfusion Essential Studio Products. If the installation is stuck or taking unusually long, use the steps below to end the msiexec.exe process.
+
+Open and kill the msiexec process in the task manager and then continue to install Syncfusion<sup style="font-size:70%">&reg;</sup>. If the problem is still present, restart the computer and try Syncfusion<sup style="font-size:70%">&reg;</sup> installer.
 
 1. Open the Windows Task Manager.
 
@@ -114,6 +120,12 @@ Open and kill the msiexec process in the task manager and then continue to insta
 3. Select the msiexec.exe and click **End task**.
 
 ![Task Manager](Errors/Installation_Errors_img5.png)
+
+Alternatively, run the following command from an elevated Command Prompt or PowerShell window:
+
+```batch
+taskkill /F /IM msiexec.exe
+```
 
 ## Unable to install due to controlled folder access
 
@@ -137,15 +149,14 @@ You have enabled controlled folder access settings on your computer.
 
 ### Suggested solution
 
-**Suggestion 1:**
+**Suggestion 1:** (Install to a different directory - **Recommended**)
 
-1.	We will ship our demos in the public documents folder by default. 
-2.	You have controlled folder access enabled on your machine, so our demos cannot be installed in the documents folder. If you need to install our demos in the Documents folder, follow the steps in this [link](https://support.microsoft.com/en-us/windows/allow-an-app-to-access-controlled-folders-b5b6627a-b008-2ca2-7931-7e51e912b034) and disable the controlled folder access.
-3.	You can enable this option after the setup has completed.
+&nbsp;&nbsp;&nbsp;&nbsp;If you do not want to disable controlled folder access, install the demos in a different directory during setup.
 
-**Suggestion 2:**
+**Suggestion 2:** (Disable controlled folder access)
 
-1.	If you do not want to disable controlled folder access, you can install our demos in another directory.
-
+1.	Our demos are installed in the Public Documents folder by default. 
+2.	You have controlled folder access enabled on your machine, so the demos cannot be installed in the Documents folder. If you need to install the demos in the Documents folder, follow the steps in this [link](https://support.microsoft.com/en-us/windows/allow-an-app-to-access-controlled-folders-b5b6627a-b008-2ca2-7931-7e51e912b034) and disable the controlled folder access.
+3.	You can re-enable this option after the setup has completed.
 
 
