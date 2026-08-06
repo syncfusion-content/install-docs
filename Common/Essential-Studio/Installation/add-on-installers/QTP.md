@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio QTP Add-on installer - Syncfusion
-description: Learn here about how to download the Syncfusion Essential Studio QTP Add-on installer from our Syncfusion website with license.
+title: Download Syncfusion Essential Studio QTP Add-on
+description: Learn how to download the Syncfusion Essential Studio QTP Add-on installer.
 platform: common
 control: Essential Studio
 documentation: ug

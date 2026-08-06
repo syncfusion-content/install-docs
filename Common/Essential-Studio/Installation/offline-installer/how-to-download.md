@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio offline installer - Syncfusion
-description: Learn how to download the Syncfusion Essential Studio offline installer from our website with a license.
+title: Downloading Syncfusion Essential Studio Offline Installer
+description: Learn how to download the Syncfusion Essential Studio Offline Installer from the Syncfusion website using your license.
 platform: common
 documentation: ug
 --- 

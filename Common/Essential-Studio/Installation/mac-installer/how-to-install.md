@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Installing Syncfusion Essential Studio Mac Installer - Syncfusion
-description: Learn here about how to install the Syncfusion Essential Studio Mac installer after downloading it from our Syncfusion website.
+title: Installing Syncfusion Essential Studio Mac Installer
+description: Learn how to install the Syncfusion Essential Studio Mac installer after downloading it from the Syncfusion website.
 platform: common
 control: Essential Studio
 documentation: ug

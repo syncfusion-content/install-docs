@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio web installer - Syncfusion
-description: Learn how to download the Syncfusion Essential Studio web installer from our Syncfusion website with a license.
+title: Downloading Syncfusion Essential Studio Web Installer
+description: Learn how to download the Syncfusion Essential Studio Web Installer from the Syncfusion website using your license.
 platform: common
 documentation: ug
 keywords: download, web installer, trial, license, Essential Studio

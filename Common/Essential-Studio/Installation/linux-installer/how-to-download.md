@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio Linux installer - Syncfusion
-description:  Learn here about the how to download Syncfusion Essential Studio Linux installer from our syncfusion website with license.
+title: Downloading Syncfusion Essential Studio Linux Installer
+description:  Learn how to download the Syncfusion Essential Studio Linux installer from the Syncfusion website using your license.
 platform: common
 documentation: ug
 --- 

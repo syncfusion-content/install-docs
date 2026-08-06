@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio Digitally Signed Binaries Add-On installer - Syncfusion
-description: Learn here about how to download the Syncfusion Essential Studio Digitally Signed Binaries Add-On installer from our Syncfusion website with license.
+title: Download Syncfusion Essential Studio Digitally Signed Binaries Add-on
+description: Learn how to download the Syncfusion Essential Studio Digitally Signed Binaries Add-on.
 platform: common
 control: Essential Studio
 documentation: ug

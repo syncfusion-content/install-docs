@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio Mac Installer - Syncfusion
-description: Learn here about how to download the Syncfusion Essential Studio Mac installer from our Syncfusion website using your license.
+title: Downloading Syncfusion Essential Studio Mac Installer
+description: Learn how to download the Syncfusion Essential Studio Mac installer from the Syncfusion website using your license.
 platform: common
 documentation: ug
 --- 

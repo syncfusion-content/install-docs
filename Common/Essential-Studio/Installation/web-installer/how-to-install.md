@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Installing Syncfusion Essential Studio web installer - Syncfusion
-description: Learn how to install the Syncfusion Essential Studio web installer after downloading it from the Syncfusion website.
+title: Installing Syncfusion Essential Studio Web Installer
+description: Learn how to install the Syncfusion Essential Studio Web Installer after downloading it from the Syncfusion website.
 platform: common
 control: Essential Studio
 documentation: ug

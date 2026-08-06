@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Install Trial and Licensed Installer of Essential Studio | Syncfusion
-description: Learn here about the information of how to install the trial and licensed installer side by side safely.
+title: Installing Trial and Licensed Versions of Essential Studio
+description: Learn how to install the trial and licensed versions of Syncfusion Essential Studio side by side.
 platform: common
 control: Essential Studio
 documentation: ug
