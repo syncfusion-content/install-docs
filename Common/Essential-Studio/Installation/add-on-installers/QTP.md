@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download Syncfusion Essential Studio QTP Add-on
-description: Learn how to download the Syncfusion Essential Studio QTP Add-on installer.
+description: Learn how to download the Syncfusion Essential Studio QTP Add-on installer to test Syncfusion controls using QuickTest Professional.
 platform: common
 control: Essential Studio
 documentation: ug

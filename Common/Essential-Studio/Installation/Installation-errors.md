@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation Errors in Essential Studio
+title: Syncfusion Essential Studio Installation Errors
 description: Learn about the most common installation errors in Syncfusion Essential Studio, along with their causes and solutions.
 platform: common
 control: Essential Studio

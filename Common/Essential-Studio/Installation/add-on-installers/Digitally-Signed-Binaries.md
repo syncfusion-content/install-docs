@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download Syncfusion Essential Studio Digitally Signed Binaries Add-on
-description: Learn how to download the Syncfusion Essential Studio Digitally Signed Binaries Add-on.
+description: Learn how to download the Syncfusion Essential Studio Digitally Signed Binaries Add-on installer for secure, verified assemblies.
 platform: common
 control: Essential Studio
 documentation: ug

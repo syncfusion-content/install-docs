@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Installing Trial and Licensed Versions of Essential Studio
-description: Learn how to install the trial and licensed versions of Syncfusion Essential Studio side by side.
+title: Syncfusion: Installing Trial and Licensed Versions
+description: Learn how to safely install Syncfusion Essential Studio trial and licensed versions side by side without conflicts or errors.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
 
-# How to install the Trial and Licensed Installer side by side safely?
+# How to Install Trial and Licensed Installers Side by Side Safely
 
 You can install both Licensed and Trial installer side by side for different Essential Studio<sup style="font-size:70%">&reg;</sup> products. The following alert message will be shown if you install the combination of License and Trial platform installer. However, you can continue the installation. The alert message will be shown for the following products.
 

@@ -6,7 +6,7 @@ platform: common
 documentation: ug
 --- 
 
-# Download Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer
+# Download Syncfusion<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer
 
 1. Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition installer to licensed customers. To download the installer, you must have a valid Syncfusion<sup style="font-size:70%">&reg;</sup> account with an active Enterprise license. An active internet connection is also required to authenticate and access the download page.
 

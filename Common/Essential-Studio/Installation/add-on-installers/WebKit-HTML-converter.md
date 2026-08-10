@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download Syncfusion Essential Studio WebKit HTML Converter Add-on
-description: Learn how to download the Syncfusion Essential Studio WebKit HTML converter Add-on.
+description: Learn how to download the Syncfusion Essential Studio WebKit HTML Converter Add-on to enable HTML-to-PDF conversion in apps.
 platform: common
 control: Essential Studio
 documentation: ug
