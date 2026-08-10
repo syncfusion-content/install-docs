@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Installing Syncfusion Essential Studio Mac Installer
+# Installation Steps for Syncfusion Mac Installer
 
 ## Overview
 

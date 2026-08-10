@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Installing Syncfusion Essential Studio Enterprise Edition
+# Installation Steps for Syncfusion Enterprise Edition
 
 
 ## Overview

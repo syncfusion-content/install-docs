@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Installing Syncfusion Essential Studio Offline Installer
+# Installation Steps for Syncfusion Offline Installer
 
 ## Prerequisites
 
