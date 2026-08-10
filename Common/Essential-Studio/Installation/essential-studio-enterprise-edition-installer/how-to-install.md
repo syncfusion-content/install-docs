@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition
+# Installing Syncfusion Essential Studio Enterprise Edition
 
 
 ## Overview

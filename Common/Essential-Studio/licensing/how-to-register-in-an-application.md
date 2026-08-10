@@ -17,7 +17,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 </style>
 
 
-# How to Register Syncfusion<sup style="font-size:70%">&reg;</sup> License Key in an Application
+# How to Register Syncfusion License Key in an Application
 
 The generated license key is just a string that needs to be registered before any Syncfusion<sup style="font-size:70%">&reg;</sup> control is initiated. The following code is used to register the license.
 

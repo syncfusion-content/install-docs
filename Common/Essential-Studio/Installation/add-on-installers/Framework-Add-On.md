@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio<sup style="font-size:70%">&reg;</sup> Platform Framework Add-Ons
+# Essential Studio Platform Framework Add-Ons
 
 ## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Platform Framework Add-On installer
 

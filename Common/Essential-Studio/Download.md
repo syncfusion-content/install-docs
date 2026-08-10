@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 --- 
 
-# Download Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Installer
+# Download Syncfusion Essential Studio Installer
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> installer can be downloaded from the [Syncfusion<sup style="font-size:70%">&reg;</sup>](https://www.syncfusion.com/) website. You can either download the licensed installer or try our trial installer depending on your license.
 

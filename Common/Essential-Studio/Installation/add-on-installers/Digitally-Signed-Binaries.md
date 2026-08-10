@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio<sup style="font-size:70%">&reg;</sup> - Digitally Signed Binaries
+# Essential Studio - Digitally Signed Binaries
 
 ## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Digitally Signed Binaries Add-On installer
 

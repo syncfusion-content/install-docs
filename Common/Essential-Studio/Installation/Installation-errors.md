@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio<sup style="font-size:70%">&reg;</sup> Installation Errors
+# Essential Studio Installation Errors
 
 This article describes the most common installation errors, as well as the causes and solutions to those errors.
 

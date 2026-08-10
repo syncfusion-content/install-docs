@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Registering Syncfusion<sup style="font-size:70%">&reg;</sup> Account for Direct NuGet.org User
+# Registering Syncfusion Account for Direct NuGet.org User
 
 If you have directly obtained Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies from [NuGet.org](http://nuget.org/) and do not have a Syncfusion<sup style="font-size:70%">&reg;</sup> account, follow the steps to obtain a 30-day trial license key:
 

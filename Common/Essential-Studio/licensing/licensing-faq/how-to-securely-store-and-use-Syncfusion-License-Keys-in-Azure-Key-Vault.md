@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Storing Syncfusion<sup style="font-size:70%">&reg;</sup> License Keys in Azure Key Vault
+# Storing Syncfusion License Keys in Azure Key Vault
 
 You can store the Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Azure Key Vault and register it in your application.
 

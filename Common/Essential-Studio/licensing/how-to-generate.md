@@ -8,7 +8,7 @@ documentation: ug
 ---
 
 
-# How to Generate Syncfusion<sup style="font-size:70%">&reg;</sup> License Key
+# How to Generate Syncfusion License Key
 
 ## Generating a Single License Key
 

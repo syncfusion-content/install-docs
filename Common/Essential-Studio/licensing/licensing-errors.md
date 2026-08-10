@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Licensing Errors and Solutions
+# Syncfusion Licensing Errors and Solutions
 
 Licensing error popup is displayed with various messages under different circumstances. Here are some ways to resolve different issues.
 

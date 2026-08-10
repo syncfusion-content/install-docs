@@ -8,7 +8,7 @@ documentation: ug
 keywords: install, web installer, Essential Studio, uninstall, setup
 ---
 
-# Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Web Installer
+# Installing Syncfusion Essential Studio Web Installer
 
 
 ## Overview
