@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Assembly Version Format of Essential Studio | Syncfusion
-description: Learn here some information about the assembly version format of Syncfusion Essential Studio and more details.
+title: Assembly Information of Essential Studio | Syncfusion
+description: Learn here about the assembly version format and assembly description of Syncfusion Essential Studio to distinguish trial and licensed assemblies.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Assembly Information
+# Assembly Information of Essential Studio
 
 ## Assembly Description
 

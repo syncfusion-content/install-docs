@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Configuring Private NuGet Server | Syncfusion
-description: Learn here about how to prepare a Private NuGet server and hosting the packages.
+description: Learn here about how to prepare a Private NuGet server, host the Syncfusion NuGet packages, and configure the private NuGet feed in Visual Studio.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Setup Private NuGet Server
+# Configuring Private NuGet Server
 
 ## Overview
 

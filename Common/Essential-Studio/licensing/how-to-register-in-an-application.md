@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Overview of Syncfusion license registration - Syncfusion
-description: Learn here about how to register Syncfusion license key for Syncfusion application for license validation.
+title: How to Register Syncfusion License Key in an Application | Syncfusion
+description: Learn how to register the Syncfusion license key in your application for license validation across various platforms.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -17,7 +17,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 </style>
 
 
-# Register Syncfusion<sup style="font-size:70%">&reg;</sup> License key
+# How to Register Syncfusion<sup style="font-size:70%">&reg;</sup> License Key in an Application
 
 The generated license key is just a string that needs to be registered before any Syncfusion<sup style="font-size:70%">&reg;</sup> control is initiated. The following code is used to register the license.
 

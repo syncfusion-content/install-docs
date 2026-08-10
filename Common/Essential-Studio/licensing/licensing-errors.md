@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Overview of Syncfusion licensing errors - Syncfusion
-description: Learn here some information about how to fix Syncfusion license key related errors and more details.
+title: Syncfusion Licensing Errors and Solutions | Syncfusion
+description: Learn here about common Syncfusion licensing errors, their causes, and the solutions to fix license key related issues in your application.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Licensing Errors
+# Syncfusion<sup style="font-size:70%">&reg;</sup> Licensing Errors and Solutions
 
 Licensing error popup is displayed with various messages under different circumstances. Here are some ways to resolve different issues.
 

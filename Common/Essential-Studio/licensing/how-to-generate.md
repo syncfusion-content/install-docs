@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Overview of Syncfusion license generation - Syncfusion
-description: Learn here about how to generate Syncfusion license key for syncfusion application for license validation.
+title: How to Generate Syncfusion License Key | Syncfusion
+description: Learn how to generate the Syncfusion license key for licensed and trial users from the Syncfusion account for license validation.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
 
-# Generate Syncfusion<sup style="font-size:70%">&reg;</sup> License key
+# How to Generate Syncfusion<sup style="font-size:70%">&reg;</sup> License Key
 
 ## Generating a Single License Key
 

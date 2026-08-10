@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preview Sample Support | Syncfusion
-description: Learn here some information about Preview sample support testing page for each platform and more details.
+description: Learn here about the Syncfusion Preview Sample support testing page for each platform, how to access preview samples, and more details.
 platform: common
 control: Essential Studio
 documentation: ug

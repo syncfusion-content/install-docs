@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Studio Utilities | Common | Syncfusion
-description: This section provides information regarding all the Syncfusion Essential Studio utilities and its usage
+description: Learn here about the Syncfusion Essential Studio utilities, including the Syncfusion Control Panel, and how to use them to manage installation and configuration.
 platform: common
 control: Essential Studio
 documentation: ug

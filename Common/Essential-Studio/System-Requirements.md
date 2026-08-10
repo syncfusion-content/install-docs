@@ -7,7 +7,7 @@ control: Essential Studio
 documentation: ug
 ---
 
-# System Requirements of Essential Studio®
+# System Requirements of Essential Studio
 
 <style>
 #note {

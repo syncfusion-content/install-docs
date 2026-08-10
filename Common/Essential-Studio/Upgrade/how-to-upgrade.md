@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Upgrading versions of Essential Studio | Syncfusion
-description: Learn here about the information of upgrading from older Essential Studio version to a newer version and more details.
+title: How to Upgrade Essential Studio Versions | Syncfusion
+description: Learn how to upgrade from an older Essential Studio version to a newer version, including upgrading to the latest version and from trial to license.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Upgrading Essential Studio<sup style="font-size:70%">&reg;</sup> Products
+# How to Upgrade Essential Studio<sup style="font-size:70%">&reg;</sup> Versions
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> releases new volumes once every three months, with exciting new features. There will be one Service Pack release for these volume releases. Service Pack releases are provided to address major bug fixes in the volume releases.
 
