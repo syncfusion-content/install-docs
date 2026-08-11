@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Licensing FAQ – Store License Keys in Azure Key Vault | Syncfusion
+title: Store Syncfusion License Keys in Azure Key Vault | Syncfusion
 description: Learn how to securely store and use Syncfusion License Keys in Azure Key Vault, and register them in your application.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# How to securely store and use Syncfusion<sup style="font-size:70%">&reg;</sup> License Keys in Azure Key Vault?
+# Storing Syncfusion License Keys in Azure Key Vault
 
 You can store the Syncfusion<sup style="font-size:70%">&reg;</sup> license key in Azure Key Vault and register it in your application.
 

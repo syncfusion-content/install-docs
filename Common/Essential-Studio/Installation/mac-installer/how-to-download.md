@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio Mac Installer - Syncfusion
-description: Learn here about how to download the Syncfusion Essential Studio Mac installer from our Syncfusion website using your license.
+title: Downloading Syncfusion Essential Studio Mac Installer
+description: Learn how to download the Syncfusion Essential Studio Mac installer from the Syncfusion website using your license.
 platform: common
 documentation: ug
 --- 
 
-# Download Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Mac Installer
+# Download Syncfusion Essential Studio Mac Installer
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> installer can be downloaded from the [Syncfusion<sup style="font-size:70%">&reg;</sup>](https://www.syncfusion.com/) website. You can either download the licensed installer or try our trial installer depending on your license.
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio Platform Framework Add-On installer - Syncfusion
-description: Learn here about how to download the Syncfusion Essential Studio Platform Framework Add-On installer from our Syncfusion website with license.
+title: Download Syncfusion Essential Studio Platform Framework Add-on
+description: Learn how to download the Syncfusion Essential Studio Platform Framework Add-on installer for additional platform support.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Essential Studio<sup style="font-size:70%">&reg;</sup> Platform Framework Add-Ons
+# Essential Studio Platform Framework Add-Ons
 
 ## Downloading Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Platform Framework Add-On installer
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Essential Studio Utilities | Common | Syncfusion
-description: This section provides information regarding all the Syncfusion Essential Studio utilities and its usage
+description: Learn about Syncfusion Essential Studio utilities, including the Control Panel, and how to use them to manage installation and configuration.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Utilities
+# Syncfusion Utilities
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides various utilities to configure and control the default configured items during the installation. Find below some of the major utilities and its usage in detail.
 

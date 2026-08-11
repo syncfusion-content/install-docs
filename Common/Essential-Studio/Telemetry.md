@@ -1,12 +1,13 @@
 ---
+layout: post
 title: Essential Studio Telemetry | Common | Syncfusion
-description: Syncfusion® Telemetry collects anonymous usage data in .NET to improve product quality, track feature adoption, and guide product planning.
+description: Learn here about Syncfusion Telemetry, what data is collected, why it is collected, and how to enable or disable telemetry in your application.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Syncfusion<sup>&reg;</sup> Telemetry 
+# Syncfusion<sup>&reg;</sup> Telemetry
 
 Syncfusion<sup>&reg;</sup> Telemetry library collects **anonymous usage data** to improve product quality and user experience. This data helps us better understand product usage, feature adoption, usage trends, and make informed decisions about future product planning. 
 

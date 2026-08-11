@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overview of Syncfusion License Key - Syncfusion
+title: Syncfusion License Key Overview | Syncfusion
 description: Learn here about the Syncfusion license key, the difference between the license key and the unlock key, and how to register the license key in your application.
 platform: common
 control: Essential Studio

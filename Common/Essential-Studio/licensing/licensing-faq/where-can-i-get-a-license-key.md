@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Licensing FAQ - Get the License Key | Syncfusion
+title: Where to Get a Syncfusion License Key | Syncfusion
 description: Learn where to generate the Syncfusion license key for licensed and trial users from the Syncfusion website.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Where can I get a license key?
+# Where Can I Get a Syncfusion License Key?
 
 Sign in to your Syncfusion<sup style="font-size:70%">&reg;</sup> account, then generate the license key from the [License & Downloads](https://www.syncfusion.com/account/downloads) section (for paid licenses) or the [Trial & Downloads](https://www.syncfusion.com/account/manage-trials/downloads) section (for trial users).
 

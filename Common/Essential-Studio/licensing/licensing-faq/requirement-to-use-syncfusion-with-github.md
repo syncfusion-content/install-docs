@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Requirement to use Syncfusion with GitHub | Syncfusion
+title: Requirement to Use Syncfusion with GitHub | Syncfusion
 description: Learn the requirement for using Syncfusion Essential Studio license keys when publishing source code to GitHub or other public repositories.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Requirement to use Syncfusion<sup style="font-size:70%">&reg;</sup> with GitHub
+# Requirement to Use Syncfusion with GitHub
 
 When you use Syncfusion<sup style="font-size:70%">&reg;</sup> components and wish to push the source code to a public repository, or share the source project with clients, **you should not publicly push or provide the Syncfusion<sup style="font-size:70%">&reg;</sup> license keys along with the sources.** Push the source code without the Syncfusion<sup style="font-size:70%">&reg;</sup> license keys.
 

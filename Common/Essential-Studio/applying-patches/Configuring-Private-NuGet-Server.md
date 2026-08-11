@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Configuring Private NuGet Server | Syncfusion
-description: Learn here about how to prepare a Private NuGet server and hosting the packages.
+description: Learn here about how to prepare a Private NuGet server, host the Syncfusion NuGet packages, and configure the private NuGet feed in Visual Studio.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Setup Private NuGet Server
+# Configuring Private NuGet Server
 
 ## Overview
 
@@ -130,7 +130,7 @@ Follow these steps to configure the application in IIS.
 	b.  Physical Path (Above ASP.NET web application published folder). 
 	c.  Binding Type (HTTPS\HTTPS). 
 	d.  IP address. 
-	e.  Port Number and Host Name (Use your internal or private host name or domain name), then click Ok.
+	e.  Port Number and Host Name (Use your internal or private host name or domain name), then click OK.
 
 
 	**HTTPS Binding:**
@@ -175,7 +175,7 @@ N> The APIkey is stored in the web.config file.
 Use **NuGet.exe** to delete the NuGet packages from the feed. The **NuGet delete** command removes the package from the private NuGet feed.
 
 
-**Example:** NuGet.exe delete Syncfusion.Tools.WPF 20.1.0.55 -Source <http://localhost:81/NuGet/> -apikey B2C4E73388C94E38ACDC4D28E0787DE0
+**Example:** NuGet.exe delete Syncfusion.Tools.WPF 20.1.0.55 -Source <http://localhost:81/NuGet/> -api key B2C4E73388C94E38ACDC4D28E0787DE0
 
  ![NuGet Server](Nuget-server-images/cmd-2.png)
 	 
