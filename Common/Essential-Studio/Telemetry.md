@@ -187,7 +187,7 @@ N> The `Telemetry.Disable()` API should be called, before creating or using any 
 <tr>
 <th style="font-size:14px" width="100px">Solution</th>
 <td>
-<p>To resolve this error and prevent the exception from being thrown, you can <a href="#how-to-disable-telemetry-opt-out">disable the telemetry</a> in your application. This will turn off telemetry data collection entirely.</p>
+<p>To resolve this error and prevent the exception from being thrown, you can <a href="#how-to-disable-telemetry-opt-out" aria-label="How to disable telemetry opt-out">disable the telemetry</a> in your application. This will turn off telemetry data collection entirely.</p>
 </td>
 </tr>
 </table>
