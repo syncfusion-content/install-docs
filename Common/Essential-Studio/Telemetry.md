@@ -1,12 +1,13 @@
 ---
+layout: post
 title: Essential Studio Telemetry | Common | Syncfusion
-description: Syncfusion® Telemetry collects anonymous usage data in .NET to improve product quality, track feature adoption, and guide product planning.
+description: Learn here about Syncfusion Telemetry, what data is collected, why it is collected, and how to enable or disable telemetry in your application.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Syncfusion<sup>&reg;</sup> Telemetry 
+# Syncfusion<sup>&reg;</sup> Telemetry
 
 Syncfusion<sup>&reg;</sup> Telemetry library collects **anonymous usage data** to improve product quality and user experience. This data helps us better understand product usage, feature adoption, usage trends, and make informed decisions about future product planning. 
 
@@ -15,6 +16,7 @@ Telemetry is **enabled by default**. However, you can disable it at any time if 
 N> Telemetry is automatically disabled in production environments. No data is collected from deployed applications or end users.
 
 N> Starting with version 34.x, Telemetry support has been added to all Syncfusion Essential Studio products.
+
 ## Why do we collect telemetry? 
 
 We collect telemetry data to: 
@@ -185,7 +187,7 @@ N> The `Telemetry.Disable()` API should be called, before creating or using any 
 <tr>
 <th style="font-size:14px" width="100px">Solution</th>
 <td>
-<p>To resolve this error and prevent the exception from being thrown, you can <a href="#how-to-disable-telemetry-opt-out">disable the telemetry</a> in your application. This will turn off telemetry data collection entirely.</p>
+<p>To resolve this error and prevent the exception from being thrown, you can <a href="#how-to-disable-telemetry-opt-out" aria-label="How to disable telemetry opt-out">disable the telemetry</a> in your application. This will turn off telemetry data collection entirely.</p>
 </td>
 </tr>
 </table>

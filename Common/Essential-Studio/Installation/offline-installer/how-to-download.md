@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio offline installer - Syncfusion
-description: Learn how to download the Syncfusion Essential Studio offline installer from our website with a license.
+title: Downloading Syncfusion Essential Studio Offline Installer
+description: Learn how to download the Syncfusion Essential Studio Offline Installer from the Syncfusion website using your license.
 platform: common
 documentation: ug
 --- 
 
-# Download Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Offline Installer
+# Download Syncfusion Essential Studio Offline Installer
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> installer can be downloaded from the [Syncfusion<sup style="font-size:70%">&reg;</sup>](https://www.syncfusion.com/) website. You can either download the licensed installer or try our trial installer depending on whether you have a license or want to evaluate the product.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Essential Studio Source Code Add-on installer - Syncfusion
-description: Learn here about how to download the Syncfusion Essential Studio Source Code Add-on installer from our Syncfusion website with license.
+title: Download Syncfusion Essential Studio Source Code Add-on
+description: Learn how to download the Syncfusion Essential Studio Source Code Add-on installer to modify sources and build custom assemblies.
 platform: common
 control: Essential Studio
 documentation: ug

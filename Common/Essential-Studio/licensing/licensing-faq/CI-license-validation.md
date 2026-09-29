@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Overview of Syncfusion license validation in CI services - Syncfusion
-description: Learn how Syncfusion Essential Studio components are properly licensed by validating license key in CI services.
+title: Syncfusion License Key Validation in CI Services | Syncfusion
+description: Learn how to validate the Syncfusion license key in CI services to ensure that Syncfusion Essential Studio components are properly licensed during CI processes.
 platform: common
 control: Essential Studio
 documentation: ug
@@ -17,7 +17,7 @@ margin-top: 1.5em;     margin-bottom: 1.5em;
 </style>
 
 
-# Syncfusion<sup>&reg;</sup> license key validation in CI services
+# Syncfusion<sup>&reg;</sup> License Key Validation in CI Services
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> license key validation in CI services ensures that Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> components are properly licensed during CI processes. Validating the license key at the CI level can prevent licensing errors during deployment. If validation fails, the CI process should fail. Re-validate the passed parameters and the registered license key to resolve the issue.
 

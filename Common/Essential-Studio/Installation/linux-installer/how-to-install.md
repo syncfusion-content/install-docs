@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing Syncfusion Essential Studio Linux installer - Syncfusion
+title: Installing Syncfusion Essential Studio Linux Installer
 description: Learn how to install the Syncfusion Essential Studio Linux installer after downloading it from the Syncfusion website.
 platform: common
 control: Essential Studio

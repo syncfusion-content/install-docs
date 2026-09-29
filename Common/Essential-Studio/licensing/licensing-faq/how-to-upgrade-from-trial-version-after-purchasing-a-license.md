@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Licensing FAQ – Upgrade from Trial Version | Syncfusion
-description: Learn here some information about upgrading from trial version of Essential Studio to Licensed version.
+title: Upgrade from Trial Version After Purchasing a License | Syncfusion
+description: Learn here about upgrading from the trial version of Essential Studio to the licensed version, with steps for installer-based and NuGet-based references.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# How to upgrade from Trial version after purchasing a license?
+# How to Upgrade from Trial Version After Purchasing a License?
 
 To upgrade from the trial version of Essential Studio, there are two possible options. Choose the option that matches how your project references Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies: the installer (machine-wide install) or NuGet (per-project packages).
 

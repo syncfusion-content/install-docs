@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Downloading Syncfusion Essential Studio CAB Add-on installer - Syncfusion
-description: Learn here about how to download the Syncfusion Essential Studio CAB Add-on installer from our Syncfusion website with license.
+title: Download Syncfusion Essential Studio CAB Add-on
+description: Learn how to download the Syncfusion Essential Studio CAB Add-on installer and use it to enable Composite UI Application Block support.
 platform: common
 control: Essential Studio
 documentation: ug

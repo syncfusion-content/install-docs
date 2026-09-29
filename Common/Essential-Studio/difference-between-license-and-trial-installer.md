@@ -6,7 +6,7 @@ platform: common
 documentation: ug
 --- 
 
-# Difference between license installer and trial installer
+# Difference between Syncfusion License Installer and Trial Installer
 
 Starting with v16.2.0.41 (2018 Vol 2), Syncfusion<sup style="font-size:70%">&reg;</sup> provides two separate installers.
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Installing Syncfusion Essential Studio Enterprise Edition - Syncfusion
-description: Learn how to install the Syncfusion Essential Studio Enterprise Edition installer after downloading it from the Syncfusion website.
+title: Installing Syncfusion Essential Studio Enterprise Edition
+description: Learn how to install Syncfusion Essential Studio Enterprise Edition after downloading the installer from the Syncfusion website.
 platform: common
 control: Essential Studio
 documentation: ug
 ---
 
-# Installing Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition
+# Installation Steps for Syncfusion Enterprise Edition
 
 
 ## Overview
