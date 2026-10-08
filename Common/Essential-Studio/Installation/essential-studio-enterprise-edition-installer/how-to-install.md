@@ -25,8 +25,6 @@ Before you begin, confirm the following:
 * You are running the installer with administrator privileges. Right-click the setup file and choose **Run as administrator** if User Account Control (UAC) is enabled.
 * If you are using an Unlock Key (offline activation), ensure the key file is available on the local machine.
 
-I> * The Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer can be installed with either the Login or Unlock key.
-
 **Web**
 
 * ASP.NET MVC
@@ -65,10 +63,7 @@ I> * The Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Editi
 
 N> Universal Windows Platform will be installed in Windows 8.1 and later.
 
-N> Offline (Unlock Key) installations do not require an internet connection during install, but the installer must be able to read the license key file from the local disk.
-
-
-The steps below show how to install the Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer.
+### The steps below show how to install the Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer.
 
 1.  Locate the extracted installer folder from the downloaded ZIP and double-click `syncfusionessentialstudiosetup_{version}.exe` to launch it. If User Account Control (UAC) prompts for permission, click **Yes** to allow the installer to run with administrator privileges. The Installer Wizard automatically opens and extracts the package.
 
@@ -76,17 +71,28 @@ The steps below show how to install the Essential Studio<sup style="font-size:70
 
     N> The installer wizard extracts the `syncfusionessentialstudiosetup_{version}.exe` package and displays the unzip progress.
 
-2.  The login wizard will appear. You must enter your Syncfusion<sup style="font-size:70%">&reg;</sup> email address and password. If you do not already have a Syncfusion<sup style="font-size:70%">&reg;</sup> account, you can create one by clicking on **Create an Account**. If you have forgotten your password, click **Forgot Password** to create a new one. Click the Sign in button.
+2.  To unlock the Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer, you have two options:
+
+    * *Login To Install*
+
+    * *Use Unlock Key*
+
+3.  In default the login wizard will appear. You must enter your Syncfusion<sup style="font-size:70%">&reg;</sup> email address and password. If you do not already have a Syncfusion<sup style="font-size:70%">&reg;</sup> account, you can create one by clicking on **Create an Account**. If you have forgotten your password, click **Forgot Password** to create a new one. Click the Sign in button.
     ![Login wizard](images/Step-by-Step-Installation_img9.png)
 
     N> If sign-in fails with "Invalid credentials", verify the email/password, ensure your account has an active Enterprise license, and confirm that the machine has an active internet connection. Contact [Syncfusion Support](https://www.syncfusion.com/support) if the issue persists.
+
+4. Alternatively, you can click on the **Use Unlock Key** tab to unlock using an unlock key. Enter your unlock key in the **Unlock Key** text field and click the **Sign in** button.
+
+    ![Use Unlock Key tab](images/Step-by-Step-Installation_unlock_key_img.png)
+
+    N> Only Essential Studio (ES) and Essential Studio UI (ESUI) unlock keys are supported for this installer. To learn how to generate an unlock key for both trial and licensed products, see [this](https://www.syncfusion.com/kb/2326) Knowledge Base article. Offline (Unlock Key) installations do not require an internet connection during install, but the installer must be able to read the license key file from the local disk.
     
-3.  The Syncfusion<sup style="font-size:70%">&reg;</sup> Offline Installer's welcome wizard will be displayed. Click the **Next** button to continue.
+5.  The Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition Installer welcome wizard will be displayed. Click the **Next** button to continue.
 
     ![Welcome wizard](images/Step-by-Step-Installation_img2.png)
-
   
-4.  The Platform Selection Wizard will appear. From the **Available** tab, select the products to be installed. Select the **Install All** checkbox to install all products.
+6.  The Platform Selection Wizard will appear. From the **Available** tab, select the products to be installed. Select the **Install All** checkbox to install all products.
 
     <em>**Available**</em>
 	
@@ -106,14 +112,14 @@ The steps below show how to install the Essential Studio<sup style="font-size:70
 
     ![Additional Software Required alert](images/Step-by-Step-Installation_img5.png)
 	
-5.  If previous version(s) for the selected products are installed, the **Uninstall previous version** wizard will be displayed. You can see the list of previously installed versions for the products you have chosen here. To remove all versions, check the **Uninstall All** checkbox. Click the **Next** button.
+7.  If previous version(s) for the selected products are installed, the **Uninstall previous version** wizard will be displayed. You can see the list of previously installed versions for the products you have chosen here. To remove all versions, check the **Uninstall All** checkbox. Click the **Next** button.
 
     N> From the 2021 Volume 1 release (v18.1), Syncfusion<sup style="font-size:70%">&reg;</sup> provides the option to uninstall the previous versions of selected products while installing the new version.
 
-6.  A confirmation pop-up screen will be displayed to confirm the uninstallation of the selected previous versions. Click **Yes** to proceed or **No** to cancel the uninstallation.
+8.  A confirmation pop-up screen will be displayed to confirm the uninstallation of the selected previous versions. Click **Yes** to proceed or **No** to cancel the uninstallation.
 
 
-7.  The Confirmation Wizard will appear with a list of products to be installed and uninstalled. 
+9.  The Confirmation Wizard will appear with a list of products to be installed and uninstalled. 
 
     I> The confirmation list reflects the selections made in Steps 4 and 5. Expanding a product node allows you to view or modify individual components before the installation begins. You can view and modify the list of products that will be installed or uninstalled on this page. Click Next to continue.
 
@@ -122,7 +128,7 @@ The steps below show how to install the Essential Studio<sup style="font-size:70
     N> By clicking the **Download Size and Installation Size** links, you can determine the approximate size of the download and installation.
 	
    
-8.  The **Configuration Wizard** will be displayed. Here you can change the **Install** and **Samples** location. You can also change the **Additional Settings** on a per-platform basis. To install using the default configuration, click **Next**.
+1.  The **Configuration Wizard** will be displayed. Here you can change the **Install** and **Samples** location. You can also change the **Additional Settings** on a per-platform basis. To install using the default configuration, click **Next**.
 
     ![Install and samples location](images/Step-by-Step-Installation_img8.png)
 	
@@ -135,15 +141,15 @@ The steps below show how to install the Essential Studio<sup style="font-size:70
     * Check the **Create Desktop Shortcut** checkbox to add a desktop shortcut for Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel
     * Check the **Create Start Menu Shortcut** checkbox to add a shortcut to the start menu for Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel
 
-9.  After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click the **Next** button to proceed.
+11.  After reading the License Terms and Conditions, check the **I agree to the License Terms and Privacy Policy** check box. Click the **Next** button to proceed.
 
 
-10. The download and installation/uninstallation progress will be displayed as shown below. Do not close the wizard or turn off the machine while the progress bar is active.
+12. The download and installation/uninstallation progress will be displayed as shown below. Do not close the wizard or turn off the machine while the progress bar is active.
 
     ![Install using Key](images/Step-by-Step-Installation_img10.png)
 
 
-11. When the installation is finished, the **Summary** wizard will appear. Here you can see the list of products that have been installed successfully and those that have failed. To close the Summary wizard, click **Finish**.
+13. When the installation is finished, the **Summary** wizard will appear. Here you can see the list of products that have been installed successfully and those that have failed. To close the Summary wizard, click **Finish**.
 
     ![ES Installation Summary](images/Step-by-Step-Installation_img11.png)
 
