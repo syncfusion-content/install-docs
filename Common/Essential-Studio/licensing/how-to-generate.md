@@ -94,15 +94,10 @@ If you have a Syncfusion<sup style="font-size:70%">&reg;</sup> account with an e
 
 ### No Trial or No License or Expired trial
 
-**Personal Email Users:**
-Start a trial via the ‘Start Your Trial’ after registering a work email.
+A trial automatically starts and a key is issued. You can verify your work email address to unlock POC benefits, including personalized support, custom code samples, priority evaluation assistance, and up to 15 extra trial days.
 
-![Personal Email Users](licensing-images/personal_email_user.png)
-
-**Corporate Email Users:**
-A trial automatically starts with a work email, and a key is issued.
-
-![Expired License](licensing-images/expired-license.png)
+![Calim POC](licensing-images/poc_claim_license.png)
+![No Trial and No Licensed](licensing-images/notrial_nolicense.png)
 
 N> Refer to the [Usage and Features of Syncfusion Claim License Key Page](https://support.syncfusion.com/kb/article/18842/what-are-the-usage-and-features-of-syncfusion-claim-license-key-page#scenarios:) section for detailed instructions on claim license key process.
 
