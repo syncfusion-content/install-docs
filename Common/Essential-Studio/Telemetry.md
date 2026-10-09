@@ -129,6 +129,10 @@ Syncfusion<sup>&reg;</sup> does not collect:
 * License keys
 * Any information that can directly identify an individual
 
+## Where to find the Telemetry NuGet package?
+
+The Syncfusion<sup>&reg;</sup> Telemetry library is an internal dependent NuGet package. It is included automatically with all Syncfusion<sup>&reg;</sup> NuGet packages and does not need to be installed separately when you add any Syncfusion<sup>&reg;</sup> product package to your project, the required `Syncfusion.Telemetry` dependency is automatically included. It is not publicly listed on [nuget.org](https://www.nuget.org/).
+
 ## How to Disable Telemetry (Opt-out)? 
 
 You can disable telemetry in Syncfusion<sup>&reg;</sup> .NET products by calling the `Telemetry.Disable()` API before using any Syncfusion<sup>&reg;</sup> product APIs in your application. 
@@ -148,7 +152,7 @@ using Syncfusion.Telemetry;
 
 ### Step 2: Disable telemetry at application startup
 
-Call the `Telemetry.Disable()` method before initializing or using any Syncfusion<sup>&reg;</sup> product APIs. 
+Call `Telemetry.Disable()` once during application startup, before initializing or using any Syncfusion® product APIs. This setting applies to the entire application; therefore, it is not necessary to invoke the method separately for each page, view, or Syncfusion® component. 
 
 {% tabs %} 
 
@@ -164,7 +168,7 @@ Telemetry.Disable();
 
 Now, the telemetry is disabled, you can continue using Syncfusion<sup>&reg;</sup> .NET products based on your application requirements. The Syncfusion<sup>&reg;</sup> product will work normally, but telemetry data will not be collected or sent. 
 
-N> The `Telemetry.Disable()` API should be called, before creating or using any Syncfusion<sup>&reg;</sup> components, or document-processing library objects. 
+N> The `Telemetry.Disable()` API should be called once during application startup, before creating or using any Syncfusion<sup>&reg;</sup>components or Document Processing library objects. Once invoked, telemetry is disabled for the entire application, and there is no need to call this API separately for each page, view, component, or library object. 
 
 ## FAQs
 
