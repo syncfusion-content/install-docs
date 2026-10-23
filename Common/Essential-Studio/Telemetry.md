@@ -170,6 +170,17 @@ Now, the telemetry is disabled, you can continue using Syncfusion<sup>&reg;</sup
 
 N> The `Telemetry.Disable()` API should be called once during application startup, before creating or using any Syncfusion<sup>&reg;</sup>components or Document Processing library objects. Once invoked, telemetry is disabled for the entire application, and there is no need to call this API separately for each page, view, component, or library object. 
 
+## How to disable Telemetry in Blazor mode?
+
+For hybrid Blazor applications (**Interactive Auto** and **Interactive WASM**), telemetry should be disabled in both the **Server** and **Client** projects because Syncfusion assemblies are loaded in both environments.
+
+| Blazor mode | Projects | File |
+|-------------|----------|------|
+| Blazor Web App (Interactive Auto) | Server and Client | `Server/Program.cs`, `Client/Program.cs` |
+| Blazor Web App (Interactive Server) | Server | `Server/Program.cs` |
+| Blazor Web App (Interactive WASM) | Server and Client | `Server/Program.cs`, `Client/Program.cs` |
+| Blazor Standalone WebAssembly App | Client | `Program.cs` |
+
 ## FAQs
 
 ### Why am I getting "System.Net.Http.HttpRequestException - No such host is known" error?
