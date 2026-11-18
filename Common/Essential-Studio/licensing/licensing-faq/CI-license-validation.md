@@ -41,6 +41,8 @@ Write-Host $result
 
   **Platform:** Set the value of `/platform:` to the desired platform. For reference, please check the applicable example platforms below. 
 
+  **35.2.12 or later:** In addition to the existing Document Solutions platforms, a new PPTX Editor SDK platform (`PPTXEditorSDK`) has been introduced, along with all the platforms available in earlier versions.
+
   **34.1.29 or later:** Additional standalone UI SDK platforms have been introduced to provide developers' more flexibility in targeting specific UI capabilities.
   
      (e.g., "WindowsForms", "WPF", "WinUI", "UWP", "MAUI", "Blazor", "PDF", "Word", "Excel", "PowerPoint", "PDFViewer", "WordEditor", "SpreadsheetEditor", "Markdown", "SchedulerSDK", "GanttSDK", "DiagramSDK", "RichTextEditorSDK", "GridSDK", "ChartSDK", "FileManagerSDK")
@@ -64,6 +66,7 @@ Write-Host $result
 N> * This feature is available only for the following Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> platforms starting from version 16.2.0.41: WPF, Windows Forms, WinUI, UWP, MAUI, Xamarin, Blazor, FileFormats.
 * When using specific converter controls (31.1.17 or later), set platform to one of the following: WordToPDF, ExcelToPDF, PowerPointToPDF. For more details, refer to this [KB](https://support.syncfusion.com/kb/article/21200/how-to-know-installer-changes--essential-studio-v31117).
 * When using standalone UI SDK controls (34.1.29 or later), set platform to one of the following: SchedulerSDK, GanttSDK, DiagramSDK, RichTextEditorSDK, GridSDK, ChartSDK, FileManagerSDK.
+* When using the PPTX Editor SDK control (35.2.12 or later), set platform to PPTXEditorSDK.
 
 ## Azure Pipelines (YAML)
 
@@ -170,6 +173,7 @@ bool isValid = SyncfusionLicenseProvider.ValidateLicense(Platform.WPF);
 
 N> The following is the list of platforms that can be passed to the ValidateLicense method:
 >
+>* **35.2.12 or later:** A new PPTXEditorSDK platform has been introduced in addition to all the platforms available in earlier versions.
 >* **34.1.29 or later:** WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, ASPNET, Blazor, WinUI, MAUI, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor, Markdown, SchedulerSDK, GanttSDK, DiagramSDK, RichTextEditorSDK, GridSDK, ChartSDK, FileManagerSDK.
 >* **31.1.17 or later:** WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, ASPNET, Blazor, WinUI, MAUI, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor. For more details, refer to this [KB](https://support.syncfusion.com/kb/article/21200/how-to-know-installer-changes--essential-studio-v31117).
 >* **Before 31.x.x (30.x and lower):** WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI.
