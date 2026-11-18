@@ -173,7 +173,7 @@ bool isValid = SyncfusionLicenseProvider.ValidateLicense(Platform.WPF);
 
 N> The following is the list of platforms that can be passed to the ValidateLicense method:
 >
->* **35.2.12 or later:** A new PPTXEditorSDK platform has been introduced in addition to all the platforms available in earlier versions.
+>* **35.2.12 or later:** A new **PPTXEditorSDK** platform has been introduced in addition to all the platforms available in earlier versions.
 >* **34.1.29 or later:** WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, ASPNET, Blazor, WinUI, MAUI, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor, Markdown, SchedulerSDK, GanttSDK, DiagramSDK, RichTextEditorSDK, GridSDK, ChartSDK, FileManagerSDK.
 >* **31.1.17 or later:** WindowsForms, WPF, ASPNETCore, ASPNETMVC, UWP, ASPNET, Blazor, WinUI, MAUI, PDF, Word, Excel, PowerPoint, WordToPDF, ExcelToPDF, PowerPointToPDF, PDFViewer, WordEditor, SpreadsheetEditor. For more details, refer to this [KB](https://support.syncfusion.com/kb/article/21200/how-to-know-installer-changes--essential-studio-v31117).
 >* **Before 31.x.x (30.x and lower):** WindowsForms, WPF, ASPNETCore, ASPNETMVC, FileFormats, Xamarin, UWP, ASPNET, Blazor, WinUI, MAUI.
